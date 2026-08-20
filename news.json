@@ -1,0 +1,401 @@
+{
+ "updated": "2026-08-20",
+ "items": [
+  {
+   "day": "2026-08-11",
+   "actor": "Google",
+   "actorSlug": "gemini",
+   "title": {
+    "fr": "Gemini franchit le milliard d'utilisateurs chaque mois",
+    "en": "Gemini passes one billion monthly users",
+    "es": "Gemini supera los mil millones de usuarios mensuales"
+   },
+   "summary": {
+    "fr": "L'application Gemini de Google dépasse désormais 1 milliard d'utilisateurs actifs mensuels, rejoignant ChatGPT sur ce palier symbolique.",
+    "en": "Google's Gemini app now tops 1 billion monthly active users, joining ChatGPT at that symbolic milestone.",
+    "es": "La aplicación Gemini de Google supera ya los 1000 millones de usuarios activos mensuales, alcanzando a ChatGPT en ese hito simbólico."
+   },
+   "simple": {
+    "fr": "Une personne sur huit dans le monde utilise maintenant l'assistant de Google chaque mois. C'est énorme !",
+    "en": "One in eight people in the world now uses Google's assistant every month. That's huge!",
+    "es": "Una de cada ocho personas del mundo ya usa el asistente de Google cada mes. ¡Es una barbaridad!"
+   },
+   "url": "https://techcrunch.com/2026/08/11/gemini-crosses-1-billion-monthly-users/",
+   "source": "TechCrunch"
+  },
+  {
+   "day": "2026-08-11",
+   "actor": "OpenAI",
+   "actorSlug": "chatgpt",
+   "title": {
+    "fr": "ChatGPT arrive enfin sur Linux",
+    "en": "ChatGPT finally lands on Linux",
+    "es": "ChatGPT llega por fin a Linux"
+   },
+   "summary": {
+    "fr": "OpenAI lance son application de bureau pour Linux (Ubuntu, Debian, Fedora), avec ChatGPT, ChatGPT Work et l'assistant de code Codex.",
+    "en": "OpenAI launches its desktop app for Linux (Ubuntu, Debian, Fedora), with ChatGPT, ChatGPT Work and the Codex coding assistant.",
+    "es": "OpenAI lanza su aplicación de escritorio para Linux (Ubuntu, Debian, Fedora), con ChatGPT, ChatGPT Work y el asistente de código Codex."
+   },
+   "simple": {
+    "fr": "ChatGPT peut maintenant s'installer sur encore plus d'ordinateurs, comme une vraie application.",
+    "en": "ChatGPT can now be installed on even more computers, like a real app.",
+    "es": "ChatGPT ya puede instalarse en más ordenadores, como una aplicación de verdad."
+   },
+   "url": "https://thenewstack.io/openai-launches-linux-desktop-app/",
+   "source": "The New Stack"
+  },
+  {
+   "day": "2026-08-11",
+   "actor": "Suno",
+   "actorSlug": "suno",
+   "title": {
+    "fr": "Suno dépasse 100 millions de créateurs de musique",
+    "en": "Suno passes 100 million music creators",
+    "es": "Suno supera los 100 millones de creadores de música"
+   },
+   "summary": {
+    "fr": "La plateforme de musique générée par IA revendique plus de 100 millions d'utilisateurs et 2 millions d'abonnés payants, malgré des procès sur les droits d'auteur.",
+    "en": "The AI music platform claims over 100 million users and 2 million paying subscribers, despite copyright lawsuits.",
+    "es": "La plataforma de música generada por IA reivindica más de 100 millones de usuarios y 2 millones de suscriptores de pago, pese a los pleitos por derechos de autor."
+   },
+   "simple": {
+    "fr": "100 millions de personnes ont déjà inventé des chansons avec cette IA, sans savoir jouer d'un instrument.",
+    "en": "100 million people have already invented songs with this AI, without playing any instrument.",
+    "es": "100 millones de personas ya han inventado canciones con esta IA, sin saber tocar ningún instrumento."
+   },
+   "url": "https://www.bloomberg.com/news/articles/2026-08-11/suno-100-million-users",
+   "source": "Bloomberg"
+  },
+  {
+   "day": "2026-08-09",
+   "actor": "OpenAI",
+   "actorSlug": "chatgpt",
+   "title": {
+    "fr": "GPT-5.6 Sol : deux fois moins d'erreurs",
+    "en": "GPT-5.6 Sol: half the errors",
+    "es": "GPT-5.6 Sol: la mitad de errores"
+   },
+   "summary": {
+    "fr": "OpenAI déploie GPT-5.6 Sol, qui réduit de 68 % les erreurs factuelles et améliore le raisonnement pour les abonnés payants.",
+    "en": "OpenAI rolls out GPT-5.6 Sol, cutting factual errors by 68% and improving reasoning for paid subscribers.",
+    "es": "OpenAI despliega GPT-5.6 Sol, que reduce un 68 % los errores factuales y mejora el razonamiento para los suscriptores de pago."
+   },
+   "simple": {
+    "fr": "Le cerveau de ChatGPT vient d'être amélioré : il se trompe beaucoup moins souvent qu'avant.",
+    "en": "ChatGPT's brain just got an upgrade: it makes far fewer mistakes than before.",
+    "es": "El cerebro de ChatGPT acaba de mejorar: se equivoca mucho menos que antes."
+   },
+   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026",
+   "source": "Build Fast with AI"
+  },
+  {
+   "day": "2026-08-09",
+   "actor": "Anthropic",
+   "actorSlug": "claude",
+   "title": {
+    "fr": "Anthropic investit massivement dans ses propres puces",
+    "en": "Anthropic invests massively in its own chips",
+    "es": "Anthropic invierte a lo grande en sus propios chips"
+   },
+   "summary": {
+    "fr": "Anthropic, créateur de Claude, sécurise environ 71 milliards de dollars d'engagements de calcul et lance une équipe de conception de puces maison.",
+    "en": "Anthropic, maker of Claude, secures around $71 billion in compute commitments and launches an in-house chip design team.",
+    "es": "Anthropic, creador de Claude, asegura unos 71 000 millones de dólares en compromisos de cómputo y lanza un equipo propio de diseño de chips."
+   },
+   "simple": {
+    "fr": "L'entreprise qui fabrique Claude construit ses propres « moteurs » pour faire tourner son IA plus vite.",
+    "en": "The company behind Claude is building its own \"engines\" to run its AI faster.",
+    "es": "La empresa que fabrica Claude construye sus propios «motores» para que su IA vaya más rápido."
+   },
+   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#anthropic",
+   "source": "Build Fast with AI"
+  },
+  {
+   "day": "2026-08-08",
+   "actor": "Google",
+   "actorSlug": "gemini",
+   "title": {
+    "fr": "Grand remaniement chez Google DeepMind",
+    "en": "Big shake-up at Google DeepMind",
+    "es": "Gran reorganización en Google DeepMind"
+   },
+   "summary": {
+    "fr": "Demis Hassabis devient président et chef scientifique de Google DeepMind ; Koray Kavukcuoglu prend la direction opérationnelle des équipes IA.",
+    "en": "Demis Hassabis becomes chairman and chief scientist of Google DeepMind; Koray Kavukcuoglu takes operational control of the AI teams.",
+    "es": "Demis Hassabis pasa a ser presidente y científico jefe de Google DeepMind; Koray Kavukcuoglu asume la dirección operativa de los equipos de IA."
+   },
+   "simple": {
+    "fr": "Le chef des inventeurs d'IA de Google change de rôle pour se concentrer sur les grandes découvertes.",
+    "en": "The head of Google's AI inventors is changing roles to focus on big discoveries.",
+    "es": "El jefe de los inventores de IA de Google cambia de puesto para centrarse en los grandes descubrimientos."
+   },
+   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#deepmind",
+   "source": "Build Fast with AI"
+  },
+  {
+   "day": "2026-08-08",
+   "actor": "Google",
+   "actorSlug": "gemini",
+   "title": {
+    "fr": "Jeff Dean quitte Google pour la science automatisée",
+    "en": "Jeff Dean leaves Google for automated science",
+    "es": "Jeff Dean deja Google por la ciencia automatizada"
+   },
+   "summary": {
+    "fr": "Après 27 ans, la légende Jeff Dean part fonder Discovery Loop, une entreprise qui veut automatiser la recherche scientifique avec l'IA, Google restant investisseur.",
+    "en": "After 27 years, the legendary Jeff Dean leaves to found Discovery Loop, a company aiming to automate scientific research with AI, with Google as an investor.",
+    "es": "Tras 27 años, el legendario Jeff Dean se marcha para fundar Discovery Loop, una empresa que quiere automatizar la investigación científica con IA, con Google como inversor."
+   },
+   "simple": {
+    "fr": "Un des plus grands ingénieurs du monde part créer une IA qui aide les scientifiques à faire des découvertes.",
+    "en": "One of the world's greatest engineers is off to build an AI that helps scientists make discoveries.",
+    "es": "Uno de los mayores ingenieros del mundo se va a crear una IA que ayuda a los científicos a hacer descubrimientos."
+   },
+   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#jeffdean",
+   "source": "Build Fast with AI"
+  },
+  {
+   "day": "2026-08-06",
+   "actor": "Monde",
+   "actorSlug": "monde",
+   "title": {
+    "fr": "La Maison-Blanche réunit les géants de l'IA",
+    "en": "The White House gathers the AI giants",
+    "es": "La Casa Blanca reúne a los gigantes de la IA"
+   },
+   "summary": {
+    "fr": "OpenAI, Anthropic et Google participent à une réunion sur la sécurité de l'IA organisée par la Maison-Blanche.",
+    "en": "OpenAI, Anthropic and Google attend a White House meeting on AI safety.",
+    "es": "OpenAI, Anthropic y Google participan en una reunión sobre seguridad de la IA organizada por la Casa Blanca."
+   },
+   "simple": {
+    "fr": "Les grands pays discutent avec les créateurs d'IA pour s'assurer qu'elles restent sûres pour tout le monde.",
+    "en": "Big countries are talking with AI makers to make sure AI stays safe for everyone.",
+    "es": "Los grandes países hablan con los creadores de IA para asegurarse de que siga siendo segura para todos."
+   },
+   "url": "https://www.bloomberg.com/news/articles/2026-08-03/openai-anthropic-google-white-house-ai-safety",
+   "source": "Bloomberg"
+  },
+  {
+   "day": "2026-08-05",
+   "actor": "Meta",
+   "actorSlug": "meta-ai",
+   "title": {
+    "fr": "Meta dévoile son nouveau modèle Muse Spark 1.2",
+    "en": "Meta unveils its new Muse Spark 1.2 model",
+    "es": "Meta presenta su nuevo modelo Muse Spark 1.2"
+   },
+   "summary": {
+    "fr": "Meta publie Muse Spark 1.2, son nouveau modèle de pointe, et poursuit en parallèle sa stratégie de modèles ouverts.",
+    "en": "Meta releases Muse Spark 1.2, its new frontier model, while continuing its open-model strategy.",
+    "es": "Meta publica Muse Spark 1.2, su nuevo modelo puntero, y mantiene en paralelo su estrategia de modelos abiertos."
+   },
+   "simple": {
+    "fr": "Meta (la maison de Facebook et Instagram) sort une nouvelle version encore plus douée de son IA.",
+    "en": "Meta (the home of Facebook and Instagram) releases an even smarter version of its AI.",
+    "es": "Meta (la casa de Facebook e Instagram) saca una versión aún más lista de su IA."
+   },
+   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#meta",
+   "source": "Build Fast with AI"
+  },
+  {
+   "day": "2026-08-04",
+   "actor": "Sécurité",
+   "actorSlug": "securite",
+   "title": {
+    "fr": "Une faille API exposait le raisonnement des grands modèles",
+    "en": "An API flaw exposed big models' reasoning",
+    "es": "Un fallo de API exponía el razonamiento de los grandes modelos"
+   },
+   "summary": {
+    "fr": "Des chercheurs révèlent une faille chez OpenAI, Anthropic et Google permettant à des modèles plus faibles de décoder le raisonnement de modèles plus puissants. Elle est corrigée.",
+    "en": "Researchers reveal a flaw at OpenAI, Anthropic and Google letting weaker models decode stronger models' reasoning. It has been fixed.",
+    "es": "Investigadores revelan un fallo en OpenAI, Anthropic y Google que permitía a modelos más débiles decodificar el razonamiento de modelos más potentes. Ya está corregido."
+   },
+   "simple": {
+    "fr": "Des spécialistes ont trouvé un trou de sécurité chez les grandes IA et l'ont fait réparer. Ouf !",
+    "en": "Specialists found a security hole in the big AIs and got it fixed. Phew!",
+    "es": "Unos especialistas encontraron un agujero de seguridad en las grandes IA y lo hicieron arreglar. ¡Uf!"
+   },
+   "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+   "source": "The Hacker News"
+  },
+  {
+   "day": "2026-08-02",
+   "actor": "Europe",
+   "actorSlug": "europe",
+   "title": {
+    "fr": "IA Act : l'étiquetage des contenus IA devient obligatoire",
+    "en": "AI Act: labeling AI content becomes mandatory",
+    "es": "Ley de IA: etiquetar el contenido de IA ya es obligatorio"
+   },
+   "summary": {
+    "fr": "Les obligations de transparence de l'article 50 du règlement européen sur l'IA sont désormais applicables : les contenus générés par IA doivent être signalés.",
+    "en": "The transparency obligations of Article 50 of the EU AI Act now apply: AI-generated content must be labeled.",
+    "es": "Las obligaciones de transparencia del artículo 50 del reglamento europeo de IA ya se aplican: el contenido generado por IA debe señalarse."
+   },
+   "simple": {
+    "fr": "En Europe, une image ou un texte fabriqué par une IA doit maintenant le dire clairement. Pratique pour ne pas se faire avoir !",
+    "en": "In Europe, a picture or text made by an AI now has to say so clearly. Handy for not getting fooled!",
+    "es": "En Europa, una imagen o un texto hecho por una IA ahora tiene que decirlo claramente. ¡Muy útil para que no te engañen!"
+   },
+   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#euaiact",
+   "source": "Build Fast with AI"
+  },
+  {
+   "day": "2026-08-01",
+   "actor": "xAI",
+   "actorSlug": "grok",
+   "title": {
+    "fr": "Grok Voice TF 2.0 est disponible",
+    "en": "Grok Voice TF 2.0 is available",
+    "es": "Grok Voice TF 2.0 ya está disponible"
+   },
+   "summary": {
+    "fr": "xAI déploie Grok Voice TF 2.0, sa nouvelle expérience vocale temps réel intégrée à l'assistant Grok.",
+    "en": "xAI rolls out Grok Voice TF 2.0, its new real-time voice experience built into the Grok assistant.",
+    "es": "xAI despliega Grok Voice TF 2.0, su nueva experiencia de voz en tiempo real integrada en el asistente Grok."
+   },
+   "simple": {
+    "fr": "On peut maintenant discuter à voix haute avec Grok, comme au téléphone avec un ami.",
+    "en": "You can now chat out loud with Grok, like being on the phone with a friend.",
+    "es": "Ya se puede hablar en voz alta con Grok, como por teléfono con un amigo."
+   },
+   "url": "https://aitoolsrecap.com/Blog/AINewsAugust2026.aspx",
+   "source": "AI Tools Recap"
+  },
+  {
+   "day": "2026-07-28",
+   "actor": "Chine",
+   "actorSlug": "chine",
+   "title": {
+    "fr": "Kimi K3, DeepSeek V4, Qwen : la Chine rebat les cartes",
+    "en": "Kimi K3, DeepSeek V4, Qwen: China reshuffles the deck",
+    "es": "Kimi K3, DeepSeek V4, Qwen: China baraja de nuevo"
+   },
+   "summary": {
+    "fr": "Les modèles chinois ouverts atteignent le niveau des meilleurs américains pour une fraction du coût, et dominent une partie des classements open source mondiaux.",
+    "en": "Open Chinese models now match the best American ones at a fraction of the cost, and dominate part of the global open-source leaderboards.",
+    "es": "Los modelos chinos abiertos ya igualan a los mejores estadounidenses por una fracción del coste y dominan parte de las clasificaciones open source mundiales."
+   },
+   "simple": {
+    "fr": "Les robots chinois sont devenus aussi forts que les américains, et souvent gratuits : la course est relancée !",
+    "en": "Chinese robots have become as strong as the American ones, and often free: the race is back on!",
+    "es": "Los robots chinos se han vuelto tan fuertes como los americanos, y muchas veces gratis: ¡la carrera se reactiva!"
+   },
+   "url": "https://medium.com/coinmonks/chinas-top-ai-models-in-2026-deepseek-qwen-kimi-doubao-and-the-new-ai-race-08083866ac5a",
+   "source": "Coinmonks"
+  },
+  {
+   "day": "2026-07-26",
+   "actor": "Mistral AI",
+   "actorSlug": "mistral",
+   "title": {
+    "fr": "Microsoft investit des milliards dans le français Mistral",
+    "en": "Microsoft invests billions in France's Mistral",
+    "es": "Microsoft invierte miles de millones en la francesa Mistral"
+   },
+   "summary": {
+    "fr": "Mistral AI signe un accord de plusieurs milliards avec Microsoft pour renforcer l'IA européenne et accélérer le déploiement de ses modèles.",
+    "en": "Mistral AI signs a multi-billion deal with Microsoft to strengthen European AI and speed up the rollout of its models.",
+    "es": "Mistral AI firma un acuerdo multimillonario con Microsoft para reforzar la IA europea y acelerar el despliegue de sus modelos."
+   },
+   "simple": {
+    "fr": "La petite entreprise française d'IA reçoit une aide géante pour rivaliser avec les américains. Cocorico !",
+    "en": "The small French AI company gets giant backing to compete with the Americans. Allez la France!",
+    "es": "La pequeña empresa francesa de IA recibe una ayuda gigante para competir con los americanos. ¡Vive la France!"
+   },
+   "url": "https://www.journaldugeek.com/2026/07/26/microsoft-sort-les-milliards-pour-renforcer-mistral-en-europe/",
+   "source": "Journal du Geek"
+  },
+  {
+   "day": "2026-07-25",
+   "actor": "ElevenLabs",
+   "actorSlug": "elevenlabs",
+   "title": {
+    "fr": "ElevenLabs lance Music v2",
+    "en": "ElevenLabs launches Music v2",
+    "es": "ElevenLabs lanza Music v2"
+   },
+   "summary": {
+    "fr": "ElevenLabs, référence de la voix par IA, déploie Music v2, la nouvelle version de son générateur de musique.",
+    "en": "ElevenLabs, the reference for AI voices, rolls out Music v2, the new version of its music generator.",
+    "es": "ElevenLabs, la referencia de las voces por IA, despliega Music v2, la nueva versión de su generador de música."
+   },
+   "simple": {
+    "fr": "L'IA qui imite les voix sait maintenant aussi composer de vraies chansons complètes.",
+    "en": "The AI that imitates voices can now also compose real, complete songs.",
+    "es": "La IA que imita voces ahora también sabe componer canciones completas de verdad."
+   },
+   "url": "https://medium.com/creativity-ai/creativity-ai-77-midjourneys-busy-summer-runway-lands-in-your-ai-assistant-and-elevenlabs-eeb4e5fd608d",
+   "source": "Creativity AI"
+  },
+  {
+   "day": "2026-07-20",
+   "actor": "Alibaba",
+   "actorSlug": "qwen",
+   "title": {
+    "fr": "Qwen 3.6 : l'IA d'Alibaba passe en mode agent",
+    "en": "Qwen 3.6: Alibaba's AI goes agentic",
+    "es": "Qwen 3.6: la IA de Alibaba pasa al modo agente"
+   },
+   "summary": {
+    "fr": "Les nouveaux Qwen 3.6 Plus et Max progressent nettement en code agentique : l'IA utilise des outils et pilote l'ordinateur pour accomplir des tâches de bout en bout.",
+    "en": "The new Qwen 3.6 Plus and Max make clear progress in agentic coding: the AI uses tools and drives the computer to complete tasks end to end.",
+    "es": "Los nuevos Qwen 3.6 Plus y Max avanzan claramente en código agéntico: la IA usa herramientas y maneja el ordenador para completar tareas de principio a fin."
+   },
+   "simple": {
+    "fr": "Le robot d'Alibaba ne fait plus que répondre : il sait maintenant se servir de l'ordinateur tout seul pour finir un travail.",
+    "en": "Alibaba's robot no longer just answers: it can now use the computer by itself to finish a job.",
+    "es": "El robot de Alibaba ya no solo responde: ahora sabe usar el ordenador él solo para terminar un trabajo."
+   },
+   "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
+   "source": "Elser AI News"
+  },
+  {
+   "day": "2026-07-16",
+   "actor": "Moonshot AI",
+   "actorSlug": "kimi",
+   "title": {
+    "fr": "Kimi K3 : le géant chinois qui impressionne les développeurs",
+    "en": "Kimi K3: the Chinese giant impressing developers",
+    "es": "Kimi K3: el gigante chino que impresiona a los desarrolladores"
+   },
+   "summary": {
+    "fr": "Moonshot AI lance Kimi K3 : 2800 milliards de paramètres, multimodal, un contexte d'un million de mots et des performances remarquées en création d'interfaces web.",
+    "en": "Moonshot AI launches Kimi K3: 2.8 trillion parameters, multimodal, a one-million-token context and standout performance at building web interfaces.",
+    "es": "Moonshot AI lanza Kimi K3: 2,8 billones de parámetros, multimodal, un contexto de un millón de palabras y un rendimiento destacado creando interfaces web."
+   },
+   "simple": {
+    "fr": "Un nouveau robot chinois géant vient de sortir : il lit des bibliothèques entières et fabrique des pages web magnifiques.",
+    "en": "A giant new Chinese robot just came out: it reads whole libraries and builds beautiful web pages.",
+    "es": "Acaba de salir un nuevo robot chino gigante: lee bibliotecas enteras y fabrica páginas web preciosas."
+   },
+   "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
+   "source": "Elser AI News"
+  },
+  {
+   "day": "2026-04-24",
+   "actor": "DeepSeek",
+   "actorSlug": "deepseek",
+   "title": {
+    "fr": "DeepSeek V4 : puissance maximale, prix mini, code ouvert",
+    "en": "DeepSeek V4: max power, mini price, open weights",
+    "es": "DeepSeek V4: máxima potencia, precio mínimo, pesos abiertos"
+   },
+   "summary": {
+    "fr": "DeepSeek publie V4 en deux versions (Pro et Flash) avec un contexte d'un million de mots, des modes réflexion et des poids ouverts téléchargeables par tous.",
+    "en": "DeepSeek releases V4 in two versions (Pro and Flash) with a one-million-token context, thinking modes and open weights anyone can download.",
+    "es": "DeepSeek publica V4 en dos versiones (Pro y Flash) con un contexto de un millón de palabras, modos de reflexión y pesos abiertos que cualquiera puede descargar."
+   },
+   "simple": {
+    "fr": "Le robot chinois le plus célèbre a sorti sa nouvelle version : très forte, presque gratuite, et sa recette est publique.",
+    "en": "The most famous Chinese robot released its new version: very strong, almost free, and its recipe is public.",
+    "es": "El robot chino más famoso sacó su nueva versión: muy fuerte, casi gratis, y su receta es pública."
+   },
+   "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
+   "source": "Elser AI News"
+  }
+ ]
+}
