@@ -1,6 +1,146 @@
 {
- "updated": "2026-08-20T18h40-test-circuit",
+ "updated": "2026-08-21",
  "items": [
+  {
+   "day": "2026-08-20",
+   "actor": "OpenAI",
+   "actorSlug": "chatgpt",
+   "title": {
+    "fr": "ChatGPT peut maintenant écrire vos SMS sur iPhone",
+    "en": "ChatGPT can now write your texts on iPhone",
+    "es": "ChatGPT ya puede escribir tus mensajes en el iPhone"
+   },
+   "summary": {
+    "fr": "Une nouvelle intégration à Apple Messages permet de laisser ChatGPT rédiger et envoyer des messages à votre place, sans quitter l'application de messagerie.",
+    "en": "A new Apple Messages integration lets ChatGPT draft and send messages on your behalf, without leaving the messaging app.",
+    "es": "Una nueva integración con Apple Messages permite que ChatGPT redacte y envíe mensajes en tu lugar, sin salir de la app de mensajería."
+   },
+   "simple": {
+    "fr": "Tu peux demander à ChatGPT d'écrire tes messages à ta place, là où tu discutes déjà avec tes amis.",
+    "en": "You can ask ChatGPT to write your messages for you, right where you already chat with your friends.",
+    "es": "Puedes pedirle a ChatGPT que escriba tus mensajes por ti, allí donde ya hablas con tus amigos."
+   },
+   "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+   "source": "TechCrunch"
+  },
+  {
+   "day": "2026-08-20",
+   "actor": "Google",
+   "actorSlug": "gemini",
+   "title": {
+    "fr": "Google Discover se règle en lui décrivant ce qu'on veut lire",
+    "en": "Google Discover can now be tuned by describing what you want to read",
+    "es": "Google Discover se ajusta describiéndole lo que quieres leer"
+   },
+   "summary": {
+    "fr": "Google déploie dans les prochains jours une option qui permet de décrire en quelques mots ce qu'on souhaite voir dans son fil Discover. L'IA ajuste le fil et mémorise la préférence pour les visites suivantes.",
+    "en": "In the coming days Google is rolling out an option to describe, in a few words, what you want to see in your Discover feed. The AI adjusts the feed and remembers the preference for future visits.",
+    "es": "En los próximos días Google desplegará una opción para describir en pocas palabras lo que quieres ver en tu feed de Discover. La IA ajusta el feed y recuerda la preferencia para las siguientes visitas."
+   },
+   "simple": {
+    "fr": "Au lieu de subir les articles qu'on te propose, tu écris ce qui t'intéresse et le téléphone s'en souvient.",
+    "en": "Instead of putting up with whatever articles you are shown, you write down what interests you and the phone remembers.",
+    "es": "En vez de aguantar los artículos que te muestran, escribes lo que te interesa y el teléfono lo recuerda."
+   },
+   "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+   "source": "The Verge"
+  },
+  {
+   "day": "2026-08-20",
+   "actor": "Google",
+   "actorSlug": "gemini",
+   "title": {
+    "fr": "Google laisse les lecteurs désigner leurs médias préférés",
+    "en": "Google lets readers mark their preferred outlets",
+    "es": "Google deja que los lectores marquen sus medios preferidos"
+   },
+   "summary": {
+    "fr": "Un nouveau bouton permet de marquer un média comme source privilégiée dans Search, Discover et Google News. C'est une réponse à la baisse de trafic que la recherche par IA fait subir aux sites d'information.",
+    "en": "A new button lets readers mark an outlet as a preferred source across Search, Discover and Google News. It answers the traffic losses that AI-driven search inflicts on news sites.",
+    "es": "Un nuevo botón permite marcar un medio como fuente preferida en Search, Discover y Google News. Responde a la caída de tráfico que la búsqueda con IA provoca en los sitios de noticias."
+   },
+   "simple": {
+    "fr": "Quand l'IA répond directement, on ne va plus lire les journaux en ligne. Google ajoute un bouton pour dire « ce journal-là, je veux le voir ».",
+    "en": "When the AI answers directly, people stop visiting news sites. Google is adding a button to say 'this outlet, I do want to see it'.",
+    "es": "Cuando la IA responde directamente, la gente deja de entrar en los periódicos digitales. Google añade un botón para decir «este medio sí quiero verlo»."
+   },
+   "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+   "source": "TechCrunch"
+  },
+  {
+   "day": "2026-08-20",
+   "actor": "xAI",
+   "actorSlug": "grok",
+   "title": {
+    "fr": "Grok répond n'importe quoi depuis plusieurs jours",
+    "en": "Grok has been answering gibberish for days",
+    "es": "Grok lleva días respondiendo incoherencias"
+   },
+   "summary": {
+    "fr": "Des utilisateurs de Grok Lite rapportent depuis mercredi matin des réponses incohérentes de la part de l'assistant de xAI.",
+    "en": "Grok Lite users have been reporting incoherent answers from xAI's assistant since Wednesday morning.",
+    "es": "Usuarios de Grok Lite llevan desde el miércoles por la mañana recibiendo respuestas incoherentes del asistente de xAI."
+   },
+   "simple": {
+    "fr": "Parfois une IA se dérègle et se met à écrire des phrases qui ne veulent rien dire. C'est ce qui arrive à Grok en ce moment.",
+    "en": "Sometimes an AI goes haywire and starts writing sentences that mean nothing. That is what is happening to Grok right now.",
+    "es": "A veces una IA se estropea y empieza a escribir frases sin sentido. Es lo que le está pasando a Grok ahora mismo."
+   },
+   "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+   "source": "TechCrunch"
+  },
+  {
+   "day": "2026-08-20",
+   "actor": {
+    "fr": "Monde",
+    "en": "World",
+    "es": "Mundo"
+   },
+   "actorSlug": "monde",
+   "title": {
+    "fr": "Un tiers des pages web créées depuis ChatGPT portent des traces d'IA",
+    "en": "A third of web pages created since ChatGPT show traces of AI",
+    "es": "Un tercio de las páginas web creadas desde ChatGPT muestran rastros de IA"
+   },
+   "summary": {
+    "fr": "Selon une étude, environ un tiers des pages publiées depuis le lancement de ChatGPT montrent des signes de rédaction ou de relecture par une intelligence artificielle.",
+    "en": "According to a study, about a third of the pages published since ChatGPT's launch show signs of having been written or edited by an artificial intelligence.",
+    "es": "Según un estudio, alrededor de un tercio de las páginas publicadas desde el lanzamiento de ChatGPT muestran señales de haber sido escritas o revisadas por una inteligencia artificial."
+   },
+   "simple": {
+    "fr": "Sur Internet, beaucoup de textes ne sont plus écrits entièrement par des humains : une machine a aidé à les rédiger.",
+    "en": "On the internet, many texts are no longer written entirely by people: a machine helped write them.",
+    "es": "En internet, muchos textos ya no los escriben del todo las personas: una máquina ayudó a redactarlos."
+   },
+   "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+   "source": "TechCrunch"
+  },
+  {
+   "day": "2026-08-20",
+   "actor": {
+    "fr": "Sécurité",
+    "en": "Safety",
+    "es": "Seguridad"
+   },
+   "actorSlug": "securite",
+   "title": {
+    "fr": "Une instruction chiffrée suffit à faire fuiter des données de Grok",
+    "en": "An encrypted instruction is enough to make Grok leak data",
+    "es": "Una instrucción cifrada basta para que Grok filtre datos"
+   },
+   "summary": {
+    "fr": "Des chercheurs ont montré qu'en chiffrant des instructions malveillantes, on contourne les garde-fous de Grok et on lui fait transmettre les données de l'utilisateur. La technique est baptisée Cryptographic Context Injection.",
+    "en": "Researchers have shown that encrypting malicious instructions bypasses Grok's safety guardrails and makes it hand over the user's data. The technique is called Cryptographic Context Injection.",
+    "es": "Unos investigadores han demostrado que cifrar instrucciones maliciosas esquiva las barreras de seguridad de Grok y le hace entregar los datos del usuario. La técnica se llama Cryptographic Context Injection."
+   },
+   "simple": {
+    "fr": "Les IA ont des règles pour refuser ce qui est dangereux. En déguisant la demande, des chercheurs ont réussi à contourner ces règles.",
+    "en": "AI systems have rules for refusing dangerous requests. By disguising the request, researchers managed to get around those rules.",
+    "es": "Las IA tienen reglas para rechazar lo peligroso. Disfrazando la petición, unos investigadores lograron saltarse esas reglas."
+   },
+   "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+   "source": "Ars Technica"
+  },
   {
    "day": "2026-08-11",
    "actor": "Google",
@@ -157,7 +297,11 @@
   },
   {
    "day": "2026-08-06",
-   "actor": "Monde",
+   "actor": {
+    "fr": "Monde",
+    "en": "World",
+    "es": "Mundo"
+   },
    "actorSlug": "monde",
    "title": {
     "fr": "La Maison-Blanche réunit les géants de l'IA",
@@ -201,7 +345,11 @@
   },
   {
    "day": "2026-08-04",
-   "actor": "Sécurité",
+   "actor": {
+    "fr": "Sécurité",
+    "en": "Safety",
+    "es": "Seguridad"
+   },
    "actorSlug": "securite",
    "title": {
     "fr": "Une faille API exposait le raisonnement des grands modèles",
@@ -223,7 +371,11 @@
   },
   {
    "day": "2026-08-02",
-   "actor": "Europe",
+   "actor": {
+    "fr": "Europe",
+    "en": "Europe",
+    "es": "Europa"
+   },
    "actorSlug": "europe",
    "title": {
     "fr": "IA Act : l'étiquetage des contenus IA devient obligatoire",
@@ -267,7 +419,11 @@
   },
   {
    "day": "2026-07-28",
-   "actor": "Chine",
+   "actor": {
+    "fr": "Chine",
+    "en": "China",
+    "es": "China"
+   },
    "actorSlug": "chine",
    "title": {
     "fr": "Kimi K3, DeepSeek V4, Qwen : la Chine rebat les cartes",
