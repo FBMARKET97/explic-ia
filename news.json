@@ -26,7 +26,8 @@
     "fr": "Le module s'exécute en local sur l'appareil et réclame l'accès complet au disque pour lire et écrire dans Messages ; ChatGPT n'indexe pas l'historique, il ne consulte que ce qu'on lui demande. OpenAI déconseille l'approbation permanente, qui supprime la dernière relecture avant envoi. Le module fonctionne aussi avec Codex et ChatGPT Work, et la durée de conservation des données reste floue.",
     "en": "The plugin runs locally on the device and needs Full Disk Access to read and write in Messages; ChatGPT does not build an index of the history and only reads what it is asked to. OpenAI advises against persistent approval, which removes the last chance to review a message before it goes out. The plugin also works with Codex and ChatGPT Work, and how long data is retained remains unclear.",
     "es": "El módulo se ejecuta en local en el dispositivo y exige acceso completo al disco para leer y escribir en Mensajes; ChatGPT no indexa el historial y solo consulta lo que se le pide. OpenAI desaconseja la aprobación permanente, que elimina la última revisión antes del envío. El módulo también funciona con Codex y ChatGPT Work, y la retención de los datos sigue sin estar clara."
-   }
+   },
+   "sourceKind": "media"
   },
   {
    "day": "2026-08-20",
@@ -53,7 +54,8 @@
     "fr": "Discover s'appuie jusqu'ici sur des signaux implicites, recherches et sites visités, que l'utilisateur ne contrôle qu'indirectement. Une consigne en langage naturel introduit une préférence explicite, conservée entre les sessions, dans la logique des sources favorites que Google déploie en parallèle. Reste à voir l'étendue du déploiement et l'effet sur le trafic des éditeurs.",
     "en": "Discover has so far relied on implicit signals, searches and visited sites, that users can only steer indirectly. A natural-language instruction adds an explicit, persistent preference, in line with the preferred-sources controls Google is rolling out at the same time. How widely it ships and what it does to publisher traffic remain open questions.",
     "es": "Discover se basaba hasta ahora en señales implícitas, búsquedas y sitios visitados, que el usuario solo controla de forma indirecta. Una instrucción en lenguaje natural introduce una preferencia explícita y persistente, en la línea de las fuentes favoritas que Google despliega en paralelo. Queda por ver el alcance del despliegue y su efecto en el tráfico de los editores."
-   }
+   },
+   "sourceKind": "media"
   },
   {
    "day": "2026-08-20",
@@ -80,7 +82,8 @@
     "fr": "Le bouton peut être intégré par les éditeurs sur leur propre site ; la préférence se règle aussi depuis une page dédiée de Google. Le dispositif existait dans À la une et a été étendu en mai à AI Mode et aux AI Overviews : plus de 345 000 sources distinctes avaient alors été choisies, avec une probabilité de clic doublée. Il ne modifie pas la synthèse par l'IA elle-même et dépend d'un geste volontaire du lecteur.",
     "en": "Publishers can embed the button on their own sites, and readers can also set preferences from a dedicated Google page. The control existed in Top Stories and was extended in May to AI Mode and AI Overviews: by then more than 345,000 distinct sources had been selected, and clicks to a preferred source were twice as likely. It leaves AI summarisation itself untouched and relies on readers opting in.",
     "es": "Los editores pueden incrustar el botón en sus propios sitios, y la preferencia también se ajusta desde una página dedicada de Google. El control existía en Noticias destacadas y se extendió en mayo a AI Mode y a AI Overviews: para entonces se habían elegido más de 345.000 fuentes distintas, con el doble de probabilidad de clic. No cambia el resumen por IA en sí y depende de un gesto voluntario del lector."
-   }
+   },
+   "sourceKind": "media"
   },
   {
    "day": "2026-08-20",
@@ -107,7 +110,8 @@
     "fr": "Le défaut touche Grok Lite sur grok.com, pas le compte Grok de X, et TechCrunch n'a pas réussi à le reproduire. xAI parle d'un « rare bug temporaire de génération » et conseille d'ouvrir une nouvelle conversation, ce qui suffit souvent mais pas toujours. Ce type de texte évoque un incident de service ou de décodage plutôt qu'un recul du modèle, chez un éditeur qui a perdu une cinquantaine de chercheurs au printemps.",
     "en": "The fault affects Grok Lite on grok.com, not the Grok account on X, and TechCrunch could not reproduce it. xAI calls it a 'rare temporary generation glitch' and suggests starting a fresh chat, which often but not always clears it. Output of this kind usually points to a serving or decoding problem rather than a weaker model, at a company that lost around fifty researchers and most of its founding team this spring.",
     "es": "El fallo afecta a Grok Lite en grok.com, no a la cuenta de Grok en X, y TechCrunch no logró reproducirlo. xAI habla de un «raro fallo temporal de generación» y aconseja abrir una conversación nueva, lo que a menudo basta, aunque no siempre. Ese tipo de texto suele apuntar a un problema de servicio o de decodificación más que a un modelo peor, en una empresa que perdió a unos cincuenta investigadores en primavera."
-   }
+   },
+   "sourceKind": "media"
   },
   {
    "day": "2026-08-20",
@@ -138,7 +142,8 @@
     "fr": "L'étude du Pew Research Center passe des pages anglophones de Common Crawl au détecteur Pangram : 10 % de l'échantillon global, 35 % des pages postérieures à novembre 2022. L'écart par domaine est net, environ 10 % en .com contre 1 % en .edu et .gov et 4,6 % en .org. Les auteurs rappellent qu'un détecteur peut se tromper sur une page donnée, mais jugent la tendance fiable à cette échelle.",
     "en": "The Pew Research Center ran English-language pages from Common Crawl through the Pangram detector: 10% of the overall sample, 35% of pages published after November 2022. The gap between domains is stark, roughly 10% for .com against 1% for .edu and .gov and 4.6% for .org. The authors note that a detector can misclassify any single page, but consider the trend reliable at this scale.",
     "es": "El Pew Research Center pasó páginas en inglés de Common Crawl por el detector Pangram: el 10% de la muestra global, el 35% de las páginas posteriores a noviembre de 2022. La brecha por dominio es clara, cerca del 10% en .com frente al 1% en .edu y .gov y el 4,6% en .org. Los autores recuerdan que un detector puede equivocarse en una página concreta, pero consideran fiable la tendencia a esta escala."
-   }
+   },
+   "sourceKind": "media"
   },
   {
    "day": "2026-08-20",
@@ -169,7 +174,8 @@
     "fr": "Les garde-fous opèrent surtout sur le texte en clair : une consigne chiffrée traverse le filtre, puis le modèle la déchiffre lui-même et l'exécute. C'est une variante de l'injection de prompt, faiblesse structurelle des assistants qui lisent du contenu externe ; des encodages comme base64 servaient déjà à contourner des filtres. La parade : inspecter la sortie et les appels d'outils, pas seulement l'entrée.",
     "en": "Guardrails largely operate on plain text: an encrypted or encoded instruction slips past the filter, and the model then decrypts and follows it on its own. It is a variant of prompt injection, a structural weakness of assistants that read external content, and encodings such as base64 were already used to bypass filters. The defence lies in inspecting outputs and tool calls, not just inputs.",
     "es": "Las barreras de seguridad operan sobre todo en texto claro: una instrucción cifrada pasa el filtro y el modelo la descifra y la ejecuta por su cuenta. Es una variante de la inyección de prompt, debilidad estructural de los asistentes que leen contenido externo; codificaciones como base64 ya servían para sortear filtros. La defensa: inspeccionar las salidas y las llamadas a herramientas, no solo las entradas."
-   }
+   },
+   "sourceKind": "media"
   },
   {
    "day": "2026-08-11",
@@ -196,7 +202,8 @@
     "fr": "Le chiffre compte moins que la manière de le produire : Gemini est intégré par défaut dans Android, Chrome, Workspace et la recherche Google, ce qui gonfle mécaniquement l'usage par rapport à un ChatGPT qu'il faut aller chercher. La vraie question pour le marché est celle de la rétention et de la conversion vers les offres payantes, que Google ne détaille pas.",
     "en": "The number matters less than how it is produced: Gemini ships by default inside Android, Chrome, Workspace and Google Search, which mechanically inflates usage compared with ChatGPT, which users have to seek out. The open question for the market is retention and conversion to paid tiers, figures Google does not break out.",
     "es": "La cifra importa menos que la forma de obtenerla: Gemini viene integrado por defecto en Android, Chrome, Workspace y el buscador de Google, lo que infla mecánicamente el uso frente a un ChatGPT que el usuario tiene que ir a buscar. La cuestión de fondo para el mercado es la retención y la conversión a planes de pago, datos que Google no desglosa."
-   }
+   },
+   "sourceKind": "media"
   },
   {
    "day": "2026-08-11",
@@ -223,7 +230,8 @@
     "fr": "Linux pèse peu sur le bureau grand public mais domine chez les développeurs, cible naturelle de Codex : c'est ce public, plus que le particulier, qu'OpenAI vise avec ce portage tardif après macOS et Windows. Une application native peut aussi agir sur les fichiers et le terminal, ce que l'interface web ne permet pas. Reste à voir si les distributions hors Ubuntu, Debian et Fedora auront un support officiel.",
     "en": "Linux has a small share of consumer desktops but dominates among developers, the natural audience for Codex: that is the public OpenAI is after with this late port, following macOS and Windows. A native app can also reach local files and the terminal, something the web interface cannot do. Whether distributions beyond Ubuntu, Debian and Fedora get official support remains to be seen.",
     "es": "Linux pesa poco en el escritorio doméstico pero domina entre los desarrolladores, el público natural de Codex: a ellos, más que al particular, apunta OpenAI con esta llegada tardía tras macOS y Windows. Una aplicación nativa puede además actuar sobre los archivos y el terminal, algo que la versión web no permite. Queda por ver si las distribuciones fuera de Ubuntu, Debian y Fedora tendrán soporte oficial."
-   }
+   },
+   "sourceKind": "media"
   },
   {
    "day": "2026-08-11",
@@ -250,7 +258,9 @@
     "fr": "Deux millions d'abonnés sur 100 millions d'utilisateurs, c'est un taux de conversion d'environ 2 %, typique des outils créatifs grand public : l'usage est massif, le paiement reste rare. Le contentieux porte sur les données d'entraînement, les grandes maisons de disques ayant attaqué Suno dès 2024 pour l'usage de leurs catalogues ; l'issue, procès ou accords de licence, fixera le coût réel de ce modèle.",
     "en": "Two million subscribers out of 100 million users is a conversion rate of roughly 2%, typical of consumer creative tools: usage is massive, payment remains rare. The litigation centres on training data, the major labels having sued Suno in 2024 over the use of their catalogues; the outcome, whether trials or licensing deals, will set the real cost of this business model.",
     "es": "Dos millones de suscriptores sobre 100 millones de usuarios supone una conversión cercana al 2 %, habitual en las herramientas creativas de consumo: el uso es masivo, el pago sigue siendo raro. El litigio gira en torno a los datos de entrenamiento, pues las grandes discográficas demandaron a Suno en 2024 por el uso de sus catálogos; el desenlace, juicios o licencias, fijará el coste real del modelo."
-   }
+   },
+   "sourceKind": "media",
+   "paywall": true
   },
   {
    "day": "2026-08-09",
@@ -277,7 +287,8 @@
     "fr": "La baisse de 68 % est mesurée par OpenAI face à GPT-5.5, son propre modèle précédent, sur des jeux de test internes : aucun score public indépendant n'accompagne l'annonce, ce qui invite à la prudence. Le déploiement suit la logique à deux vitesses désormais habituelle, Sol réservé aux abonnés, une variante Luna illimitée pour le gratuit, et vise d'abord les usages professionnels où l'erreur factuelle coûte cher.",
     "en": "The 68% figure is OpenAI's own measurement against GPT-5.5, its previous model, on internal test sets: no independent public scores accompany the announcement, which calls for caution. The rollout follows the now familiar two-tier pattern, Sol for paying subscribers and an unlimited Luna variant for free users, and targets professional work first, where factual mistakes are costly.",
     "es": "La reducción del 68 % la mide la propia OpenAI frente a GPT-5.5, su modelo anterior, con pruebas internas: no hay puntuaciones públicas independientes, lo que invita a la prudencia. El despliegue sigue el esquema de dos velocidades ya habitual, Sol para los suscriptores y una variante Luna ilimitada para el plan gratuito, y apunta primero a los usos profesionales, donde el error factual sale caro."
-   }
+   },
+   "sourceKind": "secondaire"
   },
   {
    "day": "2026-08-09",
@@ -304,7 +315,8 @@
     "fr": "Les 71 milliards sont des engagements de location de capacité, pas des achats : Anthropic s'assure des années de calcul auprès de ses partenaires cloud, comme elle le fait déjà avec les Trainium d'Amazon et les TPU de Google. Concevoir sa propre puce suit la voie de ces deux géants et d'OpenAI, avec un but clair, réduire la dépendance à Nvidia ; mais un silicium maison met des années à arriver en production.",
     "en": "The $71 billion consists of capacity lease obligations, not purchases: Anthropic is securing years of compute from its cloud partners, as it already does with Amazon's Trainium and Google's TPUs. Designing its own chip follows the path taken by those two giants and by OpenAI, with one clear aim, reducing dependence on Nvidia; but in-house silicon takes several years to reach production.",
     "es": "Los 71 000 millones son compromisos de alquiler de capacidad, no compras: Anthropic se asegura años de cómputo con sus socios de nube, como ya hace con los Trainium de Amazon y las TPU de Google. Diseñar un chip propio sigue la vía abierta por esos dos gigantes y por OpenAI, con un objetivo claro, reducir la dependencia de Nvidia; pero un silicio propio tarda varios años en llegar a producción."
-   }
+   },
+   "sourceKind": "secondaire"
   },
   {
    "day": "2026-08-08",
@@ -331,7 +343,8 @@
     "fr": "Le mouvement sépare recherche et exécution : Hassabis, prix Nobel de chimie 2024, garde la science et la présidence, tandis que Kavukcuoglu, jusqu'ici directeur technique, reçoit le mandat de livrer plus vite face à OpenAI et Anthropic. Les équipes sont regroupées au sein de Google DeepMind, l'IA responsable rapprochée des modèles. À surveiller : le départ simultané de plusieurs chercheurs historiques.",
     "en": "The move separates research from execution: Hassabis, 2024 Nobel laureate in chemistry, keeps the science and the chairmanship, while Kavukcuoglu, until now CTO, is tasked with shipping faster against OpenAI and Anthropic. Teams are consolidated inside Google DeepMind and responsible AI groups move closer to model development. One thing to watch: several long-serving researchers are leaving at the same time.",
     "es": "El movimiento separa investigación y ejecución: Hassabis, Nobel de Química 2024, conserva la ciencia y la presidencia, mientras Kavukcuoglu, hasta ahora director técnico, recibe el encargo de entregar más rápido frente a OpenAI y Anthropic. Los equipos se agrupan dentro de Google DeepMind y la IA responsable se acerca a los modelos. A vigilar: la salida simultánea de varios investigadores veteranos."
-   }
+   },
+   "sourceKind": "secondaire"
   },
   {
    "day": "2026-08-08",
@@ -358,7 +371,8 @@
     "fr": "Jeff Dean ne part pas seul : Sanjay Ghemawat, Quoc Le et Oriol Vinyals, trois chercheurs historiques, l'accompagnent. Discovery Loop prend la forme d'une société d'utilité publique visant la médecine, les matériaux et la biologie, et Google en sera à la fois investisseur et fournisseur de cloud. Pour Google, c'est la perte de l'architecte de TensorFlow et de Google Brain, en pleine réorganisation interne.",
     "en": "Dean is not leaving alone: Sanjay Ghemawat, Quoc Le and Oriol Vinyals, three veteran researchers, are going with him. Discovery Loop is structured as a public benefit corporation targeting medicine, materials and biology, with Google acting as both investor and cloud provider. For Google, it means losing the architect of TensorFlow and Google Brain in the middle of an internal reorganization.",
     "es": "Dean no se va solo: lo acompañan Sanjay Ghemawat, Quoc Le y Oriol Vinyals, tres investigadores veteranos. Discovery Loop se constituye como sociedad de beneficio público orientada a la medicina, los materiales y la biología, y Google será a la vez inversor y proveedor de nube. Para Google supone perder al arquitecto de TensorFlow y de Google Brain en plena reorganización interna."
-   }
+   },
+   "sourceKind": "secondaire"
   },
   {
    "day": "2026-08-06",
@@ -389,7 +403,9 @@
     "fr": "Aux États-Unis, aucune loi fédérale n'encadre les modèles de pointe : la régulation repose sur des engagements volontaires des laboratoires et sur des décrets présidentiels. Ce type de réunion sert à préparer des cadres communs sur les tests de sécurité et le partage d'informations, là où l'Europe impose des obligations contraignantes via l'AI Act. Reste à voir si ces échanges produiront des engagements écrits.",
     "en": "The United States still has no federal law governing frontier models: oversight rests on voluntary commitments from the labs and on executive orders. Meetings of this kind are used to prepare common frameworks on safety testing and information sharing, in contrast with Europe, where the AI Act imposes binding obligations. What to watch is whether the talks produce written commitments or only statements.",
     "es": "Estados Unidos sigue sin una ley federal que regule los modelos de frontera: la supervisión descansa en compromisos voluntarios de los laboratorios y en órdenes ejecutivas. Reuniones así sirven para preparar marcos comunes sobre pruebas de seguridad e intercambio de información, mientras Europa impone obligaciones vinculantes con la Ley de IA. Queda por ver si acaban en compromisos escritos."
-   }
+   },
+   "sourceKind": "media",
+   "paywall": true
   },
   {
    "day": "2026-08-05",
@@ -416,7 +432,8 @@
     "fr": "La source ne donne ni l'architecture ni les performances chiffrées ; le signal est surtout stratégique. Meta joue sur deux tableaux : un modèle de pointe pour rester dans la course face à OpenAI, Anthropic, Google et aux laboratoires chinois, et des modèles ouverts qui ont fait sa réputation chez les développeurs. Son atout reste la distribution via Facebook, Instagram et WhatsApp ; les tests indépendants diront.",
     "en": "The source gives neither architecture nor benchmark figures; the signal is mainly strategic. Meta is playing on two boards: a frontier model to stay in the race with OpenAI, Anthropic, Google and the Chinese labs, and the open models that built its reputation among developers. Its real advantage remains distribution through Facebook, Instagram and WhatsApp; independent evaluations will settle the rest.",
     "es": "La fuente no da ni la arquitectura ni cifras de rendimiento; la señal es sobre todo estratégica. Meta juega en dos tableros: un modelo de frontera para seguir en la carrera frente a OpenAI, Anthropic, Google y los laboratorios chinos, y los modelos abiertos que le dieron su reputación entre desarrolladores. Su baza sigue siendo la distribución vía Facebook, Instagram y WhatsApp; las pruebas independientes dirán más."
-   }
+   },
+   "sourceKind": "secondaire"
   },
   {
    "day": "2026-08-04",
@@ -447,7 +464,8 @@
     "fr": "Le mécanisme : les API renvoient le raisonnement caché sous forme de blocs chiffrés à rejouer d'un appel à l'autre, et ces blocs pouvaient être rejoués dans une autre session, où un modèle plus petit de la même famille servait de « décodeur flou ». Sur 6 708 traces d'agents publiques, les chercheurs ont récupéré 62 clés API et 33 mots de passe. Conseil : retirer les blocs de raisonnement des traces partagées.",
     "en": "The mechanism: the APIs return hidden reasoning as encrypted blocks meant to be replayed from one call to the next, and those blocks could be replayed in another session, where a smaller model of the same family acted as a \"fuzzy decoder\". Across 6,708 public agent traces, the researchers recovered 62 API keys and 33 passwords. Practical advice: strip reasoning blocks from any shared trace.",
     "es": "El mecanismo: las API devuelven el razonamiento oculto como bloques cifrados que se reutilizan de una llamada a otra, y esos bloques podían reproducirse en otra sesión, donde un modelo menor de la misma familia actuaba como «decodificador difuso». En 6.708 trazas públicas de agentes, los investigadores recuperaron 62 claves de API y 33 contraseñas. Consejo: quitar los bloques de razonamiento de toda traza compartida."
-   }
+   },
+   "sourceKind": "media"
   },
   {
    "day": "2026-08-02",
@@ -478,7 +496,8 @@
     "fr": "Concrètement, l'article 50 impose trois choses : qu'un utilisateur sache qu'il parle à une machine, que les contenus synthétiques portent un marquage lisible par machine, et que les hypertrucages soient signalés comme tels. La même date ouvre les pouvoirs de contrôle de la Commission sur les modèles à usage général, en vigueur depuis un an. Reste à voir si ces marquages survivent aux recadrages et recompressions.",
     "en": "In practice, Article 50 requires three things: users must know they are talking to a machine, synthetic content must carry machine-readable marking, and deepfakes must be labeled as such. The same date activates the Commission's enforcement powers over general-purpose models, whose obligations had already been running for a year. An open question is how well such watermarks survive cropping and recompression.",
     "es": "En la práctica, el artículo 50 exige tres cosas: que el usuario sepa que habla con una máquina, que el contenido sintético lleve un marcado legible por máquina y que los ultrafalsos se señalen como tales. La misma fecha activa los poderes de control de la Comisión sobre los modelos de uso general, cuyas obligaciones ya corrían desde hacía un año. Queda por ver si esas marcas resisten recortes y recompresiones."
-   }
+   },
+   "sourceKind": "secondaire"
   },
   {
    "day": "2026-08-01",
@@ -505,7 +524,8 @@
     "fr": "Derrière le sigle, « Think Fast » : c'est surtout une mise à jour de l'API vocale pour développeurs. Depuis le 5 août, grok-voice-latest pointe vers la 2.0 et le tarif passe automatiquement de 0,05 à 0,08 dollar la minute, la 1.0 restant épinglable pour revenir en arrière. xAI revendique la première place du volet agentique du classement AA (56,5 %) et la deuxième en parole-à-parole (82,9 %) ; chiffres de l'éditeur.",
     "en": "Behind the acronym, \"Think Fast\": this is mostly an update to the voice API for developers. Since August 5, grok-voice-latest points to version 2.0 and the price moves automatically from $0.05 to $0.08 per minute, with the option to pin 1.0 to roll back. xAI claims first place on the agentic track of the AA rankings (56.5%) and second on speech-to-speech (82.9%); those figures are the vendor's own.",
     "es": "Tras las siglas, «Think Fast»: es sobre todo una actualización de la API de voz para desarrolladores. Desde el 5 de agosto, grok-voice-latest apunta a la 2.0 y la tarifa pasa automáticamente de 0,05 a 0,08 dólares por minuto, con opción de fijar la 1.0 para volver atrás. xAI reivindica el primer puesto agéntico de la clasificación AA (56,5 %) y el segundo en voz a voz (82,9 %); son cifras del fabricante."
-   }
+   },
+   "sourceKind": "secondaire"
   },
   {
    "day": "2026-07-28",
@@ -536,7 +556,8 @@
     "fr": "Le paysage chinois est une chaîne plus qu'un acteur : DeepSeek tire les prix vers le bas avec V4-Pro, Qwen donne à Alibaba Cloud une famille ouverte forte en multimodal, Kimi K3 domine le classement Arena en code front-end et Doubao s'appuie sur la distribution de ByteDance. Réserve : les classements cités viennent d'OpenCompass, un référentiel chinois, et certains poids « ouverts » restent promis plutôt que publiés.",
     "en": "China's landscape is a chain rather than a single player: DeepSeek drives prices down with V4-Pro, Qwen gives Alibaba Cloud an open family strong in multimodal tasks, Kimi K3 tops the Arena front-end coding chart and Doubao leans on ByteDance's consumer distribution. One caveat: the rankings cited come from OpenCompass, a Chinese benchmark, and some of the \"open\" weights are still promised rather than published.",
     "es": "El panorama chino es más una cadena que un actor: DeepSeek empuja los precios a la baja con V4-Pro, Qwen da a Alibaba Cloud una familia abierta fuerte en multimodal, Kimi K3 lidera el ranking Arena de código front-end y Doubao se apoya en la distribución de ByteDance. Una reserva: las clasificaciones citadas proceden de OpenCompass, un referente chino, y algunos pesos \"abiertos\" siguen prometidos más que publicados."
-   }
+   },
+   "sourceKind": "secondaire"
   },
   {
    "day": "2026-07-26",
@@ -563,7 +584,8 @@
     "fr": "Le montant reste confidentiel, mais la mécanique est claire : des milliers de puces Nvidia Vera Rubin installées en Europe, en partie ouvertes aux clients d'Azure, et les modèles Medium 3.5 et OCR 4 distribués via Microsoft Foundry et Copilot Studio. Deux tiers des clients de Mistral utilisent déjà Microsoft, d'où le « distribution is king » d'Arthur Mensch. Paradoxe : une souveraineté adossée à un cloud américain.",
     "en": "The amount is undisclosed, but the mechanics are clear: thousands of Nvidia Vera Rubin chips installed in Europe, partly made available to Azure customers, and the Medium 3.5 and OCR 4 models distributed through Microsoft Foundry and Copilot Studio. Two thirds of Mistral's customers already use Microsoft, hence Arthur Mensch's \"distribution is king\". The paradox: European sovereignty built on an American cloud.",
     "es": "El importe es confidencial, pero la mecánica está clara: miles de chips Nvidia Vera Rubin instalados en Europa, en parte abiertos a los clientes de Azure, y los modelos Medium 3.5 y OCR 4 distribuidos vía Microsoft Foundry y Copilot Studio. Dos tercios de los clientes de Mistral ya usan Microsoft, de ahí el \"distribution is king\" de Arthur Mensch. La paradoja: una soberanía apoyada en una nube americana."
-   }
+   },
+   "sourceKind": "media"
   },
   {
    "day": "2026-07-25",
@@ -590,7 +612,8 @@
     "fr": "L'enjeu n'est pas seulement la qualité sonore : dès son premier générateur, ElevenLabs a misé sur une musique entraînée avec l'accord de détenteurs de droits et utilisable commercialement, là où Suno et Udio ont dû affronter les majors en justice. Pour les créateurs de vidéos, de podcasts ou de publicités, cette sécurité juridique décide de l'adoption. À surveiller : l'écart de qualité avec ces concurrents.",
     "en": "The stake is not only sound quality: from its first generator, ElevenLabs positioned itself on music trained with the consent of rights holders and cleared for commercial use, where Suno and Udio had to face the major labels in court. For video, podcast and advertising creators, that legal safety is what drives adoption. What to watch: whether v2 closes the quality gap with those competitors.",
     "es": "Lo que está en juego no es solo la calidad sonora: desde su primer generador, ElevenLabs apostó por una música entrenada con el acuerdo de titulares de derechos y apta para uso comercial, mientras Suno y Udio tuvieron que enfrentarse a las discográficas en los tribunales. Para creadores de vídeo, pódcast o publicidad, esa seguridad jurídica decide la adopción. Por ver: la brecha de calidad con esos rivales."
-   }
+   },
+   "sourceKind": "secondaire"
   },
   {
    "day": "2026-07-20",
@@ -617,7 +640,8 @@
     "fr": "Le changement se joue dans Qwen Code, l'outil en ligne de commande d'Alibaba : boucles autonomes, repli automatique d'un modèle vers un autre, sous-agents imbriqués et travail en parallèle, la même direction que GPT-5.6, Claude Sonnet 5 ou Gemini 3.5. Deux réserves : Max n'est qu'une « preview », et la disponibilité des poids n'est pas précisée. Les rumeurs d'un Qwen 3.8 n'étaient pas confirmées au 20 juillet.",
     "en": "The shift happens inside Qwen Code, Alibaba's command-line tool: autonomous loops, automatic fallback from one model to another, nested sub-agents and parallel work, the same direction taken by GPT-5.6, Claude Sonnet 5 or Gemini 3.5. Two caveats: Max is only a \"preview\", and weight availability is not stated, unlike the smaller open Qwen models. Rumours of a Qwen 3.8 were unconfirmed as of July 20.",
     "es": "El cambio ocurre dentro de Qwen Code, la herramienta de línea de comandos de Alibaba: bucles autónomos, cambio automático de un modelo a otro, subagentes anidados y trabajo en paralelo, la misma dirección que GPT-5.6, Claude Sonnet 5 o Gemini 3.5. Dos reservas: Max es solo una \"preview\", y la disponibilidad de los pesos no se precisa. Los rumores de un Qwen 3.8 no estaban confirmados el 20 de julio."
-   }
+   },
+   "sourceKind": "secondaire"
   },
   {
    "day": "2026-07-16",
@@ -644,7 +668,8 @@
     "fr": "Les 2 800 milliards de paramètres sont à relativiser : K3 est un modèle à mélange d'experts, seule une fraction du réseau s'active à chaque mot, ce qui contient le coût d'inférence. L'attention autour du code front-end vient de la couverture d'Associated Press et de Tom's Hardware, pas de benchmarks publiés. Surtout, Moonshot promet des poids ouverts sans les avoir livrés au 20 juillet, et aucun tarif n'est connu.",
     "en": "The 2.8 trillion parameters need context: K3 is a mixture-of-experts model, only a fraction of the network fires on each token, which keeps inference costs in check. The buzz around front-end coding comes from Associated Press and Tom's Hardware coverage, not from published benchmarks. Above all, Moonshot promises open weights it had not delivered as of July 20: a promise is not a release, and no pricing is known.",
     "es": "Los 2,8 billones de parámetros hay que matizarlos: K3 es un modelo de mezcla de expertos, solo una fracción de la red se activa en cada token, lo que contiene el coste de inferencia. La atención sobre el código front-end viene de la cobertura de Associated Press y Tom's Hardware, no de benchmarks publicados. Sobre todo, Moonshot promete pesos abiertos que no había entregado el 20 de julio, y no hay precio conocido."
-   }
+   },
+   "sourceKind": "secondaire"
   },
   {
    "day": "2026-04-24",
@@ -671,7 +696,8 @@
     "fr": "La clé du prix tient aux paramètres actifs : V4-Pro compte 1 600 milliards de paramètres au total mais n'en mobilise que 49 milliards par mot, V4-Flash 284 milliards pour 13 actifs. Cette architecture à experts fait de l'efficacité un argument commercial. Deux points pratiques : le modèle est étiqueté « Preview », et les noms d'API deepseek-chat et deepseek-reasoner sont retirés après le 24 juillet.",
     "en": "The price story is about active parameters: V4-Pro has 1.6 trillion parameters in total but uses only 49 billion per token, V4-Flash 284 billion with 13 billion active. That expert-based architecture is what turns efficiency into a selling point. Two practical notes: the model is labelled \"Preview\", and the old deepseek-chat and deepseek-reasoner API names are retired after July 24, so developers must migrate.",
     "es": "La clave del precio está en los parámetros activos: V4-Pro tiene 1,6 billones de parámetros en total pero solo usa 49.000 millones por token, y V4-Flash 284.000 millones con 13.000 activos. Esa arquitectura de expertos convierte la eficiencia en argumento comercial. Dos notas prácticas: el modelo lleva la etiqueta \"Preview\", y los nombres de API deepseek-chat y deepseek-reasoner se retiran tras el 24 de julio."
-   }
+   },
+   "sourceKind": "secondaire"
   }
  ],
  "quiz": [
