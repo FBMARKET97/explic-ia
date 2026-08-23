@@ -1,795 +1,795 @@
 {
- "updated": "2026-08-21",
- "items": [
-  {
-   "day": "2026-08-20",
-   "actor": "OpenAI",
-   "actorSlug": "chatgpt",
-   "title": {
-    "fr": "ChatGPT peut maintenant écrire vos messages dans Apple Messages",
-    "en": "ChatGPT can now write your texts in Apple Messages",
-    "es": "ChatGPT ya puede escribir tus mensajes en Apple Messages"
-   },
-   "summary": {
-    "fr": "Une nouvelle intégration à Apple Messages permet de laisser ChatGPT rédiger et envoyer des messages à votre place, sans quitter l'application de messagerie.",
-    "en": "A new Apple Messages integration lets ChatGPT draft and send messages on your behalf, without leaving the messaging app.",
-    "es": "Una nueva integración con Apple Messages permite que ChatGPT redacte y envíe mensajes en tu lugar, sin salir de la app de mensajería."
-   },
-   "simple": {
-    "fr": "Tu peux demander à ChatGPT d'écrire tes messages à ta place, là où tu discutes déjà avec tes amis.",
-    "en": "You can ask ChatGPT to write your messages for you, right where you already chat with your friends.",
-    "es": "Puedes pedirle a ChatGPT que escriba tus mensajes por ti, allí donde ya hablas con tus amigos."
-   },
-   "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-   "source": "TechCrunch",
-   "expert": {
-    "fr": "Le module s'exécute en local sur l'appareil et réclame l'accès complet au disque pour lire et écrire dans Messages ; ChatGPT n'indexe pas l'historique, il ne consulte que ce qu'on lui demande. OpenAI déconseille l'approbation permanente, qui supprime la dernière relecture avant envoi. Le module fonctionne aussi avec Codex et ChatGPT Work, et la durée de conservation des données reste floue.",
-    "en": "The plugin runs locally on the device and needs Full Disk Access to read and write in Messages; ChatGPT does not build an index of the history and only reads what it is asked to. OpenAI advises against persistent approval, which removes the last chance to review a message before it goes out. The plugin also works with Codex and ChatGPT Work, and how long data is retained remains unclear.",
-    "es": "El módulo se ejecuta en local en el dispositivo y exige acceso completo al disco para leer y escribir en Mensajes; ChatGPT no indexa el historial y solo consulta lo que se le pide. OpenAI desaconseja la aprobación permanente, que elimina la última revisión antes del envío. El módulo también funciona con Codex y ChatGPT Work, y la retención de los datos sigue sin estar clara."
-   },
-   "sourceKind": "media"
-  },
-  {
-   "day": "2026-08-20",
-   "actor": "Google",
-   "actorSlug": "gemini",
-   "title": {
-    "fr": "Google Discover se règle en lui décrivant ce qu'on veut lire",
-    "en": "Google Discover can now be tuned by describing what you want to read",
-    "es": "Google Discover se ajusta describiéndole lo que quieres leer"
-   },
-   "summary": {
-    "fr": "Google déploie dans les prochains jours une option qui permet de décrire en quelques mots ce qu'on souhaite voir dans son fil Discover. L'IA ajuste le fil et mémorise la préférence pour les visites suivantes.",
-    "en": "In the coming days Google is rolling out an option to describe, in a few words, what you want to see in your Discover feed. The AI adjusts the feed and remembers the preference for future visits.",
-    "es": "En los próximos días Google desplegará una opción para describir en pocas palabras lo que quieres ver en tu feed de Discover. La IA ajusta el feed y recuerda la preferencia para las siguientes visitas."
-   },
-   "simple": {
-    "fr": "Au lieu de subir les articles qu'on te propose, tu écris ce qui t'intéresse et le téléphone s'en souvient.",
-    "en": "Instead of putting up with whatever articles you are shown, you write down what interests you and the phone remembers.",
-    "es": "En vez de aguantar los artículos que te muestran, escribes lo que te interesa y el teléfono lo recuerda."
-   },
-   "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-   "source": "The Verge",
-   "expert": {
-    "fr": "Discover s'appuie jusqu'ici sur des signaux implicites, recherches et sites visités, que l'utilisateur ne contrôle qu'indirectement. Une consigne en langage naturel introduit une préférence explicite, conservée entre les sessions, dans la logique des sources favorites que Google déploie en parallèle. Reste à voir l'étendue du déploiement et l'effet sur le trafic des éditeurs.",
-    "en": "Discover has so far relied on implicit signals, searches and visited sites, that users can only steer indirectly. A natural-language instruction adds an explicit, persistent preference, in line with the preferred-sources controls Google is rolling out at the same time. How widely it ships and what it does to publisher traffic remain open questions.",
-    "es": "Discover se basaba hasta ahora en señales implícitas, búsquedas y sitios visitados, que el usuario solo controla de forma indirecta. Una instrucción en lenguaje natural introduce una preferencia explícita y persistente, en la línea de las fuentes favoritas que Google despliega en paralelo. Queda por ver el alcance del despliegue y su efecto en el tráfico de los editores."
-   },
-   "sourceKind": "media"
-  },
-  {
-   "day": "2026-08-20",
-   "actor": "Google",
-   "actorSlug": "gemini",
-   "title": {
-    "fr": "Google laisse les lecteurs désigner leurs médias préférés",
-    "en": "Google lets readers mark their preferred outlets",
-    "es": "Google deja que los lectores marquen sus medios preferidos"
-   },
-   "summary": {
-    "fr": "Un nouveau bouton permet de marquer un média comme source privilégiée dans Search, Discover et Google News. C'est une réponse à la baisse de trafic que la recherche par IA fait subir aux sites d'information.",
-    "en": "A new button lets readers mark an outlet as a preferred source across Search, Discover and Google News. It answers the traffic losses that AI-driven search inflicts on news sites.",
-    "es": "Un nuevo botón permite marcar un medio como fuente preferida en Search, Discover y Google News. Responde a la caída de tráfico que la búsqueda con IA provoca en los sitios de noticias."
-   },
-   "simple": {
-    "fr": "Quand l'IA répond directement, on ne va plus lire les journaux en ligne. Google ajoute un bouton pour dire « ce journal-là, je veux le voir ».",
-    "en": "When the AI answers directly, people stop visiting news sites. Google is adding a button to say 'this outlet, I do want to see it'.",
-    "es": "Cuando la IA responde directamente, la gente deja de entrar en los periódicos digitales. Google añade un botón para decir «este medio sí quiero verlo»."
-   },
-   "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-   "source": "TechCrunch",
-   "expert": {
-    "fr": "Le bouton peut être intégré par les éditeurs sur leur propre site ; la préférence se règle aussi depuis une page dédiée de Google. Le dispositif existait dans À la une et a été étendu en mai à AI Mode et aux AI Overviews : plus de 345 000 sources distinctes avaient alors été choisies, avec une probabilité de clic doublée. Il ne modifie pas la synthèse par l'IA elle-même et dépend d'un geste volontaire du lecteur.",
-    "en": "Publishers can embed the button on their own sites, and readers can also set preferences from a dedicated Google page. The control existed in Top Stories and was extended in May to AI Mode and AI Overviews: by then more than 345,000 distinct sources had been selected, and clicks to a preferred source were twice as likely. It leaves AI summarisation itself untouched and relies on readers opting in.",
-    "es": "Los editores pueden incrustar el botón en sus propios sitios, y la preferencia también se ajusta desde una página dedicada de Google. El control existía en Noticias destacadas y se extendió en mayo a AI Mode y a AI Overviews: para entonces se habían elegido más de 345.000 fuentes distintas, con el doble de probabilidad de clic. No cambia el resumen por IA en sí y depende de un gesto voluntario del lector."
-   },
-   "sourceKind": "media"
-  },
-  {
-   "day": "2026-08-20",
-   "actor": "xAI",
-   "actorSlug": "grok",
-   "title": {
-    "fr": "Grok répond n'importe quoi depuis plusieurs jours",
-    "en": "Grok has been answering gibberish for days",
-    "es": "Grok lleva días respondiendo incoherencias"
-   },
-   "summary": {
-    "fr": "Des utilisateurs de Grok Lite rapportent depuis mercredi matin des réponses incohérentes de la part de l'assistant de xAI.",
-    "en": "Grok Lite users have been reporting incoherent answers from xAI's assistant since Wednesday morning.",
-    "es": "Usuarios de Grok Lite llevan desde el miércoles por la mañana recibiendo respuestas incoherentes del asistente de xAI."
-   },
-   "simple": {
-    "fr": "Parfois une IA se dérègle et se met à écrire des phrases qui ne veulent rien dire. C'est ce qui arrive à Grok en ce moment.",
-    "en": "Sometimes an AI goes haywire and starts writing sentences that mean nothing. That is what is happening to Grok right now.",
-    "es": "A veces una IA se estropea y empieza a escribir frases sin sentido. Es lo que le está pasando a Grok ahora mismo."
-   },
-   "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-   "source": "TechCrunch",
-   "expert": {
-    "fr": "Le défaut touche Grok Lite sur grok.com, pas le compte Grok de X, et TechCrunch n'a pas réussi à le reproduire. xAI parle d'un « rare bug temporaire de génération » et conseille d'ouvrir une nouvelle conversation, ce qui suffit souvent mais pas toujours. Ce type de texte évoque un incident de service ou de décodage plutôt qu'un recul du modèle, chez un éditeur qui a perdu une cinquantaine de chercheurs au printemps.",
-    "en": "The fault affects Grok Lite on grok.com, not the Grok account on X, and TechCrunch could not reproduce it. xAI calls it a 'rare temporary generation glitch' and suggests starting a fresh chat, which often but not always clears it. Output of this kind usually points to a serving or decoding problem rather than a weaker model, at a company that lost around fifty researchers and most of its founding team this spring.",
-    "es": "El fallo afecta a Grok Lite en grok.com, no a la cuenta de Grok en X, y TechCrunch no logró reproducirlo. xAI habla de un «raro fallo temporal de generación» y aconseja abrir una conversación nueva, lo que a menudo basta, aunque no siempre. Ese tipo de texto suele apuntar a un problema de servicio o de decodificación más que a un modelo peor, en una empresa que perdió a unos cincuenta investigadores en primavera."
-   },
-   "sourceKind": "media"
-  },
-  {
-   "day": "2026-08-20",
-   "actor": {
-    "fr": "Monde",
-    "en": "World",
-    "es": "Mundo"
-   },
-   "actorSlug": "monde",
-   "title": {
-    "fr": "Un tiers des pages web créées depuis ChatGPT portent des traces d'IA",
-    "en": "A third of web pages created since ChatGPT show traces of AI",
-    "es": "Un tercio de las páginas web creadas desde ChatGPT muestran rastros de IA"
-   },
-   "summary": {
-    "fr": "Selon une étude, environ un tiers des pages publiées depuis le lancement de ChatGPT montrent des signes de rédaction ou de relecture par une intelligence artificielle.",
-    "en": "According to a study, about a third of the pages published since ChatGPT's launch show signs of having been written or edited by an artificial intelligence.",
-    "es": "Según un estudio, alrededor de un tercio de las páginas publicadas desde el lanzamiento de ChatGPT muestran señales de haber sido escritas o revisadas por una inteligencia artificial."
-   },
-   "simple": {
-    "fr": "Sur Internet, beaucoup de textes ne sont plus écrits entièrement par des humains : une machine a aidé à les rédiger.",
-    "en": "On the internet, many texts are no longer written entirely by people: a machine helped write them.",
-    "es": "En internet, muchos textos ya no los escriben del todo las personas: una máquina ayudó a redactarlos."
-   },
-   "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-   "source": "TechCrunch",
-   "expert": {
-    "fr": "L'étude du Pew Research Center passe des pages anglophones de Common Crawl au détecteur Pangram : 10 % de l'échantillon global, 35 % des pages postérieures à novembre 2022. L'écart par domaine est net, environ 10 % en .com contre 1 % en .edu et .gov et 4,6 % en .org. Les auteurs rappellent qu'un détecteur peut se tromper sur une page donnée, mais jugent la tendance fiable à cette échelle.",
-    "en": "The Pew Research Center ran English-language pages from Common Crawl through the Pangram detector: 10% of the overall sample, 35% of pages published after November 2022. The gap between domains is stark, roughly 10% for .com against 1% for .edu and .gov and 4.6% for .org. The authors note that a detector can misclassify any single page, but consider the trend reliable at this scale.",
-    "es": "El Pew Research Center pasó páginas en inglés de Common Crawl por el detector Pangram: el 10% de la muestra global, el 35% de las páginas posteriores a noviembre de 2022. La brecha por dominio es clara, cerca del 10% en .com frente al 1% en .edu y .gov y el 4,6% en .org. Los autores recuerdan que un detector puede equivocarse en una página concreta, pero consideran fiable la tendencia a esta escala."
-   },
-   "sourceKind": "media"
-  },
-  {
-   "day": "2026-08-20",
-   "actor": {
-    "fr": "Sécurité",
-    "en": "Safety",
-    "es": "Seguridad"
-   },
-   "actorSlug": "securite",
-   "title": {
-    "fr": "Une instruction chiffrée suffit à faire fuiter des données de Grok",
-    "en": "An encrypted instruction is enough to make Grok leak data",
-    "es": "Una instrucción cifrada basta para que Grok filtre datos"
-   },
-   "summary": {
-    "fr": "Des chercheurs ont montré qu'en chiffrant des instructions malveillantes, on contourne les garde-fous de Grok et on lui fait transmettre les données de l'utilisateur. La technique est baptisée Cryptographic Context Injection.",
-    "en": "Researchers have shown that encrypting malicious instructions bypasses Grok's safety guardrails and makes it hand over the user's data. The technique is called Cryptographic Context Injection.",
-    "es": "Unos investigadores han demostrado que cifrar instrucciones maliciosas esquiva las barreras de seguridad de Grok y le hace entregar los datos del usuario. La técnica se llama Cryptographic Context Injection."
-   },
-   "simple": {
-    "fr": "Les IA ont des règles pour refuser ce qui est dangereux. En déguisant la demande, des chercheurs ont réussi à contourner ces règles.",
-    "en": "AI systems have rules for refusing dangerous requests. By disguising the request, researchers managed to get around those rules.",
-    "es": "Las IA tienen reglas para rechazar lo peligroso. Disfrazando la petición, unos investigadores lograron saltarse esas reglas."
-   },
-   "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-   "source": "Ars Technica",
-   "expert": {
-    "fr": "Les garde-fous opèrent surtout sur le texte en clair : une consigne chiffrée traverse le filtre, puis le modèle la déchiffre lui-même et l'exécute. C'est une variante de l'injection de prompt, faiblesse structurelle des assistants qui lisent du contenu externe ; des encodages comme base64 servaient déjà à contourner des filtres. La parade : inspecter la sortie et les appels d'outils, pas seulement l'entrée.",
-    "en": "Guardrails largely operate on plain text: an encrypted or encoded instruction slips past the filter, and the model then decrypts and follows it on its own. It is a variant of prompt injection, a structural weakness of assistants that read external content, and encodings such as base64 were already used to bypass filters. The defence lies in inspecting outputs and tool calls, not just inputs.",
-    "es": "Las barreras de seguridad operan sobre todo en texto claro: una instrucción cifrada pasa el filtro y el modelo la descifra y la ejecuta por su cuenta. Es una variante de la inyección de prompt, debilidad estructural de los asistentes que leen contenido externo; codificaciones como base64 ya servían para sortear filtros. La defensa: inspeccionar las salidas y las llamadas a herramientas, no solo las entradas."
-   },
-   "sourceKind": "media"
-  },
-  {
-   "day": "2026-08-11",
-   "actor": "Google",
-   "actorSlug": "gemini",
-   "title": {
-    "fr": "Gemini franchit le milliard d'utilisateurs chaque mois",
-    "en": "Gemini passes one billion monthly users",
-    "es": "Gemini supera los mil millones de usuarios mensuales"
-   },
-   "summary": {
-    "fr": "L'application Gemini de Google dépasse désormais 1 milliard d'utilisateurs actifs mensuels, rejoignant ChatGPT sur ce palier symbolique.",
-    "en": "Google's Gemini app now tops 1 billion monthly active users, joining ChatGPT at that symbolic milestone.",
-    "es": "La aplicación Gemini de Google supera ya los 1000 millones de usuarios activos mensuales, alcanzando a ChatGPT en ese hito simbólico."
-   },
-   "simple": {
-    "fr": "Une personne sur huit dans le monde utilise maintenant l'assistant de Google chaque mois. C'est énorme !",
-    "en": "One in eight people in the world now uses Google's assistant every month. That's huge!",
-    "es": "Una de cada ocho personas del mundo ya usa el asistente de Google cada mes. ¡Es una barbaridad!"
-   },
-   "url": "https://techcrunch.com/2026/08/11/gemini-crosses-1-billion-monthly-users/",
-   "source": "TechCrunch",
-   "expert": {
-    "fr": "Le chiffre compte moins que la manière de le produire : Gemini est intégré par défaut dans Android, Chrome, Workspace et la recherche Google, ce qui gonfle mécaniquement l'usage par rapport à un ChatGPT qu'il faut aller chercher. La vraie question pour le marché est celle de la rétention et de la conversion vers les offres payantes, que Google ne détaille pas.",
-    "en": "The number matters less than how it is produced: Gemini ships by default inside Android, Chrome, Workspace and Google Search, which mechanically inflates usage compared with ChatGPT, which users have to seek out. The open question for the market is retention and conversion to paid tiers, figures Google does not break out.",
-    "es": "La cifra importa menos que la forma de obtenerla: Gemini viene integrado por defecto en Android, Chrome, Workspace y el buscador de Google, lo que infla mecánicamente el uso frente a un ChatGPT que el usuario tiene que ir a buscar. La cuestión de fondo para el mercado es la retención y la conversión a planes de pago, datos que Google no desglosa."
-   },
-   "sourceKind": "media"
-  },
-  {
-   "day": "2026-08-11",
-   "actor": "OpenAI",
-   "actorSlug": "chatgpt",
-   "title": {
-    "fr": "ChatGPT arrive enfin sur Linux",
-    "en": "ChatGPT finally lands on Linux",
-    "es": "ChatGPT llega por fin a Linux"
-   },
-   "summary": {
-    "fr": "OpenAI lance son application de bureau pour Linux (Ubuntu, Debian, Fedora), avec ChatGPT, ChatGPT Work et l'assistant de code Codex.",
-    "en": "OpenAI launches its desktop app for Linux (Ubuntu, Debian, Fedora), with ChatGPT, ChatGPT Work and the Codex coding assistant.",
-    "es": "OpenAI lanza su aplicación de escritorio para Linux (Ubuntu, Debian, Fedora), con ChatGPT, ChatGPT Work y el asistente de código Codex."
-   },
-   "simple": {
-    "fr": "ChatGPT peut maintenant s'installer sur encore plus d'ordinateurs, comme une vraie application.",
-    "en": "ChatGPT can now be installed on even more computers, like a real app.",
-    "es": "ChatGPT ya puede instalarse en más ordenadores, como una aplicación de verdad."
-   },
-   "url": "https://thenewstack.io/openai-launches-linux-desktop-app/",
-   "source": "The New Stack",
-   "expert": {
-    "fr": "Linux pèse peu sur le bureau grand public mais domine chez les développeurs, cible naturelle de Codex : c'est ce public, plus que le particulier, qu'OpenAI vise avec ce portage tardif après macOS et Windows. Une application native peut aussi agir sur les fichiers et le terminal, ce que l'interface web ne permet pas. Reste à voir si les distributions hors Ubuntu, Debian et Fedora auront un support officiel.",
-    "en": "Linux has a small share of consumer desktops but dominates among developers, the natural audience for Codex: that is the public OpenAI is after with this late port, following macOS and Windows. A native app can also reach local files and the terminal, something the web interface cannot do. Whether distributions beyond Ubuntu, Debian and Fedora get official support remains to be seen.",
-    "es": "Linux pesa poco en el escritorio doméstico pero domina entre los desarrolladores, el público natural de Codex: a ellos, más que al particular, apunta OpenAI con esta llegada tardía tras macOS y Windows. Una aplicación nativa puede además actuar sobre los archivos y el terminal, algo que la versión web no permite. Queda por ver si las distribuciones fuera de Ubuntu, Debian y Fedora tendrán soporte oficial."
-   },
-   "sourceKind": "media"
-  },
-  {
-   "day": "2026-08-11",
-   "actor": "Suno",
-   "actorSlug": "suno",
-   "title": {
-    "fr": "Suno dépasse 100 millions de créateurs de musique",
-    "en": "Suno passes 100 million music creators",
-    "es": "Suno supera los 100 millones de creadores de música"
-   },
-   "summary": {
-    "fr": "La plateforme de musique générée par IA revendique plus de 100 millions d'utilisateurs et 2 millions d'abonnés payants, malgré des procès sur les droits d'auteur.",
-    "en": "The AI music platform claims over 100 million users and 2 million paying subscribers, despite copyright lawsuits.",
-    "es": "La plataforma de música generada por IA reivindica más de 100 millones de usuarios y 2 millones de suscriptores de pago, pese a los pleitos por derechos de autor."
-   },
-   "simple": {
-    "fr": "100 millions de personnes ont déjà inventé des chansons avec cette IA, sans savoir jouer d'un instrument.",
-    "en": "100 million people have already invented songs with this AI, without playing any instrument.",
-    "es": "100 millones de personas ya han inventado canciones con esta IA, sin saber tocar ningún instrumento."
-   },
-   "url": "https://www.bloomberg.com/news/articles/2026-08-11/suno-100-million-users",
-   "source": "Bloomberg",
-   "expert": {
-    "fr": "Deux millions d'abonnés sur 100 millions d'utilisateurs, c'est un taux de conversion d'environ 2 %, typique des outils créatifs grand public : l'usage est massif, le paiement reste rare. Le contentieux porte sur les données d'entraînement, les grandes maisons de disques ayant attaqué Suno dès 2024 pour l'usage de leurs catalogues ; l'issue, procès ou accords de licence, fixera le coût réel de ce modèle.",
-    "en": "Two million subscribers out of 100 million users is a conversion rate of roughly 2%, typical of consumer creative tools: usage is massive, payment remains rare. The litigation centres on training data, the major labels having sued Suno in 2024 over the use of their catalogues; the outcome, whether trials or licensing deals, will set the real cost of this business model.",
-    "es": "Dos millones de suscriptores sobre 100 millones de usuarios supone una conversión cercana al 2 %, habitual en las herramientas creativas de consumo: el uso es masivo, el pago sigue siendo raro. El litigio gira en torno a los datos de entrenamiento, pues las grandes discográficas demandaron a Suno en 2024 por el uso de sus catálogos; el desenlace, juicios o licencias, fijará el coste real del modelo."
-   },
-   "sourceKind": "media",
-   "paywall": true
-  },
-  {
-   "day": "2026-08-09",
-   "actor": "OpenAI",
-   "actorSlug": "chatgpt",
-   "title": {
-    "fr": "GPT-5.6 Sol : deux fois moins d'erreurs",
-    "en": "GPT-5.6 Sol: half the errors",
-    "es": "GPT-5.6 Sol: la mitad de errores"
-   },
-   "summary": {
-    "fr": "OpenAI déploie GPT-5.6 Sol, qui réduit de 68 % les erreurs factuelles et améliore le raisonnement pour les abonnés payants.",
-    "en": "OpenAI rolls out GPT-5.6 Sol, cutting factual errors by 68% and improving reasoning for paid subscribers.",
-    "es": "OpenAI despliega GPT-5.6 Sol, que reduce un 68 % los errores factuales y mejora el razonamiento para los suscriptores de pago."
-   },
-   "simple": {
-    "fr": "Le cerveau de ChatGPT vient d'être amélioré : il se trompe beaucoup moins souvent qu'avant.",
-    "en": "ChatGPT's brain just got an upgrade: it makes far fewer mistakes than before.",
-    "es": "El cerebro de ChatGPT acaba de mejorar: se equivoca mucho menos que antes."
-   },
-   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026",
-   "source": "Build Fast with AI",
-   "expert": {
-    "fr": "La baisse de 68 % est mesurée par OpenAI face à GPT-5.5, son propre modèle précédent, sur des jeux de test internes : aucun score public indépendant n'accompagne l'annonce, ce qui invite à la prudence. Le déploiement suit la logique à deux vitesses désormais habituelle, Sol réservé aux abonnés, une variante Luna illimitée pour le gratuit, et vise d'abord les usages professionnels où l'erreur factuelle coûte cher.",
-    "en": "The 68% figure is OpenAI's own measurement against GPT-5.5, its previous model, on internal test sets: no independent public scores accompany the announcement, which calls for caution. The rollout follows the now familiar two-tier pattern, Sol for paying subscribers and an unlimited Luna variant for free users, and targets professional work first, where factual mistakes are costly.",
-    "es": "La reducción del 68 % la mide la propia OpenAI frente a GPT-5.5, su modelo anterior, con pruebas internas: no hay puntuaciones públicas independientes, lo que invita a la prudencia. El despliegue sigue el esquema de dos velocidades ya habitual, Sol para los suscriptores y una variante Luna ilimitada para el plan gratuito, y apunta primero a los usos profesionales, donde el error factual sale caro."
-   },
-   "sourceKind": "secondaire"
-  },
-  {
-   "day": "2026-08-09",
-   "actor": "Anthropic",
-   "actorSlug": "claude",
-   "title": {
-    "fr": "Anthropic investit massivement dans ses propres puces",
-    "en": "Anthropic invests massively in its own chips",
-    "es": "Anthropic invierte a lo grande en sus propios chips"
-   },
-   "summary": {
-    "fr": "Anthropic, créateur de Claude, sécurise environ 71 milliards de dollars d'engagements de calcul et lance une équipe de conception de puces maison.",
-    "en": "Anthropic, maker of Claude, secures around $71 billion in compute commitments and launches an in-house chip design team.",
-    "es": "Anthropic, creador de Claude, asegura unos 71 000 millones de dólares en compromisos de cómputo y lanza un equipo propio de diseño de chips."
-   },
-   "simple": {
-    "fr": "L'entreprise qui fabrique Claude construit ses propres « moteurs » pour faire tourner son IA plus vite.",
-    "en": "The company behind Claude is building its own \"engines\" to run its AI faster.",
-    "es": "La empresa que fabrica Claude construye sus propios «motores» para que su IA vaya más rápido."
-   },
-   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#anthropic",
-   "source": "Build Fast with AI",
-   "expert": {
-    "fr": "Les 71 milliards sont des engagements de location de capacité, pas des achats : Anthropic s'assure des années de calcul auprès de ses partenaires cloud, comme elle le fait déjà avec les Trainium d'Amazon et les TPU de Google. Concevoir sa propre puce suit la voie de ces deux géants et d'OpenAI, avec un but clair, réduire la dépendance à Nvidia ; mais un silicium maison met des années à arriver en production.",
-    "en": "The $71 billion consists of capacity lease obligations, not purchases: Anthropic is securing years of compute from its cloud partners, as it already does with Amazon's Trainium and Google's TPUs. Designing its own chip follows the path taken by those two giants and by OpenAI, with one clear aim, reducing dependence on Nvidia; but in-house silicon takes several years to reach production.",
-    "es": "Los 71 000 millones son compromisos de alquiler de capacidad, no compras: Anthropic se asegura años de cómputo con sus socios de nube, como ya hace con los Trainium de Amazon y las TPU de Google. Diseñar un chip propio sigue la vía abierta por esos dos gigantes y por OpenAI, con un objetivo claro, reducir la dependencia de Nvidia; pero un silicio propio tarda varios años en llegar a producción."
-   },
-   "sourceKind": "secondaire"
-  },
-  {
-   "day": "2026-08-08",
-   "actor": "Google",
-   "actorSlug": "gemini",
-   "title": {
-    "fr": "Grand remaniement chez Google DeepMind",
-    "en": "Big shake-up at Google DeepMind",
-    "es": "Gran reorganización en Google DeepMind"
-   },
-   "summary": {
-    "fr": "Demis Hassabis devient président et chef scientifique de Google DeepMind ; Koray Kavukcuoglu prend la direction opérationnelle des équipes IA.",
-    "en": "Demis Hassabis becomes chairman and chief scientist of Google DeepMind; Koray Kavukcuoglu takes operational control of the AI teams.",
-    "es": "Demis Hassabis pasa a ser presidente y científico jefe de Google DeepMind; Koray Kavukcuoglu asume la dirección operativa de los equipos de IA."
-   },
-   "simple": {
-    "fr": "Le chef des inventeurs d'IA de Google change de rôle pour se concentrer sur les grandes découvertes.",
-    "en": "The head of Google's AI inventors is changing roles to focus on big discoveries.",
-    "es": "El jefe de los inventores de IA de Google cambia de puesto para centrarse en los grandes descubrimientos."
-   },
-   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#deepmind",
-   "source": "Build Fast with AI",
-   "expert": {
-    "fr": "Le mouvement sépare recherche et exécution : Hassabis, prix Nobel de chimie 2024, garde la science et la présidence, tandis que Kavukcuoglu, jusqu'ici directeur technique, reçoit le mandat de livrer plus vite face à OpenAI et Anthropic. Les équipes sont regroupées au sein de Google DeepMind, l'IA responsable rapprochée des modèles. À surveiller : le départ simultané de plusieurs chercheurs historiques.",
-    "en": "The move separates research from execution: Hassabis, 2024 Nobel laureate in chemistry, keeps the science and the chairmanship, while Kavukcuoglu, until now CTO, is tasked with shipping faster against OpenAI and Anthropic. Teams are consolidated inside Google DeepMind and responsible AI groups move closer to model development. One thing to watch: several long-serving researchers are leaving at the same time.",
-    "es": "El movimiento separa investigación y ejecución: Hassabis, Nobel de Química 2024, conserva la ciencia y la presidencia, mientras Kavukcuoglu, hasta ahora director técnico, recibe el encargo de entregar más rápido frente a OpenAI y Anthropic. Los equipos se agrupan dentro de Google DeepMind y la IA responsable se acerca a los modelos. A vigilar: la salida simultánea de varios investigadores veteranos."
-   },
-   "sourceKind": "secondaire"
-  },
-  {
-   "day": "2026-08-08",
-   "actor": "Google",
-   "actorSlug": "gemini",
-   "title": {
-    "fr": "Jeff Dean quitte Google pour la science automatisée",
-    "en": "Jeff Dean leaves Google for automated science",
-    "es": "Jeff Dean deja Google por la ciencia automatizada"
-   },
-   "summary": {
-    "fr": "Après 27 ans, la légende Jeff Dean part fonder Discovery Loop, une entreprise qui veut automatiser la recherche scientifique avec l'IA, Google restant investisseur.",
-    "en": "After 27 years, the legendary Jeff Dean leaves to found Discovery Loop, a company aiming to automate scientific research with AI, with Google as an investor.",
-    "es": "Tras 27 años, el legendario Jeff Dean se marcha para fundar Discovery Loop, una empresa que quiere automatizar la investigación científica con IA, con Google como inversor."
-   },
-   "simple": {
-    "fr": "Un des plus grands ingénieurs du monde part créer une IA qui aide les scientifiques à faire des découvertes.",
-    "en": "One of the world's greatest engineers is off to build an AI that helps scientists make discoveries.",
-    "es": "Uno de los mayores ingenieros del mundo se va a crear una IA que ayuda a los científicos a hacer descubrimientos."
-   },
-   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#jeffdean",
-   "source": "Build Fast with AI",
-   "expert": {
-    "fr": "Jeff Dean ne part pas seul : Sanjay Ghemawat, Quoc Le et Oriol Vinyals, trois chercheurs historiques, l'accompagnent. Discovery Loop prend la forme d'une société d'utilité publique visant la médecine, les matériaux et la biologie, et Google en sera à la fois investisseur et fournisseur de cloud. Pour Google, c'est la perte de l'architecte de TensorFlow et de Google Brain, en pleine réorganisation interne.",
-    "en": "Dean is not leaving alone: Sanjay Ghemawat, Quoc Le and Oriol Vinyals, three veteran researchers, are going with him. Discovery Loop is structured as a public benefit corporation targeting medicine, materials and biology, with Google acting as both investor and cloud provider. For Google, it means losing the architect of TensorFlow and Google Brain in the middle of an internal reorganization.",
-    "es": "Dean no se va solo: lo acompañan Sanjay Ghemawat, Quoc Le y Oriol Vinyals, tres investigadores veteranos. Discovery Loop se constituye como sociedad de beneficio público orientada a la medicina, los materiales y la biología, y Google será a la vez inversor y proveedor de nube. Para Google supone perder al arquitecto de TensorFlow y de Google Brain en plena reorganización interna."
-   },
-   "sourceKind": "secondaire"
-  },
-  {
-   "day": "2026-08-06",
-   "actor": {
-    "fr": "Monde",
-    "en": "World",
-    "es": "Mundo"
-   },
-   "actorSlug": "monde",
-   "title": {
-    "fr": "La Maison-Blanche réunit les géants de l'IA",
-    "en": "The White House gathers the AI giants",
-    "es": "La Casa Blanca reúne a los gigantes de la IA"
-   },
-   "summary": {
-    "fr": "OpenAI, Anthropic et Google participent à une réunion sur la sécurité de l'IA organisée par la Maison-Blanche.",
-    "en": "OpenAI, Anthropic and Google attend a White House meeting on AI safety.",
-    "es": "OpenAI, Anthropic y Google participan en una reunión sobre seguridad de la IA organizada por la Casa Blanca."
-   },
-   "simple": {
-    "fr": "Les grands pays discutent avec les créateurs d'IA pour s'assurer qu'elles restent sûres pour tout le monde.",
-    "en": "Big countries are talking with AI makers to make sure AI stays safe for everyone.",
-    "es": "Los grandes países hablan con los creadores de IA para asegurarse de que siga siendo segura para todos."
-   },
-   "url": "https://www.bloomberg.com/news/articles/2026-08-03/openai-anthropic-google-white-house-ai-safety",
-   "source": "Bloomberg",
-   "expert": {
-    "fr": "Aux États-Unis, aucune loi fédérale n'encadre les modèles de pointe : la régulation repose sur des engagements volontaires des laboratoires et sur des décrets présidentiels. Ce type de réunion sert à préparer des cadres communs sur les tests de sécurité et le partage d'informations, là où l'Europe impose des obligations contraignantes via l'AI Act. Reste à voir si ces échanges produiront des engagements écrits.",
-    "en": "The United States still has no federal law governing frontier models: oversight rests on voluntary commitments from the labs and on executive orders. Meetings of this kind are used to prepare common frameworks on safety testing and information sharing, in contrast with Europe, where the AI Act imposes binding obligations. What to watch is whether the talks produce written commitments or only statements.",
-    "es": "Estados Unidos sigue sin una ley federal que regule los modelos de frontera: la supervisión descansa en compromisos voluntarios de los laboratorios y en órdenes ejecutivas. Reuniones así sirven para preparar marcos comunes sobre pruebas de seguridad e intercambio de información, mientras Europa impone obligaciones vinculantes con la Ley de IA. Queda por ver si acaban en compromisos escritos."
-   },
-   "sourceKind": "media",
-   "paywall": true
-  },
-  {
-   "day": "2026-08-05",
-   "actor": "Meta",
-   "actorSlug": "meta-ai",
-   "title": {
-    "fr": "Meta dévoile son nouveau modèle Muse Spark 1.2",
-    "en": "Meta unveils its new Muse Spark 1.2 model",
-    "es": "Meta presenta su nuevo modelo Muse Spark 1.2"
-   },
-   "summary": {
-    "fr": "Meta publie Muse Spark 1.2, son nouveau modèle de pointe, et poursuit en parallèle sa stratégie de modèles ouverts.",
-    "en": "Meta releases Muse Spark 1.2, its new frontier model, while continuing its open-model strategy.",
-    "es": "Meta publica Muse Spark 1.2, su nuevo modelo puntero, y mantiene en paralelo su estrategia de modelos abiertos."
-   },
-   "simple": {
-    "fr": "Meta (la maison de Facebook et Instagram) sort une nouvelle version encore plus douée de son IA.",
-    "en": "Meta (the home of Facebook and Instagram) releases an even smarter version of its AI.",
-    "es": "Meta (la casa de Facebook e Instagram) saca una versión aún más lista de su IA."
-   },
-   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#meta",
-   "source": "Build Fast with AI",
-   "expert": {
-    "fr": "La source ne donne ni l'architecture ni les performances chiffrées ; le signal est surtout stratégique. Meta joue sur deux tableaux : un modèle de pointe pour rester dans la course face à OpenAI, Anthropic, Google et aux laboratoires chinois, et des modèles ouverts qui ont fait sa réputation chez les développeurs. Son atout reste la distribution via Facebook, Instagram et WhatsApp ; les tests indépendants diront.",
-    "en": "The source gives neither architecture nor benchmark figures; the signal is mainly strategic. Meta is playing on two boards: a frontier model to stay in the race with OpenAI, Anthropic, Google and the Chinese labs, and the open models that built its reputation among developers. Its real advantage remains distribution through Facebook, Instagram and WhatsApp; independent evaluations will settle the rest.",
-    "es": "La fuente no da ni la arquitectura ni cifras de rendimiento; la señal es sobre todo estratégica. Meta juega en dos tableros: un modelo de frontera para seguir en la carrera frente a OpenAI, Anthropic, Google y los laboratorios chinos, y los modelos abiertos que le dieron su reputación entre desarrolladores. Su baza sigue siendo la distribución vía Facebook, Instagram y WhatsApp; las pruebas independientes dirán más."
-   },
-   "sourceKind": "secondaire"
-  },
-  {
-   "day": "2026-08-04",
-   "actor": {
-    "fr": "Sécurité",
-    "en": "Safety",
-    "es": "Seguridad"
-   },
-   "actorSlug": "securite",
-   "title": {
-    "fr": "Une faille API exposait le raisonnement des grands modèles",
-    "en": "An API flaw exposed big models' reasoning",
-    "es": "Un fallo de API exponía el razonamiento de los grandes modelos"
-   },
-   "summary": {
-    "fr": "Des chercheurs révèlent une faille chez OpenAI, Anthropic et Google permettant à des modèles plus faibles de décoder le raisonnement de modèles plus puissants. Elle est corrigée.",
-    "en": "Researchers reveal a flaw at OpenAI, Anthropic and Google letting weaker models decode stronger models' reasoning. It has been fixed.",
-    "es": "Investigadores revelan un fallo en OpenAI, Anthropic y Google que permitía a modelos más débiles decodificar el razonamiento de modelos más potentes. Ya está corregido."
-   },
-   "simple": {
-    "fr": "Des spécialistes ont trouvé un trou de sécurité chez les grandes IA et l'ont fait réparer. Ouf !",
-    "en": "Specialists found a security hole in the big AIs and got it fixed. Phew!",
-    "es": "Unos especialistas encontraron un agujero de seguridad en las grandes IA y lo hicieron arreglar. ¡Uf!"
-   },
-   "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-   "source": "The Hacker News",
-   "expert": {
-    "fr": "Le mécanisme : les API renvoient le raisonnement caché sous forme de blocs chiffrés à rejouer d'un appel à l'autre, et ces blocs pouvaient être rejoués dans une autre session, où un modèle plus petit de la même famille servait de « décodeur flou ». Sur 6 708 traces d'agents publiques, les chercheurs ont récupéré 62 clés API et 33 mots de passe. Conseil : retirer les blocs de raisonnement des traces partagées.",
-    "en": "The mechanism: the APIs return hidden reasoning as encrypted blocks meant to be replayed from one call to the next, and those blocks could be replayed in another session, where a smaller model of the same family acted as a \"fuzzy decoder\". Across 6,708 public agent traces, the researchers recovered 62 API keys and 33 passwords. Practical advice: strip reasoning blocks from any shared trace.",
-    "es": "El mecanismo: las API devuelven el razonamiento oculto como bloques cifrados que se reutilizan de una llamada a otra, y esos bloques podían reproducirse en otra sesión, donde un modelo menor de la misma familia actuaba como «decodificador difuso». En 6.708 trazas públicas de agentes, los investigadores recuperaron 62 claves de API y 33 contraseñas. Consejo: quitar los bloques de razonamiento de toda traza compartida."
-   },
-   "sourceKind": "media"
-  },
-  {
-   "day": "2026-08-02",
-   "actor": {
-    "fr": "Europe",
-    "en": "Europe",
-    "es": "Europa"
-   },
-   "actorSlug": "europe",
-   "title": {
-    "fr": "IA Act : l'étiquetage des contenus IA devient obligatoire",
-    "en": "AI Act: labeling AI content becomes mandatory",
-    "es": "Ley de IA: etiquetar el contenido de IA ya es obligatorio"
-   },
-   "summary": {
-    "fr": "Les obligations de transparence de l'article 50 du règlement européen sur l'IA sont désormais applicables : les contenus générés par IA doivent être signalés.",
-    "en": "The transparency obligations of Article 50 of the EU AI Act now apply: AI-generated content must be labeled.",
-    "es": "Las obligaciones de transparencia del artículo 50 del reglamento europeo de IA ya se aplican: el contenido generado por IA debe señalarse."
-   },
-   "simple": {
-    "fr": "En Europe, une image ou un texte fabriqué par une IA doit maintenant le dire clairement. Pratique pour ne pas se faire avoir !",
-    "en": "In Europe, a picture or text made by an AI now has to say so clearly. Handy for not getting fooled!",
-    "es": "En Europa, una imagen o un texto hecho por una IA ahora tiene que decirlo claramente. ¡Muy útil para que no te engañen!"
-   },
-   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#euaiact",
-   "source": "Build Fast with AI",
-   "expert": {
-    "fr": "Concrètement, l'article 50 impose trois choses : qu'un utilisateur sache qu'il parle à une machine, que les contenus synthétiques portent un marquage lisible par machine, et que les hypertrucages soient signalés comme tels. La même date ouvre les pouvoirs de contrôle de la Commission sur les modèles à usage général, en vigueur depuis un an. Reste à voir si ces marquages survivent aux recadrages et recompressions.",
-    "en": "In practice, Article 50 requires three things: users must know they are talking to a machine, synthetic content must carry machine-readable marking, and deepfakes must be labeled as such. The same date activates the Commission's enforcement powers over general-purpose models, whose obligations had already been running for a year. An open question is how well such watermarks survive cropping and recompression.",
-    "es": "En la práctica, el artículo 50 exige tres cosas: que el usuario sepa que habla con una máquina, que el contenido sintético lleve un marcado legible por máquina y que los ultrafalsos se señalen como tales. La misma fecha activa los poderes de control de la Comisión sobre los modelos de uso general, cuyas obligaciones ya corrían desde hacía un año. Queda por ver si esas marcas resisten recortes y recompresiones."
-   },
-   "sourceKind": "secondaire"
-  },
-  {
-   "day": "2026-08-01",
-   "actor": "xAI",
-   "actorSlug": "grok",
-   "title": {
-    "fr": "Grok Voice TF 2.0 est disponible",
-    "en": "Grok Voice TF 2.0 is available",
-    "es": "Grok Voice TF 2.0 ya está disponible"
-   },
-   "summary": {
-    "fr": "xAI déploie Grok Voice TF 2.0, sa nouvelle expérience vocale temps réel intégrée à l'assistant Grok.",
-    "en": "xAI rolls out Grok Voice TF 2.0, its new real-time voice experience built into the Grok assistant.",
-    "es": "xAI despliega Grok Voice TF 2.0, su nueva experiencia de voz en tiempo real integrada en el asistente Grok."
-   },
-   "simple": {
-    "fr": "On peut maintenant discuter à voix haute avec Grok, comme au téléphone avec un ami.",
-    "en": "You can now chat out loud with Grok, like being on the phone with a friend.",
-    "es": "Ya se puede hablar en voz alta con Grok, como por teléfono con un amigo."
-   },
-   "url": "https://aitoolsrecap.com/Blog/AINewsAugust2026.aspx",
-   "source": "AI Tools Recap",
-   "expert": {
-    "fr": "Derrière le sigle, « Think Fast » : c'est surtout une mise à jour de l'API vocale pour développeurs. Depuis le 5 août, grok-voice-latest pointe vers la 2.0 et le tarif passe automatiquement de 0,05 à 0,08 dollar la minute, la 1.0 restant épinglable pour revenir en arrière. xAI revendique la première place du volet agentique du classement AA (56,5 %) et la deuxième en parole-à-parole (82,9 %) ; chiffres de l'éditeur.",
-    "en": "Behind the acronym, \"Think Fast\": this is mostly an update to the voice API for developers. Since August 5, grok-voice-latest points to version 2.0 and the price moves automatically from $0.05 to $0.08 per minute, with the option to pin 1.0 to roll back. xAI claims first place on the agentic track of the AA rankings (56.5%) and second on speech-to-speech (82.9%); those figures are the vendor's own.",
-    "es": "Tras las siglas, «Think Fast»: es sobre todo una actualización de la API de voz para desarrolladores. Desde el 5 de agosto, grok-voice-latest apunta a la 2.0 y la tarifa pasa automáticamente de 0,05 a 0,08 dólares por minuto, con opción de fijar la 1.0 para volver atrás. xAI reivindica el primer puesto agéntico de la clasificación AA (56,5 %) y el segundo en voz a voz (82,9 %); son cifras del fabricante."
-   },
-   "sourceKind": "secondaire"
-  },
-  {
-   "day": "2026-07-28",
-   "actor": {
-    "fr": "Chine",
-    "en": "China",
-    "es": "China"
-   },
-   "actorSlug": "chine",
-   "title": {
-    "fr": "Kimi K3, DeepSeek V4, Qwen : la Chine rebat les cartes",
-    "en": "Kimi K3, DeepSeek V4, Qwen: China reshuffles the deck",
-    "es": "Kimi K3, DeepSeek V4, Qwen: China baraja de nuevo"
-   },
-   "summary": {
-    "fr": "Les modèles chinois ouverts atteignent le niveau des meilleurs américains pour une fraction du coût, et dominent une partie des classements open source mondiaux.",
-    "en": "Open Chinese models now match the best American ones at a fraction of the cost, and dominate part of the global open-source leaderboards.",
-    "es": "Los modelos chinos abiertos ya igualan a los mejores estadounidenses por una fracción del coste y dominan parte de las clasificaciones open source mundiales."
-   },
-   "simple": {
-    "fr": "Les robots chinois sont devenus aussi forts que les américains, et souvent gratuits : la course est relancée !",
-    "en": "Chinese robots have become as strong as the American ones, and often free: the race is back on!",
-    "es": "Los robots chinos se han vuelto tan fuertes como los americanos, y muchas veces gratis: ¡la carrera se reactiva!"
-   },
-   "url": "https://medium.com/coinmonks/chinas-top-ai-models-in-2026-deepseek-qwen-kimi-doubao-and-the-new-ai-race-08083866ac5a",
-   "source": "Coinmonks",
-   "expert": {
-    "fr": "Le paysage chinois est une chaîne plus qu'un acteur : DeepSeek tire les prix vers le bas avec V4-Pro, Qwen donne à Alibaba Cloud une famille ouverte forte en multimodal, Kimi K3 domine le classement Arena en code front-end et Doubao s'appuie sur la distribution de ByteDance. Réserve : les classements cités viennent d'OpenCompass, un référentiel chinois, et certains poids « ouverts » restent promis plutôt que publiés.",
-    "en": "China's landscape is a chain rather than a single player: DeepSeek drives prices down with V4-Pro, Qwen gives Alibaba Cloud an open family strong in multimodal tasks, Kimi K3 tops the Arena front-end coding chart and Doubao leans on ByteDance's consumer distribution. One caveat: the rankings cited come from OpenCompass, a Chinese benchmark, and some of the \"open\" weights are still promised rather than published.",
-    "es": "El panorama chino es más una cadena que un actor: DeepSeek empuja los precios a la baja con V4-Pro, Qwen da a Alibaba Cloud una familia abierta fuerte en multimodal, Kimi K3 lidera el ranking Arena de código front-end y Doubao se apoya en la distribución de ByteDance. Una reserva: las clasificaciones citadas proceden de OpenCompass, un referente chino, y algunos pesos \"abiertos\" siguen prometidos más que publicados."
-   },
-   "sourceKind": "secondaire"
-  },
-  {
-   "day": "2026-07-26",
-   "actor": "Mistral AI",
-   "actorSlug": "mistral",
-   "title": {
-    "fr": "Microsoft investit des milliards dans le français Mistral",
-    "en": "Microsoft invests billions in France's Mistral",
-    "es": "Microsoft invierte miles de millones en la francesa Mistral"
-   },
-   "summary": {
-    "fr": "Mistral AI signe un accord de plusieurs milliards avec Microsoft pour renforcer l'IA européenne et accélérer le déploiement de ses modèles.",
-    "en": "Mistral AI signs a multi-billion deal with Microsoft to strengthen European AI and speed up the rollout of its models.",
-    "es": "Mistral AI firma un acuerdo multimillonario con Microsoft para reforzar la IA europea y acelerar el despliegue de sus modelos."
-   },
-   "simple": {
-    "fr": "La petite entreprise française d'IA reçoit une aide géante pour rivaliser avec les américains. Cocorico !",
-    "en": "The small French AI company gets giant backing to compete with the Americans. Allez la France!",
-    "es": "La pequeña empresa francesa de IA recibe una ayuda gigante para competir con los americanos. ¡Vive la France!"
-   },
-   "url": "https://www.journaldugeek.com/2026/07/26/microsoft-sort-les-milliards-pour-renforcer-mistral-en-europe/",
-   "source": "Journal du Geek",
-   "expert": {
-    "fr": "Le montant reste confidentiel, mais la mécanique est claire : des milliers de puces Nvidia Vera Rubin installées en Europe, en partie ouvertes aux clients d'Azure, et les modèles Medium 3.5 et OCR 4 distribués via Microsoft Foundry et Copilot Studio. Deux tiers des clients de Mistral utilisent déjà Microsoft, d'où le « distribution is king » d'Arthur Mensch. Paradoxe : une souveraineté adossée à un cloud américain.",
-    "en": "The amount is undisclosed, but the mechanics are clear: thousands of Nvidia Vera Rubin chips installed in Europe, partly made available to Azure customers, and the Medium 3.5 and OCR 4 models distributed through Microsoft Foundry and Copilot Studio. Two thirds of Mistral's customers already use Microsoft, hence Arthur Mensch's \"distribution is king\". The paradox: European sovereignty built on an American cloud.",
-    "es": "El importe es confidencial, pero la mecánica está clara: miles de chips Nvidia Vera Rubin instalados en Europa, en parte abiertos a los clientes de Azure, y los modelos Medium 3.5 y OCR 4 distribuidos vía Microsoft Foundry y Copilot Studio. Dos tercios de los clientes de Mistral ya usan Microsoft, de ahí el \"distribution is king\" de Arthur Mensch. La paradoja: una soberanía apoyada en una nube americana."
-   },
-   "sourceKind": "media"
-  },
-  {
-   "day": "2026-07-25",
-   "actor": "ElevenLabs",
-   "actorSlug": "elevenlabs",
-   "title": {
-    "fr": "ElevenLabs lance Music v2",
-    "en": "ElevenLabs launches Music v2",
-    "es": "ElevenLabs lanza Music v2"
-   },
-   "summary": {
-    "fr": "ElevenLabs, référence de la voix par IA, déploie Music v2, la nouvelle version de son générateur de musique.",
-    "en": "ElevenLabs, the reference for AI voices, rolls out Music v2, the new version of its music generator.",
-    "es": "ElevenLabs, la referencia de las voces por IA, despliega Music v2, la nueva versión de su generador de música."
-   },
-   "simple": {
-    "fr": "L'IA qui imite les voix sait maintenant aussi composer de vraies chansons complètes.",
-    "en": "The AI that imitates voices can now also compose real, complete songs.",
-    "es": "La IA que imita voces ahora también sabe componer canciones completas de verdad."
-   },
-   "url": "https://medium.com/creativity-ai/creativity-ai-77-midjourneys-busy-summer-runway-lands-in-your-ai-assistant-and-elevenlabs-eeb4e5fd608d",
-   "source": "Creativity AI",
-   "expert": {
-    "fr": "L'enjeu n'est pas seulement la qualité sonore : dès son premier générateur, ElevenLabs a misé sur une musique entraînée avec l'accord de détenteurs de droits et utilisable commercialement, là où Suno et Udio ont dû affronter les majors en justice. Pour les créateurs de vidéos, de podcasts ou de publicités, cette sécurité juridique décide de l'adoption. À surveiller : l'écart de qualité avec ces concurrents.",
-    "en": "The stake is not only sound quality: from its first generator, ElevenLabs positioned itself on music trained with the consent of rights holders and cleared for commercial use, where Suno and Udio had to face the major labels in court. For video, podcast and advertising creators, that legal safety is what drives adoption. What to watch: whether v2 closes the quality gap with those competitors.",
-    "es": "Lo que está en juego no es solo la calidad sonora: desde su primer generador, ElevenLabs apostó por una música entrenada con el acuerdo de titulares de derechos y apta para uso comercial, mientras Suno y Udio tuvieron que enfrentarse a las discográficas en los tribunales. Para creadores de vídeo, pódcast o publicidad, esa seguridad jurídica decide la adopción. Por ver: la brecha de calidad con esos rivales."
-   },
-   "sourceKind": "secondaire"
-  },
-  {
-   "day": "2026-07-20",
-   "actor": "Alibaba",
-   "actorSlug": "qwen",
-   "title": {
-    "fr": "Qwen 3.6 : l'IA d'Alibaba passe en mode agent",
-    "en": "Qwen 3.6: Alibaba's AI goes agentic",
-    "es": "Qwen 3.6: la IA de Alibaba pasa al modo agente"
-   },
-   "summary": {
-    "fr": "Les nouveaux Qwen 3.6 Plus et Max progressent nettement en code agentique : l'IA utilise des outils et pilote l'ordinateur pour accomplir des tâches de bout en bout.",
-    "en": "The new Qwen 3.6 Plus and Max make clear progress in agentic coding: the AI uses tools and drives the computer to complete tasks end to end.",
-    "es": "Los nuevos Qwen 3.6 Plus y Max avanzan claramente en código agéntico: la IA usa herramientas y maneja el ordenador para completar tareas de principio a fin."
-   },
-   "simple": {
-    "fr": "Le robot d'Alibaba ne fait plus que répondre : il sait maintenant se servir de l'ordinateur tout seul pour finir un travail.",
-    "en": "Alibaba's robot no longer just answers: it can now use the computer by itself to finish a job.",
-    "es": "El robot de Alibaba ya no solo responde: ahora sabe usar el ordenador él solo para terminar un trabajo."
-   },
-   "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
-   "source": "Elser AI News",
-   "expert": {
-    "fr": "Le changement se joue dans Qwen Code, l'outil en ligne de commande d'Alibaba : boucles autonomes, repli automatique d'un modèle vers un autre, sous-agents imbriqués et travail en parallèle, la même direction que GPT-5.6, Claude Sonnet 5 ou Gemini 3.5. Deux réserves : Max n'est qu'une « preview », et la disponibilité des poids n'est pas précisée. Les rumeurs d'un Qwen 3.8 n'étaient pas confirmées au 20 juillet.",
-    "en": "The shift happens inside Qwen Code, Alibaba's command-line tool: autonomous loops, automatic fallback from one model to another, nested sub-agents and parallel work, the same direction taken by GPT-5.6, Claude Sonnet 5 or Gemini 3.5. Two caveats: Max is only a \"preview\", and weight availability is not stated, unlike the smaller open Qwen models. Rumours of a Qwen 3.8 were unconfirmed as of July 20.",
-    "es": "El cambio ocurre dentro de Qwen Code, la herramienta de línea de comandos de Alibaba: bucles autónomos, cambio automático de un modelo a otro, subagentes anidados y trabajo en paralelo, la misma dirección que GPT-5.6, Claude Sonnet 5 o Gemini 3.5. Dos reservas: Max es solo una \"preview\", y la disponibilidad de los pesos no se precisa. Los rumores de un Qwen 3.8 no estaban confirmados el 20 de julio."
-   },
-   "sourceKind": "secondaire"
-  },
-  {
-   "day": "2026-07-16",
-   "actor": "Moonshot AI",
-   "actorSlug": "kimi",
-   "title": {
-    "fr": "Kimi K3 : le géant chinois qui impressionne les développeurs",
-    "en": "Kimi K3: the Chinese giant impressing developers",
-    "es": "Kimi K3: el gigante chino que impresiona a los desarrolladores"
-   },
-   "summary": {
-    "fr": "Moonshot AI lance Kimi K3 : 2800 milliards de paramètres, multimodal, un contexte d'un million de mots et des performances remarquées en création d'interfaces web.",
-    "en": "Moonshot AI launches Kimi K3: 2.8 trillion parameters, multimodal, a one-million-token context and standout performance at building web interfaces.",
-    "es": "Moonshot AI lanza Kimi K3: 2,8 billones de parámetros, multimodal, un contexto de un millón de palabras y un rendimiento destacado creando interfaces web."
-   },
-   "simple": {
-    "fr": "Un nouveau robot chinois géant vient de sortir : il lit des bibliothèques entières et fabrique des pages web magnifiques.",
-    "en": "A giant new Chinese robot just came out: it reads whole libraries and builds beautiful web pages.",
-    "es": "Acaba de salir un nuevo robot chino gigante: lee bibliotecas enteras y fabrica páginas web preciosas."
-   },
-   "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
-   "source": "Elser AI News",
-   "expert": {
-    "fr": "Les 2 800 milliards de paramètres sont à relativiser : K3 est un modèle à mélange d'experts, seule une fraction du réseau s'active à chaque mot, ce qui contient le coût d'inférence. L'attention autour du code front-end vient de la couverture d'Associated Press et de Tom's Hardware, pas de benchmarks publiés. Surtout, Moonshot promet des poids ouverts sans les avoir livrés au 20 juillet, et aucun tarif n'est connu.",
-    "en": "The 2.8 trillion parameters need context: K3 is a mixture-of-experts model, only a fraction of the network fires on each token, which keeps inference costs in check. The buzz around front-end coding comes from Associated Press and Tom's Hardware coverage, not from published benchmarks. Above all, Moonshot promises open weights it had not delivered as of July 20: a promise is not a release, and no pricing is known.",
-    "es": "Los 2,8 billones de parámetros hay que matizarlos: K3 es un modelo de mezcla de expertos, solo una fracción de la red se activa en cada token, lo que contiene el coste de inferencia. La atención sobre el código front-end viene de la cobertura de Associated Press y Tom's Hardware, no de benchmarks publicados. Sobre todo, Moonshot promete pesos abiertos que no había entregado el 20 de julio, y no hay precio conocido."
-   },
-   "sourceKind": "secondaire"
-  },
-  {
-   "day": "2026-04-24",
-   "actor": "DeepSeek",
-   "actorSlug": "deepseek",
-   "title": {
-    "fr": "DeepSeek V4 : puissance maximale, prix mini, code ouvert",
-    "en": "DeepSeek V4: max power, mini price, open weights",
-    "es": "DeepSeek V4: máxima potencia, precio mínimo, pesos abiertos"
-   },
-   "summary": {
-    "fr": "DeepSeek publie V4 en deux versions (Pro et Flash) avec un contexte d'un million de mots, des modes réflexion et des poids ouverts téléchargeables par tous.",
-    "en": "DeepSeek releases V4 in two versions (Pro and Flash) with a one-million-token context, thinking modes and open weights anyone can download.",
-    "es": "DeepSeek publica V4 en dos versiones (Pro y Flash) con un contexto de un millón de palabras, modos de reflexión y pesos abiertos que cualquiera puede descargar."
-   },
-   "simple": {
-    "fr": "Le robot chinois le plus célèbre a sorti sa nouvelle version : très forte, presque gratuite, et sa recette est publique.",
-    "en": "The most famous Chinese robot released its new version: very strong, almost free, and its recipe is public.",
-    "es": "El robot chino más famoso sacó su nueva versión: muy fuerte, casi gratis, y su receta es pública."
-   },
-   "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
-   "source": "Elser AI News",
-   "expert": {
-    "fr": "La clé du prix tient aux paramètres actifs : V4-Pro compte 1 600 milliards de paramètres au total mais n'en mobilise que 49 milliards par mot, V4-Flash 284 milliards pour 13 actifs. Cette architecture à experts fait de l'efficacité un argument commercial. Deux points pratiques : le modèle est étiqueté « Preview », et les noms d'API deepseek-chat et deepseek-reasoner sont retirés après le 24 juillet.",
-    "en": "The price story is about active parameters: V4-Pro has 1.6 trillion parameters in total but uses only 49 billion per token, V4-Flash 284 billion with 13 billion active. That expert-based architecture is what turns efficiency into a selling point. Two practical notes: the model is labelled \"Preview\", and the old deepseek-chat and deepseek-reasoner API names are retired after July 24, so developers must migrate.",
-    "es": "La clave del precio está en los parámetros activos: V4-Pro tiene 1,6 billones de parámetros en total pero solo usa 49.000 millones por token, y V4-Flash 284.000 millones con 13.000 activos. Esa arquitectura de expertos convierte la eficiencia en argumento comercial. Dos notas prácticas: el modelo lleva la etiqueta \"Preview\", y los nombres de API deepseek-chat y deepseek-reasoner se retiran tras el 24 de julio."
-   },
-   "sourceKind": "secondaire"
-  }
- ],
- "quiz": [
-  {
-   "q": {
-    "fr": "En août 2026, quelle application de Google a franchi le milliard d'utilisateurs par mois ?",
-    "en": "In August 2026, which Google app passed one billion monthly users?",
-    "es": "En agosto de 2026, ¿qué aplicación de Google superó los mil millones de usuarios al mes?"
-   },
-   "choices": [
-    {
-     "fr": "Gemini",
-     "en": "Gemini",
-     "es": "Gemini"
-    },
-    {
-     "fr": "Google Discover",
-     "en": "Google Discover",
-     "es": "Google Discover"
-    },
-    {
-     "fr": "Google Actualités",
-     "en": "Google News",
-     "es": "Google Noticias"
-    }
-   ],
-   "answer": 0,
-   "why": {
-    "fr": "L'application Gemini dépasse 1 milliard d'utilisateurs actifs mensuels et rejoint ChatGPT sur ce palier (news du 11 août).",
-    "en": "The Gemini app passed 1 billion monthly active users, joining ChatGPT at that milestone (news of August 11).",
-    "es": "La aplicación Gemini superó los 1.000 millones de usuarios activos mensuales y se une a ChatGPT en ese hito (noticia del 11 de agosto)."
-   }
-  },
-  {
-   "q": {
-    "fr": "Depuis août 2026, que demande l'article 50 du règlement européen sur l'IA ?",
-    "en": "Since August 2026, what does Article 50 of the EU AI Act require?",
-    "es": "Desde agosto de 2026, ¿qué exige el artículo 50 del reglamento europeo de IA?"
-   },
-   "choices": [
-    {
-     "fr": "Interdire les chatbots aux mineurs",
-     "en": "Banning chatbots for minors",
-     "es": "Prohibir los chatbots a los menores"
-    },
-    {
-     "fr": "Signaler les contenus générés par IA",
-     "en": "Labelling AI-generated content",
-     "es": "Señalar los contenidos generados por IA"
-    },
-    {
-     "fr": "Payer une taxe par modèle entraîné",
-     "en": "Paying a tax per trained model",
-     "es": "Pagar un impuesto por modelo entrenado"
-    }
-   ],
-   "answer": 1,
-   "why": {
-    "fr": "Les obligations de transparence sont applicables : un contenu produit par une IA doit être signalé comme tel (news du 2 août).",
-    "en": "The transparency obligations now apply: content produced by an AI must be flagged as such (news of August 2).",
-    "es": "Las obligaciones de transparencia ya se aplican: un contenido producido por una IA debe señalarse como tal (noticia del 2 de agosto)."
-   }
-  },
-  {
-   "q": {
-    "fr": "Comment des chercheurs ont-ils fait fuiter les données d'un utilisateur de Grok ?",
-    "en": "How did researchers make Grok leak a user's data?",
-    "es": "¿Cómo consiguieron unos investigadores que Grok filtrara los datos de un usuario?"
-   },
-   "choices": [
-    {
-     "fr": "En devinant son mot de passe",
-     "en": "By guessing their password",
-     "es": "Adivinando su contraseña"
-    },
-    {
-     "fr": "En lui parlant très vite",
-     "en": "By talking to it very fast",
-     "es": "Hablándole muy rápido"
-    },
-    {
-     "fr": "En lui envoyant des instructions chiffrées",
-     "en": "By sending it encrypted instructions",
-     "es": "Enviándole instrucciones cifradas"
-    }
-   ],
-   "answer": 2,
-   "why": {
-    "fr": "Chiffrées, les instructions malveillantes passent les garde-fous : c'est la « Cryptographic Context Injection » (news du 20 août).",
-    "en": "Once encrypted, the malicious instructions slip past the guardrails: that is \"Cryptographic Context Injection\" (news of August 20).",
-    "es": "Cifradas, las instrucciones maliciosas burlan las barreras: es la «Cryptographic Context Injection» (noticia del 20 de agosto)."
-   }
-  }
- ]
+    "updated": "2026-08-23",
+    "items": [
+        {
+            "day": "2026-08-20",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "title": {
+                "fr": "ChatGPT peut maintenant écrire vos messages dans Apple Messages",
+                "en": "ChatGPT can now write your texts in Apple Messages",
+                "es": "ChatGPT ya puede escribir tus mensajes en Apple Messages"
+            },
+            "summary": {
+                "fr": "Une nouvelle intégration à Apple Messages permet de laisser ChatGPT rédiger et envoyer des messages à votre place, sans quitter l'application de messagerie.",
+                "en": "A new Apple Messages integration lets ChatGPT draft and send messages on your behalf, without leaving the messaging app.",
+                "es": "Una nueva integración con Apple Messages permite que ChatGPT redacte y envíe mensajes en tu lugar, sin salir de la app de mensajería."
+            },
+            "simple": {
+                "fr": "Tu peux demander à ChatGPT d'écrire tes messages à ta place, là où tu discutes déjà avec tes amis.",
+                "en": "You can ask ChatGPT to write your messages for you, right where you already chat with your friends.",
+                "es": "Puedes pedirle a ChatGPT que escriba tus mensajes por ti, allí donde ya hablas con tus amigos."
+            },
+            "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+            "source": "TechCrunch",
+            "expert": {
+                "fr": "Le module s'exécute en local sur l'appareil et réclame l'accès complet au disque pour lire et écrire dans Messages ; ChatGPT n'indexe pas l'historique, il ne consulte que ce qu'on lui demande. OpenAI déconseille l'approbation permanente, qui supprime la dernière relecture avant envoi. Le module fonctionne aussi avec Codex et ChatGPT Work, et la durée de conservation des données reste floue.",
+                "en": "The plugin runs locally on the device and needs Full Disk Access to read and write in Messages; ChatGPT does not build an index of the history and only reads what it is asked to. OpenAI advises against persistent approval, which removes the last chance to review a message before it goes out. The plugin also works with Codex and ChatGPT Work, and how long data is retained remains unclear.",
+                "es": "El módulo se ejecuta en local en el dispositivo y exige acceso completo al disco para leer y escribir en Mensajes; ChatGPT no indexa el historial y solo consulta lo que se le pide. OpenAI desaconseja la aprobación permanente, que elimina la última revisión antes del envío. El módulo también funciona con Codex y ChatGPT Work, y la retención de los datos sigue sin estar clara."
+            },
+            "sourceKind": "media"
+        },
+        {
+            "day": "2026-08-20",
+            "actor": "Google",
+            "actorSlug": "gemini",
+            "title": {
+                "fr": "Google Discover se règle en lui décrivant ce qu'on veut lire",
+                "en": "Google Discover can now be tuned by describing what you want to read",
+                "es": "Google Discover se ajusta describiéndole lo que quieres leer"
+            },
+            "summary": {
+                "fr": "Google déploie dans les prochains jours une option qui permet de décrire en quelques mots ce qu'on souhaite voir dans son fil Discover. L'IA ajuste le fil et mémorise la préférence pour les visites suivantes.",
+                "en": "In the coming days Google is rolling out an option to describe, in a few words, what you want to see in your Discover feed. The AI adjusts the feed and remembers the preference for future visits.",
+                "es": "En los próximos días Google desplegará una opción para describir en pocas palabras lo que quieres ver en tu feed de Discover. La IA ajusta el feed y recuerda la preferencia para las siguientes visitas."
+            },
+            "simple": {
+                "fr": "Au lieu de subir les articles qu'on te propose, tu écris ce qui t'intéresse et le téléphone s'en souvient.",
+                "en": "Instead of putting up with whatever articles you are shown, you write down what interests you and the phone remembers.",
+                "es": "En vez de aguantar los artículos que te muestran, escribes lo que te interesa y el teléfono lo recuerda."
+            },
+            "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+            "source": "The Verge",
+            "expert": {
+                "fr": "Discover s'appuie jusqu'ici sur des signaux implicites, recherches et sites visités, que l'utilisateur ne contrôle qu'indirectement. Une consigne en langage naturel introduit une préférence explicite, conservée entre les sessions, dans la logique des sources favorites que Google déploie en parallèle. Reste à voir l'étendue du déploiement et l'effet sur le trafic des éditeurs.",
+                "en": "Discover has so far relied on implicit signals, searches and visited sites, that users can only steer indirectly. A natural-language instruction adds an explicit, persistent preference, in line with the preferred-sources controls Google is rolling out at the same time. How widely it ships and what it does to publisher traffic remain open questions.",
+                "es": "Discover se basaba hasta ahora en señales implícitas, búsquedas y sitios visitados, que el usuario solo controla de forma indirecta. Una instrucción en lenguaje natural introduce una preferencia explícita y persistente, en la línea de las fuentes favoritas que Google despliega en paralelo. Queda por ver el alcance del despliegue y su efecto en el tráfico de los editores."
+            },
+            "sourceKind": "media"
+        },
+        {
+            "day": "2026-08-20",
+            "actor": "Google",
+            "actorSlug": "gemini",
+            "title": {
+                "fr": "Google laisse les lecteurs désigner leurs médias préférés",
+                "en": "Google lets readers mark their preferred outlets",
+                "es": "Google deja que los lectores marquen sus medios preferidos"
+            },
+            "summary": {
+                "fr": "Un nouveau bouton permet de marquer un média comme source privilégiée dans Search, Discover et Google News. C'est une réponse à la baisse de trafic que la recherche par IA fait subir aux sites d'information.",
+                "en": "A new button lets readers mark an outlet as a preferred source across Search, Discover and Google News. It answers the traffic losses that AI-driven search inflicts on news sites.",
+                "es": "Un nuevo botón permite marcar un medio como fuente preferida en Search, Discover y Google News. Responde a la caída de tráfico que la búsqueda con IA provoca en los sitios de noticias."
+            },
+            "simple": {
+                "fr": "Quand l'IA répond directement, on ne va plus lire les journaux en ligne. Google ajoute un bouton pour dire « ce journal-là, je veux le voir ».",
+                "en": "When the AI answers directly, people stop visiting news sites. Google is adding a button to say 'this outlet, I do want to see it'.",
+                "es": "Cuando la IA responde directamente, la gente deja de entrar en los periódicos digitales. Google añade un botón para decir «este medio sí quiero verlo»."
+            },
+            "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+            "source": "TechCrunch",
+            "expert": {
+                "fr": "Le bouton peut être intégré par les éditeurs sur leur propre site ; la préférence se règle aussi depuis une page dédiée de Google. Le dispositif existait dans À la une et a été étendu en mai à AI Mode et aux AI Overviews : plus de 345 000 sources distinctes avaient alors été choisies, avec une probabilité de clic doublée. Il ne modifie pas la synthèse par l'IA elle-même et dépend d'un geste volontaire du lecteur.",
+                "en": "Publishers can embed the button on their own sites, and readers can also set preferences from a dedicated Google page. The control existed in Top Stories and was extended in May to AI Mode and AI Overviews: by then more than 345,000 distinct sources had been selected, and clicks to a preferred source were twice as likely. It leaves AI summarisation itself untouched and relies on readers opting in.",
+                "es": "Los editores pueden incrustar el botón en sus propios sitios, y la preferencia también se ajusta desde una página dedicada de Google. El control existía en Noticias destacadas y se extendió en mayo a AI Mode y a AI Overviews: para entonces se habían elegido más de 345.000 fuentes distintas, con el doble de probabilidad de clic. No cambia el resumen por IA en sí y depende de un gesto voluntario del lector."
+            },
+            "sourceKind": "media"
+        },
+        {
+            "day": "2026-08-20",
+            "actor": "xAI",
+            "actorSlug": "grok",
+            "title": {
+                "fr": "Grok répond n'importe quoi depuis plusieurs jours",
+                "en": "Grok has been answering gibberish for days",
+                "es": "Grok lleva días respondiendo incoherencias"
+            },
+            "summary": {
+                "fr": "Des utilisateurs de Grok Lite rapportent depuis mercredi matin des réponses incohérentes de la part de l'assistant de xAI.",
+                "en": "Grok Lite users have been reporting incoherent answers from xAI's assistant since Wednesday morning.",
+                "es": "Usuarios de Grok Lite llevan desde el miércoles por la mañana recibiendo respuestas incoherentes del asistente de xAI."
+            },
+            "simple": {
+                "fr": "Parfois une IA se dérègle et se met à écrire des phrases qui ne veulent rien dire. C'est ce qui arrive à Grok en ce moment.",
+                "en": "Sometimes an AI goes haywire and starts writing sentences that mean nothing. That is what is happening to Grok right now.",
+                "es": "A veces una IA se estropea y empieza a escribir frases sin sentido. Es lo que le está pasando a Grok ahora mismo."
+            },
+            "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+            "source": "TechCrunch",
+            "expert": {
+                "fr": "Le défaut touche Grok Lite sur grok.com, pas le compte Grok de X, et TechCrunch n'a pas réussi à le reproduire. xAI parle d'un « rare bug temporaire de génération » et conseille d'ouvrir une nouvelle conversation, ce qui suffit souvent mais pas toujours. Ce type de texte évoque un incident de service ou de décodage plutôt qu'un recul du modèle, chez un éditeur qui a perdu une cinquantaine de chercheurs au printemps.",
+                "en": "The fault affects Grok Lite on grok.com, not the Grok account on X, and TechCrunch could not reproduce it. xAI calls it a 'rare temporary generation glitch' and suggests starting a fresh chat, which often but not always clears it. Output of this kind usually points to a serving or decoding problem rather than a weaker model, at a company that lost around fifty researchers and most of its founding team this spring.",
+                "es": "El fallo afecta a Grok Lite en grok.com, no a la cuenta de Grok en X, y TechCrunch no logró reproducirlo. xAI habla de un «raro fallo temporal de generación» y aconseja abrir una conversación nueva, lo que a menudo basta, aunque no siempre. Ese tipo de texto suele apuntar a un problema de servicio o de decodificación más que a un modelo peor, en una empresa que perdió a unos cincuenta investigadores en primavera."
+            },
+            "sourceKind": "media"
+        },
+        {
+            "day": "2026-08-20",
+            "actor": {
+                "fr": "Monde",
+                "en": "World",
+                "es": "Mundo"
+            },
+            "actorSlug": "monde",
+            "title": {
+                "fr": "Un tiers des pages web créées depuis ChatGPT portent des traces d'IA",
+                "en": "A third of web pages created since ChatGPT show traces of AI",
+                "es": "Un tercio de las páginas web creadas desde ChatGPT muestran rastros de IA"
+            },
+            "summary": {
+                "fr": "Selon une étude, environ un tiers des pages publiées depuis le lancement de ChatGPT montrent des signes de rédaction ou de relecture par une intelligence artificielle.",
+                "en": "According to a study, about a third of the pages published since ChatGPT's launch show signs of having been written or edited by an artificial intelligence.",
+                "es": "Según un estudio, alrededor de un tercio de las páginas publicadas desde el lanzamiento de ChatGPT muestran señales de haber sido escritas o revisadas por una inteligencia artificial."
+            },
+            "simple": {
+                "fr": "Sur Internet, beaucoup de textes ne sont plus écrits entièrement par des humains : une machine a aidé à les rédiger.",
+                "en": "On the internet, many texts are no longer written entirely by people: a machine helped write them.",
+                "es": "En internet, muchos textos ya no los escriben del todo las personas: una máquina ayudó a redactarlos."
+            },
+            "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+            "source": "TechCrunch",
+            "expert": {
+                "fr": "L'étude du Pew Research Center passe des pages anglophones de Common Crawl au détecteur Pangram : 10 % de l'échantillon global, 35 % des pages postérieures à novembre 2022. L'écart par domaine est net, environ 10 % en .com contre 1 % en .edu et .gov et 4,6 % en .org. Les auteurs rappellent qu'un détecteur peut se tromper sur une page donnée, mais jugent la tendance fiable à cette échelle.",
+                "en": "The Pew Research Center ran English-language pages from Common Crawl through the Pangram detector: 10% of the overall sample, 35% of pages published after November 2022. The gap between domains is stark, roughly 10% for .com against 1% for .edu and .gov and 4.6% for .org. The authors note that a detector can misclassify any single page, but consider the trend reliable at this scale.",
+                "es": "El Pew Research Center pasó páginas en inglés de Common Crawl por el detector Pangram: el 10% de la muestra global, el 35% de las páginas posteriores a noviembre de 2022. La brecha por dominio es clara, cerca del 10% en .com frente al 1% en .edu y .gov y el 4,6% en .org. Los autores recuerdan que un detector puede equivocarse en una página concreta, pero consideran fiable la tendencia a esta escala."
+            },
+            "sourceKind": "media"
+        },
+        {
+            "day": "2026-08-20",
+            "actor": {
+                "fr": "Sécurité",
+                "en": "Safety",
+                "es": "Seguridad"
+            },
+            "actorSlug": "securite",
+            "title": {
+                "fr": "Une instruction chiffrée suffit à faire fuiter des données de Grok",
+                "en": "An encrypted instruction is enough to make Grok leak data",
+                "es": "Una instrucción cifrada basta para que Grok filtre datos"
+            },
+            "summary": {
+                "fr": "Des chercheurs ont montré qu'en chiffrant des instructions malveillantes, on contourne les garde-fous de Grok et on lui fait transmettre les données de l'utilisateur. La technique est baptisée Cryptographic Context Injection.",
+                "en": "Researchers have shown that encrypting malicious instructions bypasses Grok's safety guardrails and makes it hand over the user's data. The technique is called Cryptographic Context Injection.",
+                "es": "Unos investigadores han demostrado que cifrar instrucciones maliciosas esquiva las barreras de seguridad de Grok y le hace entregar los datos del usuario. La técnica se llama Cryptographic Context Injection."
+            },
+            "simple": {
+                "fr": "Les IA ont des règles pour refuser ce qui est dangereux. En déguisant la demande, des chercheurs ont réussi à contourner ces règles.",
+                "en": "AI systems have rules for refusing dangerous requests. By disguising the request, researchers managed to get around those rules.",
+                "es": "Las IA tienen reglas para rechazar lo peligroso. Disfrazando la petición, unos investigadores lograron saltarse esas reglas."
+            },
+            "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+            "source": "Ars Technica",
+            "expert": {
+                "fr": "Les garde-fous opèrent surtout sur le texte en clair : une consigne chiffrée traverse le filtre, puis le modèle la déchiffre lui-même et l'exécute. C'est une variante de l'injection de prompt, faiblesse structurelle des assistants qui lisent du contenu externe ; des encodages comme base64 servaient déjà à contourner des filtres. La parade : inspecter la sortie et les appels d'outils, pas seulement l'entrée.",
+                "en": "Guardrails largely operate on plain text: an encrypted or encoded instruction slips past the filter, and the model then decrypts and follows it on its own. It is a variant of prompt injection, a structural weakness of assistants that read external content, and encodings such as base64 were already used to bypass filters. The defence lies in inspecting outputs and tool calls, not just inputs.",
+                "es": "Las barreras de seguridad operan sobre todo en texto claro: una instrucción cifrada pasa el filtro y el modelo la descifra y la ejecuta por su cuenta. Es una variante de la inyección de prompt, debilidad estructural de los asistentes que leen contenido externo; codificaciones como base64 ya servían para sortear filtros. La defensa: inspeccionar las salidas y las llamadas a herramientas, no solo las entradas."
+            },
+            "sourceKind": "media"
+        },
+        {
+            "day": "2026-08-11",
+            "actor": "Google",
+            "actorSlug": "gemini",
+            "title": {
+                "fr": "Gemini franchit le milliard d'utilisateurs chaque mois",
+                "en": "Gemini passes one billion monthly users",
+                "es": "Gemini supera los mil millones de usuarios mensuales"
+            },
+            "summary": {
+                "fr": "L'application Gemini de Google dépasse désormais 1 milliard d'utilisateurs actifs mensuels, rejoignant ChatGPT sur ce palier symbolique.",
+                "en": "Google's Gemini app now tops 1 billion monthly active users, joining ChatGPT at that symbolic milestone.",
+                "es": "La aplicación Gemini de Google supera ya los 1000 millones de usuarios activos mensuales, alcanzando a ChatGPT en ese hito simbólico."
+            },
+            "simple": {
+                "fr": "Une personne sur huit dans le monde utilise maintenant l'assistant de Google chaque mois. C'est énorme !",
+                "en": "One in eight people in the world now uses Google's assistant every month. That's huge!",
+                "es": "Una de cada ocho personas del mundo ya usa el asistente de Google cada mes. ¡Es una barbaridad!"
+            },
+            "url": "https://techcrunch.com/2026/08/11/gemini-crosses-1-billion-monthly-users/",
+            "source": "TechCrunch",
+            "expert": {
+                "fr": "Le chiffre compte moins que la manière de le produire : Gemini est intégré par défaut dans Android, Chrome, Workspace et la recherche Google, ce qui gonfle mécaniquement l'usage par rapport à un ChatGPT qu'il faut aller chercher. La vraie question pour le marché est celle de la rétention et de la conversion vers les offres payantes, que Google ne détaille pas.",
+                "en": "The number matters less than how it is produced: Gemini ships by default inside Android, Chrome, Workspace and Google Search, which mechanically inflates usage compared with ChatGPT, which users have to seek out. The open question for the market is retention and conversion to paid tiers, figures Google does not break out.",
+                "es": "La cifra importa menos que la forma de obtenerla: Gemini viene integrado por defecto en Android, Chrome, Workspace y el buscador de Google, lo que infla mecánicamente el uso frente a un ChatGPT que el usuario tiene que ir a buscar. La cuestión de fondo para el mercado es la retención y la conversión a planes de pago, datos que Google no desglosa."
+            },
+            "sourceKind": "media"
+        },
+        {
+            "day": "2026-08-11",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "title": {
+                "fr": "ChatGPT arrive enfin sur Linux",
+                "en": "ChatGPT finally lands on Linux",
+                "es": "ChatGPT llega por fin a Linux"
+            },
+            "summary": {
+                "fr": "OpenAI lance son application de bureau pour Linux (Ubuntu, Debian, Fedora), avec ChatGPT, ChatGPT Work et l'assistant de code Codex.",
+                "en": "OpenAI launches its desktop app for Linux (Ubuntu, Debian, Fedora), with ChatGPT, ChatGPT Work and the Codex coding assistant.",
+                "es": "OpenAI lanza su aplicación de escritorio para Linux (Ubuntu, Debian, Fedora), con ChatGPT, ChatGPT Work y el asistente de código Codex."
+            },
+            "simple": {
+                "fr": "ChatGPT peut maintenant s'installer sur encore plus d'ordinateurs, comme une vraie application.",
+                "en": "ChatGPT can now be installed on even more computers, like a real app.",
+                "es": "ChatGPT ya puede instalarse en más ordenadores, como una aplicación de verdad."
+            },
+            "url": "https://thenewstack.io/openai-launches-linux-desktop-app/",
+            "source": "The New Stack",
+            "expert": {
+                "fr": "Linux pèse peu sur le bureau grand public mais domine chez les développeurs, cible naturelle de Codex : c'est ce public, plus que le particulier, qu'OpenAI vise avec ce portage tardif après macOS et Windows. Une application native peut aussi agir sur les fichiers et le terminal, ce que l'interface web ne permet pas. Reste à voir si les distributions hors Ubuntu, Debian et Fedora auront un support officiel.",
+                "en": "Linux has a small share of consumer desktops but dominates among developers, the natural audience for Codex: that is the public OpenAI is after with this late port, following macOS and Windows. A native app can also reach local files and the terminal, something the web interface cannot do. Whether distributions beyond Ubuntu, Debian and Fedora get official support remains to be seen.",
+                "es": "Linux pesa poco en el escritorio doméstico pero domina entre los desarrolladores, el público natural de Codex: a ellos, más que al particular, apunta OpenAI con esta llegada tardía tras macOS y Windows. Una aplicación nativa puede además actuar sobre los archivos y el terminal, algo que la versión web no permite. Queda por ver si las distribuciones fuera de Ubuntu, Debian y Fedora tendrán soporte oficial."
+            },
+            "sourceKind": "media"
+        },
+        {
+            "day": "2026-08-11",
+            "actor": "Suno",
+            "actorSlug": "suno",
+            "title": {
+                "fr": "Suno dépasse 100 millions de créateurs de musique",
+                "en": "Suno passes 100 million music creators",
+                "es": "Suno supera los 100 millones de creadores de música"
+            },
+            "summary": {
+                "fr": "La plateforme de musique générée par IA revendique plus de 100 millions d'utilisateurs et 2 millions d'abonnés payants, malgré des procès sur les droits d'auteur.",
+                "en": "The AI music platform claims over 100 million users and 2 million paying subscribers, despite copyright lawsuits.",
+                "es": "La plataforma de música generada por IA reivindica más de 100 millones de usuarios y 2 millones de suscriptores de pago, pese a los pleitos por derechos de autor."
+            },
+            "simple": {
+                "fr": "100 millions de personnes ont déjà inventé des chansons avec cette IA, sans savoir jouer d'un instrument.",
+                "en": "100 million people have already invented songs with this AI, without playing any instrument.",
+                "es": "100 millones de personas ya han inventado canciones con esta IA, sin saber tocar ningún instrumento."
+            },
+            "url": "https://www.bloomberg.com/news/articles/2026-08-11/suno-100-million-users",
+            "source": "Bloomberg",
+            "expert": {
+                "fr": "Deux millions d'abonnés sur 100 millions d'utilisateurs, c'est un taux de conversion d'environ 2 %, typique des outils créatifs grand public : l'usage est massif, le paiement reste rare. Le contentieux porte sur les données d'entraînement, les grandes maisons de disques ayant attaqué Suno dès 2024 pour l'usage de leurs catalogues ; l'issue, procès ou accords de licence, fixera le coût réel de ce modèle.",
+                "en": "Two million subscribers out of 100 million users is a conversion rate of roughly 2%, typical of consumer creative tools: usage is massive, payment remains rare. The litigation centres on training data, the major labels having sued Suno in 2024 over the use of their catalogues; the outcome, whether trials or licensing deals, will set the real cost of this business model.",
+                "es": "Dos millones de suscriptores sobre 100 millones de usuarios supone una conversión cercana al 2 %, habitual en las herramientas creativas de consumo: el uso es masivo, el pago sigue siendo raro. El litigio gira en torno a los datos de entrenamiento, pues las grandes discográficas demandaron a Suno en 2024 por el uso de sus catálogos; el desenlace, juicios o licencias, fijará el coste real del modelo."
+            },
+            "sourceKind": "media",
+            "paywall": true
+        },
+        {
+            "day": "2026-08-09",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "title": {
+                "fr": "GPT-5.6 Sol : deux fois moins d'erreurs",
+                "en": "GPT-5.6 Sol: half the errors",
+                "es": "GPT-5.6 Sol: la mitad de errores"
+            },
+            "summary": {
+                "fr": "OpenAI déploie GPT-5.6 Sol, qui réduit de 68 % les erreurs factuelles et améliore le raisonnement pour les abonnés payants.",
+                "en": "OpenAI rolls out GPT-5.6 Sol, cutting factual errors by 68% and improving reasoning for paid subscribers.",
+                "es": "OpenAI despliega GPT-5.6 Sol, que reduce un 68 % los errores factuales y mejora el razonamiento para los suscriptores de pago."
+            },
+            "simple": {
+                "fr": "Le cerveau de ChatGPT vient d'être amélioré : il se trompe beaucoup moins souvent qu'avant.",
+                "en": "ChatGPT's brain just got an upgrade: it makes far fewer mistakes than before.",
+                "es": "El cerebro de ChatGPT acaba de mejorar: se equivoca mucho menos que antes."
+            },
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026",
+            "source": "Build Fast with AI",
+            "expert": {
+                "fr": "La baisse de 68 % est mesurée par OpenAI face à GPT-5.5, son propre modèle précédent, sur des jeux de test internes : aucun score public indépendant n'accompagne l'annonce, ce qui invite à la prudence. Le déploiement suit la logique à deux vitesses désormais habituelle, Sol réservé aux abonnés, une variante Luna illimitée pour le gratuit, et vise d'abord les usages professionnels où l'erreur factuelle coûte cher.",
+                "en": "The 68% figure is OpenAI's own measurement against GPT-5.5, its previous model, on internal test sets: no independent public scores accompany the announcement, which calls for caution. The rollout follows the now familiar two-tier pattern, Sol for paying subscribers and an unlimited Luna variant for free users, and targets professional work first, where factual mistakes are costly.",
+                "es": "La reducción del 68 % la mide la propia OpenAI frente a GPT-5.5, su modelo anterior, con pruebas internas: no hay puntuaciones públicas independientes, lo que invita a la prudencia. El despliegue sigue el esquema de dos velocidades ya habitual, Sol para los suscriptores y una variante Luna ilimitada para el plan gratuito, y apunta primero a los usos profesionales, donde el error factual sale caro."
+            },
+            "sourceKind": "secondaire"
+        },
+        {
+            "day": "2026-08-09",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "title": {
+                "fr": "Anthropic investit massivement dans ses propres puces",
+                "en": "Anthropic invests massively in its own chips",
+                "es": "Anthropic invierte a lo grande en sus propios chips"
+            },
+            "summary": {
+                "fr": "Anthropic, créateur de Claude, sécurise environ 71 milliards de dollars d'engagements de calcul et lance une équipe de conception de puces maison.",
+                "en": "Anthropic, maker of Claude, secures around $71 billion in compute commitments and launches an in-house chip design team.",
+                "es": "Anthropic, creador de Claude, asegura unos 71 000 millones de dólares en compromisos de cómputo y lanza un equipo propio de diseño de chips."
+            },
+            "simple": {
+                "fr": "L'entreprise qui fabrique Claude construit ses propres « moteurs » pour faire tourner son IA plus vite.",
+                "en": "The company behind Claude is building its own \"engines\" to run its AI faster.",
+                "es": "La empresa que fabrica Claude construye sus propios «motores» para que su IA vaya más rápido."
+            },
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#anthropic",
+            "source": "Build Fast with AI",
+            "expert": {
+                "fr": "Les 71 milliards sont des engagements de location de capacité, pas des achats : Anthropic s'assure des années de calcul auprès de ses partenaires cloud, comme elle le fait déjà avec les Trainium d'Amazon et les TPU de Google. Concevoir sa propre puce suit la voie de ces deux géants et d'OpenAI, avec un but clair, réduire la dépendance à Nvidia ; mais un silicium maison met des années à arriver en production.",
+                "en": "The $71 billion consists of capacity lease obligations, not purchases: Anthropic is securing years of compute from its cloud partners, as it already does with Amazon's Trainium and Google's TPUs. Designing its own chip follows the path taken by those two giants and by OpenAI, with one clear aim, reducing dependence on Nvidia; but in-house silicon takes several years to reach production.",
+                "es": "Los 71 000 millones son compromisos de alquiler de capacidad, no compras: Anthropic se asegura años de cómputo con sus socios de nube, como ya hace con los Trainium de Amazon y las TPU de Google. Diseñar un chip propio sigue la vía abierta por esos dos gigantes y por OpenAI, con un objetivo claro, reducir la dependencia de Nvidia; pero un silicio propio tarda varios años en llegar a producción."
+            },
+            "sourceKind": "secondaire"
+        },
+        {
+            "day": "2026-08-08",
+            "actor": "Google",
+            "actorSlug": "gemini",
+            "title": {
+                "fr": "Grand remaniement chez Google DeepMind",
+                "en": "Big shake-up at Google DeepMind",
+                "es": "Gran reorganización en Google DeepMind"
+            },
+            "summary": {
+                "fr": "Demis Hassabis devient président et chef scientifique de Google DeepMind ; Koray Kavukcuoglu prend la direction opérationnelle des équipes IA.",
+                "en": "Demis Hassabis becomes chairman and chief scientist of Google DeepMind; Koray Kavukcuoglu takes operational control of the AI teams.",
+                "es": "Demis Hassabis pasa a ser presidente y científico jefe de Google DeepMind; Koray Kavukcuoglu asume la dirección operativa de los equipos de IA."
+            },
+            "simple": {
+                "fr": "Le chef des inventeurs d'IA de Google change de rôle pour se concentrer sur les grandes découvertes.",
+                "en": "The head of Google's AI inventors is changing roles to focus on big discoveries.",
+                "es": "El jefe de los inventores de IA de Google cambia de puesto para centrarse en los grandes descubrimientos."
+            },
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#deepmind",
+            "source": "Build Fast with AI",
+            "expert": {
+                "fr": "Le mouvement sépare recherche et exécution : Hassabis, prix Nobel de chimie 2024, garde la science et la présidence, tandis que Kavukcuoglu, jusqu'ici directeur technique, reçoit le mandat de livrer plus vite face à OpenAI et Anthropic. Les équipes sont regroupées au sein de Google DeepMind, l'IA responsable rapprochée des modèles. À surveiller : le départ simultané de plusieurs chercheurs historiques.",
+                "en": "The move separates research from execution: Hassabis, 2024 Nobel laureate in chemistry, keeps the science and the chairmanship, while Kavukcuoglu, until now CTO, is tasked with shipping faster against OpenAI and Anthropic. Teams are consolidated inside Google DeepMind and responsible AI groups move closer to model development. One thing to watch: several long-serving researchers are leaving at the same time.",
+                "es": "El movimiento separa investigación y ejecución: Hassabis, Nobel de Química 2024, conserva la ciencia y la presidencia, mientras Kavukcuoglu, hasta ahora director técnico, recibe el encargo de entregar más rápido frente a OpenAI y Anthropic. Los equipos se agrupan dentro de Google DeepMind y la IA responsable se acerca a los modelos. A vigilar: la salida simultánea de varios investigadores veteranos."
+            },
+            "sourceKind": "secondaire"
+        },
+        {
+            "day": "2026-08-08",
+            "actor": "Google",
+            "actorSlug": "gemini",
+            "title": {
+                "fr": "Jeff Dean quitte Google pour la science automatisée",
+                "en": "Jeff Dean leaves Google for automated science",
+                "es": "Jeff Dean deja Google por la ciencia automatizada"
+            },
+            "summary": {
+                "fr": "Après 27 ans, la légende Jeff Dean part fonder Discovery Loop, une entreprise qui veut automatiser la recherche scientifique avec l'IA, Google restant investisseur.",
+                "en": "After 27 years, the legendary Jeff Dean leaves to found Discovery Loop, a company aiming to automate scientific research with AI, with Google as an investor.",
+                "es": "Tras 27 años, el legendario Jeff Dean se marcha para fundar Discovery Loop, una empresa que quiere automatizar la investigación científica con IA, con Google como inversor."
+            },
+            "simple": {
+                "fr": "Un des plus grands ingénieurs du monde part créer une IA qui aide les scientifiques à faire des découvertes.",
+                "en": "One of the world's greatest engineers is off to build an AI that helps scientists make discoveries.",
+                "es": "Uno de los mayores ingenieros del mundo se va a crear una IA que ayuda a los científicos a hacer descubrimientos."
+            },
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#jeffdean",
+            "source": "Build Fast with AI",
+            "expert": {
+                "fr": "Jeff Dean ne part pas seul : Sanjay Ghemawat, Quoc Le et Oriol Vinyals, trois chercheurs historiques, l'accompagnent. Discovery Loop prend la forme d'une société d'utilité publique visant la médecine, les matériaux et la biologie, et Google en sera à la fois investisseur et fournisseur de cloud. Pour Google, c'est la perte de l'architecte de TensorFlow et de Google Brain, en pleine réorganisation interne.",
+                "en": "Dean is not leaving alone: Sanjay Ghemawat, Quoc Le and Oriol Vinyals, three veteran researchers, are going with him. Discovery Loop is structured as a public benefit corporation targeting medicine, materials and biology, with Google acting as both investor and cloud provider. For Google, it means losing the architect of TensorFlow and Google Brain in the middle of an internal reorganization.",
+                "es": "Dean no se va solo: lo acompañan Sanjay Ghemawat, Quoc Le y Oriol Vinyals, tres investigadores veteranos. Discovery Loop se constituye como sociedad de beneficio público orientada a la medicina, los materiales y la biología, y Google será a la vez inversor y proveedor de nube. Para Google supone perder al arquitecto de TensorFlow y de Google Brain en plena reorganización interna."
+            },
+            "sourceKind": "secondaire"
+        },
+        {
+            "day": "2026-08-06",
+            "actor": {
+                "fr": "Monde",
+                "en": "World",
+                "es": "Mundo"
+            },
+            "actorSlug": "monde",
+            "title": {
+                "fr": "La Maison-Blanche réunit les géants de l'IA",
+                "en": "The White House gathers the AI giants",
+                "es": "La Casa Blanca reúne a los gigantes de la IA"
+            },
+            "summary": {
+                "fr": "OpenAI, Anthropic et Google participent à une réunion sur la sécurité de l'IA organisée par la Maison-Blanche.",
+                "en": "OpenAI, Anthropic and Google attend a White House meeting on AI safety.",
+                "es": "OpenAI, Anthropic y Google participan en una reunión sobre seguridad de la IA organizada por la Casa Blanca."
+            },
+            "simple": {
+                "fr": "Les grands pays discutent avec les créateurs d'IA pour s'assurer qu'elles restent sûres pour tout le monde.",
+                "en": "Big countries are talking with AI makers to make sure AI stays safe for everyone.",
+                "es": "Los grandes países hablan con los creadores de IA para asegurarse de que siga siendo segura para todos."
+            },
+            "url": "https://www.bloomberg.com/news/articles/2026-08-03/openai-anthropic-google-white-house-ai-safety",
+            "source": "Bloomberg",
+            "expert": {
+                "fr": "Aux États-Unis, aucune loi fédérale n'encadre les modèles de pointe : la régulation repose sur des engagements volontaires des laboratoires et sur des décrets présidentiels. Ce type de réunion sert à préparer des cadres communs sur les tests de sécurité et le partage d'informations, là où l'Europe impose des obligations contraignantes via l'AI Act. Reste à voir si ces échanges produiront des engagements écrits.",
+                "en": "The United States still has no federal law governing frontier models: oversight rests on voluntary commitments from the labs and on executive orders. Meetings of this kind are used to prepare common frameworks on safety testing and information sharing, in contrast with Europe, where the AI Act imposes binding obligations. What to watch is whether the talks produce written commitments or only statements.",
+                "es": "Estados Unidos sigue sin una ley federal que regule los modelos de frontera: la supervisión descansa en compromisos voluntarios de los laboratorios y en órdenes ejecutivas. Reuniones así sirven para preparar marcos comunes sobre pruebas de seguridad e intercambio de información, mientras Europa impone obligaciones vinculantes con la Ley de IA. Queda por ver si acaban en compromisos escritos."
+            },
+            "sourceKind": "media",
+            "paywall": true
+        },
+        {
+            "day": "2026-08-05",
+            "actor": "Meta",
+            "actorSlug": "meta-ai",
+            "title": {
+                "fr": "Meta dévoile son nouveau modèle Muse Spark 1.2",
+                "en": "Meta unveils its new Muse Spark 1.2 model",
+                "es": "Meta presenta su nuevo modelo Muse Spark 1.2"
+            },
+            "summary": {
+                "fr": "Meta publie Muse Spark 1.2, son nouveau modèle de pointe, et poursuit en parallèle sa stratégie de modèles ouverts.",
+                "en": "Meta releases Muse Spark 1.2, its new frontier model, while continuing its open-model strategy.",
+                "es": "Meta publica Muse Spark 1.2, su nuevo modelo puntero, y mantiene en paralelo su estrategia de modelos abiertos."
+            },
+            "simple": {
+                "fr": "Meta (la maison de Facebook et Instagram) sort une nouvelle version encore plus douée de son IA.",
+                "en": "Meta (the home of Facebook and Instagram) releases an even smarter version of its AI.",
+                "es": "Meta (la casa de Facebook e Instagram) saca una versión aún más lista de su IA."
+            },
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#meta",
+            "source": "Build Fast with AI",
+            "expert": {
+                "fr": "La source ne donne ni l'architecture ni les performances chiffrées ; le signal est surtout stratégique. Meta joue sur deux tableaux : un modèle de pointe pour rester dans la course face à OpenAI, Anthropic, Google et aux laboratoires chinois, et des modèles ouverts qui ont fait sa réputation chez les développeurs. Son atout reste la distribution via Facebook, Instagram et WhatsApp ; les tests indépendants diront.",
+                "en": "The source gives neither architecture nor benchmark figures; the signal is mainly strategic. Meta is playing on two boards: a frontier model to stay in the race with OpenAI, Anthropic, Google and the Chinese labs, and the open models that built its reputation among developers. Its real advantage remains distribution through Facebook, Instagram and WhatsApp; independent evaluations will settle the rest.",
+                "es": "La fuente no da ni la arquitectura ni cifras de rendimiento; la señal es sobre todo estratégica. Meta juega en dos tableros: un modelo de frontera para seguir en la carrera frente a OpenAI, Anthropic, Google y los laboratorios chinos, y los modelos abiertos que le dieron su reputación entre desarrolladores. Su baza sigue siendo la distribución vía Facebook, Instagram y WhatsApp; las pruebas independientes dirán más."
+            },
+            "sourceKind": "secondaire"
+        },
+        {
+            "day": "2026-08-04",
+            "actor": {
+                "fr": "Sécurité",
+                "en": "Safety",
+                "es": "Seguridad"
+            },
+            "actorSlug": "securite",
+            "title": {
+                "fr": "Une faille API exposait le raisonnement des grands modèles",
+                "en": "An API flaw exposed big models' reasoning",
+                "es": "Un fallo de API exponía el razonamiento de los grandes modelos"
+            },
+            "summary": {
+                "fr": "Des chercheurs révèlent une faille chez OpenAI, Anthropic et Google permettant à des modèles plus faibles de décoder le raisonnement de modèles plus puissants. Elle est corrigée.",
+                "en": "Researchers reveal a flaw at OpenAI, Anthropic and Google letting weaker models decode stronger models' reasoning. It has been fixed.",
+                "es": "Investigadores revelan un fallo en OpenAI, Anthropic y Google que permitía a modelos más débiles decodificar el razonamiento de modelos más potentes. Ya está corregido."
+            },
+            "simple": {
+                "fr": "Des spécialistes ont trouvé un trou de sécurité chez les grandes IA et l'ont fait réparer. Ouf !",
+                "en": "Specialists found a security hole in the big AIs and got it fixed. Phew!",
+                "es": "Unos especialistas encontraron un agujero de seguridad en las grandes IA y lo hicieron arreglar. ¡Uf!"
+            },
+            "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+            "source": "The Hacker News",
+            "expert": {
+                "fr": "Le mécanisme : les API renvoient le raisonnement caché sous forme de blocs chiffrés à rejouer d'un appel à l'autre, et ces blocs pouvaient être rejoués dans une autre session, où un modèle plus petit de la même famille servait de « décodeur flou ». Sur 6 708 traces d'agents publiques, les chercheurs ont récupéré 62 clés API et 33 mots de passe. Conseil : retirer les blocs de raisonnement des traces partagées.",
+                "en": "The mechanism: the APIs return hidden reasoning as encrypted blocks meant to be replayed from one call to the next, and those blocks could be replayed in another session, where a smaller model of the same family acted as a \"fuzzy decoder\". Across 6,708 public agent traces, the researchers recovered 62 API keys and 33 passwords. Practical advice: strip reasoning blocks from any shared trace.",
+                "es": "El mecanismo: las API devuelven el razonamiento oculto como bloques cifrados que se reutilizan de una llamada a otra, y esos bloques podían reproducirse en otra sesión, donde un modelo menor de la misma familia actuaba como «decodificador difuso». En 6.708 trazas públicas de agentes, los investigadores recuperaron 62 claves de API y 33 contraseñas. Consejo: quitar los bloques de razonamiento de toda traza compartida."
+            },
+            "sourceKind": "media"
+        },
+        {
+            "day": "2026-08-02",
+            "actor": {
+                "fr": "Europe",
+                "en": "Europe",
+                "es": "Europa"
+            },
+            "actorSlug": "europe",
+            "title": {
+                "fr": "IA Act : l'étiquetage des contenus IA devient obligatoire",
+                "en": "AI Act: labeling AI content becomes mandatory",
+                "es": "Ley de IA: etiquetar el contenido de IA ya es obligatorio"
+            },
+            "summary": {
+                "fr": "Les obligations de transparence de l'article 50 du règlement européen sur l'IA sont désormais applicables : les contenus générés par IA doivent être signalés.",
+                "en": "The transparency obligations of Article 50 of the EU AI Act now apply: AI-generated content must be labeled.",
+                "es": "Las obligaciones de transparencia del artículo 50 del reglamento europeo de IA ya se aplican: el contenido generado por IA debe señalarse."
+            },
+            "simple": {
+                "fr": "En Europe, une image ou un texte fabriqué par une IA doit maintenant le dire clairement. Pratique pour ne pas se faire avoir !",
+                "en": "In Europe, a picture or text made by an AI now has to say so clearly. Handy for not getting fooled!",
+                "es": "En Europa, una imagen o un texto hecho por una IA ahora tiene que decirlo claramente. ¡Muy útil para que no te engañen!"
+            },
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026#euaiact",
+            "source": "Build Fast with AI",
+            "expert": {
+                "fr": "Concrètement, l'article 50 impose trois choses : qu'un utilisateur sache qu'il parle à une machine, que les contenus synthétiques portent un marquage lisible par machine, et que les hypertrucages soient signalés comme tels. La même date ouvre les pouvoirs de contrôle de la Commission sur les modèles à usage général, en vigueur depuis un an. Reste à voir si ces marquages survivent aux recadrages et recompressions.",
+                "en": "In practice, Article 50 requires three things: users must know they are talking to a machine, synthetic content must carry machine-readable marking, and deepfakes must be labeled as such. The same date activates the Commission's enforcement powers over general-purpose models, whose obligations had already been running for a year. An open question is how well such watermarks survive cropping and recompression.",
+                "es": "En la práctica, el artículo 50 exige tres cosas: que el usuario sepa que habla con una máquina, que el contenido sintético lleve un marcado legible por máquina y que los ultrafalsos se señalen como tales. La misma fecha activa los poderes de control de la Comisión sobre los modelos de uso general, cuyas obligaciones ya corrían desde hacía un año. Queda por ver si esas marcas resisten recortes y recompresiones."
+            },
+            "sourceKind": "secondaire"
+        },
+        {
+            "day": "2026-08-01",
+            "actor": "xAI",
+            "actorSlug": "grok",
+            "title": {
+                "fr": "Grok Voice TF 2.0 est disponible",
+                "en": "Grok Voice TF 2.0 is available",
+                "es": "Grok Voice TF 2.0 ya está disponible"
+            },
+            "summary": {
+                "fr": "xAI déploie Grok Voice TF 2.0, sa nouvelle expérience vocale temps réel intégrée à l'assistant Grok.",
+                "en": "xAI rolls out Grok Voice TF 2.0, its new real-time voice experience built into the Grok assistant.",
+                "es": "xAI despliega Grok Voice TF 2.0, su nueva experiencia de voz en tiempo real integrada en el asistente Grok."
+            },
+            "simple": {
+                "fr": "On peut maintenant discuter à voix haute avec Grok, comme au téléphone avec un ami.",
+                "en": "You can now chat out loud with Grok, like being on the phone with a friend.",
+                "es": "Ya se puede hablar en voz alta con Grok, como por teléfono con un amigo."
+            },
+            "url": "https://aitoolsrecap.com/Blog/AINewsAugust2026.aspx",
+            "source": "AI Tools Recap",
+            "expert": {
+                "fr": "Derrière le sigle, « Think Fast » : c'est surtout une mise à jour de l'API vocale pour développeurs. Depuis le 5 août, grok-voice-latest pointe vers la 2.0 et le tarif passe automatiquement de 0,05 à 0,08 dollar la minute, la 1.0 restant épinglable pour revenir en arrière. xAI revendique la première place du volet agentique du classement AA (56,5 %) et la deuxième en parole-à-parole (82,9 %) ; chiffres de l'éditeur.",
+                "en": "Behind the acronym, \"Think Fast\": this is mostly an update to the voice API for developers. Since August 5, grok-voice-latest points to version 2.0 and the price moves automatically from $0.05 to $0.08 per minute, with the option to pin 1.0 to roll back. xAI claims first place on the agentic track of the AA rankings (56.5%) and second on speech-to-speech (82.9%); those figures are the vendor's own.",
+                "es": "Tras las siglas, «Think Fast»: es sobre todo una actualización de la API de voz para desarrolladores. Desde el 5 de agosto, grok-voice-latest apunta a la 2.0 y la tarifa pasa automáticamente de 0,05 a 0,08 dólares por minuto, con opción de fijar la 1.0 para volver atrás. xAI reivindica el primer puesto agéntico de la clasificación AA (56,5 %) y el segundo en voz a voz (82,9 %); son cifras del fabricante."
+            },
+            "sourceKind": "secondaire"
+        },
+        {
+            "day": "2026-07-28",
+            "actor": {
+                "fr": "Chine",
+                "en": "China",
+                "es": "China"
+            },
+            "actorSlug": "chine",
+            "title": {
+                "fr": "Kimi K3, DeepSeek V4, Qwen : la Chine rebat les cartes",
+                "en": "Kimi K3, DeepSeek V4, Qwen: China reshuffles the deck",
+                "es": "Kimi K3, DeepSeek V4, Qwen: China baraja de nuevo"
+            },
+            "summary": {
+                "fr": "Les modèles chinois ouverts atteignent le niveau des meilleurs américains pour une fraction du coût, et dominent une partie des classements open source mondiaux.",
+                "en": "Open Chinese models now match the best American ones at a fraction of the cost, and dominate part of the global open-source leaderboards.",
+                "es": "Los modelos chinos abiertos ya igualan a los mejores estadounidenses por una fracción del coste y dominan parte de las clasificaciones open source mundiales."
+            },
+            "simple": {
+                "fr": "Les robots chinois sont devenus aussi forts que les américains, et souvent gratuits : la course est relancée !",
+                "en": "Chinese robots have become as strong as the American ones, and often free: the race is back on!",
+                "es": "Los robots chinos se han vuelto tan fuertes como los americanos, y muchas veces gratis: ¡la carrera se reactiva!"
+            },
+            "url": "https://medium.com/coinmonks/chinas-top-ai-models-in-2026-deepseek-qwen-kimi-doubao-and-the-new-ai-race-08083866ac5a",
+            "source": "Coinmonks",
+            "expert": {
+                "fr": "Le paysage chinois est une chaîne plus qu'un acteur : DeepSeek tire les prix vers le bas avec V4-Pro, Qwen donne à Alibaba Cloud une famille ouverte forte en multimodal, Kimi K3 domine le classement Arena en code front-end et Doubao s'appuie sur la distribution de ByteDance. Réserve : les classements cités viennent d'OpenCompass, un référentiel chinois, et certains poids « ouverts » restent promis plutôt que publiés.",
+                "en": "China's landscape is a chain rather than a single player: DeepSeek drives prices down with V4-Pro, Qwen gives Alibaba Cloud an open family strong in multimodal tasks, Kimi K3 tops the Arena front-end coding chart and Doubao leans on ByteDance's consumer distribution. One caveat: the rankings cited come from OpenCompass, a Chinese benchmark, and some of the \"open\" weights are still promised rather than published.",
+                "es": "El panorama chino es más una cadena que un actor: DeepSeek empuja los precios a la baja con V4-Pro, Qwen da a Alibaba Cloud una familia abierta fuerte en multimodal, Kimi K3 lidera el ranking Arena de código front-end y Doubao se apoya en la distribución de ByteDance. Una reserva: las clasificaciones citadas proceden de OpenCompass, un referente chino, y algunos pesos \"abiertos\" siguen prometidos más que publicados."
+            },
+            "sourceKind": "secondaire"
+        },
+        {
+            "day": "2026-07-26",
+            "actor": "Mistral AI",
+            "actorSlug": "mistral",
+            "title": {
+                "fr": "Microsoft investit des milliards dans le français Mistral",
+                "en": "Microsoft invests billions in France's Mistral",
+                "es": "Microsoft invierte miles de millones en la francesa Mistral"
+            },
+            "summary": {
+                "fr": "Mistral AI signe un accord de plusieurs milliards avec Microsoft pour renforcer l'IA européenne et accélérer le déploiement de ses modèles.",
+                "en": "Mistral AI signs a multi-billion deal with Microsoft to strengthen European AI and speed up the rollout of its models.",
+                "es": "Mistral AI firma un acuerdo multimillonario con Microsoft para reforzar la IA europea y acelerar el despliegue de sus modelos."
+            },
+            "simple": {
+                "fr": "La petite entreprise française d'IA reçoit une aide géante pour rivaliser avec les américains. Cocorico !",
+                "en": "The small French AI company gets giant backing to compete with the Americans. Allez la France!",
+                "es": "La pequeña empresa francesa de IA recibe una ayuda gigante para competir con los americanos. ¡Vive la France!"
+            },
+            "url": "https://www.journaldugeek.com/2026/07/26/microsoft-sort-les-milliards-pour-renforcer-mistral-en-europe/",
+            "source": "Journal du Geek",
+            "expert": {
+                "fr": "Le montant reste confidentiel, mais la mécanique est claire : des milliers de puces Nvidia Vera Rubin installées en Europe, en partie ouvertes aux clients d'Azure, et les modèles Medium 3.5 et OCR 4 distribués via Microsoft Foundry et Copilot Studio. Deux tiers des clients de Mistral utilisent déjà Microsoft, d'où le « distribution is king » d'Arthur Mensch. Paradoxe : une souveraineté adossée à un cloud américain.",
+                "en": "The amount is undisclosed, but the mechanics are clear: thousands of Nvidia Vera Rubin chips installed in Europe, partly made available to Azure customers, and the Medium 3.5 and OCR 4 models distributed through Microsoft Foundry and Copilot Studio. Two thirds of Mistral's customers already use Microsoft, hence Arthur Mensch's \"distribution is king\". The paradox: European sovereignty built on an American cloud.",
+                "es": "El importe es confidencial, pero la mecánica está clara: miles de chips Nvidia Vera Rubin instalados en Europa, en parte abiertos a los clientes de Azure, y los modelos Medium 3.5 y OCR 4 distribuidos vía Microsoft Foundry y Copilot Studio. Dos tercios de los clientes de Mistral ya usan Microsoft, de ahí el \"distribution is king\" de Arthur Mensch. La paradoja: una soberanía apoyada en una nube americana."
+            },
+            "sourceKind": "media"
+        },
+        {
+            "day": "2026-07-25",
+            "actor": "ElevenLabs",
+            "actorSlug": "elevenlabs",
+            "title": {
+                "fr": "ElevenLabs lance Music v2",
+                "en": "ElevenLabs launches Music v2",
+                "es": "ElevenLabs lanza Music v2"
+            },
+            "summary": {
+                "fr": "ElevenLabs, référence de la voix par IA, déploie Music v2, la nouvelle version de son générateur de musique.",
+                "en": "ElevenLabs, the reference for AI voices, rolls out Music v2, the new version of its music generator.",
+                "es": "ElevenLabs, la referencia de las voces por IA, despliega Music v2, la nueva versión de su generador de música."
+            },
+            "simple": {
+                "fr": "L'IA qui imite les voix sait maintenant aussi composer de vraies chansons complètes.",
+                "en": "The AI that imitates voices can now also compose real, complete songs.",
+                "es": "La IA que imita voces ahora también sabe componer canciones completas de verdad."
+            },
+            "url": "https://medium.com/creativity-ai/creativity-ai-77-midjourneys-busy-summer-runway-lands-in-your-ai-assistant-and-elevenlabs-eeb4e5fd608d",
+            "source": "Creativity AI",
+            "expert": {
+                "fr": "L'enjeu n'est pas seulement la qualité sonore : dès son premier générateur, ElevenLabs a misé sur une musique entraînée avec l'accord de détenteurs de droits et utilisable commercialement, là où Suno et Udio ont dû affronter les majors en justice. Pour les créateurs de vidéos, de podcasts ou de publicités, cette sécurité juridique décide de l'adoption. À surveiller : l'écart de qualité avec ces concurrents.",
+                "en": "The stake is not only sound quality: from its first generator, ElevenLabs positioned itself on music trained with the consent of rights holders and cleared for commercial use, where Suno and Udio had to face the major labels in court. For video, podcast and advertising creators, that legal safety is what drives adoption. What to watch: whether v2 closes the quality gap with those competitors.",
+                "es": "Lo que está en juego no es solo la calidad sonora: desde su primer generador, ElevenLabs apostó por una música entrenada con el acuerdo de titulares de derechos y apta para uso comercial, mientras Suno y Udio tuvieron que enfrentarse a las discográficas en los tribunales. Para creadores de vídeo, pódcast o publicidad, esa seguridad jurídica decide la adopción. Por ver: la brecha de calidad con esos rivales."
+            },
+            "sourceKind": "secondaire"
+        },
+        {
+            "day": "2026-07-20",
+            "actor": "Alibaba",
+            "actorSlug": "qwen",
+            "title": {
+                "fr": "Qwen 3.6 : l'IA d'Alibaba passe en mode agent",
+                "en": "Qwen 3.6: Alibaba's AI goes agentic",
+                "es": "Qwen 3.6: la IA de Alibaba pasa al modo agente"
+            },
+            "summary": {
+                "fr": "Les nouveaux Qwen 3.6 Plus et Max progressent nettement en code agentique : l'IA utilise des outils et pilote l'ordinateur pour accomplir des tâches de bout en bout.",
+                "en": "The new Qwen 3.6 Plus and Max make clear progress in agentic coding: the AI uses tools and drives the computer to complete tasks end to end.",
+                "es": "Los nuevos Qwen 3.6 Plus y Max avanzan claramente en código agéntico: la IA usa herramientas y maneja el ordenador para completar tareas de principio a fin."
+            },
+            "simple": {
+                "fr": "Le robot d'Alibaba ne fait plus que répondre : il sait maintenant se servir de l'ordinateur tout seul pour finir un travail.",
+                "en": "Alibaba's robot no longer just answers: it can now use the computer by itself to finish a job.",
+                "es": "El robot de Alibaba ya no solo responde: ahora sabe usar el ordenador él solo para terminar un trabajo."
+            },
+            "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
+            "source": "Elser AI News",
+            "expert": {
+                "fr": "Le changement se joue dans Qwen Code, l'outil en ligne de commande d'Alibaba : boucles autonomes, repli automatique d'un modèle vers un autre, sous-agents imbriqués et travail en parallèle, la même direction que GPT-5.6, Claude Sonnet 5 ou Gemini 3.5. Deux réserves : Max n'est qu'une « preview », et la disponibilité des poids n'est pas précisée. Les rumeurs d'un Qwen 3.8 n'étaient pas confirmées au 20 juillet.",
+                "en": "The shift happens inside Qwen Code, Alibaba's command-line tool: autonomous loops, automatic fallback from one model to another, nested sub-agents and parallel work, the same direction taken by GPT-5.6, Claude Sonnet 5 or Gemini 3.5. Two caveats: Max is only a \"preview\", and weight availability is not stated, unlike the smaller open Qwen models. Rumours of a Qwen 3.8 were unconfirmed as of July 20.",
+                "es": "El cambio ocurre dentro de Qwen Code, la herramienta de línea de comandos de Alibaba: bucles autónomos, cambio automático de un modelo a otro, subagentes anidados y trabajo en paralelo, la misma dirección que GPT-5.6, Claude Sonnet 5 o Gemini 3.5. Dos reservas: Max es solo una \"preview\", y la disponibilidad de los pesos no se precisa. Los rumores de un Qwen 3.8 no estaban confirmados el 20 de julio."
+            },
+            "sourceKind": "secondaire"
+        },
+        {
+            "day": "2026-07-16",
+            "actor": "Moonshot AI",
+            "actorSlug": "kimi",
+            "title": {
+                "fr": "Kimi K3 : le géant chinois qui impressionne les développeurs",
+                "en": "Kimi K3: the Chinese giant impressing developers",
+                "es": "Kimi K3: el gigante chino que impresiona a los desarrolladores"
+            },
+            "summary": {
+                "fr": "Moonshot AI lance Kimi K3 : 2800 milliards de paramètres, multimodal, un contexte d'un million de mots et des performances remarquées en création d'interfaces web.",
+                "en": "Moonshot AI launches Kimi K3: 2.8 trillion parameters, multimodal, a one-million-token context and standout performance at building web interfaces.",
+                "es": "Moonshot AI lanza Kimi K3: 2,8 billones de parámetros, multimodal, un contexto de un millón de palabras y un rendimiento destacado creando interfaces web."
+            },
+            "simple": {
+                "fr": "Un nouveau robot chinois géant vient de sortir : il lit des bibliothèques entières et fabrique des pages web magnifiques.",
+                "en": "A giant new Chinese robot just came out: it reads whole libraries and builds beautiful web pages.",
+                "es": "Acaba de salir un nuevo robot chino gigante: lee bibliotecas enteras y fabrica páginas web preciosas."
+            },
+            "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
+            "source": "Elser AI News",
+            "expert": {
+                "fr": "Les 2 800 milliards de paramètres sont à relativiser : K3 est un modèle à mélange d'experts, seule une fraction du réseau s'active à chaque mot, ce qui contient le coût d'inférence. L'attention autour du code front-end vient de la couverture d'Associated Press et de Tom's Hardware, pas de benchmarks publiés. Surtout, Moonshot promet des poids ouverts sans les avoir livrés au 20 juillet, et aucun tarif n'est connu.",
+                "en": "The 2.8 trillion parameters need context: K3 is a mixture-of-experts model, only a fraction of the network fires on each token, which keeps inference costs in check. The buzz around front-end coding comes from Associated Press and Tom's Hardware coverage, not from published benchmarks. Above all, Moonshot promises open weights it had not delivered as of July 20: a promise is not a release, and no pricing is known.",
+                "es": "Los 2,8 billones de parámetros hay que matizarlos: K3 es un modelo de mezcla de expertos, solo una fracción de la red se activa en cada token, lo que contiene el coste de inferencia. La atención sobre el código front-end viene de la cobertura de Associated Press y Tom's Hardware, no de benchmarks publicados. Sobre todo, Moonshot promete pesos abiertos que no había entregado el 20 de julio, y no hay precio conocido."
+            },
+            "sourceKind": "secondaire"
+        },
+        {
+            "day": "2026-04-24",
+            "actor": "DeepSeek",
+            "actorSlug": "deepseek",
+            "title": {
+                "fr": "DeepSeek V4 : puissance maximale, prix mini, code ouvert",
+                "en": "DeepSeek V4: max power, mini price, open weights",
+                "es": "DeepSeek V4: máxima potencia, precio mínimo, pesos abiertos"
+            },
+            "summary": {
+                "fr": "DeepSeek publie V4 en deux versions (Pro et Flash) avec un contexte d'un million de mots, des modes réflexion et des poids ouverts téléchargeables par tous.",
+                "en": "DeepSeek releases V4 in two versions (Pro and Flash) with a one-million-token context, thinking modes and open weights anyone can download.",
+                "es": "DeepSeek publica V4 en dos versiones (Pro y Flash) con un contexto de un millón de palabras, modos de reflexión y pesos abiertos que cualquiera puede descargar."
+            },
+            "simple": {
+                "fr": "Le robot chinois le plus célèbre a sorti sa nouvelle version : très forte, presque gratuite, et sa recette est publique.",
+                "en": "The most famous Chinese robot released its new version: very strong, almost free, and its recipe is public.",
+                "es": "El robot chino más famoso sacó su nueva versión: muy fuerte, casi gratis, y su receta es pública."
+            },
+            "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
+            "source": "Elser AI News",
+            "expert": {
+                "fr": "La clé du prix tient aux paramètres actifs : V4-Pro compte 1 600 milliards de paramètres au total mais n'en mobilise que 49 milliards par mot, V4-Flash 284 milliards pour 13 actifs. Cette architecture à experts fait de l'efficacité un argument commercial. Deux points pratiques : le modèle est étiqueté « Preview », et les noms d'API deepseek-chat et deepseek-reasoner sont retirés après le 24 juillet.",
+                "en": "The price story is about active parameters: V4-Pro has 1.6 trillion parameters in total but uses only 49 billion per token, V4-Flash 284 billion with 13 billion active. That expert-based architecture is what turns efficiency into a selling point. Two practical notes: the model is labelled \"Preview\", and the old deepseek-chat and deepseek-reasoner API names are retired after July 24, so developers must migrate.",
+                "es": "La clave del precio está en los parámetros activos: V4-Pro tiene 1,6 billones de parámetros en total pero solo usa 49.000 millones por token, y V4-Flash 284.000 millones con 13.000 activos. Esa arquitectura de expertos convierte la eficiencia en argumento comercial. Dos notas prácticas: el modelo lleva la etiqueta \"Preview\", y los nombres de API deepseek-chat y deepseek-reasoner se retiran tras el 24 de julio."
+            },
+            "sourceKind": "secondaire"
+        }
+    ],
+    "quiz": [
+        {
+            "q": {
+                "fr": "En août 2026, quelle application de Google a franchi le milliard d'utilisateurs par mois ?",
+                "en": "In August 2026, which Google app passed one billion monthly users?",
+                "es": "En agosto de 2026, ¿qué aplicación de Google superó los mil millones de usuarios al mes?"
+            },
+            "choices": [
+                {
+                    "fr": "Gemini",
+                    "en": "Gemini",
+                    "es": "Gemini"
+                },
+                {
+                    "fr": "Google Discover",
+                    "en": "Google Discover",
+                    "es": "Google Discover"
+                },
+                {
+                    "fr": "Google Actualités",
+                    "en": "Google News",
+                    "es": "Google Noticias"
+                }
+            ],
+            "answer": 0,
+            "why": {
+                "fr": "L'application Gemini dépasse 1 milliard d'utilisateurs actifs mensuels et rejoint ChatGPT sur ce palier (news du 11 août).",
+                "en": "The Gemini app passed 1 billion monthly active users, joining ChatGPT at that milestone (news of August 11).",
+                "es": "La aplicación Gemini superó los 1.000 millones de usuarios activos mensuales y se une a ChatGPT en ese hito (noticia del 11 de agosto)."
+            }
+        },
+        {
+            "q": {
+                "fr": "Depuis août 2026, que demande l'article 50 du règlement européen sur l'IA ?",
+                "en": "Since August 2026, what does Article 50 of the EU AI Act require?",
+                "es": "Desde agosto de 2026, ¿qué exige el artículo 50 del reglamento europeo de IA?"
+            },
+            "choices": [
+                {
+                    "fr": "Interdire les chatbots aux mineurs",
+                    "en": "Banning chatbots for minors",
+                    "es": "Prohibir los chatbots a los menores"
+                },
+                {
+                    "fr": "Signaler les contenus générés par IA",
+                    "en": "Labelling AI-generated content",
+                    "es": "Señalar los contenidos generados por IA"
+                },
+                {
+                    "fr": "Payer une taxe par modèle entraîné",
+                    "en": "Paying a tax per trained model",
+                    "es": "Pagar un impuesto por modelo entrenado"
+                }
+            ],
+            "answer": 1,
+            "why": {
+                "fr": "Les obligations de transparence sont applicables : un contenu produit par une IA doit être signalé comme tel (news du 2 août).",
+                "en": "The transparency obligations now apply: content produced by an AI must be flagged as such (news of August 2).",
+                "es": "Las obligaciones de transparencia ya se aplican: un contenido producido por una IA debe señalarse como tal (noticia del 2 de agosto)."
+            }
+        },
+        {
+            "q": {
+                "fr": "Comment des chercheurs ont-ils fait fuiter les données d'un utilisateur de Grok ?",
+                "en": "How did researchers make Grok leak a user's data?",
+                "es": "¿Cómo consiguieron unos investigadores que Grok filtrara los datos de un usuario?"
+            },
+            "choices": [
+                {
+                    "fr": "En devinant son mot de passe",
+                    "en": "By guessing their password",
+                    "es": "Adivinando su contraseña"
+                },
+                {
+                    "fr": "En lui parlant très vite",
+                    "en": "By talking to it very fast",
+                    "es": "Hablándole muy rápido"
+                },
+                {
+                    "fr": "En lui envoyant des instructions chiffrées",
+                    "en": "By sending it encrypted instructions",
+                    "es": "Enviándole instrucciones cifradas"
+                }
+            ],
+            "answer": 2,
+            "why": {
+                "fr": "Chiffrées, les instructions malveillantes passent les garde-fous : c'est la « Cryptographic Context Injection » (news du 20 août).",
+                "en": "Once encrypted, the malicious instructions slip past the guardrails: that is \"Cryptographic Context Injection\" (news of August 20).",
+                "es": "Cifradas, las instrucciones maliciosas burlan las barreras: es la «Cryptographic Context Injection» (noticia del 20 de agosto)."
+            }
+        }
+    ]
 }
