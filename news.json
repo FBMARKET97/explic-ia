@@ -1,6 +1,122 @@
 {
-    "updated": "2026-08-23",
+    "updated": "2026-08-24",
     "items": [
+        {
+            "day": "2026-08-22",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "OpenAI demande à la Californie de durcir sa loi sur la sécurité de l'IA",
+                "en": "OpenAI asks California to toughen its AI safety law",
+                "es": "OpenAI pide a California endurecer su ley de seguridad de la IA"
+            },
+            "summary": {
+                "fr": "Revirement : OpenAI, qui s'opposait à la loi californienne SB 53, demande désormais de la renforcer en citant des incidents récents. L'entreprise veut une surveillance des modèles dès leur entraînement.",
+                "en": "In a reversal, OpenAI, which once opposed California's SB 53 law, is now asking for it to be strengthened, citing recent incidents. The company wants frontier models monitored from the training stage.",
+                "es": "Giro inesperado: OpenAI, que se oponía a la ley californiana SB 53, ahora pide reforzarla citando incidentes recientes. La empresa quiere que los modelos se vigilen desde el entrenamiento."
+            },
+            "simple": {
+                "fr": "OpenAI a changé d'avis : avant, elle ne voulait pas de nouvelles règles, et maintenant elle demande elle-même des règles plus strictes pour les IA.",
+                "en": "OpenAI changed its mind: before, it did not want new rules, and now it is asking for stricter rules for AI itself.",
+                "es": "OpenAI cambió de opinión: antes no quería nuevas reglas y ahora es ella misma quien pide reglas más estrictas para la IA."
+            },
+            "expert": {
+                "fr": "Dans une note publique, l'équipe affaires mondiales d'OpenAI propose d'amender SB 53 pour imposer la surveillance des modèles de pointe dès l'entraînement et l'évaluation, et durcir la cybersécurité sur tout le cycle de développement. Le revirement suit sa pause sur Astra ; il pourrait peser sur les débats similaires à New York et à Bruxelles.",
+                "en": "In a public post, OpenAI's global affairs team proposes amending SB 53 to require monitoring of frontier models during training and evaluation, and stronger cybersecurity across the development lifecycle. The reversal follows its Astra pause; it could influence similar debates in New York and Brussels.",
+                "es": "En una nota pública, el equipo de asuntos globales de OpenAI propone enmendar la SB 53 para exigir la vigilancia de los modelos de frontera durante el entrenamiento y la evaluación, y endurecer la ciberseguridad en todo el ciclo de desarrollo. El giro llega tras su pausa de Astra; podría influir en debates similares en Nueva York y Bruselas."
+            }
+        },
+        {
+            "day": "2026-08-22",
+            "actor": {
+                "fr": "Sécurité",
+                "en": "Safety",
+                "es": "Seguridad"
+            },
+            "actorSlug": "securite",
+            "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "IA incontrôlable : les grands labos n'ont pas vraiment de plan",
+                "en": "Rogue AI: the big labs still do not really have a plan",
+                "es": "IA fuera de control: los grandes laboratorios siguen sin un plan claro"
+            },
+            "summary": {
+                "fr": "Une étude de Guidelight AI Standards montre que les cinq grands laboratoires, OpenAI, Anthropic, Google, Meta et xAI, documentent mal la façon dont ils contiendraient un modèle devenu incontrôlable.",
+                "en": "A Guidelight AI Standards study shows that the five leading labs, OpenAI, Anthropic, Google, Meta and xAI, poorly document how they would contain a model that went rogue.",
+                "es": "Un estudio de Guidelight AI Standards muestra que los cinco grandes laboratorios, OpenAI, Anthropic, Google, Meta y xAI, documentan mal cómo contendrían un modelo fuera de control."
+            },
+            "simple": {
+                "fr": "Des inspecteurs ont demandé aux fabricants de robots : « et si un robot n'obéit plus, vous faites quoi ? ». Beaucoup n'avaient pas de réponse écrite.",
+                "en": "Inspectors asked the robot makers: \"what do you do if a robot stops obeying?\". Many had no written answer.",
+                "es": "Unos inspectores preguntaron a los fabricantes de robots: «¿y si un robot deja de obedecer, qué hacéis?». Muchos no tenían una respuesta escrita."
+            },
+            "expert": {
+                "fr": "L'étude, dirigée par Steven Adler, ancien chercheur d'OpenAI, place OpenAI en tête avec 3 sur 5, en partie pour sa pause récente sur Astra. Elle tombe au moment où la Californie et New York légifèrent : la publication des procédures de confinement pourrait devenir une exigence réglementaire, et non plus une simple bonne pratique.",
+                "en": "The study, led by former OpenAI researcher Steven Adler, ranks OpenAI first with 3 out of 5, partly for its recent Astra pause. It lands just as California and New York legislate: publishing containment procedures could become a regulatory requirement rather than a mere best practice.",
+                "es": "El estudio, dirigido por Steven Adler, exinvestigador de OpenAI, sitúa a OpenAI en cabeza con 3 sobre 5, en parte por su reciente pausa de Astra. Llega justo cuando California y Nueva York legislan: publicar los procedimientos de contención podría convertirse en una exigencia regulatoria y no en una simple buena práctica."
+            }
+        },
+        {
+            "day": "2026-08-20",
+            "actor": "Mistral AI",
+            "actorSlug": "mistral",
+            "url": "https://mistral.ai/news/agentic-search/",
+            "source": "Mistral AI",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Mistral lance Agentic Search, une recherche qui vérifie ses sources",
+                "en": "Mistral launches Agentic Search, a search that checks its sources",
+                "es": "Mistral lanza Agentic Search, una búsqueda que verifica sus fuentes"
+            },
+            "summary": {
+                "fr": "La française Mistral AI dévoile Agentic Search : son IA peut chercher, ouvrir, parcourir, lire et filtrer des documents, en enchaînant elle-même les étapes pour trouver puis vérifier une information.",
+                "en": "France's Mistral AI unveils Agentic Search: its AI can search, open, navigate, read and filter documents, chaining the steps itself to find and then verify a piece of information.",
+                "es": "La francesa Mistral AI presenta Agentic Search: su IA puede buscar, abrir, navegar, leer y filtrar documentos, encadenando ella misma los pasos para encontrar y luego verificar una información."
+            },
+            "simple": {
+                "fr": "L'IA française apprend à fouiller dans les documents comme un détective : elle ouvre les dossiers, lit les pages et vérifie ses indices toute seule.",
+                "en": "The French AI is learning to dig through documents like a detective: it opens the files, reads the pages and checks its clues all by itself.",
+                "es": "La IA francesa aprende a rebuscar en los documentos como un detective: abre las carpetas, lee las páginas y comprueba sus pistas ella sola."
+            },
+            "expert": {
+                "fr": "Là où un RAG classique s'arrête aux premiers extraits retrouvés, le modèle enchaîne cinq actions, search, open, navigate, read et grep, pour itérer jusqu'à la preuve. Mistral annonce une meilleure précision sur les documents longs et structurés ; à comparer aux approches équivalentes d'OpenAI et d'Anthropic, latence comprise.",
+                "en": "Where classic RAG stops at the first retrieved excerpts, the model chains five actions, search, open, navigate, read and grep, iterating until it finds proof. Mistral claims better accuracy on long, structured documents; worth comparing with the equivalent approaches from OpenAI and Anthropic, latency included.",
+                "es": "Donde un RAG clásico se detiene en los primeros extractos recuperados, el modelo encadena cinco acciones, search, open, navigate, read y grep, iterando hasta la prueba. Mistral anuncia mayor precisión en documentos largos y estructurados; queda compararlo con los enfoques equivalentes de OpenAI y Anthropic, latencia incluida."
+            }
+        },
+        {
+            "day": "2026-08-20",
+            "actor": "Meta AI",
+            "actorSlug": "meta-ai",
+            "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Meta AI arrive sur Mac et veut parler à vos applications",
+                "en": "Meta AI lands on Mac and wants to talk to your apps",
+                "es": "Meta AI llega al Mac y quiere hablar con tus aplicaciones"
+            },
+            "summary": {
+                "fr": "Meta lance une application Mac pour son assistant : dictée vocale dans n'importe quelle application, et analyse de l'écran pour répondre à des questions sur ce qui est affiché.",
+                "en": "Meta is launching a Mac app for its assistant: voice dictation in any application, and screen analysis to answer questions about what is on display.",
+                "es": "Meta lanza una aplicación para Mac de su asistente: dictado por voz en cualquier aplicación y análisis de la pantalla para responder preguntas sobre lo que se muestra."
+            },
+            "simple": {
+                "fr": "Le robot de Meta s'installe sur les ordinateurs : on lui parle, il écrit à notre place et regarde l'écran pour nous aider.",
+                "en": "Meta's robot is moving into computers: you talk to it, it writes for you and looks at the screen to help you.",
+                "es": "El robot de Meta se instala en los ordenadores: le hablas, escribe por ti y mira la pantalla para ayudarte."
+            },
+            "expert": {
+                "fr": "L'analyse d'écran s'appuie sur le modèle Muse Spark pour contextualiser les réponses à ce que l'utilisateur voit réellement, une approche que Google et OpenAI explorent aussi sur le poste de travail. L'enjeu est l'accès système accordé à l'assistant, dictée et lecture d'écran en continu ; les pratiques de Meta en matière de données seront scrutées.",
+                "en": "Screen analysis relies on the Muse Spark model to ground answers in what the user actually sees, an approach Google and OpenAI are also exploring on the desktop. The stakes lie in the system access granted to the assistant, continuous dictation and screen reading; Meta's data practices will face scrutiny.",
+                "es": "El análisis de pantalla se apoya en el modelo Muse Spark para contextualizar las respuestas en lo que el usuario ve realmente, un enfoque que Google y OpenAI también exploran en el escritorio. Lo que está en juego es el acceso al sistema, dictado y lectura de pantalla continuos; las prácticas de datos de Meta serán examinadas."
+            }
+        },
         {
             "day": "2026-08-20",
             "actor": "OpenAI",
@@ -176,6 +292,230 @@
                 "es": "Las barreras de seguridad operan sobre todo en texto claro: una instrucción cifrada pasa el filtro y el modelo la descifra y la ejecuta por su cuenta. Es una variante de la inyección de prompt, debilidad estructural de los asistentes que leen contenido externo; codificaciones como base64 ya servían para sortear filtros. La defensa: inspeccionar las salidas y las llamadas a herramientas, no solo las entradas."
             },
             "sourceKind": "media"
+        },
+        {
+            "day": "2026-08-19",
+            "actor": "Stripe",
+            "actorSlug": "monde",
+            "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Stripe rachète OpenRouter, l'aiguilleur des modèles d'IA, pour 7,5 milliards",
+                "en": "Stripe buys OpenRouter, the AI model router, for $7.5 billion",
+                "es": "Stripe compra OpenRouter, el enrutador de modelos de IA, por 7 500 millones"
+            },
+            "summary": {
+                "fr": "Le géant du paiement Stripe s'offre OpenRouter, la plateforme qui permet aux développeurs d'envoyer leurs requêtes vers des dizaines de modèles d'IA, pour 7,5 milliards de dollars selon le New York Times.",
+                "en": "Payments giant Stripe is acquiring OpenRouter, the platform that lets developers route their requests to dozens of AI models, for $7.5 billion according to the New York Times.",
+                "es": "El gigante de los pagos Stripe compra OpenRouter, la plataforma que permite a los desarrolladores enviar sus peticiones a decenas de modelos de IA, por 7 500 millones de dólares según el New York Times."
+            },
+            "simple": {
+                "fr": "Une grande entreprise des paiements sur Internet a acheté une gare de triage pour messages d'IA : celle qui envoie chaque question vers le bon robot.",
+                "en": "A big Internet payments company bought a sorting station for AI messages: the one that sends each question to the right robot.",
+                "es": "Una gran empresa de pagos por Internet compró una estación de clasificación de mensajes de IA: la que envía cada pregunta al robot adecuado."
+            },
+            "expert": {
+                "fr": "OpenRouter agrège des dizaines de modèles derrière une seule API et arbitre coût, latence et qualité, un poste d'observation unique sur la consommation réelle de jetons. Pour Stripe, c'est une brique pour facturer l'économie de l'IA, agents compris ; à surveiller, la neutralité du routage une fois adossé à un acteur du paiement.",
+                "en": "OpenRouter aggregates dozens of models behind a single API and arbitrates cost, latency and quality, a unique vantage point on real token consumption. For Stripe it is a building block for billing the AI economy, agents included; worth watching is whether routing stays neutral under a payments company.",
+                "es": "OpenRouter reúne decenas de modelos tras una sola API y arbitra coste, latencia y calidad, un punto de observación único sobre el consumo real de tokens. Para Stripe es una pieza para facturar la economía de la IA, agentes incluidos; habrá que vigilar la neutralidad del enrutado bajo un actor de pagos."
+            }
+        },
+        {
+            "day": "2026-08-19",
+            "actor": "Google",
+            "actorSlug": "gemini",
+            "url": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
+            "source": "Google",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Google offre un an d'IA aux étudiants pour la rentrée",
+                "en": "Google gives students a free year of AI for back to school",
+                "es": "Google regala un año de IA a los estudiantes por la vuelta al cole"
+            },
+            "summary": {
+                "fr": "Pour la rentrée, Google offre un an de Google AI Pro aux étudiants américains, avec Gemini Spark et 5 To de stockage, et AI Plus ailleurs, accompagnés de nouveaux outils d'étude dans Gemini et dans la recherche.",
+                "en": "For back to school, Google is offering US students a free year of Google AI Pro, with Gemini Spark and 5 TB of storage, and AI Plus elsewhere, alongside new study tools in Gemini and Search.",
+                "es": "Por la vuelta al cole, Google ofrece a los estudiantes de EE. UU. un año gratis de Google AI Pro, con Gemini Spark y 5 TB de almacenamiento, y AI Plus en otros países, junto a nuevas herramientas de estudio en Gemini y el buscador."
+            },
+            "simple": {
+                "fr": "Pour la rentrée, Google offre aux étudiants un cartable magique : une IA qui aide à réviser, fabrique des quiz et explique les leçons pas à pas.",
+                "en": "For back to school, Google is giving students a magic backpack: an AI that helps them study, makes quizzes and explains lessons step by step.",
+                "es": "Por la vuelta al cole, Google regala a los estudiantes una mochila mágica: una IA que ayuda a repasar, crea cuestionarios y explica las lecciones paso a paso."
+            },
+            "expert": {
+                "fr": "Gemini gagne un espace d'étude avec carnets personnalisés et quiz de diagnostic qui repèrent les lacunes, pendant que Search génère des visuels interactifs et des exercices d'entraînement. L'année gratuite vise à installer les usages avant l'entrée dans la vie active ; la question du travail scolaire délégué à l'IA reste entière.",
+                "en": "Gemini gains a study hub with personalized notebooks and diagnostic quizzes that spot knowledge gaps, while Search generates interactive visuals and practice exercises. The free year aims to lock in habits before students enter the workforce; the question of schoolwork being delegated to AI remains wide open.",
+                "es": "Gemini estrena un espacio de estudio con cuadernos personalizados y cuestionarios de diagnóstico que detectan lagunas, mientras el buscador genera visuales interactivos y ejercicios de práctica. El año gratis busca fijar los hábitos antes de la vida laboral; la cuestión de los deberes delegados en la IA sigue abierta."
+            }
+        },
+        {
+            "day": "2026-08-19",
+            "actor": "xAI",
+            "actorSlug": "grok",
+            "url": "https://x.ai/news/grok-build-for-everyone",
+            "source": "xAI",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Grok Build ouvre la création d'applications à tout le monde",
+                "en": "Grok Build opens app creation to everyone",
+                "es": "Grok Build abre la creación de aplicaciones a todo el mundo"
+            },
+            "summary": {
+                "fr": "xAI ouvre Grok Build à tous ses abonnés, sur le web et sur mobile : on décrit l'application souhaitée, l'IA la construit, puis on peut la publier en un lien ou en exporter le code.",
+                "en": "xAI is opening Grok Build to all its subscribers, on web and mobile: you describe the app you want, the AI builds it, then you can publish it as a link or export its code.",
+                "es": "xAI abre Grok Build a todos sus suscriptores, en la web y el móvil: describes la aplicación que quieres, la IA la construye y luego puedes publicarla como enlace o exportar su código."
+            },
+            "simple": {
+                "fr": "Avec Grok, on décrit un jeu ou une application avec des mots, et l'ordinateur le construit tout seul, comme un château en Lego monté par magie.",
+                "en": "With Grok, you describe a game or an app in words, and the computer builds it all by itself, like a Lego castle assembled by magic.",
+                "es": "Con Grok, describes un juego o una aplicación con palabras y el ordenador lo construye solo, como un castillo de Lego montado por arte de magia."
+            },
+            "expert": {
+                "fr": "Les applications générées se publient sur grok.me, se partagent sur X avec un aperçu enrichi ou s'exportent vers GitHub pour reprendre le code, un pont inhabituel entre no-code et développement classique. xAI rejoint Lovable et Bubble sur ce créneau ; à surveiller, la qualité du code produit et la sécurité des applications publiées.",
+                "en": "Generated apps can be published on grok.me, shared on X with a rich preview, or exported to GitHub to keep working on the code, an unusual bridge between no-code and classic development. xAI joins Lovable and Bubble in this space; watch the quality of the generated code and the security of published apps.",
+                "es": "Las aplicaciones generadas se publican en grok.me, se comparten en X con vista previa enriquecida o se exportan a GitHub para seguir con el código, un puente inusual entre el no-code y el desarrollo clásico. xAI se suma a Lovable y Bubble en este terreno; habrá que vigilar la calidad del código y la seguridad de las apps."
+            }
+        },
+        {
+            "day": "2026-08-18",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+            "source": "OpenAI",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "OpenAI met en pause son IA la plus avancée par précaution",
+                "en": "OpenAI hits pause on its most advanced AI as a precaution",
+                "es": "OpenAI pausa su IA más avanzada por precaución"
+            },
+            "summary": {
+                "fr": "OpenAI a suspendu pendant deux semaines l'entraînement de son modèle Astra, après avoir détecté qu'il approchait un seuil critique de capacités en cybersécurité. L'entreprise renforce ses contrôles avant de reprendre.",
+                "en": "OpenAI paused training of its Astra model for two weeks after detecting it was nearing a critical cybersecurity capability threshold. The company is strengthening its safeguards before resuming.",
+                "es": "OpenAI suspendió durante dos semanas el entrenamiento de su modelo Astra tras detectar que se acercaba a un umbral crítico de capacidades de ciberseguridad. La empresa refuerza sus controles antes de continuar."
+            },
+            "simple": {
+                "fr": "OpenAI a appuyé sur le bouton pause de son robot le plus fort, comme on arrête un jeu pour vérifier que tout est bien sécurisé.",
+                "en": "OpenAI pressed the pause button on its strongest robot, like stopping a game to check that everything is safe.",
+                "es": "OpenAI pulsó el botón de pausa de su robot más fuerte, como cuando paras un juego para comprobar que todo está seguro."
+            },
+            "expert": {
+                "fr": "Le cadre de préparation d'OpenAI a détecté qu'Astra pouvait atteindre le seuil « critique » en capacités cyber, d'où l'arrêt volontaire de l'entraînement par renforcement. C'est la première fois qu'un laboratoire freine publiquement un modèle pour ce motif ; à surveiller, les conditions de reprise et l'audit externe de ces seuils.",
+                "en": "OpenAI's preparedness framework flagged that Astra could meet the critical cyber-capability threshold, prompting a voluntary halt of reinforcement learning. It is the first time a lab has publicly slowed a model for this reason; watch the resumption criteria and whether external audits ever verify these thresholds.",
+                "es": "El marco de preparación de OpenAI detectó que Astra podía alcanzar el umbral crítico de capacidades cibernéticas, lo que motivó la parada voluntaria del entrenamiento por refuerzo. Es la primera vez que un laboratorio frena públicamente un modelo por este motivo; habrá que vigilar las condiciones de reanudación y las auditorías externas."
+            }
+        },
+        {
+            "day": "2026-08-18",
+            "actor": "Z.ai",
+            "actorSlug": "glm",
+            "url": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+            "source": "VentureBeat",
+            "sourceKind": "media",
+            "title": {
+                "fr": "GLM-5.3 : le modèle ouvert chinois au niveau des meilleurs, sans hausse de prix",
+                "en": "GLM-5.3: China's open model matches the best, with no price hike",
+                "es": "GLM-5.3: el modelo abierto chino iguala a los mejores sin subir el precio"
+            },
+            "summary": {
+                "fr": "La startup chinoise Z.ai publie GLM-5.3, accessible par API à 1,40 dollar le million de jetons en entrée et 4,40 en sortie, à égalité avec Kimi K3 au sommet des modèles ouverts selon Artificial Analysis.",
+                "en": "Chinese startup Z.ai releases GLM-5.3, available through its API at $1.40 per million input tokens and $4.40 for output, tied with Kimi K3 at the top of open models according to Artificial Analysis.",
+                "es": "La startup china Z.ai publica GLM-5.3, accesible por API a 1,40 dólares por millón de tokens de entrada y 4,40 de salida, empatado con Kimi K3 en lo más alto de los modelos abiertos según Artificial Analysis."
+            },
+            "simple": {
+                "fr": "En Chine, un nouveau robot très malin vient de sortir, et il ne coûte pas plus cher que l'ancien : comme un cartable tout neuf vendu au prix de l'année dernière.",
+                "en": "In China, a very clever new robot just came out, and it costs no more than the old one: like a brand-new backpack sold at last year's price.",
+                "es": "En China acaba de salir un robot nuevo muy listo que no cuesta más que el anterior: como una mochila nueva vendida al precio del año pasado."
+            },
+            "expert": {
+                "fr": "À prix inchangés, 1,40 $ le million de jetons en entrée et 4,40 $ en sortie, GLM-5.3 atteint le score Artificial Analysis de 60, au niveau de Kimi K3, avec de bons résultats en cybersécurité et en tâches d'agent. Le cache d'entrée à 0,26 $ accentue la pression tarifaire sur les modèles propriétaires ; les poids restent ouverts.",
+                "en": "At unchanged prices, $1.40 per million input tokens and $4.40 for output, GLM-5.3 reaches an Artificial Analysis score of 60, level with Kimi K3, with strong results in cybersecurity and agent tasks. Cached input at $0.26 adds pricing pressure on proprietary models; the weights remain open.",
+                "es": "Con precios sin cambios, 1,40 dólares por millón de tokens de entrada y 4,40 de salida, GLM-5.3 alcanza una puntuación Artificial Analysis de 60, al nivel de Kimi K3, con buenos resultados en ciberseguridad y tareas de agente. La caché de entrada a 0,26 dólares presiona los precios de los modelos propietarios; los pesos siguen abiertos."
+            }
+        },
+        {
+            "day": "2026-08-18",
+            "actor": "Perplexity",
+            "actorSlug": "perplexity",
+            "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "En Inde, le pari du gratuit a fait décoller Perplexity",
+                "en": "In India, the free-offer gamble sent Perplexity soaring",
+                "es": "En India, la apuesta por lo gratis disparó a Perplexity"
+            },
+            "summary": {
+                "fr": "L'année de Perplexity Pro offerte aux 360 millions de clients de l'opérateur Airtel a fait exploser les téléchargements de l'application en Inde. Depuis la fin de l'offre en janvier, ils retombent, mais les revenus, eux, progressent.",
+                "en": "The free year of Perplexity Pro offered to telecom operator Airtel's 360 million customers sent the app's downloads in India soaring. Since the offer closed in January they have fallen back, but revenue keeps growing.",
+                "es": "El año gratis de Perplexity Pro ofrecido a los 360 millones de clientes del operador Airtel disparó las descargas de la aplicación en India. Desde que la oferta terminó en enero han caído, pero los ingresos siguen creciendo."
+            },
+            "simple": {
+                "fr": "En Inde, un cadeau géant a fait venir des millions de curieux essayer le robot Perplexity, comme des échantillons gratuits à l'entrée d'un magasin.",
+                "en": "In India, a giant gift brought millions of curious people to try the Perplexity robot, like free samples at a store entrance.",
+                "es": "En India, un regalo gigante atrajo a millones de curiosos a probar el robot Perplexity, como las muestras gratis a la entrada de una tienda."
+            },
+            "expert": {
+                "fr": "L'offre, un an de Pro à 200 dollars via Airtel, avait porté les téléchargements d'environ 11 200 à plus de 300 000 par jour au plus fort. Après la fermeture en janvier, la chute est nette, mais le revenu mobile mensuel en Inde est passé d'environ 34 000 à 156 000 dollars en juillet 2026 : une conversion réelle, quoique modeste au regard du coût.",
+                "en": "The offer, a year of the $200 Pro plan through Airtel, lifted downloads from about 11,200 to over 300,000 a day at the peak. After it closed in January the drop was sharp, yet monthly mobile revenue in India grew from roughly $34,000 to $156,000 by July 2026: real conversion, though modest against the cost.",
+                "es": "La oferta, un año del plan Pro de 200 dólares vía Airtel, elevó las descargas de unas 11 200 a más de 300 000 diarias en su punto álgido. Tras cerrarse en enero la caída fue clara, pero el ingreso móvil mensual en India pasó de unos 34 000 a 156 000 dólares en julio de 2026: conversión real, aunque modesta frente al coste."
+            }
+        },
+        {
+            "day": "2026-08-17",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Anthropic dépasse OpenAI en revenus et vise une entrée en Bourse géante",
+                "en": "Anthropic overtakes OpenAI in revenue and eyes a giant IPO",
+                "es": "Anthropic supera a OpenAI en ingresos y apunta a una salida a bolsa gigante"
+            },
+            "summary": {
+                "fr": "Le revenu annualisé d'Anthropic a atteint 65 milliards de dollars fin juillet, contre 40 milliards pour OpenAI. L'entreprise préparerait une entrée en Bourse valorisée à plus de 2 000 milliards, possiblement dès l'automne.",
+                "en": "Anthropic's annualized revenue reached $65 billion at the end of July, versus $40 billion for OpenAI. The company is reportedly preparing an IPO at a valuation above $2 trillion, possibly as soon as this fall.",
+                "es": "Los ingresos anualizados de Anthropic alcanzaron 65 000 millones de dólares a finales de julio, frente a 40 000 millones de OpenAI. La empresa prepararía una salida a bolsa valorada en más de 2 billones, quizá este otoño."
+            },
+            "simple": {
+                "fr": "La société qui fabrique Claude gagne maintenant plus d'argent que celle qui fabrique ChatGPT, comme un coureur qui double le favori de la course.",
+                "en": "The company that makes Claude now earns more money than the one that makes ChatGPT, like a runner overtaking the race favorite.",
+                "es": "La empresa que fabrica Claude ahora gana más dinero que la que fabrica ChatGPT, como un corredor que adelanta al favorito de la carrera."
+            },
+            "expert": {
+                "fr": "La progression, 9 milliards fin 2025, 47 en mai, 65 fin juillet, vient largement des usages professionnels de Claude, le code en tête. Les investisseurs attendent 100 à 120 milliards fin 2026 et une IPO possible dès l'automne au-dessus de 2 000 milliards de valorisation ; la rentabilité réelle, elle, n'est pas publiée.",
+                "en": "The trajectory, $9B at the end of 2025, $47B in May, $65B in late July, is driven largely by professional use of Claude, coding first. Investors expect $100-120B by year-end and a possible fall IPO above a $2 trillion valuation; actual profitability, however, remains undisclosed.",
+                "es": "La progresión, 9 000 millones a finales de 2025, 47 000 en mayo, 65 000 a finales de julio, se apoya sobre todo en el uso profesional de Claude, con el código a la cabeza. Los inversores esperan 100 000 a 120 000 millones a fin de año y una salida a bolsa por encima de 2 billones; la rentabilidad real no se ha publicado."
+            }
+        },
+        {
+            "day": "2026-08-17",
+            "actor": "Higgsfield",
+            "actorSlug": "higgsfield",
+            "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Higgsfield lève 400 millions et quadruple sa valorisation en huit mois",
+                "en": "Higgsfield raises $400 million, quadrupling its valuation in eight months",
+                "es": "Higgsfield capta 400 millones y cuadruplica su valoración en ocho meses"
+            },
+            "summary": {
+                "fr": "La plateforme de création d'images et de vidéos par IA lève 400 millions de dollars sur une valorisation de 5,4 milliards, huit mois seulement après un tour à 1,3 milliard.",
+                "en": "The AI image and video creation platform raises $400 million at a $5.4 billion valuation, just eight months after a round at $1.3 billion.",
+                "es": "La plataforma de creación de imágenes y vídeos con IA capta 400 millones de dólares con una valoración de 5 400 millones, solo ocho meses después de una ronda a 1 300 millones."
+            },
+            "simple": {
+                "fr": "Le studio qui fabrique des vidéos magiques avec l'IA a reçu une énorme tirelire pour grandir encore plus vite.",
+                "en": "The studio that makes magic videos with AI just got a giant piggy bank to grow even faster.",
+                "es": "El estudio que hace vídeos mágicos con IA acaba de recibir una hucha gigante para crecer aún más rápido."
+            },
+            "expert": {
+                "fr": "Fondée par Alex Mashrabov, ancien de Snap, la société revendique 700 millions de dollars de revenu annualisé, 30 millions d'utilisateurs dans 200 pays et 390 clients du Fortune 500. Ces chiffres restent déclaratifs, non audités ; et face à Sora, Veo et Runway, l'avance d'un acteur de la vidéo générative se rejoue à chaque génération de modèles.",
+                "en": "Founded by former Snap executive Alex Mashrabov, the company claims $700 million in annualized revenue, 30 million users across 200 countries and 390 Fortune 500 clients. Those figures are self-reported, not audited; and against Sora, Veo and Runway, a generative video player's lead is re-contested with every model generation.",
+                "es": "Fundada por Alex Mashrabov, exdirectivo de Snap, la empresa declara 700 millones de dólares de ingresos anualizados, 30 millones de usuarios en 200 países y 390 clientes del Fortune 500. Son cifras declaradas, no auditadas; y frente a Sora, Veo y Runway, la ventaja en vídeo generativo se disputa de nuevo con cada generación de modelos."
+            }
         },
         {
             "day": "2026-08-11",
@@ -703,92 +1043,92 @@
     "quiz": [
         {
             "q": {
-                "fr": "En août 2026, quelle application de Google a franchi le milliard d'utilisateurs par mois ?",
-                "en": "In August 2026, which Google app passed one billion monthly users?",
-                "es": "En agosto de 2026, ¿qué aplicación de Google superó los mil millones de usuarios al mes?"
+                "fr": "Quelle entreprise a dépassé OpenAI en revenu annualisé cette semaine ?",
+                "en": "Which company overtook OpenAI in annualized revenue this week?",
+                "es": "¿Qué empresa superó a OpenAI en ingresos anualizados esta semana?"
             },
             "choices": [
                 {
-                    "fr": "Gemini",
-                    "en": "Gemini",
-                    "es": "Gemini"
+                    "fr": "Anthropic",
+                    "en": "Anthropic",
+                    "es": "Anthropic"
                 },
                 {
-                    "fr": "Google Discover",
-                    "en": "Google Discover",
-                    "es": "Google Discover"
+                    "fr": "Mistral AI",
+                    "en": "Mistral AI",
+                    "es": "Mistral AI"
                 },
                 {
-                    "fr": "Google Actualités",
-                    "en": "Google News",
-                    "es": "Google Noticias"
+                    "fr": "Perplexity",
+                    "en": "Perplexity",
+                    "es": "Perplexity"
                 }
             ],
             "answer": 0,
             "why": {
-                "fr": "L'application Gemini dépasse 1 milliard d'utilisateurs actifs mensuels et rejoint ChatGPT sur ce palier (news du 11 août).",
-                "en": "The Gemini app passed 1 billion monthly active users, joining ChatGPT at that milestone (news of August 11).",
-                "es": "La aplicación Gemini superó los 1.000 millones de usuarios activos mensuales y se une a ChatGPT en ese hito (noticia del 11 de agosto)."
+                "fr": "Le revenu annualisé d'Anthropic a atteint 65 milliards de dollars, contre 40 pour OpenAI (news du 17 août).",
+                "en": "Anthropic's annualized revenue reached $65 billion, versus $40 billion for OpenAI (August 17 news).",
+                "es": "Los ingresos anualizados de Anthropic alcanzaron 65 000 millones de dólares, frente a 40 000 de OpenAI (noticia del 17 de agosto)."
             }
         },
         {
             "q": {
-                "fr": "Depuis août 2026, que demande l'article 50 du règlement européen sur l'IA ?",
-                "en": "Since August 2026, what does Article 50 of the EU AI Act require?",
-                "es": "Desde agosto de 2026, ¿qué exige el artículo 50 del reglamento europeo de IA?"
+                "fr": "Pourquoi OpenAI a-t-elle mis en pause l'entraînement de son modèle Astra ?",
+                "en": "Why did OpenAI pause the training of its Astra model?",
+                "es": "¿Por qué OpenAI pausó el entrenamiento de su modelo Astra?"
             },
             "choices": [
                 {
-                    "fr": "Interdire les chatbots aux mineurs",
-                    "en": "Banning chatbots for minors",
-                    "es": "Prohibir los chatbots a los menores"
+                    "fr": "Il approchait un seuil critique en cybersécurité",
+                    "en": "It was nearing a critical cybersecurity threshold",
+                    "es": "Se acercaba a un umbral crítico de ciberseguridad"
                 },
                 {
-                    "fr": "Signaler les contenus générés par IA",
-                    "en": "Labelling AI-generated content",
-                    "es": "Señalar los contenidos generados por IA"
+                    "fr": "Il coûtait trop cher en électricité",
+                    "en": "It was costing too much in electricity",
+                    "es": "Costaba demasiado en electricidad"
                 },
                 {
-                    "fr": "Payer une taxe par modèle entraîné",
-                    "en": "Paying a tax per trained model",
-                    "es": "Pagar un impuesto por modelo entrenado"
+                    "fr": "Ses serveurs étaient en panne",
+                    "en": "Its servers were down",
+                    "es": "Sus servidores estaban averiados"
                 }
             ],
-            "answer": 1,
+            "answer": 0,
             "why": {
-                "fr": "Les obligations de transparence sont applicables : un contenu produit par une IA doit être signalé comme tel (news du 2 août).",
-                "en": "The transparency obligations now apply: content produced by an AI must be flagged as such (news of August 2).",
-                "es": "Las obligaciones de transparencia ya se aplican: un contenido producido por una IA debe señalarse como tal (noticia del 2 de agosto)."
+                "fr": "OpenAI a détecté qu'Astra approchait un seuil critique de capacités en cybersécurité et a suspendu l'entraînement par précaution (news du 18 août).",
+                "en": "OpenAI detected that Astra was nearing a critical cybersecurity capability threshold and paused training as a precaution (August 18 news).",
+                "es": "OpenAI detectó que Astra se acercaba a un umbral crítico de capacidades de ciberseguridad y suspendió el entrenamiento por precaución (noticia del 18 de agosto)."
             }
         },
         {
             "q": {
-                "fr": "Comment des chercheurs ont-ils fait fuiter les données d'un utilisateur de Grok ?",
-                "en": "How did researchers make Grok leak a user's data?",
-                "es": "¿Cómo consiguieron unos investigadores que Grok filtrara los datos de un usuario?"
+                "fr": "Que permet de faire Grok Build, désormais ouvert à tous les abonnés ?",
+                "en": "What does Grok Build, now open to all subscribers, let you do?",
+                "es": "¿Qué permite hacer Grok Build, ahora abierto a todos los suscriptores?"
             },
             "choices": [
                 {
-                    "fr": "En devinant son mot de passe",
-                    "en": "By guessing their password",
-                    "es": "Adivinando su contraseña"
+                    "fr": "Créer une application en la décrivant avec des mots",
+                    "en": "Create an app by describing it in words",
+                    "es": "Crear una aplicación describiéndola con palabras"
                 },
                 {
-                    "fr": "En lui parlant très vite",
-                    "en": "By talking to it very fast",
-                    "es": "Hablándole muy rápido"
+                    "fr": "Traduire des films en direct",
+                    "en": "Translate movies live",
+                    "es": "Traducir películas en directo"
                 },
                 {
-                    "fr": "En lui envoyant des instructions chiffrées",
-                    "en": "By sending it encrypted instructions",
-                    "es": "Enviándole instrucciones cifradas"
+                    "fr": "Réserver des billets d'avion",
+                    "en": "Book plane tickets",
+                    "es": "Reservar billetes de avión"
                 }
             ],
-            "answer": 2,
+            "answer": 0,
             "why": {
-                "fr": "Chiffrées, les instructions malveillantes passent les garde-fous : c'est la « Cryptographic Context Injection » (news du 20 août).",
-                "en": "Once encrypted, the malicious instructions slip past the guardrails: that is \"Cryptographic Context Injection\" (news of August 20).",
-                "es": "Cifradas, las instrucciones maliciosas burlan las barreras: es la «Cryptographic Context Injection» (noticia del 20 de agosto)."
+                "fr": "Grok Build construit une application à partir d'une description, puis permet de la publier ou d'exporter son code (news du 19 août).",
+                "en": "Grok Build builds an app from a description, then lets you publish it or export its code (August 19 news).",
+                "es": "Grok Build construye una aplicación a partir de una descripción y luego permite publicarla o exportar su código (noticia del 19 de agosto)."
             }
         }
     ]
