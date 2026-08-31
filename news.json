@@ -949,6 +949,34 @@
         },
         {
             "title": {
+                "fr": "Alibaba dévoile Qwen3.8-Max, son plus grand modèle d’IA jamais ouvert",
+                "en": "Alibaba unveils Qwen3.8-Max, its largest AI model ever open-sourced",
+                "es": "Alibaba presenta Qwen3.8-Max, su mayor modelo de IA jamás liberado en abierto"
+            },
+            "summary": {
+                "fr": "Alibaba a présenté Qwen3.8-Max, un modèle de 2 400 milliards de paramètres qui n’en active que 95 milliards à la fois et traite jusqu’à un million de tokens de contexte, marquant le retour du groupe chinois aux modèles ouverts à cette échelle.",
+                "en": "Alibaba unveiled Qwen3.8-Max, a 2.4-trillion-parameter model that activates only 95 billion at a time and handles up to a million tokens of context, marking the Chinese group's return to open models at this scale.",
+                "es": "Alibaba presentó Qwen3.8-Max, un modelo de 2,4 billones de parámetros que activa solo 95.000 millones a la vez y procesa hasta un millón de tokens de contexto, marcando el regreso del grupo chino a los modelos abiertos a esta escala."
+            },
+            "simple": {
+                "fr": "Imagine un cerveau géant qui contient des milliards d’idées, mais qui n’en utilise qu’une petite partie à chaque question pour rester rapide: c’est le nouveau tour de magie d’Alibaba.",
+                "en": "Imagine a giant brain packed with billions of ideas that only uses a small part of them each time you ask a question, so it stays fast: that's Alibaba's new trick.",
+                "es": "Imagina un cerebro gigante lleno de miles de millones de ideas que solo usa una pequeña parte cada vez que le haces una pregunta, para seguir siendo rápido: ese es el nuevo truco de Alibaba."
+            },
+            "expert": {
+                "fr": "L’architecture en mélange d’experts, 95 milliards de paramètres actifs sur 2 400 milliards au total, vise une puissance de modèle frontière sans le coût de calcul correspondant à chaque requête. En ouvrant les poids plutôt que de les garder secrets, Alibaba concurrence directement Kimi K3 et DeepSeek sur l’IA chinoise open source, après un an à réserver ses meilleurs modèles au propriétaire.",
+                "en": "The mixture-of-experts design, 95 billion active parameters out of 2.4 trillion total, aims for frontier-level power without paying the full compute cost on every query. By open-sourcing the weights instead of keeping them proprietary, Alibaba directly challenges Kimi K3 and DeepSeek in the Chinese open-model race, reversing a year of keeping its top models closed.",
+                "es": "La arquitectura de mezcla de expertos, 95.000 millones de parámetros activos de un total de 2,4 billones, busca un rendimiento de modelo de vanguardia sin pagar el coste de cómputo completo en cada consulta. Al liberar los pesos en vez de mantenerlos cerrados, Alibaba desafía directamente a Kimi K3 y DeepSeek en la carrera china de modelos abiertos, tras un año manteniendo cerrados sus mejores modelos."
+            },
+            "day": "2026-08-03",
+            "actor": "Qwen",
+            "actorSlug": "qwen",
+            "url": "https://www.alibabagroup.com/en-US/document-2021044032125272064",
+            "source": "Alibaba Group",
+            "sourceKind": "officiel"
+        },
+        {
+            "title": {
                 "fr": "L’Europe commence à faire appliquer ses règles de transparence sur l’IA",
                 "en": "Europe starts enforcing its AI transparency rules",
                 "es": "Europa empieza a aplicar sus normas de transparencia sobre la IA"
