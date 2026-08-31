@@ -1,6 +1,90 @@
 {
-    "updated": "2026-08-24",
+    "updated": "2026-08-31",
     "items": [
+        {
+            "title": {
+                "fr": "OpenAI coupe les ponts avec Cursor après son rachat par SpaceX",
+                "en": "OpenAI cuts ties with Cursor after its acquisition by SpaceX",
+                "es": "OpenAI rompe con Cursor tras su compra por SpaceX"
+            },
+            "summary": {
+                "fr": "OpenAI a annoncé la fin de son partenariat avec l’éditeur de l’assistant de code Cursor, racheté par SpaceX pour 60 milliards de dollars, avec un arrêt d’accès prévu au 12 novembre 2026.",
+                "en": "OpenAI announced it will end its partnership with coding assistant Cursor after SpaceX's $60 billion acquisition of the startup, with access set to stop on November 12, 2026.",
+                "es": "OpenAI anunció el fin de su asociación con el asistente de código Cursor tras su compra por SpaceX por 60.000 millones de dólares, con un corte de acceso previsto para el 12 de noviembre de 2026."
+            },
+            "simple": {
+                "fr": "C’est comme si deux amis qui travaillaient ensemble décidaient soudain de ne plus se parler, parce que l’un ne fait plus confiance à l’autre.",
+                "en": "It's like two friends who used to work together suddenly deciding not to talk anymore, because one no longer trusts the other.",
+                "es": "Es como si dos amigos que trabajaban juntos decidieran de repente dejar de hablarse, porque uno ya no confía en el otro."
+            },
+            "expert": {
+                "fr": "Le litige illustre la tension croissante entre laboratoires d’IA et éditeurs d’outils tiers quand les intérêts stratégiques divergent. OpenAI justifie sa décision par un manque de confiance envers les entités liées à Elon Musk plutôt que par un motif technique, et prive Cursor de ses futurs modèles comme Astra. Pour Cursor, l’impact reste limité, les modèles OpenAI ne représentant qu’une faible part de son trafic.",
+                "en": "The dispute highlights growing friction between AI labs and third-party tool makers when strategic interests diverge. OpenAI frames the move as a trust issue with Musk-linked entities rather than a technical one, and it also blocks Cursor from future models like Astra. The practical impact looks limited, since Cursor's own leadership says OpenAI models drove only a small share of its traffic.",
+                "es": "El conflicto refleja la creciente tensión entre laboratorios de IA y creadores de herramientas externas cuando sus intereses chocan. OpenAI justifica la decisión por desconfianza hacia entidades ligadas a Elon Musk, no por motivos técnicos, y bloquea el acceso de Cursor a futuros modelos como Astra. El impacto práctico parece limitado, ya que esos modelos apenas eran una pequeña parte de su tráfico."
+            },
+            "day": "2026-08-29",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+            "source": "OpenAI",
+            "sourceKind": "officiel"
+        },
+        {
+            "title": {
+                "fr": "Anthropic et Salesforce fusionnent leurs IA avec « Claudeforce »",
+                "en": "Anthropic and Salesforce merge their AI under 'Claudeforce'",
+                "es": "Anthropic y Salesforce unen sus IA con 'Claudeforce'"
+            },
+            "summary": {
+                "fr": "Salesforce et Anthropic ont annoncé Claudeforce, un partenariat qui installe 37 compétences commerciales préconstruites de Salesforce directement dans Claude, déjà testé chez des clients pilotes avant une bêta ouverte prévue en septembre 2026.",
+                "en": "Salesforce and Anthropic announced Claudeforce, a partnership that brings 37 prebuilt Salesforce sales skills directly into Claude, already tested with pilot customers ahead of an open beta planned for September 2026.",
+                "es": "Salesforce y Anthropic anunciaron Claudeforce, una alianza que integra 37 habilidades comerciales prediseñadas de Salesforce directamente en Claude, ya probada con clientes piloto antes de una beta abierta prevista para septiembre de 2026."
+            },
+            "simple": {
+                "fr": "Claude, l’assistant IA, peut désormais aller chercher tout seul les informations de vente rangées dans les ordinateurs de Salesforce, comme un employé qui aurait toutes les clés du bureau.",
+                "en": "Claude, the AI assistant, can now go fetch sales information stored inside Salesforce's computers all by itself, like an employee who has every key to the office.",
+                "es": "Claude, el asistente de IA, ahora puede ir a buscar solo la información de ventas guardada en los sistemas de Salesforce, como un empleado que tuviera todas las llaves de la oficina."
+            },
+            "expert": {
+                "fr": "Le mouvement marque une bascule stratégique: plutôt que de rester neutre entre plusieurs IA, une plateforme d’entreprise majeure choisit un modèle de raisonnement unique comme moteur par défaut. Pour les équipes commerciales, cela signifie des actions automatisées, comme la mise à jour du pipeline, pilotées directement depuis Claude sous gouvernance Salesforce. Le déploiement élargi n’est promis que pour fin 2026.",
+                "en": "The move marks a strategic shift: rather than staying model-agnostic, a major enterprise platform is picking one reasoning engine as its default. For sales teams, that means automated actions such as pipeline updates and follow-ups run directly from Claude, under Salesforce governance. Broader availability is only promised for late 2026, so the pilot phase will be watched closely.",
+                "es": "El movimiento marca un giro estratégico: en vez de mantenerse neutral entre varias IA, una gran plataforma empresarial elige un único motor de razonamiento por defecto. Para los equipos comerciales, esto significa acciones automatizadas, como actualizar el pipeline o hacer seguimientos, ejecutadas directamente desde Claude bajo la gobernanza de Salesforce. La disponibilidad amplia solo se promete para fines de 2026."
+            },
+            "day": "2026-08-26",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
+            "source": "VentureBeat",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Perplexity lance un agent IA qui tourne entièrement sur votre ordinateur",
+                "en": "Perplexity launches an AI agent that runs entirely on your computer",
+                "es": "Perplexity lanza un agente de IA que funciona íntegramente en tu ordenador"
+            },
+            "summary": {
+                "fr": "Avec Nvidia, Perplexity a lancé Portable Computer, un agent IA qui s’exécute localement sur du matériel Nvidia déjà possédé par l’utilisateur, sans frais au token et en gardant les données sur l’appareil par défaut.",
+                "en": "With Nvidia, Perplexity launched Portable Computer, an AI agent that runs locally on Nvidia hardware users already own, with no per-token cost and data kept on-device by default.",
+                "es": "Junto con Nvidia, Perplexity lanzó Portable Computer, un agente de IA que se ejecuta localmente en hardware Nvidia que el usuario ya posee, sin coste por token y manteniendo los datos en el dispositivo por defecto."
+            },
+            "simple": {
+                "fr": "Cette IA de Perplexity travaille directement dans ton ordinateur, comme un petit robot qui reste chez toi au lieu d’aller demander de l’aide très loin sur internet, ce qui ne coûte rien à chaque tâche.",
+                "en": "This Perplexity AI works right inside your computer, like a little robot that stays at home instead of going far away on the internet for help, so each task costs nothing extra.",
+                "es": "Esta IA de Perplexity trabaja directamente dentro de tu ordenador, como un pequeño robot que se queda en casa en vez de ir muy lejos a internet a pedir ayuda, así que cada tarea no cuesta nada extra."
+            },
+            "expert": {
+                "fr": "En s’exécutant sur le silicium Nvidia déjà installé chez l’utilisateur plutôt que dans le cloud, Perplexity supprime le coût marginal par requête et répond aux inquiétudes de confidentialité liées à l’envoi systématique des données vers des serveurs distants. Le lancement suit des informations selon lesquelles Nvidia envisagerait d’investir dans la startup à plus de 30 milliards de dollars de valorisation.",
+                "en": "By running on Nvidia silicon already sitting on the user's desk instead of in the cloud, Perplexity removes the marginal per-query cost and addresses privacy concerns tied to constantly sending data to remote servers. The launch follows reports that Nvidia is weighing an investment valuing the startup above $30 billion, a signal of vertical integration between chips and AI agents.",
+                "es": "Al ejecutarse sobre el silicio de Nvidia que el usuario ya tiene en su escritorio en lugar de en la nube, Perplexity elimina el coste marginal por consulta y responde a las preocupaciones de privacidad ligadas a enviar datos constantemente a servidores remotos. El lanzamiento llega tras informes de que Nvidia estudia invertir en la startup con una valoración superior a 30.000 millones de dólares."
+            },
+            "day": "2026-08-25",
+            "actor": "Perplexity",
+            "actorSlug": "perplexity",
+            "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+            "source": "VentureBeat",
+            "sourceKind": "media"
+        },
         {
             "day": "2026-08-22",
             "actor": "OpenAI",
@@ -518,6 +602,62 @@
             }
         },
         {
+            "title": {
+                "fr": "xAI lance Grok 4.6, moins cher que ses rivaux et taillé pour les tâches longues",
+                "en": "xAI launches Grok 4.6, cheaper than rivals and built for long tasks",
+                "es": "xAI lanza Grok 4.6, más barato que sus rivales y pensado para tareas largas"
+            },
+            "summary": {
+                "fr": "xAI a dévoilé Grok 4.6, doté d’une fenêtre de contexte de 500 000 tokens et de niveaux de raisonnement ajustables, disponible immédiatement via l’API xAI et plusieurs plateformes partenaires à un tarif environ deux fois inférieur à celui des modèles concurrents.",
+                "en": "xAI unveiled Grok 4.6, featuring a 500,000-token context window and adjustable reasoning levels, available immediately through the xAI API and several partner platforms at roughly half the price of competing frontier models.",
+                "es": "xAI presentó Grok 4.6, con una ventana de contexto de 500.000 tokens y niveles de razonamiento ajustables, disponible de inmediato a través de la API de xAI y varias plataformas asociadas a un precio aproximadamente la mitad que el de los modelos rivales."
+            },
+            "simple": {
+                "fr": "Grok, l’IA d’Elon Musk, vient de grandir: elle peut désormais lire un texte aussi long qu’un gros livre d’un coup, et réfléchir plus ou moins fort selon la difficulté de la question.",
+                "en": "Grok, Elon Musk's AI, just grew up: it can now read a text as long as a thick book in one go, and think harder or lighter depending on how tricky the question is.",
+                "es": "Grok, la IA de Elon Musk, acaba de crecer: ahora puede leer de una vez un texto tan largo como un libro grueso, y pensar más o menos fuerte según lo difícil que sea la pregunta."
+            },
+            "expert": {
+                "fr": "La fenêtre de 500 000 tokens et les quatre niveaux d’effort de raisonnement visent les agents autonomes qui enchaînent de longues séquences d’outils sans intervention humaine, un terrain où xAI cherche à rattraper OpenAI et Anthropic. La tarification agressive, environ deux fois moins chère que les modèles frontières rivaux, pourrait peser sur les marges du secteur si la qualité suit dans la durée.",
+                "en": "The 500,000-token window and four reasoning-effort levels target autonomous agents chaining long tool sequences without human input, a space where xAI is racing to catch up with OpenAI and Anthropic. The aggressive pricing, roughly half of rival frontier models, could squeeze industry margins if quality holds up over time.",
+                "es": "La ventana de 500.000 tokens y los cuatro niveles de esfuerzo de razonamiento apuntan a agentes autónomos que encadenan largas secuencias de herramientas sin intervención humana, un terreno donde xAI busca alcanzar a OpenAI y Anthropic. El precio agresivo, casi la mitad que el de los modelos rivales de vanguardia, podría presionar los márgenes del sector si la calidad se mantiene con el tiempo."
+            },
+            "day": "2026-08-12",
+            "actor": "Grok",
+            "actorSlug": "grok",
+            "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+            "source": "VentureBeat",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Anthropic va marquer discrètement tous les textes et images générés par Claude",
+                "en": "Anthropic will quietly watermark all text and images Claude generates",
+                "es": "Anthropic marcará discretamente todo el texto y las imágenes que genera Claude"
+            },
+            "summary": {
+                "fr": "Pour se conformer au règlement européen sur l’IA, Anthropic ajoute une marque invisible aux textes de Claude et des métadonnées de provenance à ses images, un dispositif qui suit le contenu même après un copier-coller.",
+                "en": "To comply with the EU's AI rules, Anthropic is adding an invisible mark to Claude's text and provenance metadata to its images, a system that follows the content even after it's copied and pasted.",
+                "es": "Para cumplir con el reglamento europeo de IA, Anthropic añade una marca invisible a los textos de Claude y metadatos de procedencia a sus imágenes, un sistema que acompaña al contenido incluso tras copiarlo y pegarlo."
+            },
+            "simple": {
+                "fr": "Claude va désormais glisser une petite étiquette invisible dans tout ce qu’il écrit, comme une empreinte digitale secrète qui dit « c’est une IA qui a fait ça ».",
+                "en": "Claude will now slip a tiny invisible tag into everything it writes, like a secret fingerprint that says 'an AI made this'.",
+                "es": "Claude ahora colocará una pequeña etiqueta invisible en todo lo que escribe, como una huella digital secreta que dice 'esto lo hizo una IA'."
+            },
+            "expert": {
+                "fr": "La mesure répond à l’article 50 de l’AI Act européen, entré en application le 2 août, qui impose de signaler le contenu généré par IA. Le marquage textuel reste invisible à l’œil mais détectable par des outils dédiés, tandis que les images embarquent le standard ouvert C2PA. Reste une inconnue: la robustesse de ces marques face à des reformulations ou des captures d’écran.",
+                "en": "The move answers Article 50 of the EU AI Act, in force since August 2, which requires flagging AI-generated content. The text watermark stays invisible to readers but detectable with dedicated tools, while images carry the open C2PA provenance standard. One open question is how well these marks survive paraphrasing or screenshots, something regulators will likely watch closely.",
+                "es": "La medida responde al artículo 50 de la Ley de IA europea, vigente desde el 2 de agosto, que exige señalar el contenido generado por IA. La marca de texto sigue siendo invisible para el lector pero detectable con herramientas específicas, mientras que las imágenes incorporan el estándar abierto C2PA. Queda una duda: cuánto resisten estas marcas a reformulaciones o capturas de pantalla."
+            },
+            "day": "2026-08-11",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+            "source": "TechCrunch",
+            "sourceKind": "media"
+        },
+        {
             "day": "2026-08-11",
             "actor": "Google",
             "actorSlug": "gemini",
@@ -808,6 +948,38 @@
             "sourceKind": "media"
         },
         {
+            "title": {
+                "fr": "L’Europe commence à faire appliquer ses règles de transparence sur l’IA",
+                "en": "Europe starts enforcing its AI transparency rules",
+                "es": "Europa empieza a aplicar sus normas de transparencia sobre la IA"
+            },
+            "summary": {
+                "fr": "Depuis le 2 août, la Commission européenne applique les obligations de transparence de l’AI Act: les chatbots doivent se déclarer comme IA et les deepfakes doivent être signalés, sous peine d’amendes pouvant atteindre 15 millions d’euros ou 3 % du chiffre d’affaires mondial.",
+                "en": "Since August 2, the European Commission has been enforcing the AI Act's transparency obligations: chatbots must identify themselves as AI and deepfakes must be labeled, under penalty of fines of up to 15 million euros or 3% of global turnover.",
+                "es": "Desde el 2 de agosto, la Comisión Europea aplica las obligaciones de transparencia de la Ley de IA: los chatbots deben identificarse como IA y los deepfakes deben etiquetarse, bajo pena de multas de hasta 15 millones de euros o el 3% de la facturación mundial."
+            },
+            "simple": {
+                "fr": "En Europe, les robots qui parlent comme des humains doivent maintenant dire clairement « je suis une IA », et les fausses vidéos truquées doivent porter une étiquette pour qu’on ne s’y trompe pas.",
+                "en": "In Europe, robots that talk like humans now have to clearly say 'I am an AI', and fake, doctored videos must carry a label so nobody gets fooled.",
+                "es": "En Europa, los robots que hablan como humanos ahora deben decir claramente 'soy una IA', y los vídeos falsos manipulados deben llevar una etiqueta para que nadie se confunda."
+            },
+            "expert": {
+                "fr": "Le calendrier reste à deux vitesses: les obligations de transparence de l’article 50 s’appliquent immédiatement, mais les règles les plus lourdes sur les systèmes à haut risque autonomes, comme le recrutement, la notation de crédit ou l’éducation, sont repoussées à décembre 2027, soit dix-sept mois de plus que prévu. Les systèmes à haut risque intégrés à des produits déjà régulés attendront même août 2028.",
+                "en": "The timeline still runs at two speeds: the Article 50 transparency duties apply immediately, but the heavier rules on stand-alone high-risk systems, such as hiring, credit scoring or education, are pushed back to December 2027, seventeen months later than originally planned. High-risk systems embedded in already-regulated products won't face obligations until August 2028.",
+                "es": "El calendario avanza a dos velocidades: las obligaciones de transparencia del artículo 50 se aplican de inmediato, pero las normas sobre sistemas de alto riesgo independientes, como contratación, crédito o educación, se posponen a diciembre de 2027, diecisiete meses más tarde de lo previsto. Los sistemas de alto riesgo en productos ya regulados no tendrán obligaciones hasta agosto de 2028."
+            },
+            "day": "2026-08-02",
+            "actor": {
+                "fr": "Europe",
+                "en": "Europe",
+                "es": "Europa"
+            },
+            "actorSlug": "europe",
+            "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+            "source": "Commission européenne",
+            "sourceKind": "officiel"
+        },
+        {
             "day": "2026-08-02",
             "actor": {
                 "fr": "Europe",
@@ -1043,92 +1215,92 @@
     "quiz": [
         {
             "q": {
-                "fr": "Quelle entreprise a dépassé OpenAI en revenu annualisé cette semaine ?",
-                "en": "Which company overtook OpenAI in annualized revenue this week?",
-                "es": "¿Qué empresa superó a OpenAI en ingresos anualizados esta semana?"
+                "fr": "Pourquoi OpenAI a-t-il décidé d’arrêter de travailler avec Cursor ?",
+                "en": "Why did OpenAI decide to stop working with Cursor?",
+                "es": "¿Por qué decidió OpenAI dejar de trabajar con Cursor?"
             },
             "choices": [
                 {
-                    "fr": "Anthropic",
-                    "en": "Anthropic",
-                    "es": "Anthropic"
+                    "fr": "Parce que Cursor coûtait trop cher à utiliser",
+                    "en": "Because Cursor was too expensive to use",
+                    "es": "Porque Cursor era demasiado caro de usar"
                 },
                 {
-                    "fr": "Mistral AI",
-                    "en": "Mistral AI",
-                    "es": "Mistral AI"
+                    "fr": "Parce que Cursor a été racheté par SpaceX et qu’OpenAI ne fait plus confiance à cette entreprise",
+                    "en": "Because Cursor was bought by SpaceX and OpenAI no longer trusts that company",
+                    "es": "Porque Cursor fue comprado por SpaceX y OpenAI ya no confía en esa empresa"
                 },
                 {
-                    "fr": "Perplexity",
-                    "en": "Perplexity",
-                    "es": "Perplexity"
+                    "fr": "Parce que Cursor a fabriqué sa propre IA pour ne plus avoir besoin d’OpenAI",
+                    "en": "Because Cursor built its own AI so it no longer needed OpenAI",
+                    "es": "Porque Cursor creó su propia IA para no necesitar más a OpenAI"
                 }
             ],
-            "answer": 0,
+            "answer": 1,
             "why": {
-                "fr": "Le revenu annualisé d'Anthropic a atteint 65 milliards de dollars, contre 40 pour OpenAI (news du 17 août).",
-                "en": "Anthropic's annualized revenue reached $65 billion, versus $40 billion for OpenAI (August 17 news).",
-                "es": "Los ingresos anualizados de Anthropic alcanzaron 65 000 millones de dólares, frente a 40 000 de OpenAI (noticia del 17 de agosto)."
+                "fr": "Dans la news du 29 août, OpenAI explique couper l’accès à Cursor parce que l’outil appartient désormais à SpaceX, une entreprise d’Elon Musk envers laquelle OpenAI dit ne plus avoir confiance.",
+                "en": "In the August 29 story, OpenAI explains it is cutting off Cursor's access because the tool now belongs to SpaceX, an Elon Musk company OpenAI says it no longer trusts.",
+                "es": "En la noticia del 29 de agosto, OpenAI explica que corta el acceso a Cursor porque la herramienta ahora pertenece a SpaceX, una empresa de Elon Musk en la que OpenAI dice ya no confiar."
             }
         },
         {
             "q": {
-                "fr": "Pourquoi OpenAI a-t-elle mis en pause l'entraînement de son modèle Astra ?",
-                "en": "Why did OpenAI pause the training of its Astra model?",
-                "es": "¿Por qué OpenAI pausó el entrenamiento de su modelo Astra?"
+                "fr": "Que fait désormais Claude à chaque texte qu’il écrit ?",
+                "en": "What does Claude now do to every text it writes?",
+                "es": "¿Qué hace ahora Claude con cada texto que escribe?"
             },
             "choices": [
                 {
-                    "fr": "Il approchait un seuil critique en cybersécurité",
-                    "en": "It was nearing a critical cybersecurity threshold",
-                    "es": "Se acercaba a un umbral crítico de ciberseguridad"
+                    "fr": "Il y cache une petite marque invisible pour montrer qu’une IA l’a écrit",
+                    "en": "It hides a tiny invisible mark to show an AI wrote it",
+                    "es": "Esconde una pequeña marca invisible para mostrar que lo escribió una IA"
                 },
                 {
-                    "fr": "Il coûtait trop cher en électricité",
-                    "en": "It was costing too much in electricity",
-                    "es": "Costaba demasiado en electricidad"
+                    "fr": "Il refuse d’écrire plus de cent mots",
+                    "en": "It refuses to write more than a hundred words",
+                    "es": "Se niega a escribir más de cien palabras"
                 },
                 {
-                    "fr": "Ses serveurs étaient en panne",
-                    "en": "Its servers were down",
-                    "es": "Sus servidores estaban averiados"
+                    "fr": "Il traduit automatiquement le texte dans toutes les langues",
+                    "en": "It automatically translates the text into every language",
+                    "es": "Traduce automáticamente el texto a todos los idiomas"
                 }
             ],
             "answer": 0,
             "why": {
-                "fr": "OpenAI a détecté qu'Astra approchait un seuil critique de capacités en cybersécurité et a suspendu l'entraînement par précaution (news du 18 août).",
-                "en": "OpenAI detected that Astra was nearing a critical cybersecurity capability threshold and paused training as a precaution (August 18 news).",
-                "es": "OpenAI detectó que Astra se acercaba a un umbral crítico de capacidades de ciberseguridad y suspendió el entrenamiento por precaución (noticia del 18 de agosto)."
+                "fr": "La news du 11 août explique qu’Anthropic ajoute une marque invisible aux textes de Claude, pour respecter une règle européenne qui veut qu’on sache quand un texte vient d’une IA.",
+                "en": "The August 11 story explains that Anthropic adds an invisible mark to Claude's texts, to follow a European rule requiring people to know when a text comes from an AI.",
+                "es": "La noticia del 11 de agosto explica que Anthropic añade una marca invisible a los textos de Claude, para cumplir una norma europea que exige saber cuándo un texto viene de una IA."
             }
         },
         {
             "q": {
-                "fr": "Que permet de faire Grok Build, désormais ouvert à tous les abonnés ?",
-                "en": "What does Grok Build, now open to all subscribers, let you do?",
-                "es": "¿Qué permite hacer Grok Build, ahora abierto a todos los suscriptores?"
+                "fr": "Depuis le 2 août 2026, que doivent faire les chatbots en Europe ?",
+                "en": "Since August 2, 2026, what must chatbots do in Europe?",
+                "es": "Desde el 2 de agosto de 2026, ¿qué deben hacer los chatbots en Europa?"
             },
             "choices": [
                 {
-                    "fr": "Créer une application en la décrivant avec des mots",
-                    "en": "Create an app by describing it in words",
-                    "es": "Crear una aplicación describiéndola con palabras"
+                    "fr": "Être gratuits pour tous les utilisateurs",
+                    "en": "Be free for every user",
+                    "es": "Ser gratuitos para todos los usuarios"
                 },
                 {
-                    "fr": "Traduire des films en direct",
-                    "en": "Translate movies live",
-                    "es": "Traducir películas en directo"
+                    "fr": "Répondre uniquement dans la langue du pays",
+                    "en": "Only answer in the country's language",
+                    "es": "Responder únicamente en el idioma del país"
                 },
                 {
-                    "fr": "Réserver des billets d'avion",
-                    "en": "Book plane tickets",
-                    "es": "Reservar billetes de avión"
+                    "fr": "Dire clairement qu’ils sont une IA et non un humain",
+                    "en": "Clearly say they are an AI and not a human",
+                    "es": "Decir claramente que son una IA y no un humano"
                 }
             ],
-            "answer": 0,
+            "answer": 2,
             "why": {
-                "fr": "Grok Build construit une application à partir d'une description, puis permet de la publier ou d'exporter son code (news du 19 août).",
-                "en": "Grok Build builds an app from a description, then lets you publish it or export its code (August 19 news).",
-                "es": "Grok Build construye una aplicación a partir de una descripción y luego permite publicarla o exportar su código (noticia del 19 de agosto)."
+                "fr": "La news du 2 août rapporte que l’Union européenne impose désormais aux chatbots de se présenter comme des IA et oblige à étiqueter les deepfakes.",
+                "en": "The August 2 story reports that the European Union now requires chatbots to identify themselves as AI and requires deepfakes to be labeled.",
+                "es": "La noticia del 2 de agosto informa de que la Unión Europea ahora exige a los chatbots identificarse como IA y obliga a etiquetar los deepfakes."
             }
         }
     ]
