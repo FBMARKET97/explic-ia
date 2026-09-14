@@ -1,6 +1,262 @@
 {
-    "updated": "2026-09-08",
+    "updated": "2026-09-14",
     "items": [
+        {
+            "day": "2026-09-13",
+            "actor": {
+                "fr": "États-Unis",
+                "en": "United States",
+                "es": "Estados Unidos"
+            },
+            "actorSlug": "monde",
+            "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Barack Obama presse les démocrates d'avoir un plan clair sur l'IA",
+                "en": "Barack Obama urges Democrats to get a clear plan on AI",
+                "es": "Barack Obama insta a los demócratas a tener un plan claro sobre la IA"
+            },
+            "summary": {
+                "fr": "Lors d'un événement de collecte de fonds, l'ancien président américain Barack Obama a appelé les démocrates à faire de l'intelligence artificielle l'un de leurs sujets centraux et à préparer un plan clair face à ses risques économiques et sécuritaires.",
+                "en": "At a fundraising event, former US president Barack Obama urged Democrats to make artificial intelligence one of their central issues and to prepare a clear plan for its economic and security risks.",
+                "es": "En un evento de recaudación de fondos, el expresidente estadounidense Barack Obama instó a los demócratas a hacer de la inteligencia artificial uno de sus temas centrales y a preparar un plan claro ante sus riesgos económicos y de seguridad."
+            },
+            "simple": {
+                "fr": "Un ancien président des États-Unis dit à son camp politique qu'il faut absolument réfléchir sérieusement aux dangers de l'intelligence artificielle avant qu'il ne soit trop tard.",
+                "en": "A former US president is telling his political party they urgently need to think seriously about the dangers of artificial intelligence before it is too late.",
+                "es": "Un expresidente de Estados Unidos le dice a su partido político que hay que pensar en serio y con urgencia en los peligros de la inteligencia artificial antes de que sea tarde."
+            },
+            "expert": {
+                "fr": "Obama a averti que l'IA avance très vite entre des mains privées et qu'un retard à agir pourrait devenir dangereux, en proposant un cadre pour un débat public si les démocrates reprennent la majorité à la Chambre. Il confirme aussi son rôle informel de conseiller pour des dirigeants du secteur, dont ceux d'Anthropic et d'OpenAI, illustrant le poids croissant de la politique dans la régulation de l'IA.",
+                "en": "Obama warned that AI is moving very fast in private hands and that waiting too long to act could turn dangerous, proposing a framework for public debate if Democrats retake the House majority. He also confirmed his informal role as a sounding board for industry leaders, including those at Anthropic and OpenAI, underscoring the growing weight of politics on AI regulation.",
+                "es": "Obama advirtió que la IA avanza muy rápido en manos privadas y que tardar demasiado en actuar podría volverse peligroso, proponiendo un marco para un debate público si los demócratas recuperan la mayoría en la Cámara. También confirmó su papel informal como consejero de líderes del sector, incluidos los de Anthropic y OpenAI, lo que subraya el peso creciente de la política en la regulación de la IA."
+            }
+        },
+        {
+            "day": "2026-09-12",
+            "actor": "Anthropic",
+            "actorSlug": "securite",
+            "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Le patron d'Anthropic propose de freiner collectivement la course à l'IA",
+                "en": "Anthropic's CEO proposes a collective brake on the AI race",
+                "es": "El jefe de Anthropic propone frenar en conjunto la carrera de la IA"
+            },
+            "summary": {
+                "fr": "Dario Amodei, PDG d'Anthropic, détaille un plan pour ralentir la course à l'IA la plus puissante : évaluateurs de sécurité externes intégrés aux équipes, normes communes entre entreprises et discussions internationales, y compris avec la Chine.",
+                "en": "Anthropic CEO Dario Amodei has laid out a plan to slow the race for ever more powerful AI: embedding outside safety evaluators inside the company, shared industry standards, and international talks that include China.",
+                "es": "Dario Amodei, director ejecutivo de Anthropic, presenta un plan para frenar la carrera por la IA más potente: evaluadores de seguridad externos integrados en la empresa, normas comunes entre compañías y conversaciones internacionales, incluida China."
+            },
+            "simple": {
+                "fr": "Le patron d'une grande entreprise d'intelligence artificielle dit qu'il vaut mieux avancer moins vite mais tous ensemble, comme des coureurs qui décident de ne pas sprinter n'importe comment pour ne pas se blesser.",
+                "en": "The boss of a big AI company says it is better to go a bit slower but all together, like runners who decide not to sprint recklessly so nobody gets hurt.",
+                "es": "El jefe de una gran empresa de inteligencia artificial dice que es mejor avanzar un poco más despacio pero todos juntos, como corredores que deciden no esprintar sin cuidado para que nadie se lastime."
+            },
+            "expert": {
+                "fr": "Amodei propose d'accueillir des évaluateurs externes type METR avec badges et accès internes, façon régulateurs bancaires, et appelle Washington à arbitrer une coordination entre laboratoires concurrents malgré les risques antitrust. Il invoque le récent piratage lié à Hugging Face pour justifier l'urgence, tout en visant une coopération, même avec des gouvernements autoritaires, sur les usages les plus dangereux.",
+                "en": "Amodei wants to bring in outside evaluators like METR with badges and internal access, similar to bank regulators, and is asking Washington to referee coordination among rival labs despite antitrust concerns. He cites the recent Hugging Face-related breach to justify urgency, while seeking cooperation, even with authoritarian governments, on the most dangerous uses of the technology.",
+                "es": "Amodei propone incorporar evaluadores externos como METR con credenciales y acceso interno, al estilo de los reguladores bancarios, y pide a Washington que arbitre una coordinación entre laboratorios rivales a pesar de los riesgos antimonopolio. Cita la reciente brecha ligada a Hugging Face para justificar la urgencia, buscando cooperación, incluso con gobiernos autoritarios, sobre los usos más peligrosos."
+            }
+        },
+        {
+            "day": "2026-09-11",
+            "actor": "Moonshot AI",
+            "actorSlug": "kimi",
+            "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Moonshot AI, créateur de Kimi, vise 2 milliards de dollars de revenus annuels",
+                "en": "Kimi maker Moonshot AI targets $2 billion in annual revenue",
+                "es": "Moonshot AI, creadora de Kimi, apunta a 2.000 millones de dólares anuales"
+            },
+            "summary": {
+                "fr": "L'entreprise chinoise Moonshot AI, à l'origine du modèle Kimi K3, veut doubler son chiffre d'affaires annualisé pour atteindre 2 milliards de dollars d'ici la fin 2026, malgré une utilisation en léger recul récemment.",
+                "en": "Chinese company Moonshot AI, maker of the Kimi K3 model, wants to double its annualized revenue to $2 billion by the end of 2026, even as usage has recently dipped slightly.",
+                "es": "La empresa china Moonshot AI, creadora del modelo Kimi K3, quiere duplicar sus ingresos anualizados hasta 2.000 millones de dólares para fines de 2026, aunque el uso ha bajado ligeramente en las últimas semanas."
+            },
+            "simple": {
+                "fr": "L'entreprise chinoise derrière le robot Kimi rêve de gagner deux fois plus d'argent qu'aujourd'hui avant la fin de l'année, même si elle est encore beaucoup plus petite que ses grands rivaux américains.",
+                "en": "The Chinese company behind the Kimi robot dreams of earning twice as much money as today before the year ends, even though it is still much smaller than its big American rivals.",
+                "es": "La empresa china detrás del robot Kimi sueña con ganar el doble de dinero que hoy antes de que termine el año, aunque todavía es mucho más pequeña que sus grandes rivales estadounidenses."
+            },
+            "expert": {
+                "fr": "Kimi K3 génère environ 300 milliards de tokens par jour sur OpenRouter, mais ses revenus restent minuscules face aux 40 milliards d'OpenAI et 65 milliards d'Anthropic. Moonshot mise sur un modèle ouvert à faibles marges plutôt que fermé. Le dossier est aussi tendu par l'accusation d'Anthropic, qui reproche à Moonshot d'avoir collecté plus de 23 millions de réponses de Claude pour entraîner Kimi.",
+                "en": "Kimi K3 generates roughly 300 billion tokens a day on OpenRouter, but Moonshot's revenue remains tiny next to OpenAI's $40 billion and Anthropic's $65 billion. Moonshot is betting on an open, low-margin model rather than a closed one. The story is also clouded by Anthropic's accusation that Moonshot collected more than 23 million Claude responses to train Kimi.",
+                "es": "Kimi K3 genera unos 300.000 millones de tokens al día en OpenRouter, pero los ingresos de Moonshot siguen siendo minúsculos frente a los 40.000 millones de OpenAI y los 65.000 millones de Anthropic. Moonshot apuesta por un modelo abierto de márgenes bajos en lugar de uno cerrado. Anthropic acusa además a Moonshot de recolectar más de 23 millones de respuestas de Claude para entrenar a Kimi."
+            }
+        },
+        {
+            "day": "2026-09-10",
+            "actor": "DeepSeek",
+            "actorSlug": "deepseek",
+            "url": "https://venturebeat.com/technology/deepseek-v4-1-flash-debuts-with-0-003-1m-off-peak-cached-input-rate-and-benchmarks-eclipsing-gpt-5-6-sol-claude-opus-5",
+            "source": "VentureBeat",
+            "sourceKind": "media",
+            "title": {
+                "fr": "DeepSeek casse les prix avec son modèle V4.1-Flash",
+                "en": "DeepSeek slashes prices with its new V4.1-Flash model",
+                "es": "DeepSeek recorta precios con su nuevo modelo V4.1-Flash"
+            },
+            "summary": {
+                "fr": "L'entreprise chinoise DeepSeek lance V4.1-Flash, un modèle facturé à peine 0,003 dollar par million de mots lus en heures creuses, avec des résultats qui dépassent parfois Claude Opus 5 et GPT-5.6 sur des tâches d'agents.",
+                "en": "Chinese company DeepSeek has launched V4.1-Flash, a model priced at just $0.003 per million cached input tokens off-peak, with results that sometimes beat Claude Opus 5 and GPT-5.6 on agentic tasks.",
+                "es": "La empresa china DeepSeek lanza V4.1-Flash, un modelo que cuesta apenas 0,003 dólares por millón de tokens de entrada en caché fuera de horas punta, con resultados que a veces superan a Claude Opus 5 y GPT-5.6 en tareas de agentes."
+            },
+            "simple": {
+                "fr": "Une entreprise chinoise vient de sortir un robot intelligent presque aussi doué que les meilleurs, mais qui coûte beaucoup, beaucoup moins cher à faire tourner.",
+                "en": "A Chinese company just released a smart robot almost as skilled as the best ones, but far, far cheaper to run.",
+                "es": "Una empresa china acaba de lanzar un robot inteligente casi tan bueno como los mejores, pero mucho, mucho más barato de usar."
+            },
+            "expert": {
+                "fr": "Le tarif nuit de 0,003 dollar concerne uniquement les lectures en cache ; en pointe et hors cache, la facture grimpe jusqu'à 0,60 dollar en sortie. Sur DeepSWE v1.1, le modèle dépasse légèrement Claude Opus 5 et GPT-5.6 Sol, mais reste nettement derrière sur Terminal-Bench 3.0. La bataille se joue désormais sur le rapport prix-performance plus que sur l'intelligence brute.",
+                "en": "That $0.003 night rate applies only to cached-input hits; at peak hours and off cache, output pricing climbs to $0.60 per million tokens. On DeepSWE v1.1 the model edges out Claude Opus 5 and GPT-5.6 Sol, but lags well behind on Terminal-Bench 3.0. The competition is now increasingly about price-performance rather than raw intelligence.",
+                "es": "Esa tarifa nocturna de 0,003 dólares solo aplica a los aciertos de caché en la entrada; en horas punta y sin caché, la salida sube hasta 0,60 dólares por millón de tokens. En DeepSWE v1.1 el modelo supera por poco a Claude Opus 5 y GPT-5.6 Sol, pero queda muy por detrás en Terminal-Bench 3.0. La competencia se juega ahora más en precio-rendimiento que en inteligencia bruta."
+            }
+        },
+        {
+            "day": "2026-09-10",
+            "actor": "Meta",
+            "actorSlug": "meta-ai",
+            "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "L'agent IA Muse de Meta grimpe à la 2e place des applications aux États-Unis",
+                "en": "Meta's AI agent Muse rockets to No. 2 on the US App Store",
+                "es": "El agente de IA Muse de Meta salta al puesto n.º 2 en EE. UU."
+            },
+            "summary": {
+                "fr": "Lancé le 8 septembre, l'agent IA autonome Muse de Meta a déjà dépassé 83 000 téléchargements sur iOS et grimpe à la deuxième place des applications aux États-Unis, dans un marché où plusieurs géants lancent leur propre agent.",
+                "en": "Launched on September 8, Meta's autonomous AI agent Muse has already topped 83,000 iOS downloads and climbed to No. 2 on the US App Store, in a market where several tech giants are racing to launch their own agents.",
+                "es": "Lanzado el 8 de septiembre, el agente autónomo de IA Muse de Meta ya superó las 83.000 descargas en iOS y subió al puesto n.º 2 en la App Store de EE. UU., en un mercado donde varios gigantes lanzan su propio agente."
+            },
+            "simple": {
+                "fr": "Meta a sorti un assistant intelligent capable d'agir tout seul, et tellement de gens l'ont téléchargé en quelques jours qu'il est devenu l'une des applications les plus populaires du pays.",
+                "en": "Meta released a smart assistant that can act on its own, and so many people downloaded it within days that it became one of the most popular apps in the country.",
+                "es": "Meta lanzó un asistente inteligente capaz de actuar por sí mismo, y tanta gente lo descargó en pocos días que se convirtió en una de las aplicaciones más populares del país."
+            },
+            "expert": {
+                "fr": "Muse arrive dans un marché des agents grand public déjà encombré : Instinct (valorisé 2,5 milliards de dollars) progresse vite, ChatGPT avait atteint 500 000 téléchargements en une semaine, et Google comme Anthropic ont aussi leur agent. Le lancement suit de près le règlement de 18 milliards de dollars payé par Meta sur les préjudices liés aux réseaux sociaux.",
+                "en": "Muse enters an already crowded consumer-agent market: rival Instinct (valued at $2.5 billion) is gaining fast, ChatGPT hit 500,000 downloads in its first week, and both Google and Anthropic have their own agents too. The launch comes right after Meta paid an $18 billion settlement over social media harms, a backdrop that weighs on user trust.",
+                "es": "Muse entra en un mercado de agentes de consumo ya saturado: el rival Instinct (valorado en 2.500 millones de dólares) avanza rápido, ChatGPT alcanzó 500.000 descargas en su primera semana, y tanto Google como Anthropic tienen también su propio agente. El lanzamiento llega justo tras el acuerdo de 18.000 millones de dólares que pagó Meta por daños en redes sociales."
+            }
+        },
+        {
+            "day": "2026-09-10",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "OpenAI suspend les nouveaux abonnements Pro, débordé par la demande pour Astra",
+                "en": "OpenAI pauses new Pro sign-ups as demand for Astra overwhelms its systems",
+                "es": "OpenAI pausa nuevas suscripciones Pro, desbordada por la demanda de Astra"
+            },
+            "summary": {
+                "fr": "OpenAI a temporairement coupé les nouvelles inscriptions à son abonnement Pro à 200 dollars par mois, la demande pour son modèle Astra, lancé le 3 septembre, mettant trop de pression sur ses serveurs.",
+                "en": "OpenAI has temporarily cut off new sign-ups for its $200-a-month Pro plan, as demand for its Astra model, launched September 3, puts too much strain on its servers.",
+                "es": "OpenAI cortó temporalmente las nuevas suscripciones a su plan Pro de 200 dólares al mes, ya que la demanda de su modelo Astra, lanzado el 3 de septiembre, sobrecarga demasiado sus servidores."
+            },
+            "simple": {
+                "fr": "Tellement de gens veulent utiliser le nouveau super-cerveau d'OpenAI que l'entreprise a dû fermer la porte à de nouveaux clients payants, le temps de construire plus de place.",
+                "en": "So many people want to use OpenAI's new super-brain that the company had to close the door to new paying customers for a while, until it builds more room.",
+                "es": "Tanta gente quiere usar el nuevo supercerebro de OpenAI que la empresa tuvo que cerrar la puerta a nuevos clientes de pago por un tiempo, hasta construir más espacio."
+            },
+            "expert": {
+                "fr": "Selon le responsable produit Thibault Sottiaux, c'est le plan Pro qui pèse le plus sur l'infrastructure, contrairement aux abonnements API, Go et Plus, restés ouverts. Astra, présenté comme un pas vers l'AGI par Greg Brockman, coûte 10 dollars par million de tokens en entrée et 50 en sortie via l'API. Aucune date de réouverture du plan Pro n'a été annoncée par l'entreprise.",
+                "en": "According to product lead Thibault Sottiaux, it is the Pro plan that strains infrastructure the most, unlike the API, Go and Plus subscriptions, which remain open. Astra, described by Greg Brockman as a step toward AGI, costs $10 per million input tokens and $50 per million output tokens via the API. No reopening date for Pro has been announced.",
+                "es": "Según el responsable de producto Thibault Sottiaux, es el plan Pro el que más presiona la infraestructura, a diferencia de las suscripciones API, Go y Plus, que siguen abiertas. Astra, descrito por Greg Brockman como un paso hacia la AGI, cuesta 10 dólares por millón de tokens de entrada y 50 de salida vía API. No se ha anunciado fecha para reabrir el plan Pro."
+            }
+        },
+        {
+            "day": "2026-09-08",
+            "actor": "Mistral AI",
+            "actorSlug": "mistral",
+            "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+            "source": "Mistral AI",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Mistral lève 3 milliards d'euros pour porter l'IA ouverte européenne au sommet",
+                "en": "Mistral raises €3 billion to push open, sovereign AI to the frontier",
+                "es": "Mistral capta 3.000 millones de euros para llevar la IA abierta europea a la cima"
+            },
+            "summary": {
+                "fr": "La start-up française Mistral AI annonce une levée de 3 milliards d'euros, portant sa valorisation à plus de 21 milliards, avec Samsung et le fonds Scaleup Europe en tête des investisseurs.",
+                "en": "French startup Mistral AI has raised €3 billion, pushing its valuation above €21 billion, led by Samsung Electronics and the Scaleup Europe Fund.",
+                "es": "La startup francesa Mistral AI ha captado 3.000 millones de euros, elevando su valoración a más de 21.000 millones, liderada por Samsung Electronics y el fondo Scaleup Europe."
+            },
+            "simple": {
+                "fr": "Une entreprise française qui fabrique une intelligence artificielle vient de recevoir énormément d'argent pour devenir encore plus forte, comme un jardinier qui reçoit de quoi acheter toute une serre neuve.",
+                "en": "A French company that builds artificial intelligence just got a huge pile of money to grow even stronger, like a gardener given enough cash to buy a whole new greenhouse.",
+                "es": "Una empresa francesa que fabrica inteligencia artificial acaba de recibir muchísimo dinero para volverse aún más fuerte, como un jardinero al que le dan dinero para comprar un invernadero entero."
+            },
+            "expert": {
+                "fr": "Ce tour de série D valorise Mistral à plus de 21 milliards d'euros, avec Samsung Electronics en tête, rejoint par BlackRock, Advent et le Luxembourg. L'argument central reste la souveraineté : des poids ouverts et une infrastructure européenne face à la dépendance aux modèles fermés américains ou chinois. À surveiller : la capacité à transformer ce capital en revenus commerciaux face à des rivaux mieux financés.",
+                "en": "This Series D values Mistral above €21 billion, led by Samsung Electronics and joined by BlackRock, Advent and the Luxembourg government. The pitch is sovereignty: open weights and European infrastructure as an alternative to closed US or Chinese models. Watch whether this capital turns into matching commercial revenue against better-funded rivals.",
+                "es": "Esta ronda serie D valora Mistral en más de 21.000 millones de euros, liderada por Samsung Electronics y con BlackRock, Advent y el Estado de Luxemburgo entre los nuevos inversores. La apuesta central es la soberanía: pesos abiertos e infraestructura europea frente a la dependencia de modelos cerrados estadounidenses o chinos. Queda por ver si el capital se traduce en ingresos frente a rivales mejor financiados."
+            }
+        },
+        {
+            "day": "2026-09-08",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://venturebeat.com/technology/openai-solves-longstanding-math-problem-with-10-000-agent-swarm-but-cant-rule-out-benefitting-from-a-researchers-private-codex-data",
+            "source": "VentureBeat",
+            "sourceKind": "media",
+            "title": {
+                "fr": "OpenAI dit avoir résolu un problème mathématique vieux de plusieurs décennies grâce à 10 000 agents IA",
+                "en": "OpenAI says a swarm of 10,000 AI agents cracked a decades-old math problem",
+                "es": "OpenAI dice haber resuelto un problema matemático de décadas con 10.000 agentes de IA"
+            },
+            "summary": {
+                "fr": "OpenAI affirme avoir contribué à résoudre le problème d'existence et de régularité de Navier-Stokes, un des sept problèmes du prix du millénaire, en coordonnant environ 10 000 agents IA qui ont généré 2,7 millions de messages.",
+                "en": "OpenAI says it helped solve the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize Problems, by coordinating roughly 10,000 AI agents that generated 2.7 million messages.",
+                "es": "OpenAI afirma haber ayudado a resolver el problema de existencia y regularidad de Navier-Stokes, uno de los siete Problemas del Milenio, coordinando unos 10.000 agentes de IA que generaron 2,7 millones de mensajes."
+            },
+            "simple": {
+                "fr": "Des milliers de petits robots pensants ont travaillé ensemble, comme une immense fourmilière, pour résoudre une énigme de mathématiques que personne n'avait réussi à percer depuis très longtemps.",
+                "en": "Thousands of thinking little robots worked together, like a giant anthill, to crack a math riddle nobody had managed to solve in a very long time.",
+                "es": "Miles de pequeños robots pensantes trabajaron juntos, como un enorme hormiguero, para resolver un enigma matemático que nadie había logrado descifrar desde hacía muchísimo tiempo."
+            },
+            "expert": {
+                "fr": "L'essaim a produit 130 milliards de tokens de sortie pour approcher Navier-Stokes, mais des mathématiciens de NYU et d'Anthropic contestent la paternité : ils avaient soumis un code proche à Codex avant l'annonce. OpenAI reconnaît ne pas pouvoir exclure que des données désidentifiées de ses produits aient nourri ses modèles, une zone grise pour les entreprises qui confient du code à l'IA.",
+                "en": "The swarm produced 130 billion output tokens tackling Navier-Stokes, but mathematicians from NYU and Anthropic dispute the credit: they had submitted similar code to Codex before OpenAI's announcement. OpenAI admits it cannot rule out that de-identified data from product usage helped train its models, an awkward gray zone for any company feeding proprietary code into AI tools.",
+                "es": "El enjambre generó 130.000 millones de tokens de salida para abordar Navier-Stokes, pero matemáticos de NYU y Anthropic disputan la autoría: habían enviado un código similar a Codex antes del anuncio de OpenAI. OpenAI admite que no puede descartar que datos anonimizados del uso de sus productos ayudaran a entrenar sus modelos, una zona gris incómoda para quienes confían código propio a la IA."
+            }
+        },
+        {
+            "day": "2026-09-04",
+            "actor": "Google",
+            "actorSlug": "gemini",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
+            "source": "Google",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Google intègre son générateur de musique Lyria 3.5 dans l'appli Gemini",
+                "en": "Google brings its Lyria 3.5 music generator into the Gemini app",
+                "es": "Google integra su generador musical Lyria 3.5 en la app Gemini"
+            },
+            "summary": {
+                "fr": "Google déploie Lyria 3.5, son modèle de génération musicale le plus avancé, dans l'application Gemini et son API, avec des voix plus expressives et des modèles prêts à l'emploi pour créer des morceaux complets.",
+                "en": "Google has rolled out Lyria 3.5, its most advanced music generation model, into the Gemini app and its API, with more expressive vocals and ready-made templates for creating full tracks.",
+                "es": "Google despliega Lyria 3.5, su modelo de generación musical más avanzado, en la app Gemini y su API, con voces más expresivas y plantillas listas para crear canciones completas."
+            },
+            "simple": {
+                "fr": "Le robot de Google peut maintenant composer de vraies chansons, avec de la voix et de la musique, juste parce qu'on lui demande gentiment.",
+                "en": "Google's robot can now compose real songs, with singing and music, just because you politely ask it to.",
+                "es": "El robot de Google ahora puede componer canciones de verdad, con voz y música, solo porque se lo pides amablemente."
+            },
+            "expert": {
+                "fr": "Lyria 3.5 était jusque-là réservé à Flow Music depuis juillet ; il rejoint désormais l'app Gemini, l'API, AI Studio et Google Vids, avec le choix entre voix ou instrumental et des gabarits pour jingles ou musiques de fond. Cette diffusion large positionne Google face à Suno et ElevenLabs, misant sur un assistant déjà installé chez des millions d'utilisateurs.",
+                "en": "Lyria 3.5 had been limited to Flow Music since July; it now reaches the Gemini app, the API, AI Studio and Google Vids, with a choice between vocals or instrumental and templates for jingles or background music. This wide rollout puts Google up against Suno and ElevenLabs in consumer music generation, betting on integration into an assistant already installed for millions of users.",
+                "es": "Lyria 3.5 estaba limitado a Flow Music desde julio; ahora llega a la app Gemini, la API, AI Studio y Google Vids, con opción de voz o instrumental y plantillas para jingles o música de fondo. Este despliegue amplio pone a Google frente a Suno y ElevenLabs en generación musical para el público general, apostando por la integración en un asistente ya instalado en millones de usuarios."
+            }
+        },
         {
             "day": "2026-09-04",
             "actor": "OpenAI",
@@ -1443,92 +1699,92 @@
     "quiz": [
         {
             "q": {
-                "fr": "Combien Nvidia a-t-il payé pour racheter Hugging Face ?",
-                "en": "How much did Nvidia pay to buy Hugging Face?",
-                "es": "¿Cuánto pagó Nvidia por comprar Hugging Face?"
+                "fr": "Combien Mistral a-t-il levé lors de son tour de financement de septembre ?",
+                "en": "How much did Mistral raise in its September funding round?",
+                "es": "¿Cuánto captó Mistral en su ronda de financiación de septiembre?"
             },
             "choices": [
                 {
-                    "fr": "12,9 milliards de dollars",
-                    "en": "$12.9 billion",
-                    "es": "12.900 millones de dólares"
+                    "fr": "3 milliards d'euros",
+                    "en": "€3 billion",
+                    "es": "3.000 millones de euros"
                 },
                 {
-                    "fr": "500 millions de dollars",
-                    "en": "$500 million",
-                    "es": "500 millones de dólares"
+                    "fr": "300 millions d'euros",
+                    "en": "€300 million",
+                    "es": "300 millones de euros"
                 },
                 {
-                    "fr": "1 milliard de dollars",
-                    "en": "$1 billion",
-                    "es": "1.000 millones de dólares"
+                    "fr": "30 milliards d'euros",
+                    "en": "€30 billion",
+                    "es": "30.000 millones de euros"
                 }
             ],
             "answer": 0,
             "why": {
-                "fr": "C'est le montant annoncé dans la news du 3 septembre sur le rachat de Hugging Face par Nvidia.",
-                "en": "That's the amount announced in the September 3 story about Nvidia buying Hugging Face.",
-                "es": "Es la cantidad anunciada en la noticia del 3 de septiembre sobre la compra de Hugging Face por Nvidia."
+                "fr": "C'est le montant annoncé dans la news du 8 septembre sur la levée de fonds de Mistral.",
+                "en": "That's the amount announced in the September 8 story about Mistral's funding round.",
+                "es": "Es la cantidad anunciada en la noticia del 8 de septiembre sobre la ronda de financiación de Mistral."
             }
         },
         {
             "q": {
-                "fr": "Que sait faire de nouveau le modèle Astra d'OpenAI ?",
-                "en": "What can OpenAI's new Astra model do?",
-                "es": "¿Qué sabe hacer el nuevo modelo Astra de OpenAI?"
+                "fr": "Environ combien d'agents IA OpenAI a-t-il fait travailler ensemble pour s'attaquer à un très vieux problème de mathématiques ?",
+                "en": "About how many AI agents did OpenAI put to work together to tackle a very old math problem?",
+                "es": "¿Cuántos agentes de IA puso OpenAI a trabajar juntos para atacar un problema matemático muy antiguo?"
             },
             "choices": [
                 {
-                    "fr": "Piloter un ordinateur comme un humain",
-                    "en": "Operate a computer like a human",
-                    "es": "Manejar un ordenador como una persona"
+                    "fr": "Environ 10 000",
+                    "en": "About 10,000",
+                    "es": "Unos 10.000"
                 },
                 {
-                    "fr": "Cuisiner de vrais plats",
-                    "en": "Cook real meals",
-                    "es": "Cocinar comida de verdad"
+                    "fr": "Environ 100",
+                    "en": "About 100",
+                    "es": "Unos 100"
                 },
                 {
-                    "fr": "Conduire une voiture dans la rue",
-                    "en": "Drive a car on the street",
-                    "es": "Conducir un coche por la calle"
+                    "fr": "Environ 1 million",
+                    "en": "About 1 million",
+                    "es": "Alrededor de 1 millón"
                 }
             ],
             "answer": 0,
             "why": {
-                "fr": "La news du 3 septembre explique qu'Astra peut naviguer sur un ordinateur comme le ferait une personne.",
-                "en": "The September 3 story explains that Astra can navigate a computer the way a person would.",
-                "es": "La noticia del 3 de septiembre explica que Astra puede navegar por un ordenador como lo haría una persona."
+                "fr": "C'est le nombre indiqué dans la news du 8 septembre sur le problème de Navier-Stokes.",
+                "en": "That's the number given in the September 8 story about the Navier-Stokes problem.",
+                "es": "Es el número indicado en la noticia del 8 de septiembre sobre el problema de Navier-Stokes."
             }
         },
         {
             "q": {
-                "fr": "Pourquoi Sony Music et Warner Chappell ont-ils attaqué Anthropic en justice ?",
-                "en": "Why did Sony Music and Warner Chappell sue Anthropic?",
-                "es": "¿Por qué demandaron Sony Music y Warner Chappell a Anthropic?"
+                "fr": "À quelle place l'application Muse de Meta est-elle montée sur l'App Store américain ?",
+                "en": "What rank did Meta's Muse app climb to on the US App Store?",
+                "es": "¿A qué puesto subió la aplicación Muse de Meta en la App Store de EE. UU.?"
             },
             "choices": [
                 {
-                    "fr": "Pour avoir utilisé des chansons protégées sans permission",
-                    "en": "For using protected songs without permission",
-                    "es": "Por usar canciones protegidas sin permiso"
+                    "fr": "2e place",
+                    "en": "No. 2",
+                    "es": "N.º 2"
                 },
                 {
-                    "fr": "Pour avoir copié leur logo",
-                    "en": "For copying their logo",
-                    "es": "Por copiar su logo"
+                    "fr": "50e place",
+                    "en": "No. 50",
+                    "es": "N.º 50"
                 },
                 {
-                    "fr": "Pour ne pas avoir payé leurs employés",
-                    "en": "For not paying their employees",
-                    "es": "Por no pagar a sus empleados"
+                    "fr": "1re place",
+                    "en": "No. 1",
+                    "es": "N.º 1"
                 }
             ],
             "answer": 0,
             "why": {
-                "fr": "La news du 29 août explique que les maisons de disques accusent Anthropic d'avoir entraîné Claude sur des chansons protégées sans autorisation.",
-                "en": "The August 29 story explains that the labels accuse Anthropic of training Claude on protected songs without permission.",
-                "es": "La noticia del 29 de agosto explica que las discográficas acusan a Anthropic de entrenar a Claude con canciones protegidas sin permiso."
+                "fr": "C'est le classement mentionné dans la news du 10 septembre sur l'agent IA Muse de Meta.",
+                "en": "That's the ranking mentioned in the September 10 story about Meta's AI agent Muse.",
+                "es": "Es la posición mencionada en la noticia del 10 de septiembre sobre el agente de IA Muse de Meta."
             }
         }
     ]
