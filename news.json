@@ -1,6 +1,146 @@
 {
-    "updated": "2026-09-14",
+    "updated": "2026-09-21",
     "items": [
+        {
+            "day": "2026-09-17",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-code-projects-an-always-on-conversation-that-remembers-and-delegates-your-long-running-dev-work",
+            "source": "VentureBeat",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Anthropic lance Claude Code Projects, un assistant de développement toujours actif",
+                "en": "Anthropic launches Claude Code Projects, an always-on coding assistant",
+                "es": "Anthropic lanza Claude Code Projects, un asistente de programación siempre activo"
+            },
+            "summary": {
+                "fr": "Anthropic a dévoilé en version bêta Claude Code Projects, une fonctionnalité qui répartit automatiquement les demandes des développeurs en plusieurs tâches menées en parallèle, avec une mémoire partagée du projet. Le travail continue même ordinateur fermé et peut être suivi depuis un téléphone.",
+                "en": "Anthropic unveiled Claude Code Projects in beta, a feature that automatically splits developers' requests into several tasks run in parallel, with a shared memory of the project. Work keeps running even with the laptop closed and can be followed from a phone.",
+                "es": "Anthropic presentó en beta Claude Code Projects, una función que reparte automáticamente las peticiones de los desarrolladores en varias tareas ejecutadas en paralelo, con una memoria compartida del proyecto. El trabajo sigue avanzando incluso con el portátil cerrado y se puede seguir desde el móvil."
+            },
+            "simple": {
+                "fr": "C'est comme avoir un assistant robot qui continue de travailler sur tes devoirs de programmation même quand tu as fermé ton ordinateur et que tu es parti jouer dehors !",
+                "en": "It's like having a robot helper that keeps working on your coding homework even after you've closed your laptop and gone outside to play!",
+                "es": "¡Es como tener un ayudante robot que sigue trabajando en tus deberes de programación incluso después de que has cerrado el ordenador y has salido a jugar!"
+            },
+            "expert": {
+                "fr": "Disponible pour une partie des abonnés Pro et Max, l'outil agit comme un chef de projet : il décide seul si une nouvelle demande crée un fil de travail ou rejoint un fil existant, sans que le développeur structure ses instructions. Cette approche répond à un problème connu de l'orchestration d'agents, où coordination et mémoire persistante restent les principaux obstacles à l'automatisation de tâches longues.",
+                "en": "Available to a portion of Pro and Max subscribers, the tool acts like a project manager: it decides on its own whether a new request starts a fresh thread or joins an existing one, without the developer structuring instructions. The approach addresses a known bottleneck in agent orchestration, where coordination and persistent memory remain the main obstacles to automating long-running work.",
+                "es": "Disponible para una parte de los suscriptores Pro y Max, la herramienta actúa como un jefe de proyecto: decide por sí misma si una nueva petición abre un hilo o se suma a uno existente, sin que el desarrollador estructure sus instrucciones. El enfoque responde a un problema conocido en la orquestación de agentes, donde coordinación y memoria persistente siguen siendo el principal obstáculo para tareas largas."
+            }
+        },
+        {
+            "day": "2026-09-17",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+            "source": "Anthropic",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Anthropic crée un programme de vérification pour encadrer l'IA dans les sciences du vivant",
+                "en": "Anthropic creates a verification program to govern AI use in life sciences",
+                "es": "Anthropic crea un programa de verificación para regular la IA en ciencias de la vida"
+            },
+            "summary": {
+                "fr": "Anthropic a lancé un programme de vérification destiné aux chercheurs et institutions en sciences du vivant qui utilisent ses modèles. Il vise à mettre en place des garde-fous et des protocoles reconnus pour un usage responsable de l'IA dans la recherche biologique et médicale.",
+                "en": "Anthropic launched a verification program for researchers and institutions in life sciences that use its models. It aims to put in place recognized safeguards and protocols for responsible AI use in biological and medical research.",
+                "es": "Anthropic lanzó un programa de verificación para investigadores e instituciones de ciencias de la vida que usan sus modelos. Su objetivo es establecer salvaguardas y protocolos reconocidos para un uso responsable de la IA en la investigación biológica y médica."
+            },
+            "simple": {
+                "fr": "C'est un peu comme donner un badge de confiance aux laboratoires qui utilisent l'IA pour soigner les gens, pour être sûr qu'ils l'utilisent bien et sans danger.",
+                "en": "It's a bit like giving a trust badge to labs that use AI to help cure people, to make sure they're using it well and safely.",
+                "es": "Es un poco como dar una insignia de confianza a los laboratorios que usan la IA para ayudar a curar a la gente, para asegurarse de que la usan bien y sin peligro."
+            },
+            "expert": {
+                "fr": "Ce programme s'inscrit dans la stratégie plus large d'Anthropic pour encadrer les usages sensibles de Claude, en particulier ceux touchant à la biologie, où un modèle mal utilisé pourrait faciliter la conception d'agents pathogènes. En formalisant des protocoles pour les institutions partenaires, l'entreprise cherche à rassurer régulateurs et laboratoires sur la traçabilité des usages autorisés.",
+                "en": "The program is part of Anthropic's broader strategy of governing sensitive uses of Claude, particularly those touching biology, where a misused model could help design harmful pathogens. By formalizing verification protocols for partner institutions, the company aims to reassure regulators and labs about the traceability of authorized uses.",
+                "es": "El programa forma parte de la estrategia más amplia de Anthropic para regular los usos sensibles de Claude, en particular los relacionados con la biología, donde un modelo mal utilizado podría facilitar el diseño de patógenos dañinos. Al formalizar protocolos de verificación para las instituciones asociadas, la empresa busca tranquilizar a reguladores y laboratorios sobre la trazabilidad de los usos autorizados."
+            }
+        },
+        {
+            "day": "2026-09-17",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+            "source": "Anthropic",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Anthropic propose des indicateurs pour mesurer la vitesse réelle des progrès de l'IA",
+                "en": "Anthropic proposes metrics to measure the real pace of AI progress",
+                "es": "Anthropic propone indicadores para medir el ritmo real de los avances de la IA"
+            },
+            "summary": {
+                "fr": "Anthropic a publié une proposition de mesures destinées à donner au public une vision plus claire du rythme d'avancée des laboratoires d'IA de pointe. L'initiative répond au manque actuel de repères communs pour comparer objectivement les progrès annoncés par les différentes entreprises.",
+                "en": "Anthropic published a proposal for metrics meant to give the public a clearer view of how fast frontier AI labs are actually advancing. The initiative responds to the current lack of shared benchmarks for objectively comparing the progress different companies announce.",
+                "es": "Anthropic publicó una propuesta de indicadores pensados para dar al público una visión más clara del ritmo real de avance de los laboratorios de IA de vanguardia. La iniciativa responde a la falta actual de referencias comunes para comparar objetivamente los progresos que anuncian las distintas empresas."
+            },
+            "simple": {
+                "fr": "C'est comme inventer une règle pour mesurer à quelle vitesse les robots apprennent de nouvelles choses, pour que tout le monde utilise la même règle et ne se raconte pas d'histoires.",
+                "en": "It's like inventing a ruler to measure how fast robots are learning new things, so everyone uses the same ruler instead of making up their own story.",
+                "es": "Es como inventar una regla para medir a qué velocidad aprenden cosas nuevas los robots, para que todo el mundo use la misma regla y no se invente historias."
+            },
+            "expert": {
+                "fr": "En l'absence de standard partagé, les annonces de percées reposent souvent sur des benchmarks choisis par chaque laboratoire, ce qui rend les comparaisons peu fiables. La proposition d'Anthropic cherche à établir des repères communs et publics sur le rythme des capacités, un enjeu direct pour les régulateurs qui doivent calibrer leurs exigences sur des trajectoires de risque encore mal cartographiées.",
+                "en": "Without a shared standard, breakthrough claims often rely on benchmarks each lab picks itself, making comparisons unreliable. Anthropic's proposal seeks to establish common, public reference points on the pace of capability gains, a direct concern for regulators who need to calibrate requirements against risk trajectories that remain poorly mapped.",
+                "es": "Sin un estándar compartido, los anuncios de avances suelen apoyarse en benchmarks elegidos por cada laboratorio, lo que hace poco fiables las comparaciones. La propuesta de Anthropic busca establecer referencias comunes y públicas sobre el ritmo de las capacidades, una cuestión directa para los reguladores, que deben calibrar sus exigencias sobre trayectorias de riesgo todavía mal mapeadas."
+            }
+        },
+        {
+            "day": "2026-09-17",
+            "actor": "Crusoe",
+            "actorSlug": "monde",
+            "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Crusoe lève 3,9 milliards de dollars pour bâtir des « usines à IA »",
+                "en": "Crusoe raises $3.9B to build 'AI factories'",
+                "es": "Crusoe capta 3.900 millones de dólares para construir «fábricas de IA»"
+            },
+            "summary": {
+                "fr": "L'entreprise d'infrastructure Crusoe a levé 3,9 milliards de dollars pour construire d'immenses centres de données ainsi que de petites « usines à IA » modulaires. Ce financement illustre l'ampleur des sommes désormais investies dans les infrastructures nécessaires à l'entraînement des modèles d'IA.",
+                "en": "Infrastructure company Crusoe raised $3.9 billion to build huge data centers as well as small modular 'AI factories'. The funding illustrates the scale of money now flowing into the infrastructure needed to train AI models.",
+                "es": "La empresa de infraestructuras Crusoe captó 3.900 millones de dólares para construir enormes centros de datos y también pequeñas «fábricas de IA» modulares. La financiación ilustra la magnitud del dinero que ahora fluye hacia la infraestructura necesaria para entrenar modelos de IA."
+            },
+            "simple": {
+                "fr": "Il faut d'énormes usines pleines d'ordinateurs pour faire fonctionner l'intelligence artificielle, et une entreprise vient de recevoir une montagne d'argent pour en construire encore plus !",
+                "en": "It takes huge factories full of computers to make artificial intelligence run, and one company just got a mountain of money to build even more of them!",
+                "es": "Hacen falta fábricas enormes llenas de ordenadores para que funcione la inteligencia artificial, ¡y una empresa acaba de recibir una montaña de dinero para construir todavía más!"
+            },
+            "expert": {
+                "fr": "Le concept d'« usines à IA » modulaires vise à déployer plus vite des capacités de calcul que les méga centres de données classiques, dont la construction prend souvent plusieurs années. Cette levée s'ajoute à une série de financements massifs dans l'infrastructure IA en 2026, portée par une demande en puissance de calcul qui dépasse la capacité de production des géants du cloud.",
+                "en": "The modular 'AI factories' concept aims to deploy compute capacity faster than traditional mega data centers, which often take years to build. This raise adds to a string of massive AI infrastructure financings in 2026, driven by demand for compute power that is outpacing what the big cloud providers can build.",
+                "es": "El concepto de «fábricas de IA» modulares busca desplegar capacidad de cómputo más rápido que los megacentros de datos tradicionales, cuya construcción suele tardar varios años. Esta ronda se suma a una serie de financiaciones masivas en infraestructura de IA en 2026, impulsadas por una demanda de potencia de cómputo que supera la capacidad de construcción de los grandes proveedores de nube."
+            }
+        },
+        {
+            "day": "2026-09-16",
+            "actor": "Mistral",
+            "actorSlug": "mistral",
+            "url": "https://mistral.ai/news/mistral-x-mozilla/",
+            "source": "Mistral AI",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Mistral et Mozilla installent une IA ouverte et privée directement dans Firefox",
+                "en": "Mistral and Mozilla bring open, private AI directly into Firefox",
+                "es": "Mistral y Mozilla instalan una IA abierta y privada directamente en Firefox"
+            },
+            "summary": {
+                "fr": "Mistral et Mozilla s'associent pour intégrer une intelligence artificielle open source, multilingue et respectueuse de la vie privée directement dans le navigateur Firefox. L'assistant doit fonctionner sans envoyer systématiquement les données de navigation vers des serveurs tiers.",
+                "en": "Mistral and Mozilla are partnering to build an open-source, multilingual, privacy-focused AI assistant directly into the Firefox browser. The assistant is designed to work without systematically sending browsing data to third-party servers.",
+                "es": "Mistral y Mozilla se asocian para integrar una inteligencia artificial de código abierto, multilingüe y respetuosa con la privacidad directamente en el navegador Firefox. El asistente está pensado para funcionar sin enviar sistemáticamente los datos de navegación a servidores externos."
+            },
+            "simple": {
+                "fr": "Ton navigateur préféré va avoir son propre petit assistant intelligent intégré, qui t'aide sans aller raconter partout ce que tu regardes sur internet !",
+                "en": "Your favorite browser is getting its own smart little built-in helper, one that assists you without going around telling everyone what you look at online!",
+                "es": "¡Tu navegador favorito va a tener su propio ayudante inteligente incorporado, que te echa una mano sin ir contando por ahí lo que miras en internet!"
+            },
+            "expert": {
+                "fr": "L'intégration passe par la fonctionnalité Smart Window de Firefox et mise sur les modèles ouverts de Mistral plutôt qu'un fournisseur fermé, un choix cohérent avec la stratégie de souveraineté numérique de Mozilla. Le partenariat vise à montrer qu'un assistant IA grand public peut tourner en partie localement, sans dépendre des infrastructures cloud américaines pour la navigation courante.",
+                "en": "The integration runs through Firefox's Smart Window feature and relies on Mistral's open models rather than a closed provider, a choice consistent with Mozilla's European digital sovereignty stance. The partnership aims to show that a mainstream AI assistant can run partly locally, without depending on US cloud infrastructure for everyday browsing.",
+                "es": "La integración pasa por la función Smart Window de Firefox y se apoya en los modelos abiertos de Mistral en lugar de un proveedor cerrado, una decisión coherente con la apuesta de Mozilla por la soberanía digital europea. La alianza busca demostrar que un asistente de IA de consumo puede funcionar en parte de forma local, sin depender de infraestructuras cloud estadounidenses para la navegación cotidiana."
+            }
+        },
         {
             "day": "2026-09-13",
             "actor": {
@@ -93,6 +233,34 @@
             "day": "2026-09-10",
             "actor": "DeepSeek",
             "actorSlug": "deepseek",
+            "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
+            "source": "DeepSeek",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "DeepSeek dévoile V4.1-Flash, un modèle plus léger qui comprend aussi les images",
+                "en": "DeepSeek unveils V4.1-Flash, a lighter model that also understands images",
+                "es": "DeepSeek presenta V4.1-Flash, un modelo más ligero que también entiende imágenes"
+            },
+            "summary": {
+                "fr": "DeepSeek a lancé V4.1-Flash, le plus petit modèle de sa nouvelle famille d'architecture, doté nativement de la compréhension d'images. L'entreprise chinoise annonce une inférence plus rapide et des tarifs revus à la baisse par rapport à son modèle V4-Pro.",
+                "en": "DeepSeek launched V4.1-Flash, the smallest model in its new architecture family, with native image understanding built in. The Chinese company says it delivers faster inference and lower prices than its V4-Pro model.",
+                "es": "DeepSeek lanzó V4.1-Flash, el modelo más pequeño de su nueva familia de arquitectura, con comprensión nativa de imágenes. La empresa china asegura que ofrece una inferencia más rápida y precios más bajos que su modelo V4-Pro."
+            },
+            "simple": {
+                "fr": "DeepSeek a créé un petit robot très rapide qui sait maintenant regarder des images en plus de lire du texte, comme un copain qui a appris à dessiner en plus de lire !",
+                "en": "DeepSeek built a super-fast little robot that can now look at pictures as well as read text, like a friend who learned to draw as well as read!",
+                "es": "DeepSeek creó un pequeño robot muy rápido que ahora sabe mirar imágenes además de leer texto, ¡como un amigo que ha aprendido a dibujar además de leer!"
+            },
+            "expert": {
+                "fr": "Depuis le 14 septembre, toutes les requêtes adressées à V4-Pro sont automatiquement redirigées vers V4.1-Flash, facturées au tarif plus bas de ce dernier, une façon pour DeepSeek de pousser sa base d'utilisateurs vers l'architecture la plus récente sans rupture d'API. La stratégie confirme la pression tarifaire que les modèles chinois open source continuent d'exercer sur les offres propriétaires occidentales.",
+                "en": "Since September 14, all requests sent to V4-Pro are automatically rerouted to V4.1-Flash, billed at the latter's lower rate, a way for DeepSeek to shift its user base to the newest architecture without breaking the API. The move underscores the pricing pressure Chinese open-source models keep putting on proprietary Western offerings.",
+                "es": "Desde el 14 de septiembre, todas las peticiones dirigidas a V4-Pro se redirigen automáticamente a V4.1-Flash, facturadas a la tarifa más baja de este último, una forma de que DeepSeek empuje a su base de usuarios hacia la arquitectura más reciente sin romper la API. La maniobra confirma la presión de precios que los modelos chinos de código abierto siguen ejerciendo sobre las ofertas propietarias occidentales."
+            }
+        },
+        {
+            "day": "2026-09-10",
+            "actor": "DeepSeek",
+            "actorSlug": "deepseek",
             "url": "https://venturebeat.com/technology/deepseek-v4-1-flash-debuts-with-0-003-1m-off-peak-cached-input-rate-and-benchmarks-eclipsing-gpt-5-6-sol-claude-opus-5",
             "source": "VentureBeat",
             "sourceKind": "media",
@@ -175,30 +343,30 @@
         },
         {
             "day": "2026-09-08",
-            "actor": "Mistral AI",
+            "actor": "Mistral",
             "actorSlug": "mistral",
             "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
             "source": "Mistral AI",
             "sourceKind": "officiel",
             "title": {
-                "fr": "Mistral lève 3 milliards d'euros pour porter l'IA ouverte européenne au sommet",
-                "en": "Mistral raises €3 billion to push open, sovereign AI to the frontier",
-                "es": "Mistral capta 3.000 millones de euros para llevar la IA abierta europea a la cima"
+                "fr": "Mistral AI lève 3 milliards d'euros pour porter l'IA souveraine au niveau des meilleurs modèles",
+                "en": "Mistral AI raises €3 billion to push sovereign, open-weight AI to the frontier",
+                "es": "Mistral AI capta 3.000 millones de euros para llevar la IA soberana a la vanguardia"
             },
             "summary": {
-                "fr": "La start-up française Mistral AI annonce une levée de 3 milliards d'euros, portant sa valorisation à plus de 21 milliards, avec Samsung et le fonds Scaleup Europe en tête des investisseurs.",
-                "en": "French startup Mistral AI has raised €3 billion, pushing its valuation above €21 billion, led by Samsung Electronics and the Scaleup Europe Fund.",
-                "es": "La startup francesa Mistral AI ha captado 3.000 millones de euros, elevando su valoración a más de 21.000 millones, liderada por Samsung Electronics y el fondo Scaleup Europe."
+                "fr": "La start-up française Mistral AI a annoncé une levée de fonds de 3 milliards d'euros en série D, valorisant l'entreprise à plus de 21 milliards d'euros. L'objectif affiché est de faire de l'IA ouverte et souveraine une alternative crédible aux modèles fermés des géants américains.",
+                "en": "French startup Mistral AI announced a €3 billion Series D funding round, valuing the company at over €21 billion. The stated goal is to make open, sovereign AI a credible alternative to the closed models built by US giants.",
+                "es": "La startup francesa Mistral AI anunció una ronda de financiación Serie D de 3.000 millones de euros, que valora la empresa en más de 21.000 millones de euros. El objetivo declarado es convertir la IA abierta y soberana en una alternativa creíble frente a los modelos cerrados de los gigantes estadounidenses."
             },
             "simple": {
-                "fr": "Une entreprise française qui fabrique une intelligence artificielle vient de recevoir énormément d'argent pour devenir encore plus forte, comme un jardinier qui reçoit de quoi acheter toute une serre neuve.",
-                "en": "A French company that builds artificial intelligence just got a huge pile of money to grow even stronger, like a gardener given enough cash to buy a whole new greenhouse.",
-                "es": "Una empresa francesa que fabrica inteligencia artificial acaba de recibir muchísimo dinero para volverse aún más fuerte, como un jardinero al que le dan dinero para comprar un invernadero entero."
+                "fr": "La pousse française de l'intelligence artificielle vient de recevoir un immense panier plein d'argent pour grandir encore plus fort, comme une graine arrosée pour devenir un grand arbre !",
+                "en": "France's AI sapling just got a huge basket of money to grow even stronger, like a seed getting watered until it becomes a tall tree!",
+                "es": "¡El brote francés de la inteligencia artificial acaba de recibir una cesta enorme de dinero para crecer todavía más fuerte, como una semilla regada hasta convertirse en un gran árbol!"
             },
             "expert": {
-                "fr": "Ce tour de série D valorise Mistral à plus de 21 milliards d'euros, avec Samsung Electronics en tête, rejoint par BlackRock, Advent et le Luxembourg. L'argument central reste la souveraineté : des poids ouverts et une infrastructure européenne face à la dépendance aux modèles fermés américains ou chinois. À surveiller : la capacité à transformer ce capital en revenus commerciaux face à des rivaux mieux financés.",
-                "en": "This Series D values Mistral above €21 billion, led by Samsung Electronics and joined by BlackRock, Advent and the Luxembourg government. The pitch is sovereignty: open weights and European infrastructure as an alternative to closed US or Chinese models. Watch whether this capital turns into matching commercial revenue against better-funded rivals.",
-                "es": "Esta ronda serie D valora Mistral en más de 21.000 millones de euros, liderada por Samsung Electronics y con BlackRock, Advent y el Estado de Luxemburgo entre los nuevos inversores. La apuesta central es la soberanía: pesos abiertos e infraestructura europea frente a la dependencia de modelos cerrados estadounidenses o chinos. Queda por ver si el capital se traduce en ingresos frente a rivales mejor financiados."
+                "fr": "Cette série D fait de Mistral l'une des start-up IA les mieux valorisées d'Europe et lui donne des moyens comparables à certains rivaux américains pour entraîner des modèles de pointe. L'entreprise revendique une stratégie d'« IA souveraine » à poids ouverts, un positionnement qui séduit gouvernements et entreprises soucieux de ne pas dépendre uniquement des modèles fermés d'OpenAI, Google ou Anthropic.",
+                "en": "This Series D makes Mistral one of Europe's most highly valued AI startups and gives it resources comparable to some US rivals for training frontier models. The company frames its strategy around open-weight 'sovereign AI', a positioning that appeals to governments and enterprises wary of relying solely on closed models from OpenAI, Google or Anthropic.",
+                "es": "Esta Serie D convierte a Mistral en una de las startups de IA mejor valoradas de Europa y le da recursos comparables a los de algunos rivales estadounidenses para entrenar modelos punteros. La empresa reivindica una estrategia de «IA soberana» de pesos abiertos, un posicionamiento que atrae a gobiernos y empresas que no quieren depender solo de los modelos cerrados de OpenAI, Google o Anthropic."
             }
         },
         {
@@ -289,6 +457,34 @@
             "day": "2026-09-03",
             "actor": "OpenAI",
             "actorSlug": "chatgpt",
+            "url": "https://openai.com/index/gpt-6-astra/",
+            "source": "OpenAI",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "OpenAI dévoile GPT-6 Astra, son modèle le plus intelligent et le plus surveillé",
+                "en": "OpenAI unveils GPT-6 Astra, its most intelligent and most tightly guarded model",
+                "es": "OpenAI presenta GPT-6 Astra, su modelo más inteligente y más vigilado"
+            },
+            "summary": {
+                "fr": "OpenAI a commencé à déployer GPT-6 Astra début septembre, un modèle qui obtient des scores quasi parfaits sur plusieurs tests de raisonnement avancés. C'est le premier modèle de l'entreprise classé au niveau de risque « critique » en cybersécurité selon son propre cadre de sécurité.",
+                "en": "OpenAI began rolling out GPT-6 Astra in early September, a model that scores near-perfectly on several advanced reasoning benchmarks. It is the company's first model rated at the 'critical' cybersecurity risk level under its own safety framework.",
+                "es": "OpenAI empezó a desplegar GPT-6 Astra a principios de septiembre, un modelo que obtiene puntuaciones casi perfectas en varias pruebas de razonamiento avanzado. Es el primer modelo de la empresa clasificado en el nivel de riesgo «crítico» en ciberseguridad según su propio marco de seguridad."
+            },
+            "simple": {
+                "fr": "Imagine un robot élève tellement doué qu'il réussit presque tous ses examens sans se tromper, mais que ses maîtres surveillent de très près parce qu'il est devenu très très fort !",
+                "en": "Imagine a robot student so gifted it aces almost every test without a single mistake, but its teachers now watch it extra closely because it has become super, super strong!",
+                "es": "¡Imagina un robot estudiante tan brillante que aprueba casi todos sus exámenes sin fallar ni uno, pero sus maestros lo vigilan muy de cerca porque se ha vuelto muy, muy fuerte!"
+            },
+            "expert": {
+                "fr": "Astra sature FrontierMath Tier 4 (98%), ARC-AGI-3 (99,9%) et ExploitBench (100%), et devient le premier modèle d'OpenAI classé « critique » en cybersécurité dans son Preparedness Framework, ce qui restreint son accès aux entreprises inscrites à un programme dédié. Le lancement suit la brèche subie par Hugging Face, qui a poussé OpenAI à renforcer ses garde-fous avant la mise en production.",
+                "en": "Astra saturates FrontierMath Tier 4 (98%), ARC-AGI-3 (99.9%) and ExploitBench (100%), and becomes OpenAI's first model rated 'critical' for cybersecurity under its Preparedness Framework, which restricts access to companies enrolled in a dedicated program. The rollout follows the breach suffered by Hugging Face, which pushed OpenAI to add extra safeguards before release.",
+                "es": "Astra satura FrontierMath Tier 4 (98%), ARC-AGI-3 (99,9%) y ExploitBench (100%), y se convierte en el primer modelo de OpenAI clasificado como «crítico» en ciberseguridad según su Preparedness Framework, lo que restringe el acceso a empresas inscritas en un programa específico. El lanzamiento llega tras la brecha sufrida por Hugging Face, que llevó a OpenAI a reforzar sus salvaguardas antes de publicarlo."
+            }
+        },
+        {
+            "day": "2026-09-03",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
             "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
             "source": "TechCrunch",
             "sourceKind": "media",
@@ -339,6 +535,34 @@
                 "fr": "L'opération valorise Hugging Face à 12,93 milliards de dollars, alors que Nvidia y est déjà le premier contributeur de modèles et de jeux de données ouverts. Jensen Huang promet une plateforme neutre sans obligation d'utiliser du matériel Nvidia, mais l'intégration verticale interroge sur l'indépendance future de l'écosystème open source.",
                 "en": "The deal values Hugging Face at $12.93 billion, with Nvidia already its top contributor of open models and datasets before the purchase. Jensen Huang promises a neutral platform with no requirement to use Nvidia hardware, but the vertical integration raises questions about the open source ecosystem's long term independence.",
                 "es": "La operación valora Hugging Face en 12.930 millones de dólares, y Nvidia ya era su principal contribuyente de modelos y conjuntos de datos abiertos antes de la compra. Jensen Huang promete una plataforma neutral sin obligación de usar hardware Nvidia, pero la integración vertical plantea dudas sobre la independencia futura del ecosistema open source."
+            }
+        },
+        {
+            "day": "2026-09-02",
+            "actor": "Google",
+            "actorSlug": "gemini",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+            "source": "Google",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Google lance Gemini 3.8 Flash, son troisième modèle Flash en six semaines",
+                "en": "Google launches Gemini 3.8 Flash, its third Flash model in six weeks",
+                "es": "Google lanza Gemini 3.8 Flash, su tercer modelo Flash en seis semanas"
+            },
+            "summary": {
+                "fr": "Google a présenté Gemini 3.8 Flash, un modèle plus rapide qui progresse nettement en programmation et en raisonnement à plusieurs étapes par rapport à la version 3.7. Une variante « Cyber », dédiée à la détection de failles de sécurité, est aussi ouverte à des testeurs de confiance.",
+                "en": "Google introduced Gemini 3.8 Flash, a faster model that makes clear gains in coding and multi-step reasoning compared to version 3.7. A 'Cyber' variant focused on finding security vulnerabilities is also opening to trusted testers.",
+                "es": "Google presentó Gemini 3.8 Flash, un modelo más rápido que mejora claramente en programación y razonamiento en varios pasos respecto a la versión 3.7. Una variante «Cyber», centrada en detectar fallos de seguridad, también se abre a testers de confianza."
+            },
+            "simple": {
+                "fr": "C'est comme si le petit robot rapide de Google avait fait plein d'exercices cet été et revenait à l'école encore plus vif et plus malin qu'avant !",
+                "en": "It's as if Google's speedy little robot spent the summer practicing hard and came back to school even quicker and smarter than before!",
+                "es": "¡Es como si el pequeño robot veloz de Google hubiera practicado mucho este verano y volviera al cole todavía más rápido y más listo que antes!"
+            },
+            "expert": {
+                "fr": "Troisième version Flash en six semaines, ce modèle mise sur un compromis coût / compute alloué par tâche plutôt que sur une nouvelle architecture. Il est déjà disponible dans l'app Gemini pour les abonnés AI Pro et Ultra, dans Sheets, et pour les développeurs via Antigravity, AI Studio et l'API. La variante Cyber, réservée au programme Fairwind, cible la découverte autonome de vulnérabilités.",
+                "en": "The third Flash version in six weeks, this model leans on an explicit cost-versus-compute tradeoff per task rather than a new architecture. It's already live in the Gemini app for AI Pro and Ultra subscribers, in Sheets, and for developers via Antigravity, AI Studio and the API. The Cyber variant, limited to the new Fairwind Program, targets autonomous vulnerability discovery.",
+                "es": "Tercera versión Flash en seis semanas, este modelo apuesta por un compromiso coste / cómputo asignado por tarea, más que por una arquitectura nueva. Ya está disponible en la app Gemini para suscriptores de AI Pro y Ultra, en Sheets, y para desarrolladores vía Antigravity, AI Studio y la API. La variante Cyber, reservada al nuevo Fairwind Program, apunta a la detección autónoma de vulnerabilidades."
             }
         },
         {
@@ -1494,216 +1718,51 @@
                 "es": "En la práctica, el artículo 50 exige tres cosas: que el usuario sepa que habla con una máquina, que el contenido sintético lleve un marcado legible por máquina y que los ultrafalsos se señalen como tales. La misma fecha activa los poderes de control de la Comisión sobre los modelos de uso general, cuyas obligaciones ya corrían desde hacía un año. Queda por ver si esas marcas resisten recortes y recompresiones."
             },
             "sourceKind": "secondaire"
-        },
-        {
-            "day": "2026-08-01",
-            "actor": "xAI",
-            "actorSlug": "grok",
-            "title": {
-                "fr": "Grok Voice TF 2.0 est disponible",
-                "en": "Grok Voice TF 2.0 is available",
-                "es": "Grok Voice TF 2.0 ya está disponible"
-            },
-            "summary": {
-                "fr": "xAI déploie Grok Voice TF 2.0, sa nouvelle expérience vocale temps réel intégrée à l'assistant Grok.",
-                "en": "xAI rolls out Grok Voice TF 2.0, its new real-time voice experience built into the Grok assistant.",
-                "es": "xAI despliega Grok Voice TF 2.0, su nueva experiencia de voz en tiempo real integrada en el asistente Grok."
-            },
-            "simple": {
-                "fr": "On peut maintenant discuter à voix haute avec Grok, comme au téléphone avec un ami.",
-                "en": "You can now chat out loud with Grok, like being on the phone with a friend.",
-                "es": "Ya se puede hablar en voz alta con Grok, como por teléfono con un amigo."
-            },
-            "url": "https://aitoolsrecap.com/Blog/AINewsAugust2026.aspx",
-            "source": "AI Tools Recap",
-            "expert": {
-                "fr": "Derrière le sigle, « Think Fast » : c'est surtout une mise à jour de l'API vocale pour développeurs. Depuis le 5 août, grok-voice-latest pointe vers la 2.0 et le tarif passe automatiquement de 0,05 à 0,08 dollar la minute, la 1.0 restant épinglable pour revenir en arrière. xAI revendique la première place du volet agentique du classement AA (56,5 %) et la deuxième en parole-à-parole (82,9 %) ; chiffres de l'éditeur.",
-                "en": "Behind the acronym, \"Think Fast\": this is mostly an update to the voice API for developers. Since August 5, grok-voice-latest points to version 2.0 and the price moves automatically from $0.05 to $0.08 per minute, with the option to pin 1.0 to roll back. xAI claims first place on the agentic track of the AA rankings (56.5%) and second on speech-to-speech (82.9%); those figures are the vendor's own.",
-                "es": "Tras las siglas, «Think Fast»: es sobre todo una actualización de la API de voz para desarrolladores. Desde el 5 de agosto, grok-voice-latest apunta a la 2.0 y la tarifa pasa automáticamente de 0,05 a 0,08 dólares por minuto, con opción de fijar la 1.0 para volver atrás. xAI reivindica el primer puesto agéntico de la clasificación AA (56,5 %) y el segundo en voz a voz (82,9 %); son cifras del fabricante."
-            },
-            "sourceKind": "secondaire"
-        },
-        {
-            "day": "2026-07-28",
-            "actor": {
-                "fr": "Chine",
-                "en": "China",
-                "es": "China"
-            },
-            "actorSlug": "chine",
-            "title": {
-                "fr": "Kimi K3, DeepSeek V4, Qwen : la Chine rebat les cartes",
-                "en": "Kimi K3, DeepSeek V4, Qwen: China reshuffles the deck",
-                "es": "Kimi K3, DeepSeek V4, Qwen: China baraja de nuevo"
-            },
-            "summary": {
-                "fr": "Les modèles chinois ouverts atteignent le niveau des meilleurs américains pour une fraction du coût, et dominent une partie des classements open source mondiaux.",
-                "en": "Open Chinese models now match the best American ones at a fraction of the cost, and dominate part of the global open-source leaderboards.",
-                "es": "Los modelos chinos abiertos ya igualan a los mejores estadounidenses por una fracción del coste y dominan parte de las clasificaciones open source mundiales."
-            },
-            "simple": {
-                "fr": "Les robots chinois sont devenus aussi forts que les américains, et souvent gratuits : la course est relancée !",
-                "en": "Chinese robots have become as strong as the American ones, and often free: the race is back on!",
-                "es": "Los robots chinos se han vuelto tan fuertes como los americanos, y muchas veces gratis: ¡la carrera se reactiva!"
-            },
-            "url": "https://medium.com/coinmonks/chinas-top-ai-models-in-2026-deepseek-qwen-kimi-doubao-and-the-new-ai-race-08083866ac5a",
-            "source": "Coinmonks",
-            "expert": {
-                "fr": "Le paysage chinois est une chaîne plus qu'un acteur : DeepSeek tire les prix vers le bas avec V4-Pro, Qwen donne à Alibaba Cloud une famille ouverte forte en multimodal, Kimi K3 domine le classement Arena en code front-end et Doubao s'appuie sur la distribution de ByteDance. Réserve : les classements cités viennent d'OpenCompass, un référentiel chinois, et certains poids « ouverts » restent promis plutôt que publiés.",
-                "en": "China's landscape is a chain rather than a single player: DeepSeek drives prices down with V4-Pro, Qwen gives Alibaba Cloud an open family strong in multimodal tasks, Kimi K3 tops the Arena front-end coding chart and Doubao leans on ByteDance's consumer distribution. One caveat: the rankings cited come from OpenCompass, a Chinese benchmark, and some of the \"open\" weights are still promised rather than published.",
-                "es": "El panorama chino es más una cadena que un actor: DeepSeek empuja los precios a la baja con V4-Pro, Qwen da a Alibaba Cloud una familia abierta fuerte en multimodal, Kimi K3 lidera el ranking Arena de código front-end y Doubao se apoya en la distribución de ByteDance. Una reserva: las clasificaciones citadas proceden de OpenCompass, un referente chino, y algunos pesos \"abiertos\" siguen prometidos más que publicados."
-            },
-            "sourceKind": "secondaire"
-        },
-        {
-            "day": "2026-07-26",
-            "actor": "Mistral AI",
-            "actorSlug": "mistral",
-            "title": {
-                "fr": "Microsoft investit des milliards dans le français Mistral",
-                "en": "Microsoft invests billions in France's Mistral",
-                "es": "Microsoft invierte miles de millones en la francesa Mistral"
-            },
-            "summary": {
-                "fr": "Mistral AI signe un accord de plusieurs milliards avec Microsoft pour renforcer l'IA européenne et accélérer le déploiement de ses modèles.",
-                "en": "Mistral AI signs a multi-billion deal with Microsoft to strengthen European AI and speed up the rollout of its models.",
-                "es": "Mistral AI firma un acuerdo multimillonario con Microsoft para reforzar la IA europea y acelerar el despliegue de sus modelos."
-            },
-            "simple": {
-                "fr": "La petite entreprise française d'IA reçoit une aide géante pour rivaliser avec les américains. Cocorico !",
-                "en": "The small French AI company gets giant backing to compete with the Americans. Allez la France!",
-                "es": "La pequeña empresa francesa de IA recibe una ayuda gigante para competir con los americanos. ¡Vive la France!"
-            },
-            "url": "https://www.journaldugeek.com/2026/07/26/microsoft-sort-les-milliards-pour-renforcer-mistral-en-europe/",
-            "source": "Journal du Geek",
-            "expert": {
-                "fr": "Le montant reste confidentiel, mais la mécanique est claire : des milliers de puces Nvidia Vera Rubin installées en Europe, en partie ouvertes aux clients d'Azure, et les modèles Medium 3.5 et OCR 4 distribués via Microsoft Foundry et Copilot Studio. Deux tiers des clients de Mistral utilisent déjà Microsoft, d'où le « distribution is king » d'Arthur Mensch. Paradoxe : une souveraineté adossée à un cloud américain.",
-                "en": "The amount is undisclosed, but the mechanics are clear: thousands of Nvidia Vera Rubin chips installed in Europe, partly made available to Azure customers, and the Medium 3.5 and OCR 4 models distributed through Microsoft Foundry and Copilot Studio. Two thirds of Mistral's customers already use Microsoft, hence Arthur Mensch's \"distribution is king\". The paradox: European sovereignty built on an American cloud.",
-                "es": "El importe es confidencial, pero la mecánica está clara: miles de chips Nvidia Vera Rubin instalados en Europa, en parte abiertos a los clientes de Azure, y los modelos Medium 3.5 y OCR 4 distribuidos vía Microsoft Foundry y Copilot Studio. Dos tercios de los clientes de Mistral ya usan Microsoft, de ahí el \"distribution is king\" de Arthur Mensch. La paradoja: una soberanía apoyada en una nube americana."
-            },
-            "sourceKind": "media"
-        },
-        {
-            "day": "2026-07-25",
-            "actor": "ElevenLabs",
-            "actorSlug": "elevenlabs",
-            "title": {
-                "fr": "ElevenLabs lance Music v2",
-                "en": "ElevenLabs launches Music v2",
-                "es": "ElevenLabs lanza Music v2"
-            },
-            "summary": {
-                "fr": "ElevenLabs, référence de la voix par IA, déploie Music v2, la nouvelle version de son générateur de musique.",
-                "en": "ElevenLabs, the reference for AI voices, rolls out Music v2, the new version of its music generator.",
-                "es": "ElevenLabs, la referencia de las voces por IA, despliega Music v2, la nueva versión de su generador de música."
-            },
-            "simple": {
-                "fr": "L'IA qui imite les voix sait maintenant aussi composer de vraies chansons complètes.",
-                "en": "The AI that imitates voices can now also compose real, complete songs.",
-                "es": "La IA que imita voces ahora también sabe componer canciones completas de verdad."
-            },
-            "url": "https://medium.com/creativity-ai/creativity-ai-77-midjourneys-busy-summer-runway-lands-in-your-ai-assistant-and-elevenlabs-eeb4e5fd608d",
-            "source": "Creativity AI",
-            "expert": {
-                "fr": "L'enjeu n'est pas seulement la qualité sonore : dès son premier générateur, ElevenLabs a misé sur une musique entraînée avec l'accord de détenteurs de droits et utilisable commercialement, là où Suno et Udio ont dû affronter les majors en justice. Pour les créateurs de vidéos, de podcasts ou de publicités, cette sécurité juridique décide de l'adoption. À surveiller : l'écart de qualité avec ces concurrents.",
-                "en": "The stake is not only sound quality: from its first generator, ElevenLabs positioned itself on music trained with the consent of rights holders and cleared for commercial use, where Suno and Udio had to face the major labels in court. For video, podcast and advertising creators, that legal safety is what drives adoption. What to watch: whether v2 closes the quality gap with those competitors.",
-                "es": "Lo que está en juego no es solo la calidad sonora: desde su primer generador, ElevenLabs apostó por una música entrenada con el acuerdo de titulares de derechos y apta para uso comercial, mientras Suno y Udio tuvieron que enfrentarse a las discográficas en los tribunales. Para creadores de vídeo, pódcast o publicidad, esa seguridad jurídica decide la adopción. Por ver: la brecha de calidad con esos rivales."
-            },
-            "sourceKind": "secondaire"
-        },
-        {
-            "day": "2026-07-20",
-            "actor": "Alibaba",
-            "actorSlug": "qwen",
-            "title": {
-                "fr": "Qwen 3.6 : l'IA d'Alibaba passe en mode agent",
-                "en": "Qwen 3.6: Alibaba's AI goes agentic",
-                "es": "Qwen 3.6: la IA de Alibaba pasa al modo agente"
-            },
-            "summary": {
-                "fr": "Les nouveaux Qwen 3.6 Plus et Max progressent nettement en code agentique : l'IA utilise des outils et pilote l'ordinateur pour accomplir des tâches de bout en bout.",
-                "en": "The new Qwen 3.6 Plus and Max make clear progress in agentic coding: the AI uses tools and drives the computer to complete tasks end to end.",
-                "es": "Los nuevos Qwen 3.6 Plus y Max avanzan claramente en código agéntico: la IA usa herramientas y maneja el ordenador para completar tareas de principio a fin."
-            },
-            "simple": {
-                "fr": "Le robot d'Alibaba ne fait plus que répondre : il sait maintenant se servir de l'ordinateur tout seul pour finir un travail.",
-                "en": "Alibaba's robot no longer just answers: it can now use the computer by itself to finish a job.",
-                "es": "El robot de Alibaba ya no solo responde: ahora sabe usar el ordenador él solo para terminar un trabajo."
-            },
-            "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
-            "source": "Elser AI News",
-            "expert": {
-                "fr": "Le changement se joue dans Qwen Code, l'outil en ligne de commande d'Alibaba : boucles autonomes, repli automatique d'un modèle vers un autre, sous-agents imbriqués et travail en parallèle, la même direction que GPT-5.6, Claude Sonnet 5 ou Gemini 3.5. Deux réserves : Max n'est qu'une « preview », et la disponibilité des poids n'est pas précisée. Les rumeurs d'un Qwen 3.8 n'étaient pas confirmées au 20 juillet.",
-                "en": "The shift happens inside Qwen Code, Alibaba's command-line tool: autonomous loops, automatic fallback from one model to another, nested sub-agents and parallel work, the same direction taken by GPT-5.6, Claude Sonnet 5 or Gemini 3.5. Two caveats: Max is only a \"preview\", and weight availability is not stated, unlike the smaller open Qwen models. Rumours of a Qwen 3.8 were unconfirmed as of July 20.",
-                "es": "El cambio ocurre dentro de Qwen Code, la herramienta de línea de comandos de Alibaba: bucles autónomos, cambio automático de un modelo a otro, subagentes anidados y trabajo en paralelo, la misma dirección que GPT-5.6, Claude Sonnet 5 o Gemini 3.5. Dos reservas: Max es solo una \"preview\", y la disponibilidad de los pesos no se precisa. Los rumores de un Qwen 3.8 no estaban confirmados el 20 de julio."
-            },
-            "sourceKind": "secondaire"
-        },
-        {
-            "day": "2026-07-16",
-            "actor": "Moonshot AI",
-            "actorSlug": "kimi",
-            "title": {
-                "fr": "Kimi K3 : le géant chinois qui impressionne les développeurs",
-                "en": "Kimi K3: the Chinese giant impressing developers",
-                "es": "Kimi K3: el gigante chino que impresiona a los desarrolladores"
-            },
-            "summary": {
-                "fr": "Moonshot AI lance Kimi K3 : 2800 milliards de paramètres, multimodal, un contexte d'un million de mots et des performances remarquées en création d'interfaces web.",
-                "en": "Moonshot AI launches Kimi K3: 2.8 trillion parameters, multimodal, a one-million-token context and standout performance at building web interfaces.",
-                "es": "Moonshot AI lanza Kimi K3: 2,8 billones de parámetros, multimodal, un contexto de un millón de palabras y un rendimiento destacado creando interfaces web."
-            },
-            "simple": {
-                "fr": "Un nouveau robot chinois géant vient de sortir : il lit des bibliothèques entières et fabrique des pages web magnifiques.",
-                "en": "A giant new Chinese robot just came out: it reads whole libraries and builds beautiful web pages.",
-                "es": "Acaba de salir un nuevo robot chino gigante: lee bibliotecas enteras y fabrica páginas web preciosas."
-            },
-            "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
-            "source": "Elser AI News",
-            "expert": {
-                "fr": "Les 2 800 milliards de paramètres sont à relativiser : K3 est un modèle à mélange d'experts, seule une fraction du réseau s'active à chaque mot, ce qui contient le coût d'inférence. L'attention autour du code front-end vient de la couverture d'Associated Press et de Tom's Hardware, pas de benchmarks publiés. Surtout, Moonshot promet des poids ouverts sans les avoir livrés au 20 juillet, et aucun tarif n'est connu.",
-                "en": "The 2.8 trillion parameters need context: K3 is a mixture-of-experts model, only a fraction of the network fires on each token, which keeps inference costs in check. The buzz around front-end coding comes from Associated Press and Tom's Hardware coverage, not from published benchmarks. Above all, Moonshot promises open weights it had not delivered as of July 20: a promise is not a release, and no pricing is known.",
-                "es": "Los 2,8 billones de parámetros hay que matizarlos: K3 es un modelo de mezcla de expertos, solo una fracción de la red se activa en cada token, lo que contiene el coste de inferencia. La atención sobre el código front-end viene de la cobertura de Associated Press y Tom's Hardware, no de benchmarks publicados. Sobre todo, Moonshot promete pesos abiertos que no había entregado el 20 de julio, y no hay precio conocido."
-            },
-            "sourceKind": "secondaire"
-        },
-        {
-            "day": "2026-04-24",
-            "actor": "DeepSeek",
-            "actorSlug": "deepseek",
-            "title": {
-                "fr": "DeepSeek V4 : puissance maximale, prix mini, code ouvert",
-                "en": "DeepSeek V4: max power, mini price, open weights",
-                "es": "DeepSeek V4: máxima potencia, precio mínimo, pesos abiertos"
-            },
-            "summary": {
-                "fr": "DeepSeek publie V4 en deux versions (Pro et Flash) avec un contexte d'un million de mots, des modes réflexion et des poids ouverts téléchargeables par tous.",
-                "en": "DeepSeek releases V4 in two versions (Pro and Flash) with a one-million-token context, thinking modes and open weights anyone can download.",
-                "es": "DeepSeek publica V4 en dos versiones (Pro y Flash) con un contexto de un millón de palabras, modos de reflexión y pesos abiertos que cualquiera puede descargar."
-            },
-            "simple": {
-                "fr": "Le robot chinois le plus célèbre a sorti sa nouvelle version : très forte, presque gratuite, et sa recette est publique.",
-                "en": "The most famous Chinese robot released its new version: very strong, almost free, and its recipe is public.",
-                "es": "El robot chino más famoso sacó su nueva versión: muy fuerte, casi gratis, y su receta es pública."
-            },
-            "url": "https://www.elser.ai/news/chinas-ai-moment-kimi-k3-deepseek-v4-qwen-2026",
-            "source": "Elser AI News",
-            "expert": {
-                "fr": "La clé du prix tient aux paramètres actifs : V4-Pro compte 1 600 milliards de paramètres au total mais n'en mobilise que 49 milliards par mot, V4-Flash 284 milliards pour 13 actifs. Cette architecture à experts fait de l'efficacité un argument commercial. Deux points pratiques : le modèle est étiqueté « Preview », et les noms d'API deepseek-chat et deepseek-reasoner sont retirés après le 24 juillet.",
-                "en": "The price story is about active parameters: V4-Pro has 1.6 trillion parameters in total but uses only 49 billion per token, V4-Flash 284 billion with 13 billion active. That expert-based architecture is what turns efficiency into a selling point. Two practical notes: the model is labelled \"Preview\", and the old deepseek-chat and deepseek-reasoner API names are retired after July 24, so developers must migrate.",
-                "es": "La clave del precio está en los parámetros activos: V4-Pro tiene 1,6 billones de parámetros en total pero solo usa 49.000 millones por token, y V4-Flash 284.000 millones con 13.000 activos. Esa arquitectura de expertos convierte la eficiencia en argumento comercial. Dos notas prácticas: el modelo lleva la etiqueta \"Preview\", y los nombres de API deepseek-chat y deepseek-reasoner se retiran tras el 24 de julio."
-            },
-            "sourceKind": "secondaire"
         }
     ],
     "quiz": [
         {
             "q": {
-                "fr": "Combien Mistral a-t-il levé lors de son tour de financement de septembre ?",
-                "en": "How much did Mistral raise in its September funding round?",
-                "es": "¿Cuánto captó Mistral en su ronda de financiación de septiembre?"
+                "fr": "Quelle entreprise a lancé son modèle « GPT-6 Astra » début septembre ?",
+                "en": "Which company launched its 'GPT-6 Astra' model in early September?",
+                "es": "¿Qué empresa lanzó su modelo «GPT-6 Astra» a principios de septiembre?"
             },
             "choices": [
+                {
+                    "fr": "OpenAI",
+                    "en": "OpenAI",
+                    "es": "OpenAI"
+                },
+                {
+                    "fr": "Google",
+                    "en": "Google",
+                    "es": "Google"
+                },
+                {
+                    "fr": "Anthropic",
+                    "en": "Anthropic",
+                    "es": "Anthropic"
+                }
+            ],
+            "answer": 0,
+            "why": {
+                "fr": "C'est la news du 3 septembre : OpenAI a présenté GPT-6 Astra, son modèle le plus intelligent à ce jour.",
+                "en": "That's the September 3 news: OpenAI unveiled GPT-6 Astra, its smartest model yet.",
+                "es": "Es la noticia del 3 de septiembre: OpenAI presentó GPT-6 Astra, su modelo más inteligente hasta ahora."
+            }
+        },
+        {
+            "q": {
+                "fr": "Combien d'argent la start-up française Mistral AI a-t-elle levé le 8 septembre ?",
+                "en": "How much money did French startup Mistral AI raise on September 8?",
+                "es": "¿Cuánto dinero captó la startup francesa Mistral AI el 8 de septiembre?"
+            },
+            "choices": [
+                {
+                    "fr": "3 millions d'euros",
+                    "en": "€3 million",
+                    "es": "3 millones de euros"
+                },
                 {
                     "fr": "3 milliards d'euros",
                     "en": "€3 billion",
@@ -1713,78 +1772,43 @@
                     "fr": "300 millions d'euros",
                     "en": "€300 million",
                     "es": "300 millones de euros"
-                },
-                {
-                    "fr": "30 milliards d'euros",
-                    "en": "€30 billion",
-                    "es": "30.000 millones de euros"
                 }
             ],
-            "answer": 0,
+            "answer": 1,
             "why": {
-                "fr": "C'est le montant annoncé dans la news du 8 septembre sur la levée de fonds de Mistral.",
-                "en": "That's the amount announced in the September 8 story about Mistral's funding round.",
-                "es": "Es la cantidad anunciada en la noticia del 8 de septiembre sobre la ronda de financiación de Mistral."
+                "fr": "Dans la news du 8 septembre, Mistral AI annonce une levée de 3 milliards d'euros, une somme énorme pour une start-up française.",
+                "en": "In the September 8 news, Mistral AI announced a €3 billion raise, a huge sum for a French startup.",
+                "es": "En la noticia del 8 de septiembre, Mistral AI anunció una ronda de 3.000 millones de euros, una cifra enorme para una startup francesa."
             }
         },
         {
             "q": {
-                "fr": "Environ combien d'agents IA OpenAI a-t-il fait travailler ensemble pour s'attaquer à un très vieux problème de mathématiques ?",
-                "en": "About how many AI agents did OpenAI put to work together to tackle a very old math problem?",
-                "es": "¿Cuántos agentes de IA puso OpenAI a trabajar juntos para atacar un problema matemático muy antiguo?"
+                "fr": "Qu'est-ce que le nouveau modèle DeepSeek V4.1-Flash sait faire, en plus de lire du texte ?",
+                "en": "What can the new DeepSeek V4.1-Flash model do, besides reading text?",
+                "es": "¿Qué sabe hacer el nuevo modelo DeepSeek V4.1-Flash, además de leer texto?"
             },
             "choices": [
                 {
-                    "fr": "Environ 10 000",
-                    "en": "About 10,000",
-                    "es": "Unos 10.000"
+                    "fr": "Comprendre des images",
+                    "en": "Understand images",
+                    "es": "Entender imágenes"
                 },
                 {
-                    "fr": "Environ 100",
-                    "en": "About 100",
-                    "es": "Unos 100"
+                    "fr": "Conduire une voiture",
+                    "en": "Drive a car",
+                    "es": "Conducir un coche"
                 },
                 {
-                    "fr": "Environ 1 million",
-                    "en": "About 1 million",
-                    "es": "Alrededor de 1 millón"
+                    "fr": "Cuisiner des recettes",
+                    "en": "Cook recipes",
+                    "es": "Cocinar recetas"
                 }
             ],
             "answer": 0,
             "why": {
-                "fr": "C'est le nombre indiqué dans la news du 8 septembre sur le problème de Navier-Stokes.",
-                "en": "That's the number given in the September 8 story about the Navier-Stokes problem.",
-                "es": "Es el número indicado en la noticia del 8 de septiembre sobre el problema de Navier-Stokes."
-            }
-        },
-        {
-            "q": {
-                "fr": "À quelle place l'application Muse de Meta est-elle montée sur l'App Store américain ?",
-                "en": "What rank did Meta's Muse app climb to on the US App Store?",
-                "es": "¿A qué puesto subió la aplicación Muse de Meta en la App Store de EE. UU.?"
-            },
-            "choices": [
-                {
-                    "fr": "2e place",
-                    "en": "No. 2",
-                    "es": "N.º 2"
-                },
-                {
-                    "fr": "50e place",
-                    "en": "No. 50",
-                    "es": "N.º 50"
-                },
-                {
-                    "fr": "1re place",
-                    "en": "No. 1",
-                    "es": "N.º 1"
-                }
-            ],
-            "answer": 0,
-            "why": {
-                "fr": "C'est le classement mentionné dans la news du 10 septembre sur l'agent IA Muse de Meta.",
-                "en": "That's the ranking mentioned in the September 10 story about Meta's AI agent Muse.",
-                "es": "Es la posición mencionada en la noticia del 10 de septiembre sobre el agente de IA Muse de Meta."
+                "fr": "La news sur DeepSeek explique que V4.1-Flash comprend aussi les images, en plus du texte.",
+                "en": "The DeepSeek news explains that V4.1-Flash also understands images, not just text.",
+                "es": "La noticia sobre DeepSeek explica que V4.1-Flash también entiende imágenes, además de texto."
             }
         }
     ]
