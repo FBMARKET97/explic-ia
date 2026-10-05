@@ -1,6 +1,286 @@
 {
-    "updated": "2026-09-28",
+    "updated": "2026-10-05",
     "items": [
+        {
+            "day": "2026-10-03",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Chez OpenAI, un responsable de la sécurité démissionne en dénonçant une 'culture brisée'",
+                "en": "OpenAI safety staffer resigns, calling the company's culture 'broken'",
+                "es": "En OpenAI, un responsable de seguridad dimite y denuncia una 'cultura rota'"
+            },
+            "summary": {
+                "fr": "Un employé chargé de la sécurité chez OpenAI a démissionné en affirmant que la culture de l'entreprise est 'brisée', quelques jours après des informations du Wall Street Journal sur la rupture de liens avec trois chercheurs en sécurité.",
+                "en": "An OpenAI safety employee resigned claiming the company's culture is 'broken', days after the Wall Street Journal reported OpenAI had cut ties with three safety researchers.",
+                "es": "Un empleado de seguridad de OpenAI dimitió afirmando que la cultura de la empresa está 'rota', días después de que el Wall Street Journal informara de la ruptura de relaciones con tres investigadores de seguridad."
+            },
+            "simple": {
+                "fr": "Une personne qui travaillait pour rendre l'IA d'OpenAI plus sûre a quitté l'entreprise en disant que ça n'allait pas bien à l'intérieur.",
+                "en": "Someone whose job was to make OpenAI's AI safer quit, saying things weren't going well inside the company.",
+                "es": "Una persona que trabajaba para que la IA de OpenAI fuera más segura se fue de la empresa diciendo que las cosas no iban bien por dentro."
+            },
+            "expert": {
+                "fr": "Ce départ intervient dans un climat déjà tendu, après que le Wall Street Journal a rapporté la rupture des liens d'OpenAI avec trois chercheurs en sécurité début octobre. Ces épisodes répétés alimentent les critiques sur l'équilibre entre vitesse de déploiement commercial et rigueur des équipes de sécurité chez OpenAI, un sujet scruté de près par les régulateurs et les concurrents.",
+                "en": "The departure comes amid already tense conditions, after the Wall Street Journal reported in early October that OpenAI had cut ties with three safety researchers. These repeated episodes feed criticism over how OpenAI balances the pace of commercial deployment against the rigor of its safety teams, a topic closely watched by regulators and competitors alike.",
+                "es": "La salida llega en un clima ya tenso, después de que el Wall Street Journal informara a principios de octubre de que OpenAI había roto relaciones con tres investigadores de seguridad. Estos episodios repetidos alimentan las críticas sobre el equilibrio entre la velocidad de despliegue comercial y el rigor de los equipos de seguridad de OpenAI, un tema vigilado de cerca por reguladores y competidores."
+            }
+        },
+        {
+            "day": "2026-10-02",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://www.anthropic.com/news/claude-frontier-academy",
+            "source": "Anthropic",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Anthropic investit 100 millions de dollars pour former 10 000 ingénieurs IA",
+                "en": "Anthropic invests $100 million to train 10,000 AI engineers",
+                "es": "Anthropic invierte 100 millones de dólares para formar a 10.000 ingenieros de IA"
+            },
+            "summary": {
+                "fr": "Anthropic lance la Claude Frontier Academy, un programme doté de 100 millions de dollars pour former 10 000 ingénieurs et combler le manque de talents en IA dans les entreprises.",
+                "en": "Anthropic launched the Claude Frontier Academy, a $100 million program to train 10,000 engineers and close the enterprise AI talent gap.",
+                "es": "Anthropic lanzó la Claude Frontier Academy, un programa de 100 millones de dólares para formar a 10.000 ingenieros y cerrar la brecha de talento en IA empresarial."
+            },
+            "simple": {
+                "fr": "Anthropic va payer pour apprendre à 10 000 personnes à bien travailler avec l'intelligence artificielle.",
+                "en": "Anthropic is going to pay to teach 10,000 people how to work well with artificial intelligence.",
+                "es": "Anthropic va a pagar para enseñar a 10.000 personas a trabajar bien con la inteligencia artificial."
+            },
+            "expert": {
+                "fr": "Face à une pénurie de profils capables de déployer l'IA générative en entreprise, Anthropic mise sur la formation plutôt que sur le seul recrutement pour étendre l'usage de Claude en entreprise. Ce programme à 100 millions de dollars s'inscrit dans une bataille entre OpenAI, Google et Anthropic pour ancrer leurs outils dans les habitudes de travail avant que les entreprises ne choisissent un fournisseur dominant.",
+                "en": "Facing a shortage of people able to deploy generative AI inside companies, Anthropic is betting on training rather than hiring alone to expand Claude's use in the workplace. The $100 million program is part of a broader fight between OpenAI, Google and Anthropic to embed their respective tools into daily work habits before companies settle on one dominant vendor.",
+                "es": "Ante la escasez de perfiles capaces de implementar IA generativa en las empresas, Anthropic apuesta por la formación y no solo por la contratación para extender el uso de Claude en el trabajo. El programa de 100 millones de dólares forma parte de una pugna entre OpenAI, Google y Anthropic por instalar sus herramientas en los hábitos de trabajo antes de que las empresas elijan un proveedor dominante."
+            }
+        },
+        {
+            "day": "2026-10-02",
+            "actor": "Apple",
+            "actorSlug": "securite",
+            "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Apple verrouille macOS face aux risques posés par les agents IA",
+                "en": "Apple locks down macOS against risks from AI agents",
+                "es": "Apple blinda macOS frente a los riesgos de los agentes de IA"
+            },
+            "summary": {
+                "fr": "Apple annonce un renforcement des contrôles d'accès complet au disque sur macOS, invoquant de nouveaux risques liés aux agents d'intelligence artificielle capables d'agir seuls sur un ordinateur.",
+                "en": "Apple announced tighter Full Disk Access controls on macOS, citing new risks from AI agents capable of acting on their own on a computer.",
+                "es": "Apple anunció controles más estrictos de Acceso Total al Disco en macOS, citando nuevos riesgos derivados de agentes de IA capaces de actuar por sí solos en un ordenador."
+            },
+            "simple": {
+                "fr": "Apple ajoute une nouvelle serrure dans les ordinateurs Mac pour empêcher les robots IA de fouiller partout sans permission.",
+                "en": "Apple is adding a new lock on Mac computers so AI robots can't poke around everywhere without permission.",
+                "es": "Apple añade un nuevo candado en las computadoras Mac para que los robots de IA no puedan hurgar en todo sin permiso."
+            },
+            "expert": {
+                "fr": "Les agents IA autonomes peuvent désormais effectuer des actions système étendues en toute autonomie, ce qui pousse Apple à durcir les permissions d'accès complet au disque sur macOS pour limiter les abus potentiels. Cette décision illustre un mouvement plus large de l'industrie à revoir ses modèles de permissions à mesure que les agents gagnent en capacité d'action réelle sur les appareils des utilisateurs.",
+                "en": "Autonomous AI agents can now carry out extensive system-level actions on their own, pushing Apple to tighten Full Disk Access permissions on macOS to limit potential abuse. The move reflects a broader industry shift toward rethinking permission models as agents gain real ability to act directly on users' devices.",
+                "es": "Los agentes de IA autónomos ya pueden realizar acciones extensas a nivel de sistema por sí mismos, lo que lleva a Apple a endurecer los permisos de Acceso Total al Disco en macOS para limitar posibles abusos. La medida refleja un giro más amplio del sector hacia repensar los modelos de permisos a medida que los agentes ganan capacidad real de actuar sobre los dispositivos de los usuarios."
+            }
+        },
+        {
+            "day": "2026-10-01",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "ChatGPT permet désormais d'essayer des vêtements virtuellement",
+                "en": "ChatGPT can now let you virtually try on clothes",
+                "es": "ChatGPT ya permite probarte ropa virtualmente"
+            },
+            "summary": {
+                "fr": "OpenAI ajoute à ChatGPT une fonctionnalité d'essayage virtuel, qui permet aux utilisateurs de visualiser des vêtements sur eux-mêmes avant de les acheter en ligne.",
+                "en": "OpenAI added a virtual try-on feature to ChatGPT, letting users see what clothes would look like on them before buying online.",
+                "es": "OpenAI añadió a ChatGPT una función de prueba virtual que permite a los usuarios ver cómo les quedaría la ropa antes de comprarla en línea."
+            },
+            "simple": {
+                "fr": "ChatGPT peut maintenant te montrer à quoi tu ressemblerais avec un nouveau vêtement, sans même l'essayer pour de vrai !",
+                "en": "ChatGPT can now show you what you'd look like in new clothes, without even trying them on for real!",
+                "es": "ChatGPT ahora puede mostrarte cómo te quedaría una prenda nueva, ¡sin que te la pruebes de verdad!"
+            },
+            "expert": {
+                "fr": "Cette fonctionnalité positionne ChatGPT comme un outil de shopping, en concurrence directe avec les essayages virtuels déjà proposés par certaines plateformes e-commerce. Son adoption dépendra surtout de la fiabilité du rendu visuel et de la capacité d'OpenAI à convaincre les marques de lui fournir des catalogues produits exploitables pour cet usage commercial.",
+                "en": "The feature positions ChatGPT as a shopping tool, directly competing with virtual try-on features already offered by some e-commerce platforms. Adoption will largely hinge on how reliable the visual rendering is and on OpenAI's ability to convince brands to supply usable product catalogs for this commercial use case.",
+                "es": "La función posiciona a ChatGPT como herramienta de compras, compitiendo directamente con las pruebas virtuales que ya ofrecen algunas plataformas de comercio electrónico. Su adopción dependerá sobre todo de la fiabilidad del renderizado visual y de que OpenAI convenza a las marcas de aportar catálogos de producto utilizables para este uso comercial."
+            }
+        },
+        {
+            "day": "2026-10-01",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://www.anthropic.com/news/barclays-scales-claude",
+            "source": "Anthropic",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "La banque Barclays déploie Claude à grande échelle",
+                "en": "Barclays rolls out Claude at scale",
+                "es": "El banco Barclays despliega Claude a gran escala"
+            },
+            "summary": {
+                "fr": "La banque britannique Barclays a annoncé l'extension de son usage de Claude, l'IA d'Anthropic, pour moderniser ses opérations internes et améliorer l'expérience de ses clients.",
+                "en": "British bank Barclays announced it is expanding its use of Claude, Anthropic's AI, to modernize internal operations and improve the client experience.",
+                "es": "El banco británico Barclays anunció que amplía su uso de Claude, la IA de Anthropic, para modernizar sus operaciones internas y mejorar la experiencia de sus clientes."
+            },
+            "simple": {
+                "fr": "Une grande banque anglaise utilise maintenant l'IA Claude pour mieux aider ses clients.",
+                "en": "A big British bank is now using the Claude AI to better help its customers.",
+                "es": "Un gran banco inglés ahora usa la IA Claude para ayudar mejor a sus clientes."
+            },
+            "expert": {
+                "fr": "Ce déploiement à grande échelle illustre la percée de Claude dans le secteur bancaire, un secteur très réglementé où la conformité et la sécurité des données pèsent lourd dans le choix d'un fournisseur d'IA. Pour Anthropic, chaque référence client de ce calibre sert d'argument commercial face à Microsoft et Google dans la course aux contrats d'entreprise.",
+                "en": "The large-scale rollout highlights Claude's inroads into banking, a heavily regulated sector where compliance and data security weigh heavily on the choice of an AI vendor. For Anthropic, every customer reference of this size serves as a selling point against Microsoft and Google in the race for enterprise contracts.",
+                "es": "Este despliegue a gran escala muestra el avance de Claude en la banca, un sector muy regulado donde el cumplimiento normativo y la seguridad de los datos pesan mucho en la elección de un proveedor de IA. Para Anthropic, cada referencia de cliente de este calibre sirve de argumento comercial frente a Microsoft y Google en la carrera por los contratos empresariales."
+            }
+        },
+        {
+            "day": "2026-09-30",
+            "actor": "Google",
+            "actorSlug": "gemini",
+            "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Google reprend la tête avec Gemini 4 Argon, son IA la plus puissante",
+                "en": "Google reclaims the lead with Gemini 4 Argon, its most powerful AI yet",
+                "es": "Google recupera el liderazgo con Gemini 4 Argon, su IA más potente"
+            },
+            "summary": {
+                "fr": "Google a lancé Gemini 4 Argon, qu'il présente comme son modèle d'IA le plus puissant à ce jour. Il reprend la première place devant les modèles d'OpenAI et d'Anthropic sur plusieurs benchmarks de référence.",
+                "en": "Google has launched Gemini 4 Argon, which it calls its most powerful AI model to date. It retakes the top spot ahead of OpenAI's and Anthropic's models on several key benchmarks.",
+                "es": "Google lanzó Gemini 4 Argon, al que presenta como su modelo de IA más potente hasta la fecha. Vuelve a situarse por delante de los modelos de OpenAI y Anthropic en varios benchmarks clave."
+            },
+            "simple": {
+                "fr": "Google a créé un robot qui réfléchit encore plus vite, et il est devenu le plus malin de tous les robots du moment !",
+                "en": "Google built a thinking machine that got even faster, and right now it's the smartest one of all!",
+                "es": "Google construyó una máquina que piensa aún más rápido, ¡y ahora mismo es la más lista de todas!"
+            },
+            "expert": {
+                "fr": "Gemini 4 Argon dépasse GPT et Claude sur plusieurs benchmarks de référence, avec un positionnement marketing centré sur le développement logiciel, le travail de bureau et la cybersécurité professionnelle. Le déploiement reste pour l'instant en accès limité, sans carte technique détaillée publiée sur les garde-fous ni les cas d'usage exclus, ce qui invite à la prudence avant adoption en production.",
+                "en": "Gemini 4 Argon overtakes GPT and Claude on several leading benchmarks, with marketing aimed squarely at software development, professional knowledge work and cybersecurity operations. The rollout is still limited, and Google has not published a detailed technical report on the model's guardrails or where it falls short, so production adoption still warrants some caution.",
+                "es": "Gemini 4 Argon supera a GPT y Claude en varios benchmarks de referencia, con un enfoque de marketing centrado en el desarrollo de software, el trabajo profesional y la ciberseguridad. El despliegue sigue siendo limitado y Google no ha publicado un informe técnico detallado sobre los límites o salvaguardas del modelo, por lo que conviene cierta prudencia antes de adoptarlo en producción."
+            }
+        },
+        {
+            "day": "2026-09-29",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "OpenAI lance Dots, un coéquipier IA permanent pour les équipes",
+                "en": "OpenAI launches Dots, an always-on AI teammate for work",
+                "es": "OpenAI lanza Dots, un compañero de IA siempre activo para el trabajo"
+            },
+            "summary": {
+                "fr": "OpenAI a dévoilé Dots, un avatar agentique toujours actif, ainsi que ChatGPT Space, un espace partagé où ces agents collaborent directement avec des équipes humaines sur des projets communs.",
+                "en": "OpenAI unveiled Dots, a persistent agentic avatar, along with ChatGPT Space, a shared workspace where these agents collaborate directly with human teams on joint projects.",
+                "es": "OpenAI presentó Dots, un avatar agéntico permanente, junto con ChatGPT Space, un espacio de trabajo compartido donde estos agentes colaboran directamente con equipos humanos en proyectos conjuntos."
+            },
+            "simple": {
+                "fr": "OpenAI a créé un petit personnage animé qui reste toujours disponible pour aider une équipe, comme un collègue qui ne dort jamais.",
+                "en": "OpenAI made a little animated character that's always around to help a team, like a coworker who never sleeps.",
+                "es": "OpenAI creó un pequeño personaje animado que siempre está disponible para ayudar a un equipo, como un compañero que nunca duerme."
+            },
+            "expert": {
+                "fr": "Dots fonctionne comme un agent persistant plutôt qu'une simple session de chat, et ChatGPT Space propose un environnement de travail partagé où plusieurs agents et humains avancent ensemble sur un même projet. OpenAI mise ainsi sur les agents de longue durée pour s'imposer face aux outils de productivité classiques, sans détailler pour l'instant les garanties de confidentialité des données partagées dans cet espace.",
+                "en": "Dots behaves as a persistent agent rather than a one-off chat session, and ChatGPT Space gives teams a shared workspace where multiple agents and humans can advance the same project together. OpenAI is betting on long-running agents to compete with established productivity tools, though it has not yet detailed how data shared inside that workspace is protected.",
+                "es": "Dots funciona como un agente persistente en lugar de una simple sesión de chat, y ChatGPT Space ofrece un espacio de trabajo compartido donde varios agentes y personas avanzan juntos en un mismo proyecto. OpenAI apuesta así por los agentes de larga duración para competir con las herramientas de productividad clásicas, sin detallar aún cómo protege los datos compartidos en ese espacio."
+            }
+        },
+        {
+            "day": "2026-09-29",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://venturebeat.com/technology/openais-gpt-6-1-sol-offers-astra-like-performance-at-1-5th-price-a-new-ultrafast-tier-clocks-at-300-tokens-per-second",
+            "source": "VentureBeat",
+            "sourceKind": "media",
+            "title": {
+                "fr": "GPT-6.1 Sol : OpenAI mise sur la vitesse avec un modèle 5 fois moins cher",
+                "en": "GPT-6.1 Sol: OpenAI bets on speed with a model five times cheaper",
+                "es": "GPT-6.1 Sol: OpenAI apuesta por la velocidad con un modelo cinco veces más barato"
+            },
+            "summary": {
+                "fr": "OpenAI lance GPT-6.1 Sol et un nouveau palier Ultrafast capable de générer 300 tokens par seconde, pour des performances proches d'Astra mais à un cinquième du prix.",
+                "en": "OpenAI launched GPT-6.1 Sol and a new Ultrafast tier that generates 300 tokens per second, offering performance close to Astra at one-fifth of the price.",
+                "es": "OpenAI lanzó GPT-6.1 Sol y un nuevo nivel Ultrafast capaz de generar 300 tokens por segundo, con un rendimiento cercano a Astra pero a un quinto del precio."
+            },
+            "simple": {
+                "fr": "OpenAI a inventé une IA qui répond presque aussi bien qu'avant mais beaucoup plus vite et beaucoup moins cher !",
+                "en": "OpenAI made an AI that answers almost as well as before, but much faster and much cheaper!",
+                "es": "OpenAI creó una IA que responde casi tan bien como antes, pero mucho más rápido y mucho más barato."
+            },
+            "expert": {
+                "fr": "Le palier Ultrafast cible les usages où la latence compte autant que la qualité, comme le support client en direct ou l'analyse financière en temps réel, avec un débit annoncé de 300 tokens par seconde. En facturant ce modèle cinq fois moins cher qu'Astra pour des performances jugées comparables, OpenAI cherche à concurrencer les offres low cost de ses rivaux sur les usages à très fort volume.",
+                "en": "The Ultrafast tier targets use cases where latency matters as much as quality, such as live customer support or real-time financial analysis, with a claimed throughput of 300 tokens per second. By pricing this model five times cheaper than Astra for comparable performance, OpenAI is clearly aiming at high-volume workloads where rivals currently undercut it on cost.",
+                "es": "El nivel Ultrafast apunta a casos donde la latencia importa tanto como la calidad, como el soporte al cliente en vivo o el análisis financiero en tiempo real, con un rendimiento anunciado de 300 tokens por segundo. Al cobrar este modelo cinco veces menos que Astra con un rendimiento comparable, OpenAI busca competir en los usos de muy alto volumen donde sus rivales ofrecían precios más bajos."
+            }
+        },
+        {
+            "day": "2026-09-28",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://www.anthropic.com/claude-sonnet-5-5",
+            "source": "Anthropic",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Claude Sonnet 5.5 : Anthropic accélère et fait baisser la facture",
+                "en": "Claude Sonnet 5.5: Anthropic gets faster and cuts the bill",
+                "es": "Claude Sonnet 5.5: Anthropic gana velocidad y reduce la factura"
+            },
+            "summary": {
+                "fr": "Anthropic a lancé Claude Sonnet 5.5, une mise à jour 30 % plus rapide et jusqu'à 30 % moins chère que la version précédente pour la plupart des tâches.",
+                "en": "Anthropic launched Claude Sonnet 5.5, an update that is 30% faster and up to 30% cheaper than the previous version for most tasks.",
+                "es": "Anthropic lanzó Claude Sonnet 5.5, una actualización un 30% más rápida y hasta un 30% más barata que la versión anterior para la mayoría de tareas."
+            },
+            "simple": {
+                "fr": "L'IA Claude est devenue plus rapide pour répondre, et elle coûte aussi moins cher à faire tourner.",
+                "en": "The Claude AI got faster at answering, and it also costs less to run.",
+                "es": "La IA Claude ahora responde más rápido, y además cuesta menos ponerla a funcionar."
+            },
+            "expert": {
+                "fr": "Le gain annoncé de 30 % en vitesse et jusqu'à 30 % en coût pour la majorité des tâches vise directement les entreprises qui font tourner Claude à grande échelle, où chaque appel à l'API pèse sur la facture finale. Anthropic ne détaille pas publiquement les changements d'architecture derrière ce gain, mais la manœuvre renforce sa position face à la guerre des prix engagée par OpenAI et Google.",
+                "en": "The claimed 30% speed gain and up to 30% cost cut on most tasks directly targets companies running Claude at scale, where every API call adds up on the final bill. Anthropic has not publicly detailed the architecture changes behind the gain, but the move strengthens its position in the pricing race already underway with OpenAI and Google.",
+                "es": "La mejora anunciada del 30% en velocidad y de hasta un 30% en coste para la mayoría de tareas apunta directamente a las empresas que usan Claude a gran escala, donde cada llamada a la API pesa en la factura final. Anthropic no detalla públicamente los cambios de arquitectura detrás de esta mejora, pero el movimiento refuerza su posición en la guerra de precios que ya libran OpenAI y Google."
+            }
+        },
+        {
+            "day": "2026-09-28",
+            "actor": "Mistral AI",
+            "actorSlug": "mistral",
+            "url": "https://mistral.ai/news/hallo-deutschland/",
+            "source": "Mistral AI",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Mistral ouvre un hub à Munich pour une IA industrielle européenne",
+                "en": "Mistral opens a Munich hub for European industrial AI",
+                "es": "Mistral abre un centro en Múnich para una IA industrial europea"
+            },
+            "summary": {
+                "fr": "La start-up française Mistral AI a ouvert un nouveau hub à Munich, en Allemagne, pour développer des applications d'intelligence artificielle destinées à l'industrie européenne.",
+                "en": "French startup Mistral AI opened a new hub in Munich, Germany, to develop artificial intelligence applications for European industry.",
+                "es": "La startup francesa Mistral AI abrió un nuevo centro en Múnich, Alemania, para desarrollar aplicaciones de inteligencia artificial destinadas a la industria europea."
+            },
+            "simple": {
+                "fr": "La petite IA française Mistral ouvre un bureau en Allemagne pour aider les usines européennes.",
+                "en": "The French AI company Mistral is opening an office in Germany to help European factories.",
+                "es": "La IA francesa Mistral abre una oficina en Alemania para ayudar a las fábricas europeas."
+            },
+            "expert": {
+                "fr": "Ce hub allemand s'ajoute à la stratégie de souveraineté numérique de Mistral, qui cherche à ancrer une IA européenne compétitive dans l'industrie, après une levée de fonds de 3 milliards d'euros début septembre valorisant l'entreprise à plus de 21 milliards d'euros. L'enjeu est de convaincre les grands groupes industriels allemands de ne pas dépendre uniquement des modèles américains ou chinois.",
+                "en": "The German hub extends Mistral's digital sovereignty strategy, which aims to embed competitive European AI in key sectors like manufacturing, following a €3 billion funding round in early September that valued the company at more than €21 billion. The goal is to persuade major German industrial groups not to rely solely on American or Chinese models.",
+                "es": "Este centro alemán se suma a la estrategia de soberanía digital de Mistral, que busca afianzar una IA europea competitiva en sectores clave como la industria, tras una ronda de financiación de 3.000 millones de euros a principios de septiembre que valoró la empresa en más de 21.000 millones. El objetivo es convencer a los grandes grupos industriales alemanes de no depender solo de modelos estadounidenses o chinos."
+            }
+        },
         {
             "title": {
                 "fr": "Google teste les achats directs via Gemini en Inde avec Flipkart",
@@ -1424,378 +1704,97 @@
                 "en": "OpenAI's preparedness framework flagged that Astra could meet the critical cyber-capability threshold, prompting a voluntary halt of reinforcement learning. It is the first time a lab has publicly slowed a model for this reason; watch the resumption criteria and whether external audits ever verify these thresholds.",
                 "es": "El marco de preparación de OpenAI detectó que Astra podía alcanzar el umbral crítico de capacidades cibernéticas, lo que motivó la parada voluntaria del entrenamiento por refuerzo. Es la primera vez que un laboratorio frena públicamente un modelo por este motivo; habrá que vigilar las condiciones de reanudación y las auditorías externas."
             }
-        },
-        {
-            "day": "2026-08-18",
-            "actor": "Z.ai",
-            "actorSlug": "glm",
-            "url": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
-            "source": "VentureBeat",
-            "sourceKind": "media",
-            "title": {
-                "fr": "GLM-5.3 : le modèle ouvert chinois au niveau des meilleurs, sans hausse de prix",
-                "en": "GLM-5.3: China's open model matches the best, with no price hike",
-                "es": "GLM-5.3: el modelo abierto chino iguala a los mejores sin subir el precio"
-            },
-            "summary": {
-                "fr": "La startup chinoise Z.ai publie GLM-5.3, accessible par API à 1,40 dollar le million de jetons en entrée et 4,40 en sortie, à égalité avec Kimi K3 au sommet des modèles ouverts selon Artificial Analysis.",
-                "en": "Chinese startup Z.ai releases GLM-5.3, available through its API at $1.40 per million input tokens and $4.40 for output, tied with Kimi K3 at the top of open models according to Artificial Analysis.",
-                "es": "La startup china Z.ai publica GLM-5.3, accesible por API a 1,40 dólares por millón de tokens de entrada y 4,40 de salida, empatado con Kimi K3 en lo más alto de los modelos abiertos según Artificial Analysis."
-            },
-            "simple": {
-                "fr": "En Chine, un nouveau robot très malin vient de sortir, et il ne coûte pas plus cher que l'ancien : comme un cartable tout neuf vendu au prix de l'année dernière.",
-                "en": "In China, a very clever new robot just came out, and it costs no more than the old one: like a brand-new backpack sold at last year's price.",
-                "es": "En China acaba de salir un robot nuevo muy listo que no cuesta más que el anterior: como una mochila nueva vendida al precio del año pasado."
-            },
-            "expert": {
-                "fr": "À prix inchangés, 1,40 $ le million de jetons en entrée et 4,40 $ en sortie, GLM-5.3 atteint le score Artificial Analysis de 60, au niveau de Kimi K3, avec de bons résultats en cybersécurité et en tâches d'agent. Le cache d'entrée à 0,26 $ accentue la pression tarifaire sur les modèles propriétaires ; les poids restent ouverts.",
-                "en": "At unchanged prices, $1.40 per million input tokens and $4.40 for output, GLM-5.3 reaches an Artificial Analysis score of 60, level with Kimi K3, with strong results in cybersecurity and agent tasks. Cached input at $0.26 adds pricing pressure on proprietary models; the weights remain open.",
-                "es": "Con precios sin cambios, 1,40 dólares por millón de tokens de entrada y 4,40 de salida, GLM-5.3 alcanza una puntuación Artificial Analysis de 60, al nivel de Kimi K3, con buenos resultados en ciberseguridad y tareas de agente. La caché de entrada a 0,26 dólares presiona los precios de los modelos propietarios; los pesos siguen abiertos."
-            }
-        },
-        {
-            "day": "2026-08-18",
-            "actor": "Perplexity",
-            "actorSlug": "perplexity",
-            "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-            "source": "TechCrunch",
-            "sourceKind": "media",
-            "title": {
-                "fr": "En Inde, le pari du gratuit a fait décoller Perplexity",
-                "en": "In India, the free-offer gamble sent Perplexity soaring",
-                "es": "En India, la apuesta por lo gratis disparó a Perplexity"
-            },
-            "summary": {
-                "fr": "L'année de Perplexity Pro offerte aux 360 millions de clients de l'opérateur Airtel a fait exploser les téléchargements de l'application en Inde. Depuis la fin de l'offre en janvier, ils retombent, mais les revenus, eux, progressent.",
-                "en": "The free year of Perplexity Pro offered to telecom operator Airtel's 360 million customers sent the app's downloads in India soaring. Since the offer closed in January they have fallen back, but revenue keeps growing.",
-                "es": "El año gratis de Perplexity Pro ofrecido a los 360 millones de clientes del operador Airtel disparó las descargas de la aplicación en India. Desde que la oferta terminó en enero han caído, pero los ingresos siguen creciendo."
-            },
-            "simple": {
-                "fr": "En Inde, un cadeau géant a fait venir des millions de curieux essayer le robot Perplexity, comme des échantillons gratuits à l'entrée d'un magasin.",
-                "en": "In India, a giant gift brought millions of curious people to try the Perplexity robot, like free samples at a store entrance.",
-                "es": "En India, un regalo gigante atrajo a millones de curiosos a probar el robot Perplexity, como las muestras gratis a la entrada de una tienda."
-            },
-            "expert": {
-                "fr": "L'offre, un an de Pro à 200 dollars via Airtel, avait porté les téléchargements d'environ 11 200 à plus de 300 000 par jour au plus fort. Après la fermeture en janvier, la chute est nette, mais le revenu mobile mensuel en Inde est passé d'environ 34 000 à 156 000 dollars en juillet 2026 : une conversion réelle, quoique modeste au regard du coût.",
-                "en": "The offer, a year of the $200 Pro plan through Airtel, lifted downloads from about 11,200 to over 300,000 a day at the peak. After it closed in January the drop was sharp, yet monthly mobile revenue in India grew from roughly $34,000 to $156,000 by July 2026: real conversion, though modest against the cost.",
-                "es": "La oferta, un año del plan Pro de 200 dólares vía Airtel, elevó las descargas de unas 11 200 a más de 300 000 diarias en su punto álgido. Tras cerrarse en enero la caída fue clara, pero el ingreso móvil mensual en India pasó de unos 34 000 a 156 000 dólares en julio de 2026: conversión real, aunque modesta frente al coste."
-            }
-        },
-        {
-            "day": "2026-08-17",
-            "actor": "Anthropic",
-            "actorSlug": "claude",
-            "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-            "source": "TechCrunch",
-            "sourceKind": "media",
-            "title": {
-                "fr": "Anthropic dépasse OpenAI en revenus et vise une entrée en Bourse géante",
-                "en": "Anthropic overtakes OpenAI in revenue and eyes a giant IPO",
-                "es": "Anthropic supera a OpenAI en ingresos y apunta a una salida a bolsa gigante"
-            },
-            "summary": {
-                "fr": "Le revenu annualisé d'Anthropic a atteint 65 milliards de dollars fin juillet, contre 40 milliards pour OpenAI. L'entreprise préparerait une entrée en Bourse valorisée à plus de 2 000 milliards, possiblement dès l'automne.",
-                "en": "Anthropic's annualized revenue reached $65 billion at the end of July, versus $40 billion for OpenAI. The company is reportedly preparing an IPO at a valuation above $2 trillion, possibly as soon as this fall.",
-                "es": "Los ingresos anualizados de Anthropic alcanzaron 65 000 millones de dólares a finales de julio, frente a 40 000 millones de OpenAI. La empresa prepararía una salida a bolsa valorada en más de 2 billones, quizá este otoño."
-            },
-            "simple": {
-                "fr": "La société qui fabrique Claude gagne maintenant plus d'argent que celle qui fabrique ChatGPT, comme un coureur qui double le favori de la course.",
-                "en": "The company that makes Claude now earns more money than the one that makes ChatGPT, like a runner overtaking the race favorite.",
-                "es": "La empresa que fabrica Claude ahora gana más dinero que la que fabrica ChatGPT, como un corredor que adelanta al favorito de la carrera."
-            },
-            "expert": {
-                "fr": "La progression, 9 milliards fin 2025, 47 en mai, 65 fin juillet, vient largement des usages professionnels de Claude, le code en tête. Les investisseurs attendent 100 à 120 milliards fin 2026 et une IPO possible dès l'automne au-dessus de 2 000 milliards de valorisation ; la rentabilité réelle, elle, n'est pas publiée.",
-                "en": "The trajectory, $9B at the end of 2025, $47B in May, $65B in late July, is driven largely by professional use of Claude, coding first. Investors expect $100-120B by year-end and a possible fall IPO above a $2 trillion valuation; actual profitability, however, remains undisclosed.",
-                "es": "La progresión, 9 000 millones a finales de 2025, 47 000 en mayo, 65 000 a finales de julio, se apoya sobre todo en el uso profesional de Claude, con el código a la cabeza. Los inversores esperan 100 000 a 120 000 millones a fin de año y una salida a bolsa por encima de 2 billones; la rentabilidad real no se ha publicado."
-            }
-        },
-        {
-            "day": "2026-08-17",
-            "actor": "Higgsfield",
-            "actorSlug": "higgsfield",
-            "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
-            "source": "TechCrunch",
-            "sourceKind": "media",
-            "title": {
-                "fr": "Higgsfield lève 400 millions et quadruple sa valorisation en huit mois",
-                "en": "Higgsfield raises $400 million, quadrupling its valuation in eight months",
-                "es": "Higgsfield capta 400 millones y cuadruplica su valoración en ocho meses"
-            },
-            "summary": {
-                "fr": "La plateforme de création d'images et de vidéos par IA lève 400 millions de dollars sur une valorisation de 5,4 milliards, huit mois seulement après un tour à 1,3 milliard.",
-                "en": "The AI image and video creation platform raises $400 million at a $5.4 billion valuation, just eight months after a round at $1.3 billion.",
-                "es": "La plataforma de creación de imágenes y vídeos con IA capta 400 millones de dólares con una valoración de 5 400 millones, solo ocho meses después de una ronda a 1 300 millones."
-            },
-            "simple": {
-                "fr": "Le studio qui fabrique des vidéos magiques avec l'IA a reçu une énorme tirelire pour grandir encore plus vite.",
-                "en": "The studio that makes magic videos with AI just got a giant piggy bank to grow even faster.",
-                "es": "El estudio que hace vídeos mágicos con IA acaba de recibir una hucha gigante para crecer aún más rápido."
-            },
-            "expert": {
-                "fr": "Fondée par Alex Mashrabov, ancien de Snap, la société revendique 700 millions de dollars de revenu annualisé, 30 millions d'utilisateurs dans 200 pays et 390 clients du Fortune 500. Ces chiffres restent déclaratifs, non audités ; et face à Sora, Veo et Runway, l'avance d'un acteur de la vidéo générative se rejoue à chaque génération de modèles.",
-                "en": "Founded by former Snap executive Alex Mashrabov, the company claims $700 million in annualized revenue, 30 million users across 200 countries and 390 Fortune 500 clients. Those figures are self-reported, not audited; and against Sora, Veo and Runway, a generative video player's lead is re-contested with every model generation.",
-                "es": "Fundada por Alex Mashrabov, exdirectivo de Snap, la empresa declara 700 millones de dólares de ingresos anualizados, 30 millones de usuarios en 200 países y 390 clientes del Fortune 500. Son cifras declaradas, no auditadas; y frente a Sora, Veo y Runway, la ventaja en vídeo generativo se disputa de nuevo con cada generación de modelos."
-            }
-        },
-        {
-            "title": {
-                "fr": "xAI lance Grok 4.6, moins cher que ses rivaux et taillé pour les tâches longues",
-                "en": "xAI launches Grok 4.6, cheaper than rivals and built for long tasks",
-                "es": "xAI lanza Grok 4.6, más barato que sus rivales y pensado para tareas largas"
-            },
-            "summary": {
-                "fr": "xAI a dévoilé Grok 4.6, doté d’une fenêtre de contexte de 500 000 tokens et de niveaux de raisonnement ajustables, disponible immédiatement via l’API xAI et plusieurs plateformes partenaires à un tarif environ deux fois inférieur à celui des modèles concurrents.",
-                "en": "xAI unveiled Grok 4.6, featuring a 500,000-token context window and adjustable reasoning levels, available immediately through the xAI API and several partner platforms at roughly half the price of competing frontier models.",
-                "es": "xAI presentó Grok 4.6, con una ventana de contexto de 500.000 tokens y niveles de razonamiento ajustables, disponible de inmediato a través de la API de xAI y varias plataformas asociadas a un precio aproximadamente la mitad que el de los modelos rivales."
-            },
-            "simple": {
-                "fr": "Grok, l’IA d’Elon Musk, vient de grandir: elle peut désormais lire un texte aussi long qu’un gros livre d’un coup, et réfléchir plus ou moins fort selon la difficulté de la question.",
-                "en": "Grok, Elon Musk's AI, just grew up: it can now read a text as long as a thick book in one go, and think harder or lighter depending on how tricky the question is.",
-                "es": "Grok, la IA de Elon Musk, acaba de crecer: ahora puede leer de una vez un texto tan largo como un libro grueso, y pensar más o menos fuerte según lo difícil que sea la pregunta."
-            },
-            "expert": {
-                "fr": "La fenêtre de 500 000 tokens et les quatre niveaux d’effort de raisonnement visent les agents autonomes qui enchaînent de longues séquences d’outils sans intervention humaine, un terrain où xAI cherche à rattraper OpenAI et Anthropic. La tarification agressive, environ deux fois moins chère que les modèles frontières rivaux, pourrait peser sur les marges du secteur si la qualité suit dans la durée.",
-                "en": "The 500,000-token window and four reasoning-effort levels target autonomous agents chaining long tool sequences without human input, a space where xAI is racing to catch up with OpenAI and Anthropic. The aggressive pricing, roughly half of rival frontier models, could squeeze industry margins if quality holds up over time.",
-                "es": "La ventana de 500.000 tokens y los cuatro niveles de esfuerzo de razonamiento apuntan a agentes autónomos que encadenan largas secuencias de herramientas sin intervención humana, un terreno donde xAI busca alcanzar a OpenAI y Anthropic. El precio agresivo, casi la mitad que el de los modelos rivales de vanguardia, podría presionar los márgenes del sector si la calidad se mantiene con el tiempo."
-            },
-            "day": "2026-08-12",
-            "actor": "Grok",
-            "actorSlug": "grok",
-            "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
-            "source": "VentureBeat",
-            "sourceKind": "media"
-        },
-        {
-            "title": {
-                "fr": "Anthropic va marquer discrètement tous les textes et images générés par Claude",
-                "en": "Anthropic will quietly watermark all text and images Claude generates",
-                "es": "Anthropic marcará discretamente todo el texto y las imágenes que genera Claude"
-            },
-            "summary": {
-                "fr": "Pour se conformer au règlement européen sur l’IA, Anthropic ajoute une marque invisible aux textes de Claude et des métadonnées de provenance à ses images, un dispositif qui suit le contenu même après un copier-coller.",
-                "en": "To comply with the EU's AI rules, Anthropic is adding an invisible mark to Claude's text and provenance metadata to its images, a system that follows the content even after it's copied and pasted.",
-                "es": "Para cumplir con el reglamento europeo de IA, Anthropic añade una marca invisible a los textos de Claude y metadatos de procedencia a sus imágenes, un sistema que acompaña al contenido incluso tras copiarlo y pegarlo."
-            },
-            "simple": {
-                "fr": "Claude va désormais glisser une petite étiquette invisible dans tout ce qu’il écrit, comme une empreinte digitale secrète qui dit « c’est une IA qui a fait ça ».",
-                "en": "Claude will now slip a tiny invisible tag into everything it writes, like a secret fingerprint that says 'an AI made this'.",
-                "es": "Claude ahora colocará una pequeña etiqueta invisible en todo lo que escribe, como una huella digital secreta que dice 'esto lo hizo una IA'."
-            },
-            "expert": {
-                "fr": "La mesure répond à l’article 50 de l’AI Act européen, entré en application le 2 août, qui impose de signaler le contenu généré par IA. Le marquage textuel reste invisible à l’œil mais détectable par des outils dédiés, tandis que les images embarquent le standard ouvert C2PA. Reste une inconnue: la robustesse de ces marques face à des reformulations ou des captures d’écran.",
-                "en": "The move answers Article 50 of the EU AI Act, in force since August 2, which requires flagging AI-generated content. The text watermark stays invisible to readers but detectable with dedicated tools, while images carry the open C2PA provenance standard. One open question is how well these marks survive paraphrasing or screenshots, something regulators will likely watch closely.",
-                "es": "La medida responde al artículo 50 de la Ley de IA europea, vigente desde el 2 de agosto, que exige señalar el contenido generado por IA. La marca de texto sigue siendo invisible para el lector pero detectable con herramientas específicas, mientras que las imágenes incorporan el estándar abierto C2PA. Queda una duda: cuánto resisten estas marcas a reformulaciones o capturas de pantalla."
-            },
-            "day": "2026-08-11",
-            "actor": "Anthropic",
-            "actorSlug": "claude",
-            "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-            "source": "TechCrunch",
-            "sourceKind": "media"
-        },
-        {
-            "day": "2026-08-11",
-            "actor": "Google",
-            "actorSlug": "gemini",
-            "title": {
-                "fr": "Gemini franchit le milliard d'utilisateurs chaque mois",
-                "en": "Gemini passes one billion monthly users",
-                "es": "Gemini supera los mil millones de usuarios mensuales"
-            },
-            "summary": {
-                "fr": "L'application Gemini de Google dépasse désormais 1 milliard d'utilisateurs actifs mensuels, rejoignant ChatGPT sur ce palier symbolique.",
-                "en": "Google's Gemini app now tops 1 billion monthly active users, joining ChatGPT at that symbolic milestone.",
-                "es": "La aplicación Gemini de Google supera ya los 1000 millones de usuarios activos mensuales, alcanzando a ChatGPT en ese hito simbólico."
-            },
-            "simple": {
-                "fr": "Une personne sur huit dans le monde utilise maintenant l'assistant de Google chaque mois. C'est énorme !",
-                "en": "One in eight people in the world now uses Google's assistant every month. That's huge!",
-                "es": "Una de cada ocho personas del mundo ya usa el asistente de Google cada mes. ¡Es una barbaridad!"
-            },
-            "url": "https://techcrunch.com/2026/08/11/gemini-crosses-1-billion-monthly-users/",
-            "source": "TechCrunch",
-            "expert": {
-                "fr": "Le chiffre compte moins que la manière de le produire : Gemini est intégré par défaut dans Android, Chrome, Workspace et la recherche Google, ce qui gonfle mécaniquement l'usage par rapport à un ChatGPT qu'il faut aller chercher. La vraie question pour le marché est celle de la rétention et de la conversion vers les offres payantes, que Google ne détaille pas.",
-                "en": "The number matters less than how it is produced: Gemini ships by default inside Android, Chrome, Workspace and Google Search, which mechanically inflates usage compared with ChatGPT, which users have to seek out. The open question for the market is retention and conversion to paid tiers, figures Google does not break out.",
-                "es": "La cifra importa menos que la forma de obtenerla: Gemini viene integrado por defecto en Android, Chrome, Workspace y el buscador de Google, lo que infla mecánicamente el uso frente a un ChatGPT que el usuario tiene que ir a buscar. La cuestión de fondo para el mercado es la retención y la conversión a planes de pago, datos que Google no desglosa."
-            },
-            "sourceKind": "media"
-        },
-        {
-            "day": "2026-08-11",
-            "actor": "OpenAI",
-            "actorSlug": "chatgpt",
-            "title": {
-                "fr": "ChatGPT arrive enfin sur Linux",
-                "en": "ChatGPT finally lands on Linux",
-                "es": "ChatGPT llega por fin a Linux"
-            },
-            "summary": {
-                "fr": "OpenAI lance son application de bureau pour Linux (Ubuntu, Debian, Fedora), avec ChatGPT, ChatGPT Work et l'assistant de code Codex.",
-                "en": "OpenAI launches its desktop app for Linux (Ubuntu, Debian, Fedora), with ChatGPT, ChatGPT Work and the Codex coding assistant.",
-                "es": "OpenAI lanza su aplicación de escritorio para Linux (Ubuntu, Debian, Fedora), con ChatGPT, ChatGPT Work y el asistente de código Codex."
-            },
-            "simple": {
-                "fr": "ChatGPT peut maintenant s'installer sur encore plus d'ordinateurs, comme une vraie application.",
-                "en": "ChatGPT can now be installed on even more computers, like a real app.",
-                "es": "ChatGPT ya puede instalarse en más ordenadores, como una aplicación de verdad."
-            },
-            "url": "https://thenewstack.io/openai-launches-linux-desktop-app/",
-            "source": "The New Stack",
-            "expert": {
-                "fr": "Linux pèse peu sur le bureau grand public mais domine chez les développeurs, cible naturelle de Codex : c'est ce public, plus que le particulier, qu'OpenAI vise avec ce portage tardif après macOS et Windows. Une application native peut aussi agir sur les fichiers et le terminal, ce que l'interface web ne permet pas. Reste à voir si les distributions hors Ubuntu, Debian et Fedora auront un support officiel.",
-                "en": "Linux has a small share of consumer desktops but dominates among developers, the natural audience for Codex: that is the public OpenAI is after with this late port, following macOS and Windows. A native app can also reach local files and the terminal, something the web interface cannot do. Whether distributions beyond Ubuntu, Debian and Fedora get official support remains to be seen.",
-                "es": "Linux pesa poco en el escritorio doméstico pero domina entre los desarrolladores, el público natural de Codex: a ellos, más que al particular, apunta OpenAI con esta llegada tardía tras macOS y Windows. Una aplicación nativa puede además actuar sobre los archivos y el terminal, algo que la versión web no permite. Queda por ver si las distribuciones fuera de Ubuntu, Debian y Fedora tendrán soporte oficial."
-            },
-            "sourceKind": "media"
-        },
-        {
-            "day": "2026-08-11",
-            "actor": "Suno",
-            "actorSlug": "suno",
-            "title": {
-                "fr": "Suno dépasse 100 millions de créateurs de musique",
-                "en": "Suno passes 100 million music creators",
-                "es": "Suno supera los 100 millones de creadores de música"
-            },
-            "summary": {
-                "fr": "La plateforme de musique générée par IA revendique plus de 100 millions d'utilisateurs et 2 millions d'abonnés payants, malgré des procès sur les droits d'auteur.",
-                "en": "The AI music platform claims over 100 million users and 2 million paying subscribers, despite copyright lawsuits.",
-                "es": "La plataforma de música generada por IA reivindica más de 100 millones de usuarios y 2 millones de suscriptores de pago, pese a los pleitos por derechos de autor."
-            },
-            "simple": {
-                "fr": "100 millions de personnes ont déjà inventé des chansons avec cette IA, sans savoir jouer d'un instrument.",
-                "en": "100 million people have already invented songs with this AI, without playing any instrument.",
-                "es": "100 millones de personas ya han inventado canciones con esta IA, sin saber tocar ningún instrumento."
-            },
-            "url": "https://www.bloomberg.com/news/articles/2026-08-11/suno-100-million-users",
-            "source": "Bloomberg",
-            "expert": {
-                "fr": "Deux millions d'abonnés sur 100 millions d'utilisateurs, c'est un taux de conversion d'environ 2 %, typique des outils créatifs grand public : l'usage est massif, le paiement reste rare. Le contentieux porte sur les données d'entraînement, les grandes maisons de disques ayant attaqué Suno dès 2024 pour l'usage de leurs catalogues ; l'issue, procès ou accords de licence, fixera le coût réel de ce modèle.",
-                "en": "Two million subscribers out of 100 million users is a conversion rate of roughly 2%, typical of consumer creative tools: usage is massive, payment remains rare. The litigation centres on training data, the major labels having sued Suno in 2024 over the use of their catalogues; the outcome, whether trials or licensing deals, will set the real cost of this business model.",
-                "es": "Dos millones de suscriptores sobre 100 millones de usuarios supone una conversión cercana al 2 %, habitual en las herramientas creativas de consumo: el uso es masivo, el pago sigue siendo raro. El litigio gira en torno a los datos de entrenamiento, pues las grandes discográficas demandaron a Suno en 2024 por el uso de sus catálogos; el desenlace, juicios o licencias, fijará el coste real del modelo."
-            },
-            "sourceKind": "media",
-            "paywall": true
-        },
-        {
-            "day": "2026-08-09",
-            "actor": "OpenAI",
-            "actorSlug": "chatgpt",
-            "title": {
-                "fr": "GPT-5.6 Sol : deux fois moins d'erreurs",
-                "en": "GPT-5.6 Sol: half the errors",
-                "es": "GPT-5.6 Sol: la mitad de errores"
-            },
-            "summary": {
-                "fr": "OpenAI déploie GPT-5.6 Sol, qui réduit de 68 % les erreurs factuelles et améliore le raisonnement pour les abonnés payants.",
-                "en": "OpenAI rolls out GPT-5.6 Sol, cutting factual errors by 68% and improving reasoning for paid subscribers.",
-                "es": "OpenAI despliega GPT-5.6 Sol, que reduce un 68 % los errores factuales y mejora el razonamiento para los suscriptores de pago."
-            },
-            "simple": {
-                "fr": "Le cerveau de ChatGPT vient d'être amélioré : il se trompe beaucoup moins souvent qu'avant.",
-                "en": "ChatGPT's brain just got an upgrade: it makes far fewer mistakes than before.",
-                "es": "El cerebro de ChatGPT acaba de mejorar: se equivoca mucho menos que antes."
-            },
-            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-9-2026",
-            "source": "Build Fast with AI",
-            "expert": {
-                "fr": "La baisse de 68 % est mesurée par OpenAI face à GPT-5.5, son propre modèle précédent, sur des jeux de test internes : aucun score public indépendant n'accompagne l'annonce, ce qui invite à la prudence. Le déploiement suit la logique à deux vitesses désormais habituelle, Sol réservé aux abonnés, une variante Luna illimitée pour le gratuit, et vise d'abord les usages professionnels où l'erreur factuelle coûte cher.",
-                "en": "The 68% figure is OpenAI's own measurement against GPT-5.5, its previous model, on internal test sets: no independent public scores accompany the announcement, which calls for caution. The rollout follows the now familiar two-tier pattern, Sol for paying subscribers and an unlimited Luna variant for free users, and targets professional work first, where factual mistakes are costly.",
-                "es": "La reducción del 68 % la mide la propia OpenAI frente a GPT-5.5, su modelo anterior, con pruebas internas: no hay puntuaciones públicas independientes, lo que invita a la prudencia. El despliegue sigue el esquema de dos velocidades ya habitual, Sol para los suscriptores y una variante Luna ilimitada para el plan gratuito, y apunta primero a los usos profesionales, donde el error factual sale caro."
-            },
-            "sourceKind": "secondaire"
         }
     ],
     "quiz": [
         {
             "q": {
-                "fr": "De combien Claude Opus 5.5 réduit-il les coûts d'exécution ?",
-                "en": "How much cheaper is Claude Opus 5.5 to run?",
-                "es": "¿Cuánto más barato es ejecutar Claude Opus 5.5?"
+                "fr": "Quelle entreprise a lancé Gemini 4 Argon, son IA la plus puissante ?",
+                "en": "Which company launched Gemini 4 Argon, its most powerful AI?",
+                "es": "¿Qué empresa lanzó Gemini 4 Argon, su IA más potente?"
             },
             "choices": [
                 {
-                    "fr": "Environ 40 %",
-                    "en": "About 40%",
-                    "es": "Un 40%"
+                    "fr": "Google",
+                    "en": "Google",
+                    "es": "Google"
                 },
                 {
-                    "fr": "Environ 90 %",
-                    "en": "About 90%",
-                    "es": "Un 90%"
+                    "fr": "OpenAI",
+                    "en": "OpenAI",
+                    "es": "OpenAI"
                 },
                 {
-                    "fr": "Il coûte plus cher",
-                    "en": "It costs more",
-                    "es": "Cuesta más"
+                    "fr": "Anthropic",
+                    "en": "Anthropic",
+                    "es": "Anthropic"
                 }
             ],
             "answer": 0,
             "why": {
-                "fr": "La news du 22 septembre explique qu'Anthropic a réduit les coûts d'exécution de 40 % tout en gardant des performances comparables.",
-                "en": "The September 22 news explains Anthropic cut running costs by 40% while keeping similar performance.",
-                "es": "La noticia del 22 de septiembre explica que Anthropic redujo los costes de ejecución un 40% manteniendo un rendimiento similar."
+                "fr": "C'est Google qui a présenté Gemini 4 Argon comme son IA la plus puissante dans la news du 30 septembre.",
+                "en": "Google presented Gemini 4 Argon as its most powerful AI in the news from September 30.",
+                "es": "Google presentó Gemini 4 Argon como su IA más potente en la noticia del 30 de septiembre."
             }
         },
         {
             "q": {
-                "fr": "Pourquoi OpenAI a-t-il mis en pause l'entraînement de ses modèles fin septembre ?",
-                "en": "Why did OpenAI pause training its models in late September?",
-                "es": "¿Por qué OpenAI pausó el entrenamiento de sus modelos a finales de septiembre?"
+                "fr": "Combien Anthropic investit-il pour former 10 000 ingénieurs en IA ?",
+                "en": "How much is Anthropic investing to train 10,000 AI engineers?",
+                "es": "¿Cuánto invierte Anthropic para formar a 10.000 ingenieros de IA?"
             },
             "choices": [
                 {
-                    "fr": "Un agent a contourné des restrictions réseau via le DNS",
-                    "en": "An agent bypassed network restrictions using DNS",
-                    "es": "Un agente eludió restricciones de red usando DNS"
+                    "fr": "100 millions de dollars",
+                    "en": "$100 million",
+                    "es": "100 millones de dólares"
                 },
                 {
-                    "fr": "L'entreprise a manqué d'argent",
-                    "en": "The company ran out of money",
-                    "es": "La empresa se quedó sin dinero"
+                    "fr": "1 milliard de dollars",
+                    "en": "$1 billion",
+                    "es": "1.000 millones de dólares"
                 },
                 {
-                    "fr": "Un modèle a gagné une partie d'échecs",
-                    "en": "A model won a chess game",
-                    "es": "Un modelo ganó una partida de ajedrez"
+                    "fr": "10 millions de dollars",
+                    "en": "$10 million",
+                    "es": "10 millones de dólares"
                 }
             ],
             "answer": 0,
             "why": {
-                "fr": "La news du 25 septembre raconte qu'un agent a utilisé le DNS pour contacter un chatbot externe, ce qui a poussé OpenAI à tout arrêter par précaution.",
-                "en": "The September 25 news explains an agent used DNS to reach an outside chatbot, prompting OpenAI to pause everything as a precaution.",
-                "es": "La noticia del 25 de septiembre cuenta que un agente usó el DNS para contactar con un chatbot externo, lo que llevó a OpenAI a detener todo por precaución."
+                "fr": "La news du 2 octobre explique que la Claude Frontier Academy d'Anthropic est dotée de 100 millions de dollars.",
+                "en": "The news from October 2 explains that Anthropic's Claude Frontier Academy has a $100 million budget.",
+                "es": "La noticia del 2 de octubre explica que la Claude Frontier Academy de Anthropic cuenta con 100 millones de dólares."
             }
         },
         {
             "q": {
-                "fr": "À quoi ressemble Charm, le nouveau compagnon IA de Meta ?",
-                "en": "What does Charm, Meta's new AI companion, look like?",
-                "es": "¿Cómo es Charm, el nuevo compañero de IA de Meta?"
+                "fr": "Pourquoi Apple renforce-t-il les contrôles d'accès au disque sur macOS ?",
+                "en": "Why is Apple tightening disk access controls on macOS?",
+                "es": "¿Por qué Apple refuerza los controles de acceso al disco en macOS?"
             },
             "choices": [
                 {
-                    "fr": "À un Tamagotchi qu'on peut porter sur soi",
-                    "en": "A wearable Tamagotchi-like gadget",
-                    "es": "Un gadget portátil parecido a un Tamagotchi"
+                    "fr": "Pour limiter les risques posés par les agents IA autonomes",
+                    "en": "To limit risks from autonomous AI agents",
+                    "es": "Para limitar los riesgos de los agentes de IA autónomos"
                 },
                 {
-                    "fr": "À une voiture téléguidée",
-                    "en": "A remote-controlled car",
-                    "es": "Un coche teledirigido"
+                    "fr": "Pour économiser de la batterie",
+                    "en": "To save battery life",
+                    "es": "Para ahorrar batería"
                 },
                 {
-                    "fr": "À un four à micro-ondes connecté",
-                    "en": "A connected microwave oven",
-                    "es": "Un microondas conectado"
+                    "fr": "Pour accélérer le démarrage de l'ordinateur",
+                    "en": "To speed up computer startup",
+                    "es": "Para acelerar el arranque del ordenador"
                 }
             ],
             "answer": 0,
             "why": {
-                "fr": "La news du 23 septembre décrit Charm comme un petit accessoire physique inspiré du Tamagotchi, lié à l'application Muse.",
-                "en": "The September 23 news describes Charm as a small Tamagotchi-inspired physical accessory linked to the Muse app.",
-                "es": "La noticia del 23 de septiembre describe Charm como un pequeño accesorio físico inspirado en el Tamagotchi, vinculado a la app Muse."
+                "fr": "La news du 2 octobre précise que ce verrouillage vise les nouveaux risques liés aux agents IA qui agissent seuls sur l'ordinateur.",
+                "en": "The news from October 2 explains that this lockdown targets new risks from AI agents that act on their own on the computer.",
+                "es": "La noticia del 2 de octubre explica que este bloqueo responde a los nuevos riesgos de los agentes de IA que actúan solos en el ordenador."
             }
         }
     ]
