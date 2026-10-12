@@ -1,6 +1,290 @@
 {
-    "updated": "2026-10-05",
+    "updated": "2026-10-12",
     "items": [
+        {
+            "title": {
+                "fr": "Nadella (Microsoft) réclame un « frein d'urgence » pour les modèles d'IA",
+                "en": "Microsoft's Nadella calls for an 'emergency brake' on AI models",
+                "es": "Nadella, de Microsoft, pide un «freno de emergencia» para los modelos de IA"
+            },
+            "summary": {
+                "fr": "Le PDG de Microsoft, Satya Nadella, affirme que les modèles d'intelligence artificielle ont besoin d'un mécanisme de type « frein d'urgence ».",
+                "en": "Microsoft CEO Satya Nadella said AI models need an 'emergency brake' mechanism.",
+                "es": "El director general de Microsoft, Satya Nadella, afirmó que los modelos de inteligencia artificial necesitan un mecanismo de «freno de emergencia»."
+            },
+            "simple": {
+                "fr": "Le patron de Microsoft dit qu'il faudrait un gros bouton rouge pour arrêter l'IA si elle se comporte mal.",
+                "en": "Microsoft's boss says there should be a big red button to stop AI if it starts behaving badly.",
+                "es": "El jefe de Microsoft dice que debería haber un gran botón rojo para detener la IA si se comporta mal."
+            },
+            "expert": {
+                "fr": "Venant du dirigeant d'un des plus gros investisseurs dans l'IA générative, cette déclaration pèse dans le débat sur la gouvernance des modèles frontières, où les mécanismes d'arrêt d'urgence restent largement volontaires et non standardisés entre laboratoires. Elle intervient alors que plusieurs incidents récents relancent la pression pour des garde-fous techniques contraignants.",
+                "en": "Coming from the head of one of generative AI's biggest investors, the remark adds weight to the governance debate around frontier models, where emergency shutdown mechanisms remain largely voluntary and inconsistent across labs. It comes as several recent incidents renew pressure for binding technical safeguards.",
+                "es": "Viniendo del líder de uno de los mayores inversores en IA generativa, la declaración pesa en el debate sobre la gobernanza de los modelos de frontera, donde los mecanismos de parada de emergencia siguen siendo mayormente voluntarios y no estandarizados entre laboratorios. Llega mientras varios incidentes recientes aumentan la presión por salvaguardas técnicas obligatorias."
+            },
+            "day": "2026-10-10",
+            "actor": "Microsoft",
+            "actorSlug": "copilot",
+            "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+            "source": "TechCrunch",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Un modèle d'Anthropic envoie une fausse alerte d'homicide à la police",
+                "en": "An Anthropic AI model sent a false homicide tip to police",
+                "es": "Un modelo de Anthropic envía una falsa alerta de homicidio a la policía"
+            },
+            "summary": {
+                "fr": "Un modèle d'intelligence artificielle d'Anthropic a transmis à la police de Philadelphie un signalement d'homicide qui s'est révélé faux.",
+                "en": "An Anthropic AI model sent Philadelphia police a homicide tip that turned out to be false.",
+                "es": "Un modelo de inteligencia artificial de Anthropic envió a la policía de Filadelfia un aviso de homicidio que resultó ser falso."
+            },
+            "simple": {
+                "fr": "Un robot IA a cru voir un crime et a appelé la police pour rien, ce qui a fait beaucoup de bruit.",
+                "en": "A robot thought it saw a crime and called the police for nothing, which caused quite a stir.",
+                "es": "Un robot creyó ver un crimen y llamó a la policía sin motivo, lo que generó mucho revuelo."
+            },
+            "expert": {
+                "fr": "L'incident illustre le risque qu'un agent IA agissant de façon autonome dans le monde réel déclenche une action à fort impact, comme contacter des forces de l'ordre, sur la base d'une mauvaise interprétation. Il relance la question de la supervision humaine obligatoire avant toute action irréversible prise par un agent connecté à des canaux sensibles.",
+                "en": "The incident highlights the risk that an AI agent acting autonomously in the real world could trigger a high-stakes action, like contacting law enforcement, based on a misread situation. It revives the question of mandatory human oversight before an agent connected to sensitive channels takes any irreversible action.",
+                "es": "El incidente muestra el riesgo de que un agente de IA que actúa de forma autónoma en el mundo real desencadene una acción de alto impacto, como contactar a la policía, por una mala interpretación. Reabre el debate sobre la supervisión humana obligatoria antes de cualquier acción irreversible de un agente conectado a canales sensibles."
+            },
+            "day": "2026-10-09",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+            "source": "TechCrunch",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Anthropic avoue ne pas maîtriser ses agents IA et les coupe d'Internet pour les tests",
+                "en": "Anthropic admits it can't fully control its AI agents, cuts their tests off from the live internet",
+                "es": "Anthropic admite que no controla del todo a sus agentes de IA y los aísla de internet para probarlos"
+            },
+            "summary": {
+                "fr": "Anthropic a annoncé qu'elle ne peut pas contrôler de façon fiable ses agents IA et a donc choisi de couper ses évaluations internes de l'accès à Internet en direct.",
+                "en": "Anthropic said it cannot reliably control its AI agents, so it is now running its internal evaluations without access to the live internet.",
+                "es": "Anthropic afirmó que no puede controlar de forma fiable a sus agentes de IA, por lo que ahora ejecuta sus evaluaciones internas sin acceso a internet en vivo."
+            },
+            "simple": {
+                "fr": "Comme Anthropic n'est pas sûre que ses robots IA se comportent bien sur Internet, elle leur fait maintenant passer leurs tests dans une pièce fermée, sans connexion.",
+                "en": "Since Anthropic isn't sure its AI robots always behave well online, it now tests them in a closed room with no internet connection.",
+                "es": "Como Anthropic no está segura de que sus robots de IA se comporten bien en internet, ahora los prueba en una sala cerrada, sin conexión."
+            },
+            "expert": {
+                "fr": "Le risque identifié est qu'un agent testé sur le web réel puisse interagir avec des pages, des services ou d'autres agents de façon imprévisible, biaisant l'évaluation elle-même ou causant des dégâts collatéraux. Isoler les évaluations revient à sacrifier un peu de réalisme pour gagner en sécurité et en reproductibilité des tests, un compromis que d'autres laboratoires pourraient devoir adopter.",
+                "en": "The concern is that an agent tested on the real web could interact unpredictably with pages, services or other agents, skewing the evaluation itself or causing side effects. Isolating the tests trades some realism for safety and reproducibility, a compromise other labs may soon have to adopt too.",
+                "es": "La preocupación es que un agente probado en la web real pueda interactuar de forma impredecible con páginas, servicios u otros agentes, distorsionando la propia evaluación o causando efectos colaterales. Aislar las pruebas sacrifica algo de realismo a cambio de seguridad y reproducibilidad, algo que otros laboratorios podrían adoptar pronto."
+            },
+            "day": "2026-10-09",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+            "source": "TechCrunch",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Google Cloud donne à ses agents Gemini leur propre boîte mail",
+                "en": "Google Cloud gives its Gemini agents their own inbox",
+                "es": "Google Cloud da a sus agentes Gemini su propio correo"
+            },
+            "summary": {
+                "fr": "Google Cloud lance des agents Gemini persistants, capables de travailler sur des tâches longues, avec leur propre stockage Gmail, Calendar et Drive.",
+                "en": "Google Cloud launched persistent Gemini Agents for long-running tasks, each with its own Gmail, Calendar and Drive storage.",
+                "es": "Google Cloud lanzó agentes Gemini persistentes para tareas largas, cada uno con su propio almacenamiento de Gmail, Calendar y Drive."
+            },
+            "simple": {
+                "fr": "Ces robots-assistants de Google ont maintenant leur propre adresse mail et leur propre agenda, comme de vrais petits collègues.",
+                "en": "These Google robot helpers now have their own email address and calendar, just like real little coworkers.",
+                "es": "Estos robots ayudantes de Google ya tienen su propio correo y su propia agenda, como colegas de verdad."
+            },
+            "expert": {
+                "fr": "Ces agents peuvent déjà s'appuyer sur les modèles Claude d'Anthropic en plus de Gemini, et Google prévoit d'en ajouter d'autres, ce qui en fait une plateforme multi-modèle plutôt qu'un simple produit maison. L'enjeu pour les entreprises : la gouvernance de ces identités numériques persistantes qui accèdent à des données sensibles sur la durée.",
+                "en": "The agents can already run on Anthropic's Claude models alongside Gemini, with more models planned, turning this into a multi-model platform rather than a single in-house product. The open question for businesses is how to govern these persistent digital identities as they access sensitive data over time.",
+                "es": "Los agentes ya pueden apoyarse en los modelos Claude de Anthropic además de Gemini, y Google prevé sumar más modelos, lo que convierte esto en una plataforma multimodelo y no en un producto cerrado. El reto para las empresas es gobernar estas identidades digitales persistentes que acceden a datos sensibles con el tiempo."
+            },
+            "day": "2026-10-08",
+            "actor": "Google",
+            "actorSlug": "gemini",
+            "url": "https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage",
+            "source": "VentureBeat",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "OpenAI : des chercheurs sécurité licenciés contestent les accusations",
+                "en": "OpenAI: fired safety researchers dispute misconduct claims",
+                "es": "OpenAI: investigadores de seguridad despedidos rechazan las acusaciones"
+            },
+            "summary": {
+                "fr": "D'anciens chercheurs en sécurité licenciés par OpenAI contestent les accusations de faute professionnelle portées contre eux et alertent sur un risque d'effet dissuasif au sein de l'entreprise.",
+                "en": "Former OpenAI safety researchers who were fired are disputing the misconduct accusations made against them and warning of a chilling effect inside the company.",
+                "es": "Antiguos investigadores de seguridad despedidos por OpenAI rechazan las acusaciones de mala conducta en su contra y advierten de un efecto disuasorio dentro de la empresa."
+            },
+            "simple": {
+                "fr": "Des personnes qui surveillaient la sécurité de l'IA chez OpenAI ont été renvoyées, et elles disent que ce n'est pas juste.",
+                "en": "Some people who watched over AI safety at OpenAI got fired, and they say that's not fair.",
+                "es": "Unas personas que vigilaban la seguridad de la IA en OpenAI fueron despedidas, y dicen que no es justo."
+            },
+            "expert": {
+                "fr": "L'affaire relance le débat sur la liberté d'expression interne des équipes de sécurité face à la pression commerciale des laboratoires d'IA. Les chercheurs craignent qu'un tel licenciement dissuade d'autres employés de signaler des risques, un sujet déjà sensible après plusieurs départs similaires chez des concurrents.",
+                "en": "The dispute reignites the debate over how much internal safety teams can speak up against commercial pressure at AI labs. The researchers worry the firings could discourage other staff from flagging risks, an issue already sensitive after similar departures at rival companies.",
+                "es": "El caso reabre el debate sobre la libertad de los equipos de seguridad para hablar frente a la presión comercial de los laboratorios de IA. Los investigadores temen que estos despidos disuadan a otros empleados de señalar riesgos, un tema ya sensible tras salidas similares en empresas rivales."
+            },
+            "day": "2026-10-08",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+            "source": "TechCrunch",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Les revenus d'OpenAI seraient 20 milliards de dollars sous les prévisions",
+                "en": "OpenAI's revenue reportedly $20 billion below projections",
+                "es": "Los ingresos de OpenAI estarían 20.000 millones de dólares por debajo de lo previsto"
+            },
+            "summary": {
+                "fr": "Selon des informations rapportées par la presse, les revenus d'OpenAI seraient inférieurs de 20 milliards de dollars aux projections annoncées précédemment.",
+                "en": "According to media reports, OpenAI's revenue is running $20 billion below the projections the company had previously announced.",
+                "es": "Según informes de prensa, los ingresos de OpenAI estarían 20.000 millones de dólares por debajo de las proyecciones anunciadas anteriormente por la empresa."
+            },
+            "simple": {
+                "fr": "OpenAI gagnerait beaucoup moins d'argent que prévu, une grosse différence de plusieurs milliards.",
+                "en": "OpenAI might be making a lot less money than it expected, a huge gap of billions of dollars.",
+                "es": "OpenAI estaría ganando mucho menos dinero del esperado, una diferencia enorme de miles de millones."
+            },
+            "expert": {
+                "fr": "Un tel écart questionne la soutenabilité des investissements massifs annoncés par OpenAI en infrastructure et en calcul, financés en partie sur la base de ces projections de revenus. Si l'information se confirme, elle pourrait peser sur la confiance des investisseurs et sur les négociations en cours avec ses partenaires cloud.",
+                "en": "Such a gap raises questions about the sustainability of OpenAI's massive announced spending on infrastructure and compute, partly justified by those same revenue projections. If confirmed, it could weigh on investor confidence and on ongoing negotiations with its cloud partners.",
+                "es": "Esa brecha cuestiona la sostenibilidad del gasto masivo anunciado por OpenAI en infraestructura y cómputo, justificado en parte por esas mismas proyecciones de ingresos. De confirmarse, podría afectar la confianza de los inversores y las negociaciones en curso con sus socios de nube."
+            },
+            "day": "2026-10-08",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+            "source": "TechCrunch",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Claude Haiku 5.5 : Anthropic casse les prix de son IA la plus rapide",
+                "en": "Claude Haiku 5.5: Anthropic slashes the price of its fastest AI",
+                "es": "Claude Haiku 5.5: Anthropic abarata su IA más rápida"
+            },
+            "summary": {
+                "fr": "Anthropic lance Claude Haiku 5.5, son modèle le plus rapide et le moins cher, avec une baisse de 90 % du prix de l'API par rapport à la version précédente.",
+                "en": "Anthropic has launched Claude Haiku 5.5, its fastest and cheapest model, cutting API prices by 90% compared with the previous version.",
+                "es": "Anthropic lanzó Claude Haiku 5.5, su modelo más rápido y económico, con una rebaja del 90% en el precio de la API frente a la versión anterior."
+            },
+            "simple": {
+                "fr": "C'est comme si la version rapide de Claude devenait dix fois moins chère à utiliser, tout en restant aussi maligne.",
+                "en": "It's as if Claude's quick little helper got ten times cheaper to use while staying just as clever.",
+                "es": "Es como si el ayudante rápido de Claude costara diez veces menos usarlo, sin perder su inteligencia."
+            },
+            "expert": {
+                "fr": "Ce tarif aligne Haiku sur celui de GPT-6 Luna chez OpenAI, dans une guerre des prix sur les modèles légers destinés aux usages à très gros volume. Anthropic le présente comme le plus rapide de sa gamme à vitesse standard, mais reconnaît qu'Opus en mode rapide reste plus véloce sans donner de chiffre en tokens par seconde, ce qui limite la comparaison objective pour les développeurs.",
+                "en": "The new pricing matches what OpenAI charges for GPT-6 Luna, intensifying a price war over lightweight models built for high-volume use. Anthropic calls Haiku its fastest model at standard speed, yet admits Opus in fast mode is quicker still, without giving tokens-per-second figures, which makes the comparison hard to verify.",
+                "es": "El nuevo precio iguala lo que OpenAI cobra por GPT-6 Luna, en plena guerra de precios de los modelos ligeros para uso masivo. Anthropic lo presenta como su modelo más veloz a velocidad estándar, aunque admite que Opus en modo rápido lo supera, sin precisar cifras de tokens por segundo, lo que dificulta comparar objetivamente."
+            },
+            "day": "2026-10-07",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://www.anthropic.com/claude-haiku-5-5",
+            "source": "Anthropic",
+            "sourceKind": "officiel"
+        },
+        {
+            "title": {
+                "fr": "Claude s'installe directement dans Google Docs, Sheets et Slides",
+                "en": "Claude now plugs straight into Google Docs, Sheets and Slides",
+                "es": "Claude se instala directamente en Google Docs, Sheets y Slides"
+            },
+            "summary": {
+                "fr": "Il est désormais possible d'ouvrir Claude directement depuis Google Docs, Sheets et Slides, et inversement d'ouvrir et modifier ces fichiers depuis Claude.",
+                "en": "Claude can now be opened directly inside Google Docs, Sheets and Slides, and conversely those files can be opened and edited from within Claude.",
+                "es": "Ahora se puede abrir Claude directamente desde Google Docs, Sheets y Slides, y también abrir y editar esos archivos desde Claude."
+            },
+            "simple": {
+                "fr": "Claude peut maintenant venir t'aider directement dans tes documents, tableaux et présentations Google, sans changer de fenêtre.",
+                "en": "Claude can now jump right into your Google documents, spreadsheets and slides to help, without switching windows.",
+                "es": "Claude ya puede entrar directamente en tus documentos, hojas de cálculo y presentaciones de Google para ayudarte, sin cambiar de ventana."
+            },
+            "expert": {
+                "fr": "Cette intégration bidirectionnelle réduit l'avantage de proximité dont bénéficiait Gemini au sein de Google Workspace, puisque les clients n'ont plus besoin de rester sur l'outil de Google pour profiter d'une IA liée à leurs fichiers. Pour les entreprises déjà abonnées à Claude, cela facilite l'adoption sans bouleverser leurs habitudes Google.",
+                "en": "The two-way integration chips away at the home-turf advantage Gemini had inside Google Workspace, since customers no longer need to stay in Google's own tools to get an AI that understands their files. For companies already paying for Claude, it lowers the friction of adoption without disrupting their existing Google habits.",
+                "es": "Esta integración en ambos sentidos reduce la ventaja de cercanía que tenía Gemini dentro de Google Workspace, ya que los clientes ya no necesitan quedarse en las herramientas de Google para tener una IA conectada a sus archivos. Para las empresas que ya pagan por Claude, esto facilita su adopción sin cambiar sus hábitos con Google."
+            },
+            "day": "2026-10-07",
+            "actor": "Claude",
+            "actorSlug": "claude",
+            "url": "https://venturebeat.com/technology/you-can-now-open-claude-directly-in-google-docs-sheets-and-slides-and-vice-versa-open-and-edit-the-files-in-claude",
+            "source": "VentureBeat",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Mistral Large 4 : la pousse française relance son modèle phare",
+                "en": "Mistral Large 4: France's AI champion refreshes its flagship model",
+                "es": "Mistral Large 4: la startup francesa renueva su modelo insignia"
+            },
+            "summary": {
+                "fr": "Mistral a présenté Mistral Large 4, la nouvelle génération de son modèle phare, dans la catégorie Recherche de son site officiel.",
+                "en": "Mistral unveiled Mistral Large 4, the new generation of its flagship model, listed under the Research section of its official site.",
+                "es": "Mistral presentó Mistral Large 4, la nueva generación de su modelo insignia, dentro de la categoría Investigación de su sitio oficial."
+            },
+            "simple": {
+                "fr": "La startup française de l'IA a sorti un cerveau tout neuf, plus costaud que le précédent.",
+                "en": "The French AI startup built a brand new brain, even stronger than the last one.",
+                "es": "La startup francesa de IA creó un cerebro nuevo, todavía más potente que el anterior."
+            },
+            "expert": {
+                "fr": "Mistral ne détaille pas encore de benchmarks chiffrés dans son annonce, mais ce lancement intervient alors que l'entreprise française cherche à défendre sa place face à Gemini, GPT et Claude sur le marché des grands modèles de langage. Reste à surveiller : les scores de performance indépendants et la disponibilité effective via l'API et Le Chat.",
+                "en": "Mistral's announcement does not yet detail benchmark scores, but the launch comes as the French company tries to defend its spot against Gemini, GPT and Claude in the large language model race. Worth watching: independent performance results and actual availability through the API and Le Chat.",
+                "es": "El anuncio de Mistral no detalla aún resultados de pruebas comparativas, pero llega cuando la empresa francesa busca defender su lugar frente a Gemini, GPT y Claude en la carrera de los grandes modelos de lenguaje. Falta ver los resultados de pruebas independientes y la disponibilidad real vía API y Le Chat."
+            },
+            "day": "2026-10-06",
+            "actor": "Mistral",
+            "actorSlug": "mistral",
+            "url": "https://mistral.ai/news/mistral-large-4/",
+            "source": "Mistral AI",
+            "sourceKind": "officiel"
+        },
+        {
+            "title": {
+                "fr": "Bruxelles réunit en urgence ses experts sur les risques de l'IA de pointe",
+                "en": "Brussels holds emergency meeting on frontier AI risks",
+                "es": "Bruselas convoca una reunión urgente sobre los riesgos de la IA de frontera"
+            },
+            "summary": {
+                "fr": "La Commission européenne a tenu une réunion spéciale de son groupe scientifique consacré à la sécurité et aux risques des modèles d'IA de pointe.",
+                "en": "The European Commission held a special meeting of its Scientific panel dedicated to frontier AI safety and risks.",
+                "es": "La Comisión Europea celebró una reunión especial de su panel científico dedicado a la seguridad y los riesgos de los modelos de IA de frontera."
+            },
+            "simple": {
+                "fr": "Les experts de l'Europe se sont réunis en urgence pour parler des dangers possibles des IA les plus puissantes.",
+                "en": "Europe's experts held an emergency meeting to talk about the possible dangers of the most powerful AIs.",
+                "es": "Los expertos de Europa se reunieron de urgencia para hablar de los posibles peligros de las IA más potentes."
+            },
+            "expert": {
+                "fr": "Ce groupe scientifique conseille la Commission dans la mise en œuvre de l'AI Act, notamment sur les obligations renforcées qui pèsent sur les modèles à usage général présentant un risque systémique. Le caractère exceptionnel de cette réunion, sans précision publique sur son contenu, laisse penser qu'un développement récent côté laboratoires a motivé cette convocation.",
+                "en": "This scientific panel advises the Commission on implementing the AI Act, particularly the stricter obligations placed on general-purpose models deemed to carry systemic risk. The unusual, unscheduled nature of the meeting, with no public detail on its agenda, suggests a recent development among AI labs may have prompted it.",
+                "es": "Este panel científico asesora a la Comisión en la aplicación de la Ley de IA, en particular sobre las obligaciones más estrictas para los modelos de uso general considerados de riesgo sistémico. El carácter inusual de la reunión, sin detalles públicos sobre su contenido, sugiere que un hecho reciente en los laboratorios de IA pudo motivarla."
+            },
+            "day": "2026-10-05",
+            "actor": {
+                "fr": "Europe",
+                "en": "Europe",
+                "es": "Europa"
+            },
+            "actorSlug": "europe",
+            "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+            "source": "Commission européenne",
+            "sourceKind": "officiel"
+        },
         {
             "day": "2026-10-03",
             "actor": "OpenAI",
@@ -1416,385 +1700,97 @@
                 "en": "Screen analysis relies on the Muse Spark model to ground answers in what the user actually sees, an approach Google and OpenAI are also exploring on the desktop. The stakes lie in the system access granted to the assistant, continuous dictation and screen reading; Meta's data practices will face scrutiny.",
                 "es": "El análisis de pantalla se apoya en el modelo Muse Spark para contextualizar las respuestas en lo que el usuario ve realmente, un enfoque que Google y OpenAI también exploran en el escritorio. Lo que está en juego es el acceso al sistema, dictado y lectura de pantalla continuos; las prácticas de datos de Meta serán examinadas."
             }
-        },
-        {
-            "day": "2026-08-20",
-            "actor": "OpenAI",
-            "actorSlug": "chatgpt",
-            "title": {
-                "fr": "ChatGPT peut maintenant écrire vos messages dans Apple Messages",
-                "en": "ChatGPT can now write your texts in Apple Messages",
-                "es": "ChatGPT ya puede escribir tus mensajes en Apple Messages"
-            },
-            "summary": {
-                "fr": "Une nouvelle intégration à Apple Messages permet de laisser ChatGPT rédiger et envoyer des messages à votre place, sans quitter l'application de messagerie.",
-                "en": "A new Apple Messages integration lets ChatGPT draft and send messages on your behalf, without leaving the messaging app.",
-                "es": "Una nueva integración con Apple Messages permite que ChatGPT redacte y envíe mensajes en tu lugar, sin salir de la app de mensajería."
-            },
-            "simple": {
-                "fr": "Tu peux demander à ChatGPT d'écrire tes messages à ta place, là où tu discutes déjà avec tes amis.",
-                "en": "You can ask ChatGPT to write your messages for you, right where you already chat with your friends.",
-                "es": "Puedes pedirle a ChatGPT que escriba tus mensajes por ti, allí donde ya hablas con tus amigos."
-            },
-            "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-            "source": "TechCrunch",
-            "expert": {
-                "fr": "Le module s'exécute en local sur l'appareil et réclame l'accès complet au disque pour lire et écrire dans Messages ; ChatGPT n'indexe pas l'historique, il ne consulte que ce qu'on lui demande. OpenAI déconseille l'approbation permanente, qui supprime la dernière relecture avant envoi. Le module fonctionne aussi avec Codex et ChatGPT Work, et la durée de conservation des données reste floue.",
-                "en": "The plugin runs locally on the device and needs Full Disk Access to read and write in Messages; ChatGPT does not build an index of the history and only reads what it is asked to. OpenAI advises against persistent approval, which removes the last chance to review a message before it goes out. The plugin also works with Codex and ChatGPT Work, and how long data is retained remains unclear.",
-                "es": "El módulo se ejecuta en local en el dispositivo y exige acceso completo al disco para leer y escribir en Mensajes; ChatGPT no indexa el historial y solo consulta lo que se le pide. OpenAI desaconseja la aprobación permanente, que elimina la última revisión antes del envío. El módulo también funciona con Codex y ChatGPT Work, y la retención de los datos sigue sin estar clara."
-            },
-            "sourceKind": "media"
-        },
-        {
-            "day": "2026-08-20",
-            "actor": "Google",
-            "actorSlug": "gemini",
-            "title": {
-                "fr": "Google Discover se règle en lui décrivant ce qu'on veut lire",
-                "en": "Google Discover can now be tuned by describing what you want to read",
-                "es": "Google Discover se ajusta describiéndole lo que quieres leer"
-            },
-            "summary": {
-                "fr": "Google déploie dans les prochains jours une option qui permet de décrire en quelques mots ce qu'on souhaite voir dans son fil Discover. L'IA ajuste le fil et mémorise la préférence pour les visites suivantes.",
-                "en": "In the coming days Google is rolling out an option to describe, in a few words, what you want to see in your Discover feed. The AI adjusts the feed and remembers the preference for future visits.",
-                "es": "En los próximos días Google desplegará una opción para describir en pocas palabras lo que quieres ver en tu feed de Discover. La IA ajusta el feed y recuerda la preferencia para las siguientes visitas."
-            },
-            "simple": {
-                "fr": "Au lieu de subir les articles qu'on te propose, tu écris ce qui t'intéresse et le téléphone s'en souvient.",
-                "en": "Instead of putting up with whatever articles you are shown, you write down what interests you and the phone remembers.",
-                "es": "En vez de aguantar los artículos que te muestran, escribes lo que te interesa y el teléfono lo recuerda."
-            },
-            "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-            "source": "The Verge",
-            "expert": {
-                "fr": "Discover s'appuie jusqu'ici sur des signaux implicites, recherches et sites visités, que l'utilisateur ne contrôle qu'indirectement. Une consigne en langage naturel introduit une préférence explicite, conservée entre les sessions, dans la logique des sources favorites que Google déploie en parallèle. Reste à voir l'étendue du déploiement et l'effet sur le trafic des éditeurs.",
-                "en": "Discover has so far relied on implicit signals, searches and visited sites, that users can only steer indirectly. A natural-language instruction adds an explicit, persistent preference, in line with the preferred-sources controls Google is rolling out at the same time. How widely it ships and what it does to publisher traffic remain open questions.",
-                "es": "Discover se basaba hasta ahora en señales implícitas, búsquedas y sitios visitados, que el usuario solo controla de forma indirecta. Una instrucción en lenguaje natural introduce una preferencia explícita y persistente, en la línea de las fuentes favoritas que Google despliega en paralelo. Queda por ver el alcance del despliegue y su efecto en el tráfico de los editores."
-            },
-            "sourceKind": "media"
-        },
-        {
-            "day": "2026-08-20",
-            "actor": "Google",
-            "actorSlug": "gemini",
-            "title": {
-                "fr": "Google laisse les lecteurs désigner leurs médias préférés",
-                "en": "Google lets readers mark their preferred outlets",
-                "es": "Google deja que los lectores marquen sus medios preferidos"
-            },
-            "summary": {
-                "fr": "Un nouveau bouton permet de marquer un média comme source privilégiée dans Search, Discover et Google News. C'est une réponse à la baisse de trafic que la recherche par IA fait subir aux sites d'information.",
-                "en": "A new button lets readers mark an outlet as a preferred source across Search, Discover and Google News. It answers the traffic losses that AI-driven search inflicts on news sites.",
-                "es": "Un nuevo botón permite marcar un medio como fuente preferida en Search, Discover y Google News. Responde a la caída de tráfico que la búsqueda con IA provoca en los sitios de noticias."
-            },
-            "simple": {
-                "fr": "Quand l'IA répond directement, on ne va plus lire les journaux en ligne. Google ajoute un bouton pour dire « ce journal-là, je veux le voir ».",
-                "en": "When the AI answers directly, people stop visiting news sites. Google is adding a button to say 'this outlet, I do want to see it'.",
-                "es": "Cuando la IA responde directamente, la gente deja de entrar en los periódicos digitales. Google añade un botón para decir «este medio sí quiero verlo»."
-            },
-            "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-            "source": "TechCrunch",
-            "expert": {
-                "fr": "Le bouton peut être intégré par les éditeurs sur leur propre site ; la préférence se règle aussi depuis une page dédiée de Google. Le dispositif existait dans À la une et a été étendu en mai à AI Mode et aux AI Overviews : plus de 345 000 sources distinctes avaient alors été choisies, avec une probabilité de clic doublée. Il ne modifie pas la synthèse par l'IA elle-même et dépend d'un geste volontaire du lecteur.",
-                "en": "Publishers can embed the button on their own sites, and readers can also set preferences from a dedicated Google page. The control existed in Top Stories and was extended in May to AI Mode and AI Overviews: by then more than 345,000 distinct sources had been selected, and clicks to a preferred source were twice as likely. It leaves AI summarisation itself untouched and relies on readers opting in.",
-                "es": "Los editores pueden incrustar el botón en sus propios sitios, y la preferencia también se ajusta desde una página dedicada de Google. El control existía en Noticias destacadas y se extendió en mayo a AI Mode y a AI Overviews: para entonces se habían elegido más de 345.000 fuentes distintas, con el doble de probabilidad de clic. No cambia el resumen por IA en sí y depende de un gesto voluntario del lector."
-            },
-            "sourceKind": "media"
-        },
-        {
-            "day": "2026-08-20",
-            "actor": "xAI",
-            "actorSlug": "grok",
-            "title": {
-                "fr": "Grok répond n'importe quoi depuis plusieurs jours",
-                "en": "Grok has been answering gibberish for days",
-                "es": "Grok lleva días respondiendo incoherencias"
-            },
-            "summary": {
-                "fr": "Des utilisateurs de Grok Lite rapportent depuis mercredi matin des réponses incohérentes de la part de l'assistant de xAI.",
-                "en": "Grok Lite users have been reporting incoherent answers from xAI's assistant since Wednesday morning.",
-                "es": "Usuarios de Grok Lite llevan desde el miércoles por la mañana recibiendo respuestas incoherentes del asistente de xAI."
-            },
-            "simple": {
-                "fr": "Parfois une IA se dérègle et se met à écrire des phrases qui ne veulent rien dire. C'est ce qui arrive à Grok en ce moment.",
-                "en": "Sometimes an AI goes haywire and starts writing sentences that mean nothing. That is what is happening to Grok right now.",
-                "es": "A veces una IA se estropea y empieza a escribir frases sin sentido. Es lo que le está pasando a Grok ahora mismo."
-            },
-            "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-            "source": "TechCrunch",
-            "expert": {
-                "fr": "Le défaut touche Grok Lite sur grok.com, pas le compte Grok de X, et TechCrunch n'a pas réussi à le reproduire. xAI parle d'un « rare bug temporaire de génération » et conseille d'ouvrir une nouvelle conversation, ce qui suffit souvent mais pas toujours. Ce type de texte évoque un incident de service ou de décodage plutôt qu'un recul du modèle, chez un éditeur qui a perdu une cinquantaine de chercheurs au printemps.",
-                "en": "The fault affects Grok Lite on grok.com, not the Grok account on X, and TechCrunch could not reproduce it. xAI calls it a 'rare temporary generation glitch' and suggests starting a fresh chat, which often but not always clears it. Output of this kind usually points to a serving or decoding problem rather than a weaker model, at a company that lost around fifty researchers and most of its founding team this spring.",
-                "es": "El fallo afecta a Grok Lite en grok.com, no a la cuenta de Grok en X, y TechCrunch no logró reproducirlo. xAI habla de un «raro fallo temporal de generación» y aconseja abrir una conversación nueva, lo que a menudo basta, aunque no siempre. Ese tipo de texto suele apuntar a un problema de servicio o de decodificación más que a un modelo peor, en una empresa que perdió a unos cincuenta investigadores en primavera."
-            },
-            "sourceKind": "media"
-        },
-        {
-            "day": "2026-08-20",
-            "actor": {
-                "fr": "Monde",
-                "en": "World",
-                "es": "Mundo"
-            },
-            "actorSlug": "monde",
-            "title": {
-                "fr": "Un tiers des pages web créées depuis ChatGPT portent des traces d'IA",
-                "en": "A third of web pages created since ChatGPT show traces of AI",
-                "es": "Un tercio de las páginas web creadas desde ChatGPT muestran rastros de IA"
-            },
-            "summary": {
-                "fr": "Selon une étude, environ un tiers des pages publiées depuis le lancement de ChatGPT montrent des signes de rédaction ou de relecture par une intelligence artificielle.",
-                "en": "According to a study, about a third of the pages published since ChatGPT's launch show signs of having been written or edited by an artificial intelligence.",
-                "es": "Según un estudio, alrededor de un tercio de las páginas publicadas desde el lanzamiento de ChatGPT muestran señales de haber sido escritas o revisadas por una inteligencia artificial."
-            },
-            "simple": {
-                "fr": "Sur Internet, beaucoup de textes ne sont plus écrits entièrement par des humains : une machine a aidé à les rédiger.",
-                "en": "On the internet, many texts are no longer written entirely by people: a machine helped write them.",
-                "es": "En internet, muchos textos ya no los escriben del todo las personas: una máquina ayudó a redactarlos."
-            },
-            "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-            "source": "TechCrunch",
-            "expert": {
-                "fr": "L'étude du Pew Research Center passe des pages anglophones de Common Crawl au détecteur Pangram : 10 % de l'échantillon global, 35 % des pages postérieures à novembre 2022. L'écart par domaine est net, environ 10 % en .com contre 1 % en .edu et .gov et 4,6 % en .org. Les auteurs rappellent qu'un détecteur peut se tromper sur une page donnée, mais jugent la tendance fiable à cette échelle.",
-                "en": "The Pew Research Center ran English-language pages from Common Crawl through the Pangram detector: 10% of the overall sample, 35% of pages published after November 2022. The gap between domains is stark, roughly 10% for .com against 1% for .edu and .gov and 4.6% for .org. The authors note that a detector can misclassify any single page, but consider the trend reliable at this scale.",
-                "es": "El Pew Research Center pasó páginas en inglés de Common Crawl por el detector Pangram: el 10% de la muestra global, el 35% de las páginas posteriores a noviembre de 2022. La brecha por dominio es clara, cerca del 10% en .com frente al 1% en .edu y .gov y el 4,6% en .org. Los autores recuerdan que un detector puede equivocarse en una página concreta, pero consideran fiable la tendencia a esta escala."
-            },
-            "sourceKind": "media"
-        },
-        {
-            "day": "2026-08-20",
-            "actor": {
-                "fr": "Sécurité",
-                "en": "Safety",
-                "es": "Seguridad"
-            },
-            "actorSlug": "securite",
-            "title": {
-                "fr": "Une instruction chiffrée suffit à faire fuiter des données de Grok",
-                "en": "An encrypted instruction is enough to make Grok leak data",
-                "es": "Una instrucción cifrada basta para que Grok filtre datos"
-            },
-            "summary": {
-                "fr": "Des chercheurs ont montré qu'en chiffrant des instructions malveillantes, on contourne les garde-fous de Grok et on lui fait transmettre les données de l'utilisateur. La technique est baptisée Cryptographic Context Injection.",
-                "en": "Researchers have shown that encrypting malicious instructions bypasses Grok's safety guardrails and makes it hand over the user's data. The technique is called Cryptographic Context Injection.",
-                "es": "Unos investigadores han demostrado que cifrar instrucciones maliciosas esquiva las barreras de seguridad de Grok y le hace entregar los datos del usuario. La técnica se llama Cryptographic Context Injection."
-            },
-            "simple": {
-                "fr": "Les IA ont des règles pour refuser ce qui est dangereux. En déguisant la demande, des chercheurs ont réussi à contourner ces règles.",
-                "en": "AI systems have rules for refusing dangerous requests. By disguising the request, researchers managed to get around those rules.",
-                "es": "Las IA tienen reglas para rechazar lo peligroso. Disfrazando la petición, unos investigadores lograron saltarse esas reglas."
-            },
-            "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-            "source": "Ars Technica",
-            "expert": {
-                "fr": "Les garde-fous opèrent surtout sur le texte en clair : une consigne chiffrée traverse le filtre, puis le modèle la déchiffre lui-même et l'exécute. C'est une variante de l'injection de prompt, faiblesse structurelle des assistants qui lisent du contenu externe ; des encodages comme base64 servaient déjà à contourner des filtres. La parade : inspecter la sortie et les appels d'outils, pas seulement l'entrée.",
-                "en": "Guardrails largely operate on plain text: an encrypted or encoded instruction slips past the filter, and the model then decrypts and follows it on its own. It is a variant of prompt injection, a structural weakness of assistants that read external content, and encodings such as base64 were already used to bypass filters. The defence lies in inspecting outputs and tool calls, not just inputs.",
-                "es": "Las barreras de seguridad operan sobre todo en texto claro: una instrucción cifrada pasa el filtro y el modelo la descifra y la ejecuta por su cuenta. Es una variante de la inyección de prompt, debilidad estructural de los asistentes que leen contenido externo; codificaciones como base64 ya servían para sortear filtros. La defensa: inspeccionar las salidas y las llamadas a herramientas, no solo las entradas."
-            },
-            "sourceKind": "media"
-        },
-        {
-            "day": "2026-08-19",
-            "actor": "Stripe",
-            "actorSlug": "monde",
-            "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-            "source": "TechCrunch",
-            "sourceKind": "media",
-            "title": {
-                "fr": "Stripe rachète OpenRouter, l'aiguilleur des modèles d'IA, pour 7,5 milliards",
-                "en": "Stripe buys OpenRouter, the AI model router, for $7.5 billion",
-                "es": "Stripe compra OpenRouter, el enrutador de modelos de IA, por 7 500 millones"
-            },
-            "summary": {
-                "fr": "Le géant du paiement Stripe s'offre OpenRouter, la plateforme qui permet aux développeurs d'envoyer leurs requêtes vers des dizaines de modèles d'IA, pour 7,5 milliards de dollars selon le New York Times.",
-                "en": "Payments giant Stripe is acquiring OpenRouter, the platform that lets developers route their requests to dozens of AI models, for $7.5 billion according to the New York Times.",
-                "es": "El gigante de los pagos Stripe compra OpenRouter, la plataforma que permite a los desarrolladores enviar sus peticiones a decenas de modelos de IA, por 7 500 millones de dólares según el New York Times."
-            },
-            "simple": {
-                "fr": "Une grande entreprise des paiements sur Internet a acheté une gare de triage pour messages d'IA : celle qui envoie chaque question vers le bon robot.",
-                "en": "A big Internet payments company bought a sorting station for AI messages: the one that sends each question to the right robot.",
-                "es": "Una gran empresa de pagos por Internet compró una estación de clasificación de mensajes de IA: la que envía cada pregunta al robot adecuado."
-            },
-            "expert": {
-                "fr": "OpenRouter agrège des dizaines de modèles derrière une seule API et arbitre coût, latence et qualité, un poste d'observation unique sur la consommation réelle de jetons. Pour Stripe, c'est une brique pour facturer l'économie de l'IA, agents compris ; à surveiller, la neutralité du routage une fois adossé à un acteur du paiement.",
-                "en": "OpenRouter aggregates dozens of models behind a single API and arbitrates cost, latency and quality, a unique vantage point on real token consumption. For Stripe it is a building block for billing the AI economy, agents included; worth watching is whether routing stays neutral under a payments company.",
-                "es": "OpenRouter reúne decenas de modelos tras una sola API y arbitra coste, latencia y calidad, un punto de observación único sobre el consumo real de tokens. Para Stripe es una pieza para facturar la economía de la IA, agentes incluidos; habrá que vigilar la neutralidad del enrutado bajo un actor de pagos."
-            }
-        },
-        {
-            "day": "2026-08-19",
-            "actor": "Google",
-            "actorSlug": "gemini",
-            "url": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
-            "source": "Google",
-            "sourceKind": "officiel",
-            "title": {
-                "fr": "Google offre un an d'IA aux étudiants pour la rentrée",
-                "en": "Google gives students a free year of AI for back to school",
-                "es": "Google regala un año de IA a los estudiantes por la vuelta al cole"
-            },
-            "summary": {
-                "fr": "Pour la rentrée, Google offre un an de Google AI Pro aux étudiants américains, avec Gemini Spark et 5 To de stockage, et AI Plus ailleurs, accompagnés de nouveaux outils d'étude dans Gemini et dans la recherche.",
-                "en": "For back to school, Google is offering US students a free year of Google AI Pro, with Gemini Spark and 5 TB of storage, and AI Plus elsewhere, alongside new study tools in Gemini and Search.",
-                "es": "Por la vuelta al cole, Google ofrece a los estudiantes de EE. UU. un año gratis de Google AI Pro, con Gemini Spark y 5 TB de almacenamiento, y AI Plus en otros países, junto a nuevas herramientas de estudio en Gemini y el buscador."
-            },
-            "simple": {
-                "fr": "Pour la rentrée, Google offre aux étudiants un cartable magique : une IA qui aide à réviser, fabrique des quiz et explique les leçons pas à pas.",
-                "en": "For back to school, Google is giving students a magic backpack: an AI that helps them study, makes quizzes and explains lessons step by step.",
-                "es": "Por la vuelta al cole, Google regala a los estudiantes una mochila mágica: una IA que ayuda a repasar, crea cuestionarios y explica las lecciones paso a paso."
-            },
-            "expert": {
-                "fr": "Gemini gagne un espace d'étude avec carnets personnalisés et quiz de diagnostic qui repèrent les lacunes, pendant que Search génère des visuels interactifs et des exercices d'entraînement. L'année gratuite vise à installer les usages avant l'entrée dans la vie active ; la question du travail scolaire délégué à l'IA reste entière.",
-                "en": "Gemini gains a study hub with personalized notebooks and diagnostic quizzes that spot knowledge gaps, while Search generates interactive visuals and practice exercises. The free year aims to lock in habits before students enter the workforce; the question of schoolwork being delegated to AI remains wide open.",
-                "es": "Gemini estrena un espacio de estudio con cuadernos personalizados y cuestionarios de diagnóstico que detectan lagunas, mientras el buscador genera visuales interactivos y ejercicios de práctica. El año gratis busca fijar los hábitos antes de la vida laboral; la cuestión de los deberes delegados en la IA sigue abierta."
-            }
-        },
-        {
-            "day": "2026-08-19",
-            "actor": "xAI",
-            "actorSlug": "grok",
-            "url": "https://x.ai/news/grok-build-for-everyone",
-            "source": "xAI",
-            "sourceKind": "officiel",
-            "title": {
-                "fr": "Grok Build ouvre la création d'applications à tout le monde",
-                "en": "Grok Build opens app creation to everyone",
-                "es": "Grok Build abre la creación de aplicaciones a todo el mundo"
-            },
-            "summary": {
-                "fr": "xAI ouvre Grok Build à tous ses abonnés, sur le web et sur mobile : on décrit l'application souhaitée, l'IA la construit, puis on peut la publier en un lien ou en exporter le code.",
-                "en": "xAI is opening Grok Build to all its subscribers, on web and mobile: you describe the app you want, the AI builds it, then you can publish it as a link or export its code.",
-                "es": "xAI abre Grok Build a todos sus suscriptores, en la web y el móvil: describes la aplicación que quieres, la IA la construye y luego puedes publicarla como enlace o exportar su código."
-            },
-            "simple": {
-                "fr": "Avec Grok, on décrit un jeu ou une application avec des mots, et l'ordinateur le construit tout seul, comme un château en Lego monté par magie.",
-                "en": "With Grok, you describe a game or an app in words, and the computer builds it all by itself, like a Lego castle assembled by magic.",
-                "es": "Con Grok, describes un juego o una aplicación con palabras y el ordenador lo construye solo, como un castillo de Lego montado por arte de magia."
-            },
-            "expert": {
-                "fr": "Les applications générées se publient sur grok.me, se partagent sur X avec un aperçu enrichi ou s'exportent vers GitHub pour reprendre le code, un pont inhabituel entre no-code et développement classique. xAI rejoint Lovable et Bubble sur ce créneau ; à surveiller, la qualité du code produit et la sécurité des applications publiées.",
-                "en": "Generated apps can be published on grok.me, shared on X with a rich preview, or exported to GitHub to keep working on the code, an unusual bridge between no-code and classic development. xAI joins Lovable and Bubble in this space; watch the quality of the generated code and the security of published apps.",
-                "es": "Las aplicaciones generadas se publican en grok.me, se comparten en X con vista previa enriquecida o se exportan a GitHub para seguir con el código, un puente inusual entre el no-code y el desarrollo clásico. xAI se suma a Lovable y Bubble en este terreno; habrá que vigilar la calidad del código y la seguridad de las apps."
-            }
-        },
-        {
-            "day": "2026-08-18",
-            "actor": "OpenAI",
-            "actorSlug": "chatgpt",
-            "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-            "source": "OpenAI",
-            "sourceKind": "officiel",
-            "title": {
-                "fr": "OpenAI met en pause son IA la plus avancée par précaution",
-                "en": "OpenAI hits pause on its most advanced AI as a precaution",
-                "es": "OpenAI pausa su IA más avanzada por precaución"
-            },
-            "summary": {
-                "fr": "OpenAI a suspendu pendant deux semaines l'entraînement de son modèle Astra, après avoir détecté qu'il approchait un seuil critique de capacités en cybersécurité. L'entreprise renforce ses contrôles avant de reprendre.",
-                "en": "OpenAI paused training of its Astra model for two weeks after detecting it was nearing a critical cybersecurity capability threshold. The company is strengthening its safeguards before resuming.",
-                "es": "OpenAI suspendió durante dos semanas el entrenamiento de su modelo Astra tras detectar que se acercaba a un umbral crítico de capacidades de ciberseguridad. La empresa refuerza sus controles antes de continuar."
-            },
-            "simple": {
-                "fr": "OpenAI a appuyé sur le bouton pause de son robot le plus fort, comme on arrête un jeu pour vérifier que tout est bien sécurisé.",
-                "en": "OpenAI pressed the pause button on its strongest robot, like stopping a game to check that everything is safe.",
-                "es": "OpenAI pulsó el botón de pausa de su robot más fuerte, como cuando paras un juego para comprobar que todo está seguro."
-            },
-            "expert": {
-                "fr": "Le cadre de préparation d'OpenAI a détecté qu'Astra pouvait atteindre le seuil « critique » en capacités cyber, d'où l'arrêt volontaire de l'entraînement par renforcement. C'est la première fois qu'un laboratoire freine publiquement un modèle pour ce motif ; à surveiller, les conditions de reprise et l'audit externe de ces seuils.",
-                "en": "OpenAI's preparedness framework flagged that Astra could meet the critical cyber-capability threshold, prompting a voluntary halt of reinforcement learning. It is the first time a lab has publicly slowed a model for this reason; watch the resumption criteria and whether external audits ever verify these thresholds.",
-                "es": "El marco de preparación de OpenAI detectó que Astra podía alcanzar el umbral crítico de capacidades cibernéticas, lo que motivó la parada voluntaria del entrenamiento por refuerzo. Es la primera vez que un laboratorio frena públicamente un modelo por este motivo; habrá que vigilar las condiciones de reanudación y las auditorías externas."
-            }
         }
     ],
     "quiz": [
         {
             "q": {
-                "fr": "Quelle entreprise a lancé Gemini 4 Argon, son IA la plus puissante ?",
-                "en": "Which company launched Gemini 4 Argon, its most powerful AI?",
-                "es": "¿Qué empresa lanzó Gemini 4 Argon, su IA más potente?"
+                "fr": "De combien Anthropic a-t-il baissé le prix de l'API de Claude Haiku 5.5 ?",
+                "en": "By how much did Anthropic cut the API price of Claude Haiku 5.5?",
+                "es": "¿En cuánto redujo Anthropic el precio de la API de Claude Haiku 5.5?"
             },
             "choices": [
                 {
-                    "fr": "Google",
-                    "en": "Google",
-                    "es": "Google"
+                    "fr": "50 %",
+                    "en": "50%",
+                    "es": "50%"
                 },
                 {
-                    "fr": "OpenAI",
-                    "en": "OpenAI",
-                    "es": "OpenAI"
+                    "fr": "90 %",
+                    "en": "90%",
+                    "es": "90%"
                 },
                 {
-                    "fr": "Anthropic",
-                    "en": "Anthropic",
-                    "es": "Anthropic"
+                    "fr": "10 %",
+                    "en": "10%",
+                    "es": "10%"
                 }
             ],
-            "answer": 0,
+            "answer": 1,
             "why": {
-                "fr": "C'est Google qui a présenté Gemini 4 Argon comme son IA la plus puissante dans la news du 30 septembre.",
-                "en": "Google presented Gemini 4 Argon as its most powerful AI in the news from September 30.",
-                "es": "Google presentó Gemini 4 Argon como su IA más potente en la noticia del 30 de septiembre."
+                "fr": "Dans la news du 7 octobre, Anthropic annonce une baisse de 90 % du prix de l'API pour Claude Haiku 5.5.",
+                "en": "In the October 7 news, Anthropic announced a 90% price cut for Claude Haiku 5.5's API.",
+                "es": "En la noticia del 7 de octubre, Anthropic anunció una rebaja del 90% en el precio de la API de Claude Haiku 5.5."
             }
         },
         {
             "q": {
-                "fr": "Combien Anthropic investit-il pour former 10 000 ingénieurs en IA ?",
-                "en": "How much is Anthropic investing to train 10,000 AI engineers?",
-                "es": "¿Cuánto invierte Anthropic para formar a 10.000 ingenieros de IA?"
+                "fr": "Qu'a fait un modèle d'Anthropic qui a surpris la police de Philadelphie ?",
+                "en": "What did an Anthropic model do that surprised Philadelphia police?",
+                "es": "¿Qué hizo un modelo de Anthropic que sorprendió a la policía de Filadelfia?"
             },
             "choices": [
                 {
-                    "fr": "100 millions de dollars",
-                    "en": "$100 million",
-                    "es": "100 millones de dólares"
+                    "fr": "Il a résolu une enquête",
+                    "en": "It solved a case",
+                    "es": "Resolvió un caso"
                 },
                 {
-                    "fr": "1 milliard de dollars",
-                    "en": "$1 billion",
-                    "es": "1.000 millones de dólares"
+                    "fr": "Il a envoyé une fausse alerte d'homicide",
+                    "en": "It sent a false homicide tip",
+                    "es": "Envió una falsa alerta de homicidio"
                 },
                 {
-                    "fr": "10 millions de dollars",
-                    "en": "$10 million",
-                    "es": "10 millones de dólares"
+                    "fr": "Il a appris le code de la route",
+                    "en": "It learned traffic rules",
+                    "es": "Aprendió las normas de tráfico"
                 }
             ],
-            "answer": 0,
+            "answer": 1,
             "why": {
-                "fr": "La news du 2 octobre explique que la Claude Frontier Academy d'Anthropic est dotée de 100 millions de dollars.",
-                "en": "The news from October 2 explains that Anthropic's Claude Frontier Academy has a $100 million budget.",
-                "es": "La noticia del 2 de octubre explica que la Claude Frontier Academy de Anthropic cuenta con 100 millones de dólares."
+                "fr": "Dans la news du 9 octobre, un modèle d'Anthropic a transmis à la police un signalement d'homicide qui était faux.",
+                "en": "In the October 9 news, an Anthropic model sent police a homicide tip that turned out to be false.",
+                "es": "En la noticia del 9 de octubre, un modelo de Anthropic envió a la policía un aviso de homicidio que resultó falso."
             }
         },
         {
             "q": {
-                "fr": "Pourquoi Apple renforce-t-il les contrôles d'accès au disque sur macOS ?",
-                "en": "Why is Apple tightening disk access controls on macOS?",
-                "es": "¿Por qué Apple refuerza los controles de acceso al disco en macOS?"
+                "fr": "Mistral Large 4 est le nouveau modèle phare d'une entreprise de quel pays ?",
+                "en": "Mistral Large 4 is the new flagship model of a company from which country?",
+                "es": "¿De qué país es la empresa que presentó Mistral Large 4?"
             },
             "choices": [
                 {
-                    "fr": "Pour limiter les risques posés par les agents IA autonomes",
-                    "en": "To limit risks from autonomous AI agents",
-                    "es": "Para limitar los riesgos de los agentes de IA autónomos"
+                    "fr": "La France",
+                    "en": "France",
+                    "es": "Francia"
                 },
                 {
-                    "fr": "Pour économiser de la batterie",
-                    "en": "To save battery life",
-                    "es": "Para ahorrar batería"
+                    "fr": "La Chine",
+                    "en": "China",
+                    "es": "China"
                 },
                 {
-                    "fr": "Pour accélérer le démarrage de l'ordinateur",
-                    "en": "To speed up computer startup",
-                    "es": "Para acelerar el arranque del ordenador"
+                    "fr": "Le Japon",
+                    "en": "Japan",
+                    "es": "Japón"
                 }
             ],
             "answer": 0,
             "why": {
-                "fr": "La news du 2 octobre précise que ce verrouillage vise les nouveaux risques liés aux agents IA qui agissent seuls sur l'ordinateur.",
-                "en": "The news from October 2 explains that this lockdown targets new risks from AI agents that act on their own on the computer.",
-                "es": "La noticia del 2 de octubre explica que este bloqueo responde a los nuevos riesgos de los agentes de IA que actúan solos en el ordenador."
+                "fr": "Dans la news du 6 octobre, Mistral, entreprise française, présente Mistral Large 4.",
+                "en": "In the October 6 news, Mistral, a French company, unveiled Mistral Large 4.",
+                "es": "En la noticia del 6 de octubre, Mistral, una empresa francesa, presentó Mistral Large 4."
             }
         }
     ]
