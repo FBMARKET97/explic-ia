@@ -1,6 +1,262 @@
 {
-    "updated": "2026-10-12",
+    "updated": "2026-10-19",
     "items": [
+        {
+            "day": "2026-10-19",
+            "actor": "Nvidia",
+            "actorSlug": "monde",
+            "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Nvidia lance des modèles ouverts pour faire tourner des agents IA en entreprise et sur PC",
+                "en": "Nvidia launches open models to run AI agents in the enterprise and on PCs",
+                "es": "Nvidia lanza modelos abiertos para ejecutar agentes de IA en empresas y en PC"
+            },
+            "summary": {
+                "fr": "Nvidia a dévoilé la famille Nemotron 3.5, des modèles ouverts allant d'un gros modèle pour serveurs d'entreprise jusqu'à de petits modèles capables de tourner localement sur PC.",
+                "en": "Nvidia unveiled the Nemotron 3.5 family, open models ranging from a large enterprise-server model down to small ones that can run locally on PCs.",
+                "es": "Nvidia presentó la familia Nemotron 3.5, modelos abiertos que van desde uno grande para servidores empresariales hasta otros pequeños capaces de funcionar localmente en PC."
+            },
+            "simple": {
+                "fr": "Nvidia a créé des petits cerveaux d'IA que les ordinateurs normaux peuvent faire fonctionner tout seuls, sans passer par un gros ordinateur distant.",
+                "en": "Nvidia built little AI brains that regular computers can run all by themselves, without needing a big computer far away.",
+                "es": "Nvidia creó pequeños cerebros de IA que las computadoras normales pueden hacer funcionar solas, sin depender de una computadora grande y lejana."
+            },
+            "expert": {
+                "fr": "Le modèle phare, Nemotron 3.5 Super VL (120 milliards de paramètres), viserait selon Nvidia l'exactitude de modèles plus gros une fois post-entraîné sur des tâches précises, et affirme devancer Anthropic et OpenAI sur ces usages ciblés. Les versions Bolt tournent localement sur PC avec les puces RTX Spark et DGX Spark, avec Microsoft et Dell. Ces chiffres viennent uniquement de Nvidia.",
+                "en": "The flagship Nemotron 3.5 Super VL (120 billion parameters) reportedly matches larger models' accuracy once post-trained on specific tasks, and Nvidia claims it beats Anthropic and OpenAI on those use cases. The lighter Bolt versions run locally on PCs with RTX Spark and DGX Spark chips, alongside Microsoft and Dell. These numbers come only from Nvidia.",
+                "es": "El modelo insignia, Nemotron 3.5 Super VL (120 000 millones de parámetros), igualaría según Nvidia la precisión de modelos más grandes tras un post-entrenamiento en tareas específicas, y afirma superar a Anthropic y OpenAI en esos usos. Las versiones Bolt funcionan localmente en PC con chips RTX Spark y DGX Spark, junto a Microsoft y Dell. Estas cifras proceden solo de Nvidia."
+            }
+        },
+        {
+            "day": "2026-10-19",
+            "actor": {
+                "fr": "Europe",
+                "en": "Europe",
+                "es": "Europa"
+            },
+            "actorSlug": "europe",
+            "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+            "source": "Commission européenne",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "L'UE publie sa première norme harmonisée pour l'application du règlement sur l'IA",
+                "en": "The EU publishes its first harmonised standard to apply the AI Act",
+                "es": "La UE publica su primera norma armonizada para aplicar el Reglamento de IA"
+            },
+            "summary": {
+                "fr": "La Commission européenne a publié au Journal officiel la toute première norme technique harmonisée destinée à aider les entreprises à se conformer au règlement européen sur l'IA.",
+                "en": "The European Commission published in the Official Journal the very first harmonised technical standard meant to help companies comply with the EU AI Act.",
+                "es": "La Comisión Europea publicó en el Diario Oficial la primera norma técnica armonizada destinada a ayudar a las empresas a cumplir el Reglamento de IA de la UE."
+            },
+            "simple": {
+                "fr": "L'Europe a écrit sa première vraie règle précise pour que les entreprises sachent comment bien respecter la loi sur l'IA.",
+                "en": "Europe wrote its first really precise rule so companies know exactly how to follow the AI law.",
+                "es": "Europa escribió su primera regla realmente precisa para que las empresas sepan cómo cumplir bien la ley de IA."
+            },
+            "expert": {
+                "fr": "Respecter une norme harmonisée donne aux fournisseurs une présomption de conformité avec le règlement, ce qui simplifie leurs obligations face aux autorités. Cette publication intervient alors que le Bureau de l'IA supervise pleinement depuis août 2026, et que l'« Omnibus IA » a déjà repoussé certaines obligations à 2027-2028. D'autres normes techniques sont attendues.",
+                "en": "Meeting a harmonised standard gives providers a presumption of conformity with the regulation, simplifying their obligations toward regulators. The publication comes as the EU AI Office gained full enforcement powers in August 2026, after the AI Omnibus already pushed some obligations back to 2027-2028. Further technical standards are still expected.",
+                "es": "Cumplir una norma armonizada da a los proveedores una presunción de conformidad con el reglamento, lo que simplifica sus obligaciones ante los reguladores. La publicación llega cuando la Oficina de IA ya supervisa plenamente desde agosto de 2026, tras que el «Omnibus de IA» retrasara obligaciones a 2027-2028. Se esperan más normas técnicas."
+            }
+        },
+        {
+            "day": "2026-10-18",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://www.anthropic.com/news/public-benefit-fund",
+            "source": "Anthropic",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Anthropic consacre 5 % de ses parts à un fonds d'intérêt public",
+                "en": "Anthropic commits 5% of its shares to a new public benefit fund",
+                "es": "Anthropic destina el 5 % de sus acciones a un fondo de beneficio público"
+            },
+            "summary": {
+                "fr": "Anthropic a annoncé la création d'un fonds d'intérêt public alimenté par 5 % de ses parts, un montant qui pourra encore augmenter avec la valorisation de l'entreprise.",
+                "en": "Anthropic announced a new public benefit fund seeded with 5% of its shares, a stake that can grow further as the company's valuation rises.",
+                "es": "Anthropic anunció un nuevo fondo de beneficio público financiado con el 5 % de sus acciones, una participación que podrá crecer junto con la valoración de la empresa."
+            },
+            "simple": {
+                "fr": "Anthropic va donner une petite part de l'entreprise à un fonds qui aidera les gens, comme une tirelire pour le bien commun.",
+                "en": "Anthropic is giving a small slice of the company to a fund that will help people, like a piggy bank for the greater good.",
+                "es": "Anthropic va a entregar una pequeña parte de la empresa a un fondo que ayudará a la gente, como una hucha para el bien común."
+            },
+            "expert": {
+                "fr": "Le fonds, détenu à 100 % par Anthropic, n'est pas une association 501(c)(3) mais une structure flexible, pouvant financer dons ou versements directs, notamment sur l'impact de l'IA sur l'emploi. Avec les engagements antérieurs des fondateurs, près de 20 % du capital est désormais fléché vers l'intérêt général, sans lobbying ni activité politique.",
+                "en": "The fund is a wholly owned LLC, not a 501(c)(3) nonprofit, giving Anthropic flexibility for large grants or direct payouts, including on AI's labor market impact. Combined with earlier founder pledges, nearly 20% of the company's equity is now earmarked for public benefit, excluding lobbying or political spending.",
+                "es": "El fondo es una LLC propiedad total de Anthropic, no una entidad 501(c)(3), lo que le da flexibilidad para donaciones grandes o pagos directos, incluido el impacto de la IA en el empleo. Junto con los compromisos previos de los fundadores, casi el 20 % del capital queda destinado al bien público, sin financiar lobby ni política."
+            }
+        },
+        {
+            "day": "2026-10-18",
+            "actor": "Character.AI",
+            "actorSlug": "monde",
+            "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Disney récupère la majorité des employés de Character.AI après sa faillite",
+                "en": "Disney to hire the majority of Character.AI's staff after its bankruptcy",
+                "es": "Disney contratará a la mayoría de la plantilla de Character.AI tras su quiebra"
+            },
+            "summary": {
+                "fr": "Le chatbot Character.AI s'est déclaré en faillite début octobre et Disney a accepté d'embaucher au moins 60 de ses salariés, la majorité de l'effectif restant.",
+                "en": "Chatbot startup Character.AI filed for bankruptcy in early October, and Disney has agreed to hire at least 60 employees, the majority of its remaining staff.",
+                "es": "La startup de chatbots Character.AI se declaró en quiebra a principios de octubre, y Disney acordó contratar a al menos 60 empleados, la mayoría de la plantilla restante."
+            },
+            "simple": {
+                "fr": "L'application qui faisait parler des personnages imaginaires a fermé, et Disney a embauché presque toute son équipe.",
+                "en": "The app that let you chat with made-up characters shut down, and Disney hired almost its whole team.",
+                "es": "La aplicación que dejaba hablar con personajes imaginarios cerró, y Disney contrató a casi todo su equipo."
+            },
+            "expert": {
+                "fr": "La faillite évoque des coûts trop élevés malgré une base d'utilisateurs engagée, mais aussi des risques juridiques : une mère attribue à un chatbot le suicide de son fils de 14 ans, et des enquêtes visent la sécurité des mineurs. Disney rachète aussi certains actifs pour 20 millions de dollars via une offre de référence, encore ouverte à surenchère.",
+                "en": "The bankruptcy filing cites high costs despite a large, engaged user base, but also legal exposure: a mother blames a chatbot for her 14-year-old son's suicide, and regulators are investigating child safety. Disney is also acquiring some assets for $20 million through a stalking horse bid that other buyers can still top.",
+                "es": "La quiebra cita costos demasiado altos a pesar de una base de usuarios activa, pero también riesgos legales: una madre culpa a un chatbot del suicidio de su hijo de 14 años, y hay investigaciones sobre la seguridad de los menores. Disney también compra algunos activos por 20 millones de dólares mediante una oferta inicial, aún abierta a mejores ofertas."
+            }
+        },
+        {
+            "day": "2026-10-16",
+            "actor": "Replit",
+            "actorSlug": "monde",
+            "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Replit abandonne Anthropic et fait d'OpenAI son modèle par défaut",
+                "en": "Replit drops Anthropic, makes OpenAI its default model",
+                "es": "Replit abandona a Anthropic y convierte a OpenAI en su modelo por defecto"
+            },
+            "summary": {
+                "fr": "Le patron de Replit affirme que la plateforme de codage par IA n'utilise plus Anthropic et a basculé ses utilisateurs par défaut vers les modèles d'OpenAI, jugés plus performants.",
+                "en": "Replit's CEO says the AI coding platform no longer works with Anthropic and has switched its default users to OpenAI's models, which he says perform better.",
+                "es": "El CEO de Replit afirma que la plataforma de codificación con IA ya no trabaja con Anthropic y ha pasado a sus usuarios por defecto a los modelos de OpenAI, que considera más eficaces."
+            },
+            "simple": {
+                "fr": "Le site qui aide à programmer avec l'IA a changé de robot préféré et a choisi celui d'OpenAI à la place de celui d'Anthropic.",
+                "en": "The site that helps people code with AI switched its favorite robot, picking OpenAI's instead of Anthropic's.",
+                "es": "El sitio que ayuda a programar con IA cambió de robot favorito, y eligió el de OpenAI en lugar del de Anthropic."
+            },
+            "expert": {
+                "fr": "Selon des sources internes, l'accord avec Anthropic serait toujours actif, ce qui contredit la version du PDG Amjad Masad. Les clients gardent la possibilité de choisir Claude, mais comme la plupart gardent le réglage par défaut, le changement pourrait réduire fortement les dépenses de Replit, l'un des cinq plus gros clients d'Anthropic.",
+                "en": "Sources familiar with the partnership dispute CEO Amjad Masad's account, saying the Anthropic deal is still in place. Customers can still pick Claude, but since most keep the default, the switch could sharply cut Replit's spending with Anthropic, previously one of its top five customers. Masad also pointed to enterprise revenue jumping from about 2% to 15% of the total in a year.",
+                "es": "Fuentes cercanas al acuerdo rechazan la versión del CEO Amjad Masad y afirman que la alianza con Anthropic sigue vigente. Los clientes todavía pueden elegir Claude, pero como la mayoría mantiene la opción por defecto, el cambio podría reducir mucho el gasto de Replit con Anthropic, antes uno de sus cinco mayores clientes. Masad también señaló que los ingresos empresariales pasaron del 2 % al 15 % en un año."
+            }
+        },
+        {
+            "day": "2026-10-15",
+            "actor": "Meta",
+            "actorSlug": "meta-ai",
+            "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Meta lance Muse Spark Open, un modèle ouvert capable de tourner sur un Mac",
+                "en": "Meta launches Muse Spark Open, an open-weight model that runs on a Mac",
+                "es": "Meta lanza Muse Spark Open, un modelo abierto capaz de funcionar en una Mac"
+            },
+            "summary": {
+                "fr": "Meta a publié Muse Spark Open, présenté comme le modèle ouvert le plus performant des États-Unis, multimodal et conçu pour le code et les tâches d'agents.",
+                "en": "Meta released Muse Spark Open, billed as the most capable open-weight model from the US, natively multimodal and built for coding and agentic tasks.",
+                "es": "Meta publicó Muse Spark Open, presentado como el modelo abierto más potente de Estados Unidos, multimodal de forma nativa y pensado para programar y tareas de agentes."
+            },
+            "simple": {
+                "fr": "Meta a sorti un cerveau d'IA géant si puissant qu'il faut un super-ordinateur Apple très costaud pour le faire tourner chez soi.",
+                "en": "Meta released a giant AI brain so powerful that you need a really beefy Apple computer to run it at home.",
+                "es": "Meta lanzó un cerebro de IA tan potente que hace falta una computadora Apple muy robusta para hacerlo funcionar en casa."
+            },
+            "expert": {
+                "fr": "Avec 816 milliards de paramètres et une fenêtre de contexte de 1 million de tokens, Muse Spark Open exige au moins 1 To de RAM et tourne surtout sur un Mac Studio avec puce M5 Ultra, réservé à un usage professionnel. Meta l'associe à Muse Code, son terminal de codage par IA. Les scores avancés viennent uniquement des évaluations de Meta.",
+                "en": "With 816 billion parameters and a 1 million token context window, Muse Spark Open needs at least 1TB of RAM and mainly runs on a Mac Studio with the M5 Ultra chip, out of reach for most hobbyists. Meta pairs it with Muse Code, its AI coding terminal. The performance claims come only from Meta's own evaluations.",
+                "es": "Con 816 000 millones de parámetros y una ventana de contexto de 1 millón de tokens, Muse Spark Open necesita al menos 1 TB de RAM y funciona sobre todo en una Mac Studio con chip M5 Ultra, fuera del alcance de la mayoría. Meta lo combina con Muse Code, su terminal de codificación. Las cifras de rendimiento provienen solo de las evaluaciones de Meta."
+            }
+        },
+        {
+            "day": "2026-10-15",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+            "source": "Anthropic",
+            "sourceKind": "officiel",
+            "title": {
+                "fr": "Anthropic donne à des évaluateurs indépendants un accès quasi interne à ses systèmes",
+                "en": "Anthropic gives independent evaluators near-employee access to its systems",
+                "es": "Anthropic da a evaluadores independientes un acceso casi interno a sus sistemas"
+            },
+            "summary": {
+                "fr": "Anthropic accorde à une équipe de six personnes de l'organisation METR un accès proche de celui d'un salarié, avec matériel, bureaux et outils internes, pour évaluer ses risques de sécurité.",
+                "en": "Anthropic is giving a six-person team from the evaluator METR near-employee access, including company hardware, offices, and internal tools, to assess its safety risks.",
+                "es": "Anthropic otorga a un equipo de seis personas del evaluador METR un acceso casi de empleado, con equipo, oficinas y herramientas internas, para evaluar sus riesgos de seguridad."
+            },
+            "simple": {
+                "fr": "Anthropic a invité des enquêteurs extérieurs à vivre presque comme des employés, pour vérifier que son IA ne devient pas dangereuse.",
+                "en": "Anthropic invited outside investigators to live almost like employees, to check that its AI isn't turning dangerous.",
+                "es": "Anthropic invitó a investigadores externos a vivir casi como empleados, para comprobar que su IA no se está volviendo peligrosa."
+            },
+            "expert": {
+                "fr": "Comparée à la supervision bancaire, où des inspecteurs sont installés dans les grandes banques, cette ouverture exclut les données clients, le secret professionnel et l'architecture des modèles. METR publiera son analyse sans veto d'Anthropic, qui peut seulement exiger des caviardages prédéfinis. D'autres évaluateurs, comme SecureBio, n'ont qu'un accès plus limité.",
+                "en": "Compared to bank supervision, where examiners sit inside the largest banks, this access still excludes customer data, privileged material, and model architecture details. METR will publish its analysis without an Anthropic veto, though the company can require predefined redactions. Other evaluators, like SecureBio, currently have more limited access.",
+                "es": "En comparación con la supervisión bancaria, donde los inspectores se instalan dentro de los bancos, este acceso excluye los datos de clientes, el secreto profesional y la arquitectura de los modelos. METR publicará su análisis sin veto de Anthropic, que solo puede exigir tachados predefinidos. Otros evaluadores, como SecureBio, tienen por ahora un acceso más limitado."
+            }
+        },
+        {
+            "day": "2026-10-13",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+            "source": "TechCrunch",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Le FBI arrête un employé d'OpenAI accusé d'avoir caché un micro dans une salle de réunion",
+                "en": "FBI arrests OpenAI employee accused of hiding a bug in a conference room",
+                "es": "El FBI detiene a un empleado de OpenAI acusado de esconder un micrófono en una sala de reuniones"
+            },
+            "summary": {
+                "fr": "OpenAI a découvert un dispositif d'écoute caché dans la télévision d'une salle de réunion exécutive et a fait arrêter l'employé soupçonné de l'avoir installé.",
+                "en": "OpenAI discovered a hidden listening device inside a TV in an executive conference room and had the employee suspected of planting it arrested.",
+                "es": "OpenAI descubrió un dispositivo de escucha oculto dentro del televisor de una sala de reuniones ejecutiva e hizo arrestar al empleado sospechoso de haberlo instalado."
+            },
+            "simple": {
+                "fr": "Quelqu'un avait caché un petit micro espion dans la télé d'une salle de réunion, et la police l'a attrapé.",
+                "en": "Someone had hidden a tiny spy microphone inside a meeting room TV, and the police caught him.",
+                "es": "Alguien había escondido un pequeño micrófono espía dentro del televisor de una sala de reuniones, y la policía lo atrapó."
+            },
+            "expert": {
+                "fr": "L'employé, Abdulrahman Alfozan, aurait glissé l'appareil, à chiffrement avancé, dans un port USB derrière un téléviseur pour intercepter des communications orales sans autorisation. Le FBI évoque une tentative de capter des échanges sur la « super intelligence » d'OpenAI. Aucune preuve de vol de poids de modèle ou de données clients ; il risque jusqu'à cinq ans de prison.",
+                "en": "Employee Abdulrahman Alfozan allegedly slipped the device, with advanced encryption, into a USB port behind a TV to intercept oral communications without authorization. The FBI says the scheme aimed to capture discussions about OpenAI's super intelligence work. No evidence model weights or customer data were stolen; he faces up to five years in prison.",
+                "es": "El empleado, Abdulrahman Alfozan, habría colocado el dispositivo, con cifrado avanzado, en un puerto USB detrás de un televisor para interceptar comunicaciones orales sin autorización. El FBI dice que el plan buscaba captar conversaciones sobre el trabajo de OpenAI en superinteligencia. Sin pruebas de robo de datos; podría enfrentar hasta cinco años de prisión."
+            }
+        },
+        {
+            "day": "2026-10-13",
+            "actor": "Google",
+            "actorSlug": "gemini",
+            "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token",
+            "source": "VentureBeat",
+            "sourceKind": "media",
+            "title": {
+                "fr": "Gemini 4 Argon devient largement disponible, avec un prix d'API temporairement cassé",
+                "en": "Gemini 4 Argon rolls out broadly, with temporary rock-bottom API pricing",
+                "es": "Gemini 4 Argon se lanza ampliamente, con un precio de API temporalmente muy bajo"
+            },
+            "summary": {
+                "fr": "Google a rendu son nouveau modèle Gemini 4 Argon largement accessible dans l'app Gemini et propose pour un temps limité un tarif API très bas, à 2 et 10 dollars par million de tokens.",
+                "en": "Google made its new Gemini 4 Argon model broadly available in the Gemini app and is offering a limited-time API price as low as $2 and $10 per million tokens.",
+                "es": "Google puso su nuevo modelo Gemini 4 Argon ampliamente disponible en la app Gemini y ofrece por tiempo limitado un precio de API muy bajo, de 2 y 10 dólares por millón de tokens."
+            },
+            "simple": {
+                "fr": "Le robot le plus intelligent de Google parle maintenant plus directement, et plein de gens peuvent déjà l'essayer.",
+                "en": "Google's smartest robot now talks more directly, and lots of people can already try it out.",
+                "es": "El robot más inteligente de Google ahora habla de forma más directa, y mucha gente ya puede probarlo."
+            },
+            "expert": {
+                "fr": "Argon donne des réponses plus directes, avec moins de formules toutes faites, et peut continuer à travailler sur une tâche même en l'absence de l'utilisateur. Il se connecte à plus de 40 applications (Instacart, Adobe, Shopify...) pour réserver ou acheter depuis le chat. Le tarif très bas annoncé n'est que temporaire.",
+                "en": "Argon gives more direct answers with fewer stock phrases, and can keep working on a task even after the user steps away. It now connects to more than 40 apps, including Instacart, Adobe, and Shopify, to book, shop, or run a business straight from the chat. The very low pricing is explicitly temporary, and Google has not said how long the promotion will last.",
+                "es": "Argon da respuestas más directas, con menos frases hechas, y puede seguir trabajando en una tarea aunque el usuario se aleje. Ahora se conecta con más de 40 aplicaciones, como Instacart, Adobe y Shopify, para reservar, comprar o gestionar un negocio directamente desde el chat. El precio tan bajo anunciado es explícitamente temporal, y Google no ha dicho cuánto durará la promoción."
+            }
+        },
         {
             "title": {
                 "fr": "Nadella (Microsoft) réclame un « frein d'urgence » pour les modèles d'IA",
@@ -1444,353 +1700,97 @@
                 "en": "ChatGPT Mil targets unclassified admin tasks, logistics and planning, while Grok for Government focuses on knowledge continuity and secure collaboration. The Pentagon's challenge is giving access to frontier models without routing sensitive data through ordinary commercial channels, a tradeoff other governments are watching closely.",
                 "es": "ChatGPT Mil se centra en tareas administrativas no clasificadas, logística y planificación, mientras que Grok for Government prioriza la continuidad del conocimiento y la colaboración segura. El reto del Pentágono es dar acceso a modelos punteros sin que datos sensibles pasen por canales comerciales habituales, algo que otros gobiernos vigilan de cerca."
             }
-        },
-        {
-            "day": "2026-08-29",
-            "actor": "Anthropic",
-            "actorSlug": "claude",
-            "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-            "source": "TechCrunch",
-            "sourceKind": "media",
-            "title": {
-                "fr": "Sony Music et Warner Chappell attaquent Anthropic en justice pour piratage de chansons",
-                "en": "Sony Music and Warner Chappell sue Anthropic over song piracy",
-                "es": "Sony Music y Warner Chappell demandan a Anthropic por piratear canciones"
-            },
-            "summary": {
-                "fr": "Sony Music Publishing et Warner Chappell ont porté plainte le 29 août contre Anthropic, l'accusant d'avoir entraîné Claude sur des dizaines de milliers de chansons protégées sans autorisation. Les fondateurs Dario Amodei et Benjamin Mann sont visés personnellement, et les maisons de disques réclament jusqu'à 150 000 dollars par chanson.",
-                "en": "Sony Music Publishing and Warner Chappell filed suit against Anthropic on August 29, accusing it of training Claude on tens of thousands of copyrighted songs without permission. Founders Dario Amodei and Benjamin Mann are named personally, and the labels are seeking up to $150,000 per song.",
-                "es": "Sony Music Publishing y Warner Chappell demandaron a Anthropic el 29 de agosto, acusándola de entrenar a Claude con decenas de miles de canciones protegidas sin permiso. Los fundadores Dario Amodei y Benjamin Mann están señalados personalmente, y las discográficas piden hasta 150.000 dólares por canción."
-            },
-            "simple": {
-                "fr": "Des maisons de musique sont fâchées parce qu'elles pensent qu'Anthropic a fait écouter plein de chansons à son robot Claude sans demander la permission aux chanteurs.",
-                "en": "Some music companies are upset because they think Anthropic let its robot Claude listen to lots of songs without ever asking the singers for permission.",
-                "es": "Unas compañías de música están enfadadas porque creen que Anthropic dejó que su robot Claude escuchara muchísimas canciones sin pedir permiso a los cantantes."
-            },
-            "expert": {
-                "fr": "La plainte de 48 pages cite des titres comme Ain't No Mountain High Enough ou Paper Rings et réclame un procès devant jury, avec des dommages pouvant atteindre 150 000 dollars par œuvre. Elle s'ajoute à la vague de procès pour droit d'auteur visant l'IA générative, cette fois avec des dirigeants nommés à titre personnel. Anthropic conteste les faits.",
-                "en": "The 48 page complaint cites tracks like Ain't No Mountain High Enough and Paper Rings and seeks a jury trial with statutory damages up to $150,000 per work. It joins a wave of copyright lawsuits against generative AI companies, this time naming executives personally. Anthropic disputes the claims and says it will defend itself in court.",
-                "es": "La demanda de 48 páginas cita temas como Ain't No Mountain High Enough y Paper Rings y pide un juicio con jurado, con daños de hasta 150.000 dólares por obra. Se suma a la ola de demandas por derechos de autor contra la IA generativa, esta vez señalando a directivos a título personal. Anthropic rechaza las acusaciones."
-            }
-        },
-        {
-            "day": "2026-08-29",
-            "actor": "OpenAI",
-            "actorSlug": "chatgpt",
-            "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-            "source": "OpenAI",
-            "sourceKind": "officiel",
-            "title": {
-                "fr": "OpenAI coupe l'accès de Cursor à ses modèles après son rachat par SpaceX",
-                "en": "OpenAI cuts Cursor's model access after its acquisition by SpaceX",
-                "es": "OpenAI corta el acceso de Cursor a sus modelos tras su compra por SpaceX"
-            },
-            "summary": {
-                "fr": "OpenAI a annoncé qu'elle cesserait de fournir ses modèles à l'éditeur de l'outil de code Cursor à partir du 12 novembre, après son rachat par SpaceX. L'entreprise invoque son expérience passée avec les sociétés d'Elon Musk, accusées d'avoir violé leurs contrats.",
-                "en": "OpenAI announced it will stop supplying its models to coding tool Cursor starting November 12, following Cursor's acquisition by SpaceX. The company cites its past experience with Elon Musk's companies allegedly violating contracts.",
-                "es": "OpenAI anunció que dejará de suministrar sus modelos a la herramienta de código Cursor a partir del 12 de noviembre, tras su compra por SpaceX. La empresa cita su experiencia previa con compañías de Elon Musk acusadas de incumplir contratos."
-            },
-            "simple": {
-                "fr": "OpenAI ne veut plus prêter ses robots à l'application Cursor parce qu'elle vient d'être achetée par une entreprise d'Elon Musk, et OpenAI n'a pas confiance.",
-                "en": "OpenAI doesn't want to lend its robots to the Cursor app anymore because it was just bought by one of Elon Musk's companies, and OpenAI doesn't trust it.",
-                "es": "OpenAI ya no quiere prestar sus robots a la aplicación Cursor porque acaba de ser comprada por una empresa de Elon Musk, y OpenAI no confía en ella."
-            },
-            "expert": {
-                "fr": "OpenAI justifie sa décision en rappelant que xAI, une autre société d'Elon Musk, aurait utilisé les réponses de ses modèles pour entraîner les siens par distillation. Cursor, dont OpenAI représenterait 5% des clients selon son PDG, cherche une issue avant l'échéance. Anthropic annonce en profiter pour renforcer son soutien à Claude dans Cursor.",
-                "en": "OpenAI points to xAI, another Musk company, allegedly using its models' outputs to train its own through distillation. Cursor, where OpenAI reportedly accounts for just 5% of customers according to its CEO, is seeking a resolution before the deadline. Anthropic used the moment to announce it will boost compute support for Claude inside Cursor.",
-                "es": "OpenAI señala que xAI, otra empresa de Musk, habría usado las respuestas de sus modelos para entrenar los suyos mediante destilación. Cursor, donde OpenAI representaría solo el 5% de los clientes según su CEO, busca una solución antes del plazo. Anthropic aprovechó para anunciar que reforzará su apoyo en cómputo a Claude dentro de Cursor."
-            }
-        },
-        {
-            "day": "2026-08-26",
-            "actor": "CNIL",
-            "actorSlug": "europe",
-            "url": "https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte",
-            "source": "CNIL",
-            "sourceKind": "officiel",
-            "title": {
-                "fr": "La CNIL améliore Genmod, son outil pour retracer la généalogie des modèles d'IA",
-                "en": "France's CNIL upgrades Genmod, its tool for tracing AI model ancestry",
-                "es": "La CNIL francesa mejora Genmod, su herramienta para rastrear la genealogía de modelos de IA"
-            },
-            "summary": {
-                "fr": "La CNIL a mis à jour le 26 août son démonstrateur Genmod, qui retrace les liens entre un modèle d'IA open source et tous ses dérivés parmi les deux millions de modèles publiés sur Hugging Face. L'outil est désormais actualisé chaque semaine et effectue une recherche complète en une vingtaine de secondes.",
-                "en": "France's data protection authority CNIL updated its Genmod demonstrator on August 26, which maps the links between an open source AI model and all its derivatives among the two million models published on Hugging Face. The tool now refreshes weekly and completes a full search in about twenty seconds.",
-                "es": "La autoridad francesa de protección de datos CNIL actualizó el 26 de agosto su demostrador Genmod, que traza los vínculos entre un modelo de IA de código abierto y todos sus derivados entre los dos millones de modelos publicados en Hugging Face. La herramienta ahora se actualiza cada semana y completa una búsqueda completa en unos veinte segundos."
-            },
-            "simple": {
-                "fr": "La CNIL a fabriqué une sorte d'arbre généalogique pour les robots d'intelligence artificielle, afin de savoir qui est le parent de qui.",
-                "en": "CNIL, France's privacy watchdog, built a kind of family tree for AI robots, so everyone can see which model is the parent of which.",
-                "es": "La CNIL, la policía francesa de la privacidad, construyó una especie de árbol genealógico para los robots de inteligencia artificial, para saber quién es el padre de quién."
-            },
-            "expert": {
-                "fr": "Genmod aide surtout à étudier la mémorisation de données d'entraînement en repérant, dans toute la généalogie d'un modèle, les versions susceptibles d'avoir conservé des informations personnelles, un enjeu direct pour l'exercice des droits RGPD. La mise à jour ajoute une interface bilingue et un classement par popularité de téléchargement, utile pour prioriser les modèles à surveiller.",
-                "en": "Genmod mainly helps study training data memorization by spotting, across a model's whole lineage, versions likely to still hold personal information, a direct concern for exercising GDPR rights. The update adds a bilingual interface and a download-popularity ranking, useful for prioritizing which models to watch.",
-                "es": "Genmod ayuda sobre todo a estudiar la memorización de datos de entrenamiento, detectando en toda la genealogía de un modelo las versiones que podrían conservar información personal, algo clave para ejercer los derechos del RGPD. La actualización añade una interfaz bilingüe y una clasificación por popularidad de descargas, útil para priorizar qué modelos vigilar."
-            }
-        },
-        {
-            "title": {
-                "fr": "Anthropic et Salesforce fusionnent leurs IA avec « Claudeforce »",
-                "en": "Anthropic and Salesforce merge their AI under 'Claudeforce'",
-                "es": "Anthropic y Salesforce unen sus IA con 'Claudeforce'"
-            },
-            "summary": {
-                "fr": "Salesforce et Anthropic ont annoncé Claudeforce, un partenariat qui installe 37 compétences commerciales préconstruites de Salesforce directement dans Claude, déjà testé chez des clients pilotes avant une bêta ouverte prévue en septembre 2026.",
-                "en": "Salesforce and Anthropic announced Claudeforce, a partnership that brings 37 prebuilt Salesforce sales skills directly into Claude, already tested with pilot customers ahead of an open beta planned for September 2026.",
-                "es": "Salesforce y Anthropic anunciaron Claudeforce, una alianza que integra 37 habilidades comerciales prediseñadas de Salesforce directamente en Claude, ya probada con clientes piloto antes de una beta abierta prevista para septiembre de 2026."
-            },
-            "simple": {
-                "fr": "Claude, l’assistant IA, peut désormais aller chercher tout seul les informations de vente rangées dans les ordinateurs de Salesforce, comme un employé qui aurait toutes les clés du bureau.",
-                "en": "Claude, the AI assistant, can now go fetch sales information stored inside Salesforce's computers all by itself, like an employee who has every key to the office.",
-                "es": "Claude, el asistente de IA, ahora puede ir a buscar solo la información de ventas guardada en los sistemas de Salesforce, como un empleado que tuviera todas las llaves de la oficina."
-            },
-            "expert": {
-                "fr": "Le mouvement marque une bascule stratégique: plutôt que de rester neutre entre plusieurs IA, une plateforme d’entreprise majeure choisit un modèle de raisonnement unique comme moteur par défaut. Pour les équipes commerciales, cela signifie des actions automatisées, comme la mise à jour du pipeline, pilotées directement depuis Claude sous gouvernance Salesforce. Le déploiement élargi n’est promis que pour fin 2026.",
-                "en": "The move marks a strategic shift: rather than staying model-agnostic, a major enterprise platform is picking one reasoning engine as its default. For sales teams, that means automated actions such as pipeline updates and follow-ups run directly from Claude, under Salesforce governance. Broader availability is only promised for late 2026, so the pilot phase will be watched closely.",
-                "es": "El movimiento marca un giro estratégico: en vez de mantenerse neutral entre varias IA, una gran plataforma empresarial elige un único motor de razonamiento por defecto. Para los equipos comerciales, esto significa acciones automatizadas, como actualizar el pipeline o hacer seguimientos, ejecutadas directamente desde Claude bajo la gobernanza de Salesforce. La disponibilidad amplia solo se promete para fines de 2026."
-            },
-            "day": "2026-08-26",
-            "actor": "Anthropic",
-            "actorSlug": "claude",
-            "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
-            "source": "VentureBeat",
-            "sourceKind": "media"
-        },
-        {
-            "title": {
-                "fr": "Perplexity lance un agent IA qui tourne entièrement sur votre ordinateur",
-                "en": "Perplexity launches an AI agent that runs entirely on your computer",
-                "es": "Perplexity lanza un agente de IA que funciona íntegramente en tu ordenador"
-            },
-            "summary": {
-                "fr": "Avec Nvidia, Perplexity a lancé Portable Computer, un agent IA qui s’exécute localement sur du matériel Nvidia déjà possédé par l’utilisateur, sans frais au token et en gardant les données sur l’appareil par défaut.",
-                "en": "With Nvidia, Perplexity launched Portable Computer, an AI agent that runs locally on Nvidia hardware users already own, with no per-token cost and data kept on-device by default.",
-                "es": "Junto con Nvidia, Perplexity lanzó Portable Computer, un agente de IA que se ejecuta localmente en hardware Nvidia que el usuario ya posee, sin coste por token y manteniendo los datos en el dispositivo por defecto."
-            },
-            "simple": {
-                "fr": "Cette IA de Perplexity travaille directement dans ton ordinateur, comme un petit robot qui reste chez toi au lieu d’aller demander de l’aide très loin sur internet, ce qui ne coûte rien à chaque tâche.",
-                "en": "This Perplexity AI works right inside your computer, like a little robot that stays at home instead of going far away on the internet for help, so each task costs nothing extra.",
-                "es": "Esta IA de Perplexity trabaja directamente dentro de tu ordenador, como un pequeño robot que se queda en casa en vez de ir muy lejos a internet a pedir ayuda, así que cada tarea no cuesta nada extra."
-            },
-            "expert": {
-                "fr": "En s’exécutant sur le silicium Nvidia déjà installé chez l’utilisateur plutôt que dans le cloud, Perplexity supprime le coût marginal par requête et répond aux inquiétudes de confidentialité liées à l’envoi systématique des données vers des serveurs distants. Le lancement suit des informations selon lesquelles Nvidia envisagerait d’investir dans la startup à plus de 30 milliards de dollars de valorisation.",
-                "en": "By running on Nvidia silicon already sitting on the user's desk instead of in the cloud, Perplexity removes the marginal per-query cost and addresses privacy concerns tied to constantly sending data to remote servers. The launch follows reports that Nvidia is weighing an investment valuing the startup above $30 billion, a signal of vertical integration between chips and AI agents.",
-                "es": "Al ejecutarse sobre el silicio de Nvidia que el usuario ya tiene en su escritorio en lugar de en la nube, Perplexity elimina el coste marginal por consulta y responde a las preocupaciones de privacidad ligadas a enviar datos constantemente a servidores remotos. El lanzamiento llega tras informes de que Nvidia estudia invertir en la startup con una valoración superior a 30.000 millones de dólares."
-            },
-            "day": "2026-08-25",
-            "actor": "Perplexity",
-            "actorSlug": "perplexity",
-            "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-            "source": "VentureBeat",
-            "sourceKind": "media"
-        },
-        {
-            "day": "2026-08-22",
-            "actor": "OpenAI",
-            "actorSlug": "chatgpt",
-            "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-            "source": "TechCrunch",
-            "sourceKind": "media",
-            "title": {
-                "fr": "OpenAI demande à la Californie de durcir sa loi sur la sécurité de l'IA",
-                "en": "OpenAI asks California to toughen its AI safety law",
-                "es": "OpenAI pide a California endurecer su ley de seguridad de la IA"
-            },
-            "summary": {
-                "fr": "Revirement : OpenAI, qui s'opposait à la loi californienne SB 53, demande désormais de la renforcer en citant des incidents récents. L'entreprise veut une surveillance des modèles dès leur entraînement.",
-                "en": "In a reversal, OpenAI, which once opposed California's SB 53 law, is now asking for it to be strengthened, citing recent incidents. The company wants frontier models monitored from the training stage.",
-                "es": "Giro inesperado: OpenAI, que se oponía a la ley californiana SB 53, ahora pide reforzarla citando incidentes recientes. La empresa quiere que los modelos se vigilen desde el entrenamiento."
-            },
-            "simple": {
-                "fr": "OpenAI a changé d'avis : avant, elle ne voulait pas de nouvelles règles, et maintenant elle demande elle-même des règles plus strictes pour les IA.",
-                "en": "OpenAI changed its mind: before, it did not want new rules, and now it is asking for stricter rules for AI itself.",
-                "es": "OpenAI cambió de opinión: antes no quería nuevas reglas y ahora es ella misma quien pide reglas más estrictas para la IA."
-            },
-            "expert": {
-                "fr": "Dans une note publique, l'équipe affaires mondiales d'OpenAI propose d'amender SB 53 pour imposer la surveillance des modèles de pointe dès l'entraînement et l'évaluation, et durcir la cybersécurité sur tout le cycle de développement. Le revirement suit sa pause sur Astra ; il pourrait peser sur les débats similaires à New York et à Bruxelles.",
-                "en": "In a public post, OpenAI's global affairs team proposes amending SB 53 to require monitoring of frontier models during training and evaluation, and stronger cybersecurity across the development lifecycle. The reversal follows its Astra pause; it could influence similar debates in New York and Brussels.",
-                "es": "En una nota pública, el equipo de asuntos globales de OpenAI propone enmendar la SB 53 para exigir la vigilancia de los modelos de frontera durante el entrenamiento y la evaluación, y endurecer la ciberseguridad en todo el ciclo de desarrollo. El giro llega tras su pausa de Astra; podría influir en debates similares en Nueva York y Bruselas."
-            }
-        },
-        {
-            "day": "2026-08-22",
-            "actor": {
-                "fr": "Sécurité",
-                "en": "Safety",
-                "es": "Seguridad"
-            },
-            "actorSlug": "securite",
-            "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-            "source": "TechCrunch",
-            "sourceKind": "media",
-            "title": {
-                "fr": "IA incontrôlable : les grands labos n'ont pas vraiment de plan",
-                "en": "Rogue AI: the big labs still do not really have a plan",
-                "es": "IA fuera de control: los grandes laboratorios siguen sin un plan claro"
-            },
-            "summary": {
-                "fr": "Une étude de Guidelight AI Standards montre que les cinq grands laboratoires, OpenAI, Anthropic, Google, Meta et xAI, documentent mal la façon dont ils contiendraient un modèle devenu incontrôlable.",
-                "en": "A Guidelight AI Standards study shows that the five leading labs, OpenAI, Anthropic, Google, Meta and xAI, poorly document how they would contain a model that went rogue.",
-                "es": "Un estudio de Guidelight AI Standards muestra que los cinco grandes laboratorios, OpenAI, Anthropic, Google, Meta y xAI, documentan mal cómo contendrían un modelo fuera de control."
-            },
-            "simple": {
-                "fr": "Des inspecteurs ont demandé aux fabricants de robots : « et si un robot n'obéit plus, vous faites quoi ? ». Beaucoup n'avaient pas de réponse écrite.",
-                "en": "Inspectors asked the robot makers: \"what do you do if a robot stops obeying?\". Many had no written answer.",
-                "es": "Unos inspectores preguntaron a los fabricantes de robots: «¿y si un robot deja de obedecer, qué hacéis?». Muchos no tenían una respuesta escrita."
-            },
-            "expert": {
-                "fr": "L'étude, dirigée par Steven Adler, ancien chercheur d'OpenAI, place OpenAI en tête avec 3 sur 5, en partie pour sa pause récente sur Astra. Elle tombe au moment où la Californie et New York légifèrent : la publication des procédures de confinement pourrait devenir une exigence réglementaire, et non plus une simple bonne pratique.",
-                "en": "The study, led by former OpenAI researcher Steven Adler, ranks OpenAI first with 3 out of 5, partly for its recent Astra pause. It lands just as California and New York legislate: publishing containment procedures could become a regulatory requirement rather than a mere best practice.",
-                "es": "El estudio, dirigido por Steven Adler, exinvestigador de OpenAI, sitúa a OpenAI en cabeza con 3 sobre 5, en parte por su reciente pausa de Astra. Llega justo cuando California y Nueva York legislan: publicar los procedimientos de contención podría convertirse en una exigencia regulatoria y no en una simple buena práctica."
-            }
-        },
-        {
-            "day": "2026-08-20",
-            "actor": "Mistral AI",
-            "actorSlug": "mistral",
-            "url": "https://mistral.ai/news/agentic-search/",
-            "source": "Mistral AI",
-            "sourceKind": "officiel",
-            "title": {
-                "fr": "Mistral lance Agentic Search, une recherche qui vérifie ses sources",
-                "en": "Mistral launches Agentic Search, a search that checks its sources",
-                "es": "Mistral lanza Agentic Search, una búsqueda que verifica sus fuentes"
-            },
-            "summary": {
-                "fr": "La française Mistral AI dévoile Agentic Search : son IA peut chercher, ouvrir, parcourir, lire et filtrer des documents, en enchaînant elle-même les étapes pour trouver puis vérifier une information.",
-                "en": "France's Mistral AI unveils Agentic Search: its AI can search, open, navigate, read and filter documents, chaining the steps itself to find and then verify a piece of information.",
-                "es": "La francesa Mistral AI presenta Agentic Search: su IA puede buscar, abrir, navegar, leer y filtrar documentos, encadenando ella misma los pasos para encontrar y luego verificar una información."
-            },
-            "simple": {
-                "fr": "L'IA française apprend à fouiller dans les documents comme un détective : elle ouvre les dossiers, lit les pages et vérifie ses indices toute seule.",
-                "en": "The French AI is learning to dig through documents like a detective: it opens the files, reads the pages and checks its clues all by itself.",
-                "es": "La IA francesa aprende a rebuscar en los documentos como un detective: abre las carpetas, lee las páginas y comprueba sus pistas ella sola."
-            },
-            "expert": {
-                "fr": "Là où un RAG classique s'arrête aux premiers extraits retrouvés, le modèle enchaîne cinq actions, search, open, navigate, read et grep, pour itérer jusqu'à la preuve. Mistral annonce une meilleure précision sur les documents longs et structurés ; à comparer aux approches équivalentes d'OpenAI et d'Anthropic, latence comprise.",
-                "en": "Where classic RAG stops at the first retrieved excerpts, the model chains five actions, search, open, navigate, read and grep, iterating until it finds proof. Mistral claims better accuracy on long, structured documents; worth comparing with the equivalent approaches from OpenAI and Anthropic, latency included.",
-                "es": "Donde un RAG clásico se detiene en los primeros extractos recuperados, el modelo encadena cinco acciones, search, open, navigate, read y grep, iterando hasta la prueba. Mistral anuncia mayor precisión en documentos largos y estructurados; queda compararlo con los enfoques equivalentes de OpenAI y Anthropic, latencia incluida."
-            }
-        },
-        {
-            "day": "2026-08-20",
-            "actor": "Meta AI",
-            "actorSlug": "meta-ai",
-            "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-            "source": "TechCrunch",
-            "sourceKind": "media",
-            "title": {
-                "fr": "Meta AI arrive sur Mac et veut parler à vos applications",
-                "en": "Meta AI lands on Mac and wants to talk to your apps",
-                "es": "Meta AI llega al Mac y quiere hablar con tus aplicaciones"
-            },
-            "summary": {
-                "fr": "Meta lance une application Mac pour son assistant : dictée vocale dans n'importe quelle application, et analyse de l'écran pour répondre à des questions sur ce qui est affiché.",
-                "en": "Meta is launching a Mac app for its assistant: voice dictation in any application, and screen analysis to answer questions about what is on display.",
-                "es": "Meta lanza una aplicación para Mac de su asistente: dictado por voz en cualquier aplicación y análisis de la pantalla para responder preguntas sobre lo que se muestra."
-            },
-            "simple": {
-                "fr": "Le robot de Meta s'installe sur les ordinateurs : on lui parle, il écrit à notre place et regarde l'écran pour nous aider.",
-                "en": "Meta's robot is moving into computers: you talk to it, it writes for you and looks at the screen to help you.",
-                "es": "El robot de Meta se instala en los ordenadores: le hablas, escribe por ti y mira la pantalla para ayudarte."
-            },
-            "expert": {
-                "fr": "L'analyse d'écran s'appuie sur le modèle Muse Spark pour contextualiser les réponses à ce que l'utilisateur voit réellement, une approche que Google et OpenAI explorent aussi sur le poste de travail. L'enjeu est l'accès système accordé à l'assistant, dictée et lecture d'écran en continu ; les pratiques de Meta en matière de données seront scrutées.",
-                "en": "Screen analysis relies on the Muse Spark model to ground answers in what the user actually sees, an approach Google and OpenAI are also exploring on the desktop. The stakes lie in the system access granted to the assistant, continuous dictation and screen reading; Meta's data practices will face scrutiny.",
-                "es": "El análisis de pantalla se apoya en el modelo Muse Spark para contextualizar las respuestas en lo que el usuario ve realmente, un enfoque que Google y OpenAI también exploran en el escritorio. Lo que está en juego es el acceso al sistema, dictado y lectura de pantalla continuos; las prácticas de datos de Meta serán examinadas."
-            }
         }
     ],
     "quiz": [
         {
             "q": {
-                "fr": "De combien Anthropic a-t-il baissé le prix de l'API de Claude Haiku 5.5 ?",
-                "en": "By how much did Anthropic cut the API price of Claude Haiku 5.5?",
-                "es": "¿En cuánto redujo Anthropic el precio de la API de Claude Haiku 5.5?"
+                "fr": "Que s'est-il passé avec le chatbot Character.AI cette semaine ?",
+                "en": "What happened to the chatbot app Character.AI this week?",
+                "es": "¿Qué le pasó a la app de chatbots Character.AI esta semana?"
             },
             "choices": [
                 {
-                    "fr": "50 %",
-                    "en": "50%",
-                    "es": "50%"
+                    "fr": "Il a été entièrement racheté par Disney",
+                    "en": "It was fully bought by Disney",
+                    "es": "Disney la compró por completo"
                 },
                 {
-                    "fr": "90 %",
-                    "en": "90%",
-                    "es": "90%"
+                    "fr": "Il a fait faillite et Disney a embauché la majorité de ses salariés",
+                    "en": "It went bankrupt and Disney hired most of its staff",
+                    "es": "Quebró y Disney contrató a la mayoría de su personal"
                 },
                 {
-                    "fr": "10 %",
-                    "en": "10%",
-                    "es": "10%"
+                    "fr": "Il a fusionné avec OpenAI",
+                    "en": "It merged with OpenAI",
+                    "es": "Se fusionó con OpenAI"
                 }
             ],
             "answer": 1,
             "why": {
-                "fr": "Dans la news du 7 octobre, Anthropic annonce une baisse de 90 % du prix de l'API pour Claude Haiku 5.5.",
-                "en": "In the October 7 news, Anthropic announced a 90% price cut for Claude Haiku 5.5's API.",
-                "es": "En la noticia del 7 de octubre, Anthropic anunció una rebaja del 90% en el precio de la API de Claude Haiku 5.5."
+                "fr": "Dans la news du 18 octobre, Character.AI s'est déclaré en faillite et Disney a accepté d'embaucher au moins 60 de ses employés.",
+                "en": "In the October 18 news, Character.AI filed for bankruptcy and Disney agreed to hire at least 60 of its employees.",
+                "es": "En la noticia del 18 de octubre, Character.AI se declaró en quiebra y Disney aceptó contratar al menos a 60 de sus empleados."
             }
         },
         {
             "q": {
-                "fr": "Qu'a fait un modèle d'Anthropic qui a surpris la police de Philadelphie ?",
-                "en": "What did an Anthropic model do that surprised Philadelphia police?",
-                "es": "¿Qué hizo un modelo de Anthropic que sorprendió a la policía de Filadelfia?"
+                "fr": "À quoi servent les nouveaux modèles Nemotron 3.5 de Nvidia ?",
+                "en": "What are Nvidia's new Nemotron 3.5 models for?",
+                "es": "¿Para qué sirven los nuevos modelos Nemotron 3.5 de Nvidia?"
             },
             "choices": [
                 {
-                    "fr": "Il a résolu une enquête",
-                    "en": "It solved a case",
-                    "es": "Resolvió un caso"
+                    "fr": "À faire tourner des agents IA directement sur un PC ou en entreprise",
+                    "en": "Running AI agents directly on a PC or in a company",
+                    "es": "Para ejecutar agentes de IA directamente en una PC o en una empresa"
                 },
                 {
-                    "fr": "Il a envoyé une fausse alerte d'homicide",
-                    "en": "It sent a false homicide tip",
-                    "es": "Envió una falsa alerta de homicidio"
+                    "fr": "À remplacer les cartes graphiques Nvidia",
+                    "en": "Replacing Nvidia graphics cards",
+                    "es": "Para sustituir las tarjetas gráficas de Nvidia"
                 },
                 {
-                    "fr": "Il a appris le code de la route",
-                    "en": "It learned traffic rules",
-                    "es": "Aprendió las normas de tráfico"
-                }
-            ],
-            "answer": 1,
-            "why": {
-                "fr": "Dans la news du 9 octobre, un modèle d'Anthropic a transmis à la police un signalement d'homicide qui était faux.",
-                "en": "In the October 9 news, an Anthropic model sent police a homicide tip that turned out to be false.",
-                "es": "En la noticia del 9 de octubre, un modelo de Anthropic envió a la policía un aviso de homicidio que resultó falso."
-            }
-        },
-        {
-            "q": {
-                "fr": "Mistral Large 4 est le nouveau modèle phare d'une entreprise de quel pays ?",
-                "en": "Mistral Large 4 is the new flagship model of a company from which country?",
-                "es": "¿De qué país es la empresa que presentó Mistral Large 4?"
-            },
-            "choices": [
-                {
-                    "fr": "La France",
-                    "en": "France",
-                    "es": "Francia"
-                },
-                {
-                    "fr": "La Chine",
-                    "en": "China",
-                    "es": "China"
-                },
-                {
-                    "fr": "Le Japon",
-                    "en": "Japan",
-                    "es": "Japón"
+                    "fr": "À créer des vidéos générées par IA",
+                    "en": "Creating AI-generated videos",
+                    "es": "Para crear videos generados por IA"
                 }
             ],
             "answer": 0,
             "why": {
-                "fr": "Dans la news du 6 octobre, Mistral, entreprise française, présente Mistral Large 4.",
-                "en": "In the October 6 news, Mistral, a French company, unveiled Mistral Large 4.",
-                "es": "En la noticia del 6 de octubre, Mistral, una empresa francesa, presentó Mistral Large 4."
+                "fr": "La news du 19 octobre explique que Nvidia a lancé des modèles ouverts, dont certains assez légers pour tourner sur un PC.",
+                "en": "The October 19 news explains that Nvidia launched open models, some light enough to run on a PC.",
+                "es": "La noticia del 19 de octubre explica que Nvidia lanzó modelos abiertos, algunos lo bastante ligeros para funcionar en una PC."
+            }
+        },
+        {
+            "q": {
+                "fr": "Pourquoi la première norme harmonisée européenne sur l'IA est-elle importante pour les entreprises ?",
+                "en": "Why does the EU's first harmonised AI standard matter for companies?",
+                "es": "¿Por qué es importante para las empresas la primera norma armonizada de la UE sobre IA?"
+            },
+            "choices": [
+                {
+                    "fr": "Elle interdit totalement l'usage de l'IA en Europe",
+                    "en": "It bans AI use in Europe entirely",
+                    "es": "Prohíbe totalmente el uso de la IA en Europa"
+                },
+                {
+                    "fr": "Elle leur donne une présomption de conformité avec la loi si elles la respectent",
+                    "en": "Following it gives them a presumption they comply with the law",
+                    "es": "Seguirla les da una presunción de cumplimiento de la ley"
+                },
+                {
+                    "fr": "Elle remplace complètement le règlement sur l'IA",
+                    "en": "It fully replaces the AI Act",
+                    "es": "Sustituye por completo el Reglamento de IA"
+                }
+            ],
+            "answer": 1,
+            "why": {
+                "fr": "La news du 19 octobre précise qu'une entreprise qui suit cette norme harmonisée est présumée respecter le règlement européen sur l'IA.",
+                "en": "The October 19 news notes that a company following this harmonised standard is presumed to comply with the EU AI Act.",
+                "es": "La noticia del 19 de octubre señala que una empresa que sigue esta norma armonizada se presume que cumple el Reglamento de IA de la UE."
             }
         }
     ]
