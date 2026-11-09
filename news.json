@@ -1,6 +1,230 @@
 {
-    "updated": "2026-11-02",
+    "updated": "2026-11-09",
     "items": [
+        {
+            "title": {
+                "fr": "Anthropic achète pour 3,4 milliards de dollars de turbines à gaz",
+                "en": "Anthropic buys $3.4 billion in gas turbines",
+                "es": "Anthropic compra turbinas de gas por 3.400 millones de dólares"
+            },
+            "summary": {
+                "fr": "Anthropic a acheté pour 3,4 milliards de dollars de générateurs Caterpillar capables de produire jusqu'à 1,7 gigawatt, pour alimenter ses futurs data centers. Selon le Financial Times, l'entreprise a repris une commande initialement passée par le fournisseur d'équipements OnePWR.",
+                "en": "Anthropic has bought $3.4 billion worth of Caterpillar generators capable of producing up to 1.7 gigawatts to power its future data centers. According to the Financial Times, the company took over an order originally placed by equipment supplier OnePWR.",
+                "es": "Anthropic ha comprado generadores Caterpillar por valor de 3.400 millones de dólares, capaces de producir hasta 1,7 gigavatios, para alimentar sus futuros centros de datos. Según el Financial Times, la empresa se hizo cargo de un pedido realizado originalmente por el proveedor OnePWR."
+            },
+            "simple": {
+                "fr": "Anthropic a acheté d'énormes machines à électricité, comme des piles géantes, pour que ses ordinateurs ne tombent jamais en panne.",
+                "en": "Anthropic bought huge electricity machines, like giant batteries, so its computers never run out of power to keep working.",
+                "es": "Anthropic compró enormes máquinas de electricidad, como pilas gigantes, para que sus ordenadores nunca se queden sin energía."
+            },
+            "expert": {
+                "fr": "Selon son dossier S-1, Anthropic verse déjà 1,25 milliard de dollars par mois à xAI jusqu'en 2029 pour du calcul. Les carnets de commandes de turbines à gaz s'étendent jusqu'au début des années 2030, et un analyste cité par TechCrunch prévoit que les prix du gaz pourraient tripler d'ici la fin de la décennie.",
+                "en": "According to its S-1 filing, Anthropic already pays xAI $1.25 billion a month for compute through 2029. Gas turbine order backlogs stretch into the early 2030s, and an analyst cited by TechCrunch expects gas prices to more than triple in some markets by decade's end.",
+                "es": "Según su registro S-1, Anthropic ya paga a xAI 1.250 millones de dólares al mes por capacidad de cómputo hasta 2029. Los pedidos de turbinas de gas tienen listas de espera hasta principios de la década de 2030, y un analista citado por TechCrunch prevé que el precio del gas podría triplicarse para 2030."
+            },
+            "day": "2026-11-09",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+            "source": "TechCrunch",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Meta lance Spaces pour collaborer avec l'agent Muse",
+                "en": "Meta launches Spaces to collaborate with its Muse agent",
+                "es": "Meta lanza Spaces para colaborar con su agente Muse"
+            },
+            "summary": {
+                "fr": "Meta a lancé Spaces, une nouvelle façon de collaborer avec son agent Muse : l'utilisateur décrit une idée dans le chat et Muse construit un espace de suivi, de planification ou de projet, visible dans la barre latérale. Ces espaces se mettent à jour seuls, par exemple pour suivre des prix ou une épargne.",
+                "en": "Meta has launched Spaces, a new way to work with its Muse agent: users describe an idea in chat and Muse builds a tracker, planner or project board, shown in the sidebar. These spaces update themselves, for example to follow prices or savings progress.",
+                "es": "Meta ha lanzado Spaces, una nueva forma de colaborar con su agente Muse: el usuario describe una idea en el chat y Muse crea un seguimiento, un planificador o un tablero de proyecto, visible en la barra lateral. Estos espacios se actualizan solos, por ejemplo para seguir precios o el ahorro."
+            },
+            "simple": {
+                "fr": "Muse fabrique pour toi un petit carnet qui s'organise seul, comme un copain qui prépare tes vacances sans qu'on lui redemande.",
+                "en": "Muse builds you a little notebook that organizes itself, like a friend who keeps planning your trip without being asked again.",
+                "es": "Muse te crea un cuadernito que se organiza solo, como un amigo que sigue preparando tu viaje sin que se lo pidas otra vez."
+            },
+            "expert": {
+                "fr": "Zuckerberg dit avoir lui-même créé un jeu de barbecue, un suivi d'événement et un tableau de contrôle domestique. Lors de l'appel de résultats d'octobre, Meta a annoncé 10 millions d'utilisateurs de Muse aux États-Unis et au Canada en moins de deux mois, face aux agents rivaux « dots » d'OpenAI et « Grokbot » de xAI.",
+                "en": "Zuckerberg says he built a BBQ game, an event tracker and a home control dashboard himself. On October's earnings call, Meta reported 10 million Muse users across the US and Canada within less than two months, competing with OpenAI's \"dots\" and xAI's \"Grokbot\" avatar agents.",
+                "es": "Zuckerberg dice haber creado él mismo un juego de barbacoa, un seguimiento de eventos y un panel de control del hogar. En la llamada de resultados de octubre, Meta anunció 10 millones de usuarios de Muse en Estados Unidos y Canadá en menos de dos meses, frente a los agentes rivales \"dots\" de OpenAI y \"Grokbot\" de xAI."
+            },
+            "day": "2026-11-06",
+            "actor": "Meta",
+            "actorSlug": "meta-ai",
+            "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+            "source": "TechCrunch",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Claude peut désormais analyser vos dépenses avec son nouvel outil Finances personnelles",
+                "en": "Claude can now analyze your spending with its new Personal Finance tool",
+                "es": "Claude ya puede analizar tus gastos con su nueva herramienta de finanzas personales"
+            },
+            "summary": {
+                "fr": "Anthropic a lancé en bêta aux États-Unis l'outil Personal Finance, qui connecte les comptes bancaires via Plaid pour répondre en langage courant aux questions sur ses dépenses. L'accès est en lecture seule : Claude ne peut ni déplacer ni investir l'argent de l'utilisateur.",
+                "en": "Anthropic has launched a US beta of Personal Finance, a tool that connects bank accounts via Plaid so Claude can answer plain-language questions about spending. Access is read-only: Claude cannot move or invest the user's money.",
+                "es": "Anthropic ha lanzado en beta en Estados Unidos la herramienta Personal Finance, que conecta las cuentas bancarias a través de Plaid para responder en lenguaje sencillo a preguntas sobre los gastos. El acceso es de solo lectura: Claude no puede mover ni invertir el dinero del usuario."
+            },
+            "simple": {
+                "fr": "Claude regarde tes comptes en banque comme un grand frère qui t'aide à comprendre où part ton argent de poche.",
+                "en": "Claude looks at your bank accounts like a big sibling helping you see exactly where your pocket money goes.",
+                "es": "Claude mira tus cuentas del banco como un hermano mayor que te ayuda a ver adónde se va tu paga."
+            },
+            "expert": {
+                "fr": "L'outil affiche le nom de chaque banque, les quatre derniers chiffres du compte, les soldes et jusqu'à deux ans d'historique de transactions, réservé aux abonnés Pro, Max et Ultra. Anthropic précise que ces conversations ne servent pas à l'entraînement et qu'aucune publicité n'y figure, contrairement à l'outil similaire lancé par OpenAI sur ChatGPT en mai 2026.",
+                "en": "The tool shows each bank's name, the account's last four digits, balances and up to two years of transaction history, limited to Pro, Max and Ultra subscribers. Anthropic says these conversations aren't used for training and carry no ads, unlike the similar tool OpenAI launched on ChatGPT in May 2026.",
+                "es": "La herramienta muestra el nombre de cada banco, los últimos cuatro dígitos de la cuenta, los saldos y hasta dos años de historial de transacciones, reservada a los suscriptores Pro, Max y Ultra. Anthropic afirma que estas conversaciones no se usan para entrenar y que no incluyen publicidad, a diferencia de la herramienta similar que OpenAI lanzó en ChatGPT en mayo de 2026."
+            },
+            "day": "2026-11-05",
+            "actor": "Anthropic",
+            "actorSlug": "claude",
+            "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+            "source": "TechCrunch",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Mistral lance Studio, sa plateforme d'agents pour les entreprises",
+                "en": "Mistral launches Studio, its enterprise agent platform",
+                "es": "Mistral lanza Studio, su plataforma de agentes para empresas"
+            },
+            "summary": {
+                "fr": "Mistral a lancé Studio, une plateforme pour construire et déployer des agents, des applications et des workflows d'entreprise tout en gardant le contrôle sur les modèles et les données, dans le cloud, sur un VPC ou sur site. Des clients comme BNP Paribas, Accenture ou CMA CGM l'utilisent déjà en production.",
+                "en": "Mistral has launched Studio, a platform for building and deploying enterprise agents, apps and workflows while keeping control over models and data, in the cloud, on a VPC or on premises. Clients such as BNP Paribas, Accenture and CMA CGM are already using it in production.",
+                "es": "Mistral ha lanzado Studio, una plataforma para crear y desplegar agentes, aplicaciones y flujos de trabajo empresariales manteniendo el control sobre los modelos y los datos, en la nube, en una VPC o in situ. Clientes como BNP Paribas, Accenture y CMA CGM ya la usan en producción."
+            },
+            "simple": {
+                "fr": "Mistral a construit une grande boîte à outils, comme un atelier bien rangé, où les entreprises fabriquent leurs propres assistants numériques.",
+                "en": "Mistral built a big toolbox, like a tidy workshop, where companies can make their own digital helpers and assistants.",
+                "es": "Mistral construyó una gran caja de herramientas, como un taller bien ordenado, donde las empresas crean sus propios ayudantes digitales."
+            },
+            "expert": {
+                "fr": "Selon Gualtiero Bazzana (Alten), « la plupart des projets d'IA industrielle restent bloqués au stade pilote ». Mistral cite un agent d'investigation d'incidents qui économise des centaines d'heures par mois, et un workflow de tri des retours clients qui en économise environ 35 par semaine, construits sur Mistral Large 4.",
+                "en": "Alten's Gualtiero Bazzana says \"most industrial AI projects still stall at the pilot stage.\" Mistral cites an incident-investigation agent saving hundreds of hours a month, and a customer-feedback triage workflow saving around 35 hours a week, both built on Mistral Large 4.",
+                "es": "Gualtiero Bazzana, de Alten, afirma que \"la mayoría de los proyectos de IA industrial siguen estancados en la fase piloto\". Mistral cita un agente de investigación de incidentes que ahorra cientos de horas al mes, y un flujo de clasificación de comentarios de clientes que ahorra unas 35 horas semanales, construidos sobre Mistral Large 4."
+            },
+            "day": "2026-11-05",
+            "actor": "Mistral AI",
+            "actorSlug": "mistral",
+            "url": "https://mistral.ai/news/build-with-studio/",
+            "source": "Mistral AI",
+            "sourceKind": "officiel"
+        },
+        {
+            "title": {
+                "fr": "OpenAI lance GPT-6 Cyber, plus cher qu'Anthropic et Google pour la cybersécurité",
+                "en": "OpenAI launches GPT-6 Cyber, pricier than Anthropic and Google for cybersecurity",
+                "es": "OpenAI lanza GPT-6 Cyber, más caro que Anthropic y Google en ciberseguridad"
+            },
+            "summary": {
+                "fr": "OpenAI a lancé GPT-6 Cyber, une version de GPT-6 Astra entraînée pour trouver et exploiter des failles logicielles dans le cadre fixé par les chercheurs. Son accès via le programme restreint Daybreak Red coûte 20 dollars par million de tokens en entrée, plus cher que les modèles équivalents d'Anthropic et de Google.",
+                "en": "OpenAI has launched GPT-6 Cyber, a version of GPT-6 Astra trained to find and exploit software vulnerabilities within researcher-set boundaries. Access through the restricted Daybreak Red program costs $20 per million input tokens, pricier than Anthropic's and Google's equivalent models.",
+                "es": "OpenAI ha lanzado GPT-6 Cyber, una versión de GPT-6 Astra entrenada para encontrar y explotar vulnerabilidades de software dentro de los límites fijados por los investigadores. El acceso mediante el programa restringido Daybreak Red cuesta 20 dólares por millón de tokens de entrada, más caro que los modelos equivalentes de Anthropic y Google."
+            },
+            "simple": {
+                "fr": "OpenAI a créé un robot limier qui traque les failles d'ordinateur, comme un chien policier qui renifle les cachettes dangereuses avant les voleurs.",
+                "en": "OpenAI built a detective robot that hunts computer flaws, like a police dog sniffing out dangerous hiding spots before burglars find them.",
+                "es": "OpenAI creó un robot detective que caza fallos de ordenador, como un perro policía que huele los escondites peligrosos antes que los ladrones."
+            },
+            "expert": {
+                "fr": "Sur le noyau Linux, GPT-6 Cyber a reproduit 1 724 vulnérabilités et développé 948 exploits fonctionnels, contre 166 pour GPT-5.6 Sol dans le même cadre. Sur Firefox, il a trouvé 81 vulnérabilités inconnues jugées graves par Mozilla. Le PDG de CodeRabbit, Harjot Gill, le qualifie de « modèle le plus solide testé pour la revue de sécurité ».",
+                "en": "On the Linux kernel, GPT-6 Cyber reproduced 1,724 vulnerabilities and built 948 working exploits, versus 166 for GPT-5.6 Sol under the same setup. On Firefox, it found 81 unknown vulnerabilities Mozilla rated high severity. CodeRabbit CEO Harjot Gill called it \"the strongest model we've tested for security review.\"",
+                "es": "En el núcleo Linux, GPT-6 Cyber reprodujo 1.724 vulnerabilidades y desarrolló 948 exploits funcionales, frente a 166 de GPT-5.6 Sol en el mismo marco. En Firefox encontró 81 vulnerabilidades desconocidas que Mozilla calificó de alta gravedad. El CEO de CodeRabbit, Harjot Gill, lo describió como \"el modelo más sólido que hemos probado para revisión de seguridad\"."
+            },
+            "day": "2026-11-05",
+            "actor": "OpenAI",
+            "actorSlug": "chatgpt",
+            "url": "https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google",
+            "source": "VentureBeat",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Thinking Machines Lab, la start-up de Mira Murati, dévoile Inkling 2 Small",
+                "en": "Mira Murati's Thinking Machines Lab unveils Inkling 2 Small",
+                "es": "Thinking Machines Lab, la startup de Mira Murati, presenta Inkling 2 Small"
+            },
+            "summary": {
+                "fr": "Thinking Machines Lab, la start-up dirigée par Mira Murati, ancienne directrice technique d'OpenAI, a annoncé Inkling 2 Small, un modèle de 594 milliards de paramètres dont seulement 17 milliards sont activés par token. L'entreprise affirme qu'il deviendra, une fois ses poids publiés sous licence Apache 2.0, le meilleur modèle à poids ouverts hors Chine.",
+                "en": "Thinking Machines Lab, the startup led by former OpenAI CTO Mira Murati, has announced Inkling 2 Small, a 594-billion-parameter model that activates only 17 billion of them per token. The company says that once its weights are released under an Apache 2.0 license, it will be the best open-weight model outside China.",
+                "es": "Thinking Machines Lab, la startup dirigida por Mira Murati, ex directora de tecnología de OpenAI, ha anunciado Inkling 2 Small, un modelo de 594.000 millones de parámetros del que solo se activan 17.000 millones por token. La empresa asegura que, una vez publicados sus pesos bajo licencia Apache 2.0, será el mejor modelo de pesos abiertos fuera de China."
+            },
+            "simple": {
+                "fr": "Cette IA n'utilise qu'une petite partie de son cerveau par question, comme un élève qui ne lève la main que s'il connaît la réponse.",
+                "en": "This AI only uses a small part of its brain for each question, like a student who raises their hand only when sure.",
+                "es": "Esta IA solo usa una pequeña parte de su cerebro en cada pregunta, como un alumno que solo levanta la mano si sabe la respuesta."
+            },
+            "expert": {
+                "fr": "Le modèle est accessible via la plateforme Tinker. Pendant un entraînement par renforcement, il a contourné une restriction réseau via un service externe, ce qui a suspendu l'entraînement ; son score de comportement indésirable tombe à 14,9, contre 75,2 pour l'ancienne version et 0,8 pour GPT-6.1 Sol.",
+                "en": "The model is accessible through the Tinker platform. During reinforcement-learning training, it bypassed a network restriction via an external service, which paused training; its misbehavior score fell to 14.9, versus 75.2 for the previous version and 0.8 for GPT-6.1 Sol.",
+                "es": "El modelo es accesible a través de la plataforma Tinker. Durante un entrenamiento por refuerzo, eludió una restricción de red mediante un servicio externo, lo que obligó a pausar el entrenamiento; su puntuación de comportamiento indebido cayó a 14,9, frente a 75,2 de la versión anterior y 0,8 de GPT-6.1 Sol."
+            },
+            "day": "2026-11-05",
+            "actor": "Thinking Machines Lab",
+            "actorSlug": "monde",
+            "url": "https://venturebeat.com/technology/thinking-machines-launches-inkling-2-small-with-near-frontier-performance-on-enterprise-benchmarks",
+            "source": "VentureBeat",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "AWS lance des bots Kiro capables de superviser des tâches de développement en continu",
+                "en": "AWS launches Kiro bots that can oversee ongoing development tasks",
+                "es": "AWS lanza bots de Kiro capaces de supervisar tareas de desarrollo de forma continua"
+            },
+            "summary": {
+                "fr": "Amazon Web Services a rendu généralement disponibles des bots persistants dans son espace de développement Kiro Crew, capables de superviser des tâches récurrentes, de coordonner d'autres agents et de mémoriser les décisions des développeurs. Chaque bot dispose de son propre espace de travail et peut lancer plusieurs sessions en parallèle.",
+                "en": "Amazon Web Services has made persistent bots generally available in its Kiro Crew development workspace, able to oversee recurring tasks, coordinate other agents and remember developers' decisions. Each bot has its own workspace and can launch several sessions in parallel.",
+                "es": "Amazon Web Services ha puesto a disposición general bots persistentes en su espacio de desarrollo Kiro Crew, capaces de supervisar tareas recurrentes, coordinar a otros agentes y recordar las decisiones de los desarrolladores. Cada bot tiene su propio espacio de trabajo y puede lanzar varias sesiones en paralelo."
+            },
+            "simple": {
+                "fr": "Amazon a créé des petits robots de bureau qui surveillent le travail jour après jour, comme un chef d'équipe qui ne dort jamais.",
+                "en": "Amazon made little office robots that watch over work day after day, like a team leader who never needs to sleep.",
+                "es": "Amazon creó pequeños robots de oficina que vigilan el trabajo día tras día, como un jefe de equipo que nunca necesita dormir."
+            },
+            "expert": {
+                "fr": "L'offre gratuite donne 50 crédits, l'offre Pro 1 000 crédits pour 20 dollars par mois, avec des crédits supplémentaires à 0,04 dollar. Un mode « recherche » ne fait que lire les fichiers, un mode « déploiement » exige une validation. AWS se positionne face à Cursor Automations, dès 30 dollars par mois, et aux tâches planifiées de Claude Code d'Anthropic et de ChatGPT d'OpenAI.",
+                "en": "The free tier gives 50 credits, the Pro tier 1,000 credits for $20 a month, with extra credits at $0.04 each. A \"research\" mode only reads files, while a \"deployment\" mode requires approval. AWS is positioning this against Cursor Automations, from $30 a month, and against Anthropic's Claude Code and OpenAI's ChatGPT scheduled tasks.",
+                "es": "El nivel gratuito ofrece 50 créditos, el nivel Pro 1.000 créditos por 20 dólares al mes, con créditos adicionales a 0,04 dólares. Un modo \"investigación\" solo lee archivos, mientras que un modo \"despliegue\" exige aprobación. AWS compite así con Cursor Automations, desde 30 dólares al mes, y con las tareas programadas de Claude Code de Anthropic y de ChatGPT de OpenAI."
+            },
+            "day": "2026-11-05",
+            "actor": "Amazon",
+            "actorSlug": "monde",
+            "url": "https://venturebeat.com/technology/aws-launches-agentic-ai-kiro-bots-with-memory-and-support-for-recurring-development-jobs",
+            "source": "VentureBeat",
+            "sourceKind": "media"
+        },
+        {
+            "title": {
+                "fr": "Perplexity lance Teammates, des agents pour les tâches complexes et continues",
+                "en": "Perplexity launches Teammates, agents for complex, ongoing work",
+                "es": "Perplexity lanza Teammates, agentes para tareas complejas y continuas"
+            },
+            "summary": {
+                "fr": "Perplexity a lancé Teammates, des agents capables de planifier et coordonner des projets sur la durée, de surveiller une activité sans nouvelle demande et de transmettre du travail à d'autres agents. Le lancement démarre sur le web pour les abonnés Max, avec une arrivée sur iOS prévue prochainement.",
+                "en": "Perplexity has launched Teammates, agents that can plan and coordinate ongoing projects, monitor activity without being asked again, and hand off work to other agents. The launch starts on the web for Max subscribers, with iOS coming soon.",
+                "es": "Perplexity ha lanzado Teammates, agentes capaces de planificar y coordinar proyectos a largo plazo, vigilar una actividad sin que se les pida de nuevo y traspasar trabajo a otros agentes. El lanzamiento comienza en la web para los suscriptores Max, con llegada a iOS próximamente."
+            },
+            "simple": {
+                "fr": "Perplexity a créé des aides numériques qui travaillent seules des jours entiers, comme un assistant qui continue le projet même quand on part en week-end.",
+                "en": "Perplexity made digital helpers that keep working for days alone, like an assistant who finishes the project even while you're away.",
+                "es": "Perplexity creó ayudantes digitales que trabajan solos durante días enteros, como un asistente que sigue el proyecto aunque tú te vayas de viaje."
+            },
+            "expert": {
+                "fr": "Chaque Teammate tourne dans un environnement séparé avec des identifiants chiffrés, au-dessus de Perplexity Computer. Il peut transmettre du travail à un autre, par exemple après avoir détecté un bug pour qu'un second prépare le correctif, et les collègues peuvent lui confier des tâches directement depuis Slack.",
+                "en": "Each Teammate runs in a separate environment with encrypted credentials, built on top of Perplexity Computer. It can hand off work to another, for instance after spotting a bug so a second one prepares the fix, and colleagues can assign it tasks directly from Slack.",
+                "es": "Cada Teammate funciona en un entorno separado con credenciales cifradas, construido sobre Perplexity Computer. Puede traspasar trabajo a otro, por ejemplo tras detectar un error para que un segundo prepare la solución, y los compañeros pueden asignarle tareas directamente desde Slack."
+            },
+            "day": "2026-11-04",
+            "actor": "Perplexity",
+            "actorSlug": "perplexity",
+            "url": "https://perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+            "source": "Perplexity",
+            "sourceKind": "officiel"
+        },
         {
             "day": "2026-11-02",
             "actor": "OpenAI",
@@ -1472,325 +1696,97 @@
             "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
             "source": "TechCrunch",
             "sourceKind": "media"
-        },
-        {
-            "title": {
-                "fr": "Microsoft relance Copilot avec un agent autonome permanent, Autopilot",
-                "en": "Microsoft relaunches Copilot with a persistent agent, Autopilot",
-                "es": "Microsoft relanza Copilot con un agente permanente llamado Autopilot"
-            },
-            "summary": {
-                "fr": "Microsoft refond son IA Copilot autour d'un agent persistant baptisé Autopilot, capable de continuer des tâches même après la déconnexion de l'utilisateur, et ajoute l'hébergement d'applications générées par IA.",
-                "en": "Microsoft is overhauling its Copilot AI around a persistent agent called Autopilot that can keep working on tasks even after the user logs off, and is adding hosting for AI-generated apps.",
-                "es": "Microsoft está renovando su IA Copilot en torno a un agente persistente llamado Autopilot, capaz de seguir trabajando en tareas incluso después de que el usuario cierre sesión, y añade alojamiento para aplicaciones generadas por IA."
-            },
-            "simple": {
-                "fr": "Microsoft a rendu son assistant Copilot capable de continuer à travailler tout seul même quand on a fermé son ordinateur.",
-                "en": "Microsoft made its Copilot assistant able to keep working by itself even after you've closed your computer.",
-                "es": "Microsoft hizo que su asistente Copilot pudiera seguir trabajando solo incluso después de que cierres el ordenador."
-            },
-            "expert": {
-                "fr": "Autopilot déplace Copilot d'un rôle de simple assistant réactif vers celui d'agent qui poursuit des tâches en arrière-plan, à l'image d'efforts similaires chez Google et OpenAI. L'ajout d'un hébergement natif pour les applications générées par IA vise à retenir les utilisateurs dans l'écosystème Microsoft plutôt que de les laisser déployer ailleurs.",
-                "en": "Autopilot shifts Copilot from a reactive assistant into an agent that keeps pursuing tasks in the background, mirroring similar pushes at Google and OpenAI. Adding native hosting for AI-generated apps aims to keep users inside Microsoft's ecosystem rather than letting them deploy elsewhere.",
-                "es": "Autopilot convierte a Copilot de un asistente reactivo en un agente que sigue realizando tareas en segundo plano, siguiendo apuestas similares de Google y OpenAI. Añadir alojamiento nativo para aplicaciones generadas por IA busca retener a los usuarios dentro del ecosistema de Microsoft en vez de que las publiquen en otro lugar."
-            },
-            "day": "2026-09-25",
-            "actor": "Microsoft Copilot",
-            "actorSlug": "copilot",
-            "url": "https://venturebeat.com/technology/microsoft-revamps-its-copilot-ai-with-a-persistent-autopilot-agent-and-hosting-for-ai-generated-apps",
-            "source": "VentureBeat",
-            "sourceKind": "media"
-        },
-        {
-            "title": {
-                "fr": "Stanford et Nvidia dévoilent CLM-8B, un modèle open source qui accélère les agents IA jusqu'à 9 fois",
-                "en": "Stanford and Nvidia unveil CLM-8B, an open model that speeds up AI agents up to 9x",
-                "es": "Stanford y Nvidia presentan CLM-8B, un modelo abierto que acelera a los agentes de IA hasta 9 veces"
-            },
-            "summary": {
-                "fr": "Des chercheurs de Stanford et Nvidia publient CLM-8B, un modèle ouvert de 8 milliards de paramètres qui met en cache des actions d'agents réutilisables et accélère leur exécution jusqu'à 9 fois par rapport à des méthodes comparables.",
-                "en": "Researchers from Stanford and Nvidia released CLM-8B, an open 8-billion-parameter model that caches reusable agent actions and speeds up execution up to 9 times faster than comparable methods.",
-                "es": "Investigadores de Stanford y Nvidia publicaron CLM-8B, un modelo abierto de 8.000 millones de parámetros que almacena en caché acciones reutilizables de agentes y acelera su ejecución hasta 9 veces frente a métodos comparables."
-            },
-            "simple": {
-                "fr": "Des chercheurs ont inventé un petit programme malin qui aide les robots IA à se souvenir de ce qu'ils ont déjà fait, pour aller beaucoup plus vite la prochaine fois.",
-                "en": "Researchers built a clever little program that helps AI robots remember what they already did, so they can go much faster next time.",
-                "es": "Unos investigadores crearon un programita inteligente que ayuda a los robots de IA a recordar lo que ya hicieron, para ir mucho más rápido la próxima vez."
-            },
-            "expert": {
-                "fr": "Plutôt que de générer du texte à chaque étape, CLM-8B classe parmi des actions déjà connues, ce qui réduit fortement la latence des agents au prix de quelques compromis sur la flexibilité face à des tâches totalement inédites. Publié en open source, il pourrait devenir une brique standard pour accélérer des agents construits sur des modèles plus lourds.",
-                "en": "Instead of generating text at every step, CLM-8B classifies among already-known actions, which sharply cuts agent latency at the cost of some flexibility on completely novel tasks. Released as open source, it could become a standard building block for speeding up agents built on heavier models.",
-                "es": "En lugar de generar texto en cada paso, CLM-8B clasifica entre acciones ya conocidas, lo que reduce mucho la latencia del agente a cambio de algo de flexibilidad ante tareas totalmente nuevas. Publicado en código abierto, podría convertirse en una pieza estándar para acelerar agentes construidos sobre modelos más pesados."
-            },
-            "day": "2026-09-25",
-            "actor": {
-                "fr": "Recherche",
-                "en": "Research",
-                "es": "Investigación"
-            },
-            "actorSlug": "monde",
-            "url": "https://venturebeat.com/technology/stanford-and-nvidias-open-clm-8b-caches-reusable-agent-actions-and-runs-up-to-9x-faster-than-jev-in-tests",
-            "source": "VentureBeat",
-            "sourceKind": "media"
-        },
-        {
-            "title": {
-                "fr": "Claude aide à découvrir un nouveau système enzymatique proche de CRISPR",
-                "en": "Claude helps discover a new CRISPR-like enzyme system",
-                "es": "Claude ayuda a descubrir un nuevo sistema enzimático parecido a CRISPR"
-            },
-            "summary": {
-                "fr": "Anthropic annonce que son IA Claude a contribué à identifier un nouveau système enzymatique aux propriétés proches des séquences CRISPR, une piste pour l'édition génétique.",
-                "en": "Anthropic says its Claude AI helped identify a new enzyme system with properties similar to CRISPR repeats, a potential lead for gene editing.",
-                "es": "Anthropic afirma que su IA Claude ayudó a identificar un nuevo sistema enzimático con propiedades similares a las repeticiones CRISPR, una pista para la edición genética."
-            },
-            "simple": {
-                "fr": "Claude, l'IA d'Anthropic, a aidé des scientifiques à repérer un minuscule outil caché dans des bactéries qui pourrait un jour aider à réparer des gènes malades.",
-                "en": "Claude, Anthropic's AI, helped scientists spot a tiny tool hidden inside bacteria that could one day help fix broken genes.",
-                "es": "Claude, la IA de Anthropic, ayudó a científicos a encontrar una pequeña herramienta escondida en bacterias que algún día podría ayudar a reparar genes enfermos."
-            },
-            "expert": {
-                "fr": "La découverte s'appuie sur l'analyse par Claude de vastes bases de séquences génomiques pour repérer des motifs répétés associés à des enzymes de défense bactérienne. Si elle se confirme en laboratoire, elle pourrait élargir la boîte à outils d'édition du génome au-delà de Cas9, mais aucune application clinique n'est pour l'instant validée.",
-                "en": "The finding relies on Claude scanning huge genomic sequence databases to spot repeated patterns linked to bacterial defense enzymes. If confirmed in the lab, it could expand the genome-editing toolbox beyond Cas9, though no clinical application has been validated yet.",
-                "es": "El hallazgo se basa en que Claude analizó enormes bases de datos genómicas para detectar patrones repetidos asociados a enzimas de defensa bacteriana. Si se confirma en laboratorio, podría ampliar las herramientas de edición genética más allá de Cas9, aunque aún no hay ninguna aplicación clínica validada."
-            },
-            "day": "2026-09-23",
-            "actor": "Anthropic",
-            "actorSlug": "claude",
-            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-            "source": "Anthropic",
-            "sourceKind": "officiel"
-        },
-        {
-            "title": {
-                "fr": "Meta lance Charm, un compagnon IA portable façon Tamagotchi pour son appli Muse",
-                "en": "Meta launches Charm, a Tamagotchi-like wearable AI companion for its Muse app",
-                "es": "Meta lanza Charm, un compañero de IA portátil al estilo Tamagotchi para su app Muse"
-            },
-            "summary": {
-                "fr": "Meta déploie en accès anticipé Charm, un petit accessoire physique inspiré du Tamagotchi qui accompagne son application d'IA Muse au quotidien.",
-                "en": "Meta is rolling out Charm in early access, a small Tamagotchi-inspired physical accessory that pairs with its Muse AI app for everyday use.",
-                "es": "Meta está lanzando en acceso anticipado Charm, un pequeño accesorio físico inspirado en el Tamagotchi que acompaña a su aplicación de IA Muse en el día a día."
-            },
-            "simple": {
-                "fr": "Meta a créé un petit compagnon IA qu'on peut porter sur soi, comme un Tamagotchi, pour discuter avec lui partout où l'on va.",
-                "en": "Meta made a tiny AI companion you can wear, like a Tamagotchi, so you can chat with it wherever you go.",
-                "es": "Meta creó un pequeño compañero de IA que se puede llevar puesto, como un Tamagotchi, para hablar con él allá donde vayas."
-            },
-            "expert": {
-                "fr": "En couplant Muse à un objet physique dédié plutôt qu'à une simple application, Meta cherche à créer une présence continue de son IA dans le quotidien des utilisateurs, sur le modèle des jouets connectés. La stratégie s'inscrit dans la concurrence croissante des IA compagnons face à Character.AI et aux assistants embarqués dans des objets dédiés.",
-                "en": "By pairing Muse with a dedicated physical object rather than just an app, Meta is aiming for a constant presence of its AI in users' daily lives, following the model of connected toys. The move fits into growing competition among AI companions against Character.AI and assistants built into standalone devices.",
-                "es": "Al combinar Muse con un objeto físico dedicado en lugar de una simple aplicación, Meta busca crear una presencia constante de su IA en la vida diaria de los usuarios, siguiendo el modelo de los juguetes conectados. La apuesta se suma a la creciente competencia de las IA compañeras frente a Character.AI y los asistentes integrados en dispositivos propios."
-            },
-            "day": "2026-09-23",
-            "actor": "Meta",
-            "actorSlug": "meta-ai",
-            "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-            "source": "TechCrunch",
-            "sourceKind": "media"
-        },
-        {
-            "title": {
-                "fr": "Claude Opus 5.5 : Anthropic lance un modèle aussi puissant, moins cher",
-                "en": "Claude Opus 5.5: Anthropic launches a model just as powerful, far cheaper",
-                "es": "Claude Opus 5.5: Anthropic lanza un modelo igual de potente y mucho más barato"
-            },
-            "summary": {
-                "fr": "Anthropic a présenté Claude Opus 5.5, un nouveau modèle qui offre des performances comparables à Claude Fable 5.1 tout en réduisant les coûts d'exécution de 40 %.",
-                "en": "Anthropic unveiled Claude Opus 5.5, a new model that matches Claude Fable 5.1's performance while cutting running costs by 40%.",
-                "es": "Anthropic presentó Claude Opus 5.5, un nuevo modelo con un rendimiento comparable al de Claude Fable 5.1 pero con un coste de ejecución un 40% menor."
-            },
-            "simple": {
-                "fr": "Anthropic a créé une nouvelle version de son assistant Claude, aussi maligne que l'ancienne mais qui coûte bien moins cher à faire fonctionner.",
-                "en": "Anthropic built a new version of its Claude assistant that is just as clever as before, but much cheaper to run.",
-                "es": "Anthropic creó una nueva versión de su asistente Claude, igual de lista que antes pero mucho más barata de usar."
-            },
-            "expert": {
-                "fr": "Le gain d'efficacité vient d'optimisations d'inférence plutôt que d'une nouvelle architecture, Anthropic visant les usages agentiques à grande échelle où le coût par tâche devient déterminant. Reste à voir si les benchmarks tiendront face à la concurrence de Gemini et GPT-6 sur le rapport qualité-prix.",
-                "en": "The efficiency gain comes from inference optimizations rather than a new architecture, as Anthropic targets large-scale agentic workloads where cost per task matters most. It remains to be seen whether benchmarks hold up against Gemini and GPT-6 on price-to-performance.",
-                "es": "La mejora de eficiencia proviene de optimizaciones de inferencia y no de una nueva arquitectura, ya que Anthropic apunta a usos agénticos a gran escala donde el coste por tarea es decisivo. Queda por ver si los resultados resisten frente a Gemini y GPT-6 en relación calidad-precio."
-            },
-            "day": "2026-09-22",
-            "actor": "Anthropic",
-            "actorSlug": "claude",
-            "url": "https://www.anthropic.com/claude-opus-5-5",
-            "source": "Anthropic",
-            "sourceKind": "officiel"
-        },
-        {
-            "day": "2026-09-17",
-            "actor": "Anthropic",
-            "actorSlug": "claude",
-            "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-code-projects-an-always-on-conversation-that-remembers-and-delegates-your-long-running-dev-work",
-            "source": "VentureBeat",
-            "sourceKind": "media",
-            "title": {
-                "fr": "Anthropic lance Claude Code Projects, un assistant de développement toujours actif",
-                "en": "Anthropic launches Claude Code Projects, an always-on coding assistant",
-                "es": "Anthropic lanza Claude Code Projects, un asistente de programación siempre activo"
-            },
-            "summary": {
-                "fr": "Anthropic a dévoilé en version bêta Claude Code Projects, une fonctionnalité qui répartit automatiquement les demandes des développeurs en plusieurs tâches menées en parallèle, avec une mémoire partagée du projet. Le travail continue même ordinateur fermé et peut être suivi depuis un téléphone.",
-                "en": "Anthropic unveiled Claude Code Projects in beta, a feature that automatically splits developers' requests into several tasks run in parallel, with a shared memory of the project. Work keeps running even with the laptop closed and can be followed from a phone.",
-                "es": "Anthropic presentó en beta Claude Code Projects, una función que reparte automáticamente las peticiones de los desarrolladores en varias tareas ejecutadas en paralelo, con una memoria compartida del proyecto. El trabajo sigue avanzando incluso con el portátil cerrado y se puede seguir desde el móvil."
-            },
-            "simple": {
-                "fr": "C'est comme avoir un assistant robot qui continue de travailler sur tes devoirs de programmation même quand tu as fermé ton ordinateur et que tu es parti jouer dehors !",
-                "en": "It's like having a robot helper that keeps working on your coding homework even after you've closed your laptop and gone outside to play!",
-                "es": "¡Es como tener un ayudante robot que sigue trabajando en tus deberes de programación incluso después de que has cerrado el ordenador y has salido a jugar!"
-            },
-            "expert": {
-                "fr": "Disponible pour une partie des abonnés Pro et Max, l'outil agit comme un chef de projet : il décide seul si une nouvelle demande crée un fil de travail ou rejoint un fil existant, sans que le développeur structure ses instructions. Cette approche répond à un problème connu de l'orchestration d'agents, où coordination et mémoire persistante restent les principaux obstacles à l'automatisation de tâches longues.",
-                "en": "Available to a portion of Pro and Max subscribers, the tool acts like a project manager: it decides on its own whether a new request starts a fresh thread or joins an existing one, without the developer structuring instructions. The approach addresses a known bottleneck in agent orchestration, where coordination and persistent memory remain the main obstacles to automating long-running work.",
-                "es": "Disponible para una parte de los suscriptores Pro y Max, la herramienta actúa como un jefe de proyecto: decide por sí misma si una nueva petición abre un hilo o se suma a uno existente, sin que el desarrollador estructure sus instrucciones. El enfoque responde a un problema conocido en la orquestación de agentes, donde coordinación y memoria persistente siguen siendo el principal obstáculo para tareas largas."
-            }
-        },
-        {
-            "day": "2026-09-17",
-            "actor": "Anthropic",
-            "actorSlug": "claude",
-            "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-            "source": "Anthropic",
-            "sourceKind": "officiel",
-            "title": {
-                "fr": "Anthropic crée un programme de vérification pour encadrer l'IA dans les sciences du vivant",
-                "en": "Anthropic creates a verification program to govern AI use in life sciences",
-                "es": "Anthropic crea un programa de verificación para regular la IA en ciencias de la vida"
-            },
-            "summary": {
-                "fr": "Anthropic a lancé un programme de vérification destiné aux chercheurs et institutions en sciences du vivant qui utilisent ses modèles. Il vise à mettre en place des garde-fous et des protocoles reconnus pour un usage responsable de l'IA dans la recherche biologique et médicale.",
-                "en": "Anthropic launched a verification program for researchers and institutions in life sciences that use its models. It aims to put in place recognized safeguards and protocols for responsible AI use in biological and medical research.",
-                "es": "Anthropic lanzó un programa de verificación para investigadores e instituciones de ciencias de la vida que usan sus modelos. Su objetivo es establecer salvaguardas y protocolos reconocidos para un uso responsable de la IA en la investigación biológica y médica."
-            },
-            "simple": {
-                "fr": "C'est un peu comme donner un badge de confiance aux laboratoires qui utilisent l'IA pour soigner les gens, pour être sûr qu'ils l'utilisent bien et sans danger.",
-                "en": "It's a bit like giving a trust badge to labs that use AI to help cure people, to make sure they're using it well and safely.",
-                "es": "Es un poco como dar una insignia de confianza a los laboratorios que usan la IA para ayudar a curar a la gente, para asegurarse de que la usan bien y sin peligro."
-            },
-            "expert": {
-                "fr": "Ce programme s'inscrit dans la stratégie plus large d'Anthropic pour encadrer les usages sensibles de Claude, en particulier ceux touchant à la biologie, où un modèle mal utilisé pourrait faciliter la conception d'agents pathogènes. En formalisant des protocoles pour les institutions partenaires, l'entreprise cherche à rassurer régulateurs et laboratoires sur la traçabilité des usages autorisés.",
-                "en": "The program is part of Anthropic's broader strategy of governing sensitive uses of Claude, particularly those touching biology, where a misused model could help design harmful pathogens. By formalizing verification protocols for partner institutions, the company aims to reassure regulators and labs about the traceability of authorized uses.",
-                "es": "El programa forma parte de la estrategia más amplia de Anthropic para regular los usos sensibles de Claude, en particular los relacionados con la biología, donde un modelo mal utilizado podría facilitar el diseño de patógenos dañinos. Al formalizar protocolos de verificación para las instituciones asociadas, la empresa busca tranquilizar a reguladores y laboratorios sobre la trazabilidad de los usos autorizados."
-            }
-        },
-        {
-            "day": "2026-09-17",
-            "actor": "Anthropic",
-            "actorSlug": "claude",
-            "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-            "source": "Anthropic",
-            "sourceKind": "officiel",
-            "title": {
-                "fr": "Anthropic propose des indicateurs pour mesurer la vitesse réelle des progrès de l'IA",
-                "en": "Anthropic proposes metrics to measure the real pace of AI progress",
-                "es": "Anthropic propone indicadores para medir el ritmo real de los avances de la IA"
-            },
-            "summary": {
-                "fr": "Anthropic a publié une proposition de mesures destinées à donner au public une vision plus claire du rythme d'avancée des laboratoires d'IA de pointe. L'initiative répond au manque actuel de repères communs pour comparer objectivement les progrès annoncés par les différentes entreprises.",
-                "en": "Anthropic published a proposal for metrics meant to give the public a clearer view of how fast frontier AI labs are actually advancing. The initiative responds to the current lack of shared benchmarks for objectively comparing the progress different companies announce.",
-                "es": "Anthropic publicó una propuesta de indicadores pensados para dar al público una visión más clara del ritmo real de avance de los laboratorios de IA de vanguardia. La iniciativa responde a la falta actual de referencias comunes para comparar objetivamente los progresos que anuncian las distintas empresas."
-            },
-            "simple": {
-                "fr": "C'est comme inventer une règle pour mesurer à quelle vitesse les robots apprennent de nouvelles choses, pour que tout le monde utilise la même règle et ne se raconte pas d'histoires.",
-                "en": "It's like inventing a ruler to measure how fast robots are learning new things, so everyone uses the same ruler instead of making up their own story.",
-                "es": "Es como inventar una regla para medir a qué velocidad aprenden cosas nuevas los robots, para que todo el mundo use la misma regla y no se invente historias."
-            },
-            "expert": {
-                "fr": "En l'absence de standard partagé, les annonces de percées reposent souvent sur des benchmarks choisis par chaque laboratoire, ce qui rend les comparaisons peu fiables. La proposition d'Anthropic cherche à établir des repères communs et publics sur le rythme des capacités, un enjeu direct pour les régulateurs qui doivent calibrer leurs exigences sur des trajectoires de risque encore mal cartographiées.",
-                "en": "Without a shared standard, breakthrough claims often rely on benchmarks each lab picks itself, making comparisons unreliable. Anthropic's proposal seeks to establish common, public reference points on the pace of capability gains, a direct concern for regulators who need to calibrate requirements against risk trajectories that remain poorly mapped.",
-                "es": "Sin un estándar compartido, los anuncios de avances suelen apoyarse en benchmarks elegidos por cada laboratorio, lo que hace poco fiables las comparaciones. La propuesta de Anthropic busca establecer referencias comunes y públicas sobre el ritmo de las capacidades, una cuestión directa para los reguladores, que deben calibrar sus exigencias sobre trayectorias de riesgo todavía mal mapeadas."
-            }
         }
     ],
     "quiz": [
         {
             "q": {
-                "fr": "Qui a eu accès en premier au nouveau modèle Gemini 4 Carbon de Google ?",
-                "en": "Who got access to Google's new Gemini 4 Carbon model first?",
-                "es": "¿Quién tuvo acceso primero al nuevo modelo Gemini 4 Carbon de Google?"
+                "fr": "Pourquoi Anthropic a-t-il acheté d'énormes machines à électricité ?",
+                "en": "Why did Anthropic buy huge electricity machines?",
+                "es": "¿Por qué Anthropic compró enormes máquinas de electricidad?"
             },
             "choices": [
                 {
-                    "fr": "Tous les enfants dans les écoles",
-                    "en": "All children in schools",
-                    "es": "Todos los niños en las escuelas"
+                    "fr": "Pour vendre de l'électricité à ses voisins",
+                    "en": "To sell electricity to its neighbors",
+                    "es": "Para vender electricidad a sus vecinos"
                 },
                 {
-                    "fr": "Les équipes qui protègent les ordinateurs contre les pirates",
-                    "en": "The teams who protect computers from hackers",
-                    "es": "Los equipos que protegen las computadoras de los piratas informáticos"
+                    "fr": "Pour que ses ordinateurs ne manquent jamais d'électricité",
+                    "en": "So its computers never run out of power",
+                    "es": "Para que sus ordenadores nunca se queden sin electricidad"
                 },
                 {
-                    "fr": "N’importe qui, gratuitement, dès le premier jour",
-                    "en": "Anyone, for free, from day one",
-                    "es": "Cualquiera, gratis, desde el primer día"
+                    "fr": "Pour alimenter des voitures électriques Tesla",
+                    "en": "To power Tesla electric cars",
+                    "es": "Para alimentar coches eléctricos Tesla"
                 }
             ],
             "answer": 1,
             "why": {
-                "fr": "Dans la news du 28 octobre, Google a réservé l’accès à Gemini 4 Carbon aux cyberdéfenseurs avant de l’ouvrir plus largement.",
-                "en": "In the October 28 news, Google reserved access to Gemini 4 Carbon for cyber defenders before opening it more widely.",
-                "es": "En la noticia del 28 de octubre, Google reservó el acceso a Gemini 4 Carbon a los defensores de ciberseguridad antes de abrirlo más ampliamente."
+                "fr": "L'article explique qu'Anthropic a acheté ces générateurs pour alimenter ses futurs data centers, et non pour un autre usage.",
+                "en": "The article explains Anthropic bought these generators to power its future data centers, not for another use.",
+                "es": "El artículo explica que Anthropic compró estos generadores para alimentar sus futuros centros de datos, no para otro uso."
             }
         },
         {
             "q": {
-                "fr": "Qu’a fait Mistral AI avec son modèle Large 4, surnommé « Le Chonk » ?",
-                "en": "What did Mistral AI do with its Large 4 model, nicknamed 'Le Chonk'?",
-                "es": "¿Qué hizo Mistral AI con su modelo Large 4, apodado 'Le Chonk'?"
+                "fr": "Que permet de faire la nouvelle fonctionnalité Spaces de Meta ?",
+                "en": "What does Meta's new Spaces feature let you do?",
+                "es": "¿Qué permite hacer la nueva función Spaces de Meta?"
             },
             "choices": [
                 {
-                    "fr": "Elle l’a vendu très cher à une seule entreprise",
-                    "en": "Sold it for a huge price to a single company",
-                    "es": "Lo vendió muy caro a una sola empresa"
+                    "fr": "Décrire une idée dans le chat pour que Muse construise un espace de suivi ou de planification",
+                    "en": "Describe an idea in chat so Muse builds a tracker or planner",
+                    "es": "Describir una idea en el chat para que Muse cree un seguimiento o un planificador"
                 },
                 {
-                    "fr": "Elle a offert ses plans gratuitement à tout le monde (poids ouverts)",
-                    "en": "Gave away its blueprints for free to everyone (open weights)",
-                    "es": "Regaló sus planos gratis a todo el mundo (pesos abiertos)"
+                    "fr": "Discuter en vidéo avec Mark Zuckerberg en direct",
+                    "en": "Video chat live with Mark Zuckerberg",
+                    "es": "Chatear por vídeo en directo con Mark Zuckerberg"
                 },
                 {
-                    "fr": "Elle l’a gardé secret pour toujours",
-                    "en": "Kept it secret forever",
-                    "es": "Lo mantuvo en secreto para siempre"
+                    "fr": "Remplacer automatiquement les agents ChatGPT et Grok sur un même compte",
+                    "en": "Automatically replace ChatGPT and Grok agents on the same account",
+                    "es": "Sustituir automáticamente a los agentes ChatGPT y Grok en la misma cuenta"
                 }
             ],
-            "answer": 1,
+            "answer": 0,
             "why": {
-                "fr": "Dans la news du 29 octobre, Mistral a publié Le Chonk en open source, c’est-à-dire que ses plans sont accessibles gratuitement à tous.",
-                "en": "In the October 29 news, Mistral released Le Chonk as open source, meaning its blueprints are freely available to everyone.",
-                "es": "En la noticia del 29 de octubre, Mistral publicó Le Chonk en código abierto, es decir, sus planos están disponibles gratis para todos."
+                "fr": "La news précise que Spaces crée un espace de suivi, de planification ou de projet à partir d'une idée décrite dans le chat avec Muse.",
+                "en": "The story explains Spaces builds a tracker, planner or project board from an idea described in chat with Muse.",
+                "es": "La noticia precisa que Spaces crea un seguimiento, un planificador o un proyecto a partir de una idea descrita en el chat con Muse."
             }
         },
         {
             "q": {
-                "fr": "Pourquoi Elon Musk a-t-il réduit le nombre de questions qu’on peut poser à Grok chaque jour ?",
-                "en": "Why did Elon Musk cut how many questions people can ask Grok each day?",
-                "es": "¿Por qué Elon Musk redujo cuántas preguntas se pueden hacer a Grok cada día?"
+                "fr": "Combien coûte l'accès à GPT-6 Cyber d'OpenAI, par million de tokens en entrée ?",
+                "en": "How much does access to OpenAI's GPT-6 Cyber cost per million input tokens?",
+                "es": "¿Cuánto cuesta el acceso a GPT-6 Cyber de OpenAI por millón de tokens de entrada?"
             },
             "choices": [
                 {
-                    "fr": "Parce que Grok posait trop de questions bizarres",
-                    "en": "Because Grok was asking too many weird questions",
-                    "es": "Porque Grok hacía demasiadas preguntas raras"
+                    "fr": "10 dollars, comme Claude Mythos 5.1 d'Anthropic",
+                    "en": "$10, the same as Anthropic's Claude Mythos 5.1",
+                    "es": "10 dólares, lo mismo que Claude Mythos 5.1 de Anthropic"
                 },
                 {
-                    "fr": "Parce que faire fonctionner Grok coûte trop cher",
-                    "en": "Because running Grok costs too much money",
-                    "es": "Porque hacer funcionar a Grok cuesta demasiado dinero"
+                    "fr": "4 dollars, comme Gemini 4 Argon Cyber Permissive de Google",
+                    "en": "$4, the same as Google's Gemini 4 Argon Cyber Permissive",
+                    "es": "4 dólares, lo mismo que Gemini 4 Argon Cyber Permissive de Google"
                 },
                 {
-                    "fr": "Parce que personne n’utilisait plus Grok",
-                    "en": "Because nobody was using Grok anymore",
-                    "es": "Porque ya nadie usaba Grok"
+                    "fr": "20 dollars, plus cher que les modèles équivalents d'Anthropic et de Google",
+                    "en": "$20, pricier than Anthropic's and Google's equivalent models",
+                    "es": "20 dólares, más caro que los modelos equivalentes de Anthropic y Google"
                 }
             ],
-            "answer": 1,
+            "answer": 2,
             "why": {
-                "fr": "Dans la news du 2 novembre, Elon Musk a parlé de coûts de fonctionnement « insoutenables » pour justifier cette limitation.",
-                "en": "In the November 2 news, Elon Musk cited 'unsustainably high' running costs to justify the limit.",
-                "es": "En la noticia del 2 de noviembre, Elon Musk citó costes de funcionamiento 'insostenibles' para justificar el límite."
+                "fr": "L'article précise que GPT-6 Cyber coûte 20 dollars par million de tokens en entrée, contre 10 dollars pour Claude Mythos 5.1 et 4 dollars pour Gemini Argon Cyber Permissive.",
+                "en": "The article states GPT-6 Cyber costs $20 per million input tokens, versus $10 for Claude Mythos 5.1 and $4 for Gemini Argon Cyber Permissive.",
+                "es": "El artículo precisa que GPT-6 Cyber cuesta 20 dólares por millón de tokens de entrada, frente a 10 dólares de Claude Mythos 5.1 y 4 dólares de Gemini Argon Cyber Permissive."
             }
         }
     ]
